@@ -1,21 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue]LANÇAMENTOS</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/lan%C3%A7amentos.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR blue] [COLOR]NACIONAIS</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -30,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [COLOR]AÇÃO</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
+<fanart>https://ia601400.us.archive.org/23/items/fanart2_20200228/fanart%20%282%29.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -45,14 +30,15 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [COLOR]COMEDIA</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/kids.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
+<fanart>https://ia601506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</fanart>
 <info>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -60,14 +46,15 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [COLOR]CRIME</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/22/items/tv_20200228/tv.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
 <info>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - O MELHOR DA TV BRASILEIRA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -75,70 +62,15 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [COLOR]FICÇAO</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]ANIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/32/items/animes_20200228/animes.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
+<fanart>https://ia601405.us.archive.org/30/items/fanart_20200228_1907/fanart.jpg</fanart>
 <info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR blue] [COLOR]TERROR</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR blue] [COLOR]GUERRA</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<channels>
-<channel>
-<name>[COLOR blue] [COLOR]CLASSICOS</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<channels>
-<channel>
-<name>[COLOR blue] [COLOR]FAROSTE</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - O MELHOR DO ADDON- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
