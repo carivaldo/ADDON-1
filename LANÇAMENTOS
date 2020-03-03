@@ -1,26 +1,29 @@
 Digite uma ADDON BXL: 5
 <channels></channels>
 <channel>
-<name>O Massacre da Serra Elétrica - O Início</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/jCjfhuuaaCC1QBv0Soojs1I3FTs.jpg
-https://image.tmdb.org/t/p/w780/o4psXh7IVD6GFKvBSHjHLzjL2lV.jpg</thumbnail>
+<name></name>
+<thumbnail>https://
+https://</thumbnail>
 
 
 <item>
-<title>O Massacre da Serra Elétrica - O Início</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37DD4A948F3DA0F912607AAFE1CAABEA2AC6A4B&dn=O%20Massacre%20da%20Serra%20El%c3%a9trica%20-%20O%20In%c3%adcio%20%282006%29%20-%20Dublado%20720p.By-LuanHarper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<title></title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:https://www.themoviedb.org/movie/512200-jumanji-the-next-level</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://www.themoviedb.org/movie/512200-jumanji-the-next-levellink$$1sname=[COLOR blue]HD[/COLOR]-Jumanji: Próxima Fase
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUIlink$$1sname=[COLOR blue]HD[/COLOR] -LINK 2</link>
+<link>URL link$$1sname=[COLOR blue]HD[/COLOR] -LINK 3</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/jCjfhuuaaCC1QBv0Soojs1I3FTs.jpg
 https://image.tmdb.org/t/p/w780/o4psXh7IVD6GFKvBSHjHLzjL2lV.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/o4psXh7IVD6GFKvBSHjHLzjL2lV.jpg</fanart>
-<info>Thomas Lewitt (Andrew Bryniarski) nasceu em um parto complicado, no chão de um abatedouro no Texas. Ele é salvo por Luda Mae Hewitt (Marietta Marich) e passa a ser criado também pelo xerife Hoyt (R. Lee Ermey), Montgomery (Terrence Evans) e Henrietta. Thomas tem uma vida violenta, repleta de abusos físicos e emocionais, o que o faz se tornar o assassino Leatherface ao crescer. Quando dois jovens a passeio com suas namoradas se perdem, ele se tornam suas primeiras vítimas.</info>
+<fanart>https://image.tmdb.org/t/p/original/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg</fanart>
+<info>Tentado em revisitar o mundo de Jumanji, Spencer (Alex Wolff) decide consertar o jogo de videogame que permite que os jogadores sejam transportados ao local. Logo o quarteto formado por Smolder Bravestone (Dwayne Johnson), Moose Finbar (Kevin Hart), Shelly Oberon (Jack Black) e Ruby Roundhouse (Karen Gillan) ressurge, agora comandado por outras pessoas: os avôs de Spencer e Fridge (Danny DeVito e Danny Glover) assumem as personas de Bravestone e Finbar, enquanto o próprio Fridge (Ser'Darius Blain) agora está sob a pele de Oberon.</info>
 </item>
 
 
 <item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Jumanji: Próxima Fase</title>
+<trailer>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://www.themoviedb.org/movie/512200-jumanji-the-next-level</trailer>
+<thumbnail>https://image.tmdb.org/t/p/original/hreiLoPysWG79TsyQgMzFKaOTF5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg</fanart>
+<info>Tentado em revisitar o mundo de Jumanji, Spencer (Alex Wolff) decide consertar o jogo de videogame que permite que os jogadores sejam transportados ao local. Logo o quarteto formado por Smolder Bravestone (Dwayne Johnson), Moose Finbar (Kevin Hart), Shelly Oberon (Jack Black) e Ruby Roundhouse (Karen Gillan) ressurge, agora comandado por outras pessoas: os avôs de Spencer e Fridge (Danny DeVito e Danny Glover) assumem as personas de Bravestone e Finbar, enquanto o próprio Fridge (Ser'Darius Blain) agora está sob a pele de Oberon.</info>
 </item>
 </channel>
