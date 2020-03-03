@@ -1,12 +1,4 @@
-Digite uma ADDON BXL: 5
-<channels></channels>
-<channel>
-<name></name>
-<thumbnail>https://
-https://</thumbnail>
-
-
-<item>
+<item
 <title></title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:https://www.themoviedb.org/movie/512200-jumanji-the-next-level</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://www.themoviedb.org/movie/512200-jumanji-the-next-levellink$$1sname=[COLOR blue]HD[/COLOR]-Jumanji: Próxima Fase
