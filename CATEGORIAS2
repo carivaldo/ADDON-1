@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered][/COLOR] [COLOR blue]FILMES[/COLOR] [COLOR orangered][/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo] [/COLOR][COLOR deeppink] [/COLOR] [COLOR orangered] [/COLOR] [COLOR blue]FILMES[/COLOR] [COLOR orangered] [/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered] [/COLOR blue]SÉRIES[/COLOR] [COLOR orangered][/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo] [/COLOR][COLOR deeppink] [/COLOR] [COLOR blue] [/COLOR]SÉRIES[/COLOR] [COLOR orangered] [/COLOR][COLOR deeppink] [/COLOR][COLOR indigo] [/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/23/items/fanart2_20200228/fanart%20%282%29.jpg</fanart>
