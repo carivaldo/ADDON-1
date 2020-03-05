@@ -7,7 +7,7 @@
 <info>
 
 
-[COLOR orangered]OS MELHORES LANÇAMENTOS[/COLOR]</info>
+[COLOR orangered]-OS MELHORES LANÇAMENTOS-[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered[/COLOR]SÉRIES[/COLOR]</name>
+<name>[COLOR orangered]SÉRIES[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/23/items/fanart2_20200228/fanart%20%282%29.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR orangered] - AS MELHORES SÉRIES - [/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[/COLOR orangered]KIDS[/COLOR]</name>
+<name>[COLOR orangered]KIDS[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/kids.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801400.us.archive.org/23/items/fanart2_20200228/fanart%20%283%29.jpg</fanart>
@@ -38,7 +38,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS  - [COLOR deeppink]|[/COLOR]</info>
+[COLOR orangered] - OS MELHORES DESENHOS - [/COLOR]</info>
 </channel>
 </channels>
 
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[/COLOR orangered]CANAIS ABERTOS[/COLOR]</name>
+<name>[COLOR orangered]CANAIS ABERTOS[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/22/items/tv_20200228/tv.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801400.us.archive.org/23/items/fanart2_20200228/fanart%20%284%29.jpg</fanart>
@@ -54,7 +54,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - O MELHOR DA TV BRASILEIRA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR orangered] - O MELHOR DA TV BRASILEIRA - [/COLOR]</info>
 </channel>
 </channels>
 
@@ -62,7 +62,7 @@
 
 <channels>
 <channel>
-<name>[/COLOR orangered]ANIMES[/COLOR]</name>
+<name>[COLOR orangered]ANIMES[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/32/items/animes_20200228/animes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601405.us.archive.org/30/items/fanart_20200228_1907/fanart.jpg</fanart>
@@ -70,7 +70,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - O MELHOR DO ADDON- [COLOR deeppink]|[/COLOR]</info>
+[COLOR orangered] - O MELHOR DO ADDON - [/COLOR]</info>
 </channel>
 </channels>
 
