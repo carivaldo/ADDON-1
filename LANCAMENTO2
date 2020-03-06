@@ -1,22 +1,9 @@
 <item>
-<title>VENON - [B] [COLOR blue]*NEW [/COLOR][/B][B]NOME - [COLOR orange][2019][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
-<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CjzeGRSVDPFtfhDmuDfea2TptSnAQXEo/view$$1sname=[COLOR blue]HD[/COLOR] -Venom.2018.1080p.BluRay.6CH.x264.DUAL</link></link>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
-<info>Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
+<title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]</title>
+<link>$doregex[TW_TUTORIAIS1]CPTMRVL.mp4$doregex[TW_TUTORIAIS2]</link><regex><name>TW_TUTORIAIS4</name><expres>$pyFunction:base64.b32decode("$doregex[TW_TUTORIAIS3]")</expres><page></page></regex><regex><name>TW_TUTORIAIS3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>TW_TUTORIAIS2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>TW_TUTORIAIS1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[TW_TUTORIAIS4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
+<link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LHM23_xUUvcP7uCj5Mqd9AwpBS3yQ44/view$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
+<thumbnail>https://archive.org/download/vinga2/VINGA2.jpg</thumbnail>
+<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
 </item>
-
-by CARIVALDO ARAUJO
-[COLOR deeppink]|[/COLOR]LANÇAMENTO 2020 - [COLOR deeppink]|[/COLOR]</info>
-<item>
-
-MODELO UNIVERSAL DE APENAS UM LINK
-
-<item>
-<title>OS VINGADORES REDECANAIS[B] [COLOR blue]*NEW [/COLOR][/B][B]NOME - [COLOR orange][2019][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
-<link>https://www1192.o0-3.com/token=9ecxrjHaPzqd8-8XzUF8MA/1583333373/83.134.0.0/67/7/54/c70f2cd6d7b0641efdad9846fcea2547-1080p.mp4$$1sname=[COLOR blue]HD[/COLOR] - LINK 1</link>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cpsh9KJPk1r9k9twwcARu4mnTKR.jpg</fanart>
-<info>Loki retorna à Terra enviado pelos chitauri, uma raça alienígena que pretende dominar os humanos. Com a promessa de que será o soberano do planeta, ele rouba o cubo cósmico dentro de instalações da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig e Clint Barton/Gavião Arqueiro, que passam a trabalhar para ele. No intuito de contê-los, Nick Fury convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Homem de Ferro, Capitão América, Thor, Hulk e Viúva Negra. Só que, apesar do grande perigo que a Terra corre, não é tão simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.</info>
