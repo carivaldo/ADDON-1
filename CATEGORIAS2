@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR blue]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]FILMES[/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered[SÉRIES[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/23/items/fanart2_20200228/fanart%20%282%29.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]KIDS[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/kids.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]CANAIS ABERTOS[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/22/items/tv_20200228/tv.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -62,7 +62,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]ANIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]ANIMES[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/32/items/animes_20200228/animes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601405.us.archive.org/30/items/fanart_20200228_1907/fanart.jpg</fanart>
