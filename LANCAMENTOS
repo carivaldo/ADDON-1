@@ -52,7 +52,7 @@
 
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]Projeto Gemini - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link>https://www766.o0-2.com/token=NgBNMHz1qTcM_PDJUqVfPw/1583940135/83.134.0.0/107/f/e2/c22b15593491212586affc44dc0b8e2f-720p.mp4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15FWLA6yL2_LG09uPQPO5aThz8s1b9v71/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg</fanart>
 <info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
@@ -268,32 +268,64 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR lime][/COLOR][/B][B]13º Distrito - [COLOR yellow](2004)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wzJPBekdmN7361HKvlceg1Lu4BdUcXOG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4D5GG79FBiAlD6UoKbq93rsAPIJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fX5n06X5zy5CzQcRYi2p0i37Fw7.jpg</fanart>
+<info>Subúrbio de Paris, 2013. ninguém consegue controlar o 13º Distrito. A polícia tenta aprender como fazer isto. Dois jovens heróis, nascidos quando aquilo se tornou uma terra de ninguém e lutando contra um governo repressor, têm 24 horas para entrar e salvar o que se tornou um local violento e fora de controle</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Batman Begins - [COLOR yellow](2005)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12osQ0YF8pcdSuIMPVK0mLRxOuljQHR4m/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/65JWXDCAfwHhJKnDwRnEgVB411X.jpg</fanart>
+<info>Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Batman: O Cavaleiro das Trevas - [COLOR yellow](2008)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13chYz7rNRdLx8G_9wnsRY86vHr0Po7Kr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCF3RtQFhA7qMizMgOlcaPc5vC9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gxOAE2cjz1LPfIZAUBmkyEUwZeJ.jpg</fanart>
+<info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]O Exterminador do Futuro: A Salvação - [COLOR yellow] (2009)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14bqQW-tsDO4dShjk27TRpRwkMkpTvGa1/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/60WXDHfCuE1ziLKco5iGKOIkoxY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wUdsw5jvnsGRsuA9e4MMSP3TD2B.jpg</fanart>
+<info>John Connor (Christian Bale) é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Um dia surge Marcus Wright (Sam Worthington), cuja última memória que possui é de estar no corredor da morte. Connor precisa descobrir se Wright foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Deadpool- [COLOR yellow](2016)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yQTz2rAKf5fCRBrTYWceOEUwtRl0dmiv/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+<info>Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Capitão América: O Primeiro Vingador - [COLOR yellow](2011)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c70OVpa_1bBtzsPHzmA-z6mBVu34Nz7T/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no supersoldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha - o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Capitão América: Guerra Civil - [COLOR yellow](2016)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ofduqIKYWinCL-Wo_UX3sBx5W5_R97qV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
+<info>Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro.</info>
 </item>
 
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
