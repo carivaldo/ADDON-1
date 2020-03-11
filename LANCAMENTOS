@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]</title>
+<title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
 <link>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL4</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
 <link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LHM23_xUUvcP7uCj5Mqd9AwpBS3yQ44/view$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]22.Milhas.2018- [COLOR yellow](2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]<title>
+<title>[B][COLOR lime][/COLOR][/B][B]22.Milhas.2018- [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IHsPu9EgToH26MqkdwLn55Z8JaWclrpK/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcHq8q0cW49YlACLhwtknMtBv23.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/A2rIVEV2jOzb4smx8hby1u9UwAm.jpg</fanart>
@@ -43,7 +43,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Vingador do Futuro (2012)- [COLOR yellow](2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]</title>
+<title>[B][COLOR lime][/COLOR][/B][B]Vingador do Futuro (2012)- [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C5HU1t8EthP9iy_ad8uyAcPCnbEL1Prd/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx4Lw3XY47zdWrkSANx5kmlf4Ol.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fJgIxfjYi1tFEEE3u1SLOxuhKFf.jpg</fanart>
@@ -68,7 +68,7 @@
 
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Invasão ao Serviço Secreto- [COLOR yellow](2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]<title>
+<title>[B][COLOR lime][/COLOR][/B][B]Invasão ao Serviço Secreto- [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
 <link>blob:https://mega.nz/0b93c47d-97d2-4a38-9320-50b2e5499279</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7uCHvw3j0G5ns5X2rWuU1BXRmoJ.jpg</fanart>
