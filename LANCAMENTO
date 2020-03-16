@@ -24,24 +24,6 @@
 <info>Spenser, um ex-policial e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada a morte de dois oficiais de Boston.</info>
 </item>
 
-<item>
-<title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL4</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
-<link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LHM23_xUUvcP7uCj5Mqd9AwpBS3yQ44/view$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
-<thumbnail>https://archive.org/download/vinga2/VINGA2.jpg</thumbnail>
-<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
-</item>
-
-<item>
-<title>[B][COLOR lime][/COLOR][/B][B]Troco em Dobro - [COLOR yellow](2020)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nv5j5R-lQ3x6wWNb9Ns3j30x3VnTDUw4/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d41HWbZnf7A4EI89p0dxjp7w3lP.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg</fanart>
-<info>Spenser, um ex-policial e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada a morte de dois oficiais de Boston.</info>
-</item>
-
 <item><title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
 <link>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL4</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
 <link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
@@ -78,7 +60,7 @@
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]Esquadrão 6- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
 <link>https://s3.ancap.top/hls/filmes/Esquadrao6/dub/video.json/index-v1-a1.m3u8</link>
-<thumbnail>https://image.tmdb.org/t/p/original/tgR2ZgSodg53U4QaDfbwCv9qOV8.jpg<thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/eFw5YSorHidsajLTayo1noueIxI.jpg</fanart>
 <info>Após forjar a própria morte, um bilionário monta uma equipe de profissionais internacionais para a ousada e sanguinária missão de derrubar um ditador cruel.</info>
 </item>
