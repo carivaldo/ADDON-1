@@ -466,11 +466,51 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link></link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR lime][/COLOR][/B][B]anjos de lei 2 - [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nwANRESyrrjpyAb8OiesUPkWj-rjf38T/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vGB4AFqcC6m1N95FhfCgF2zIhrn.jpg</fanart>
+<info>No ensino médio, Schmidt era um idiota e Jenko era o atleta popular. Após a formatura, os dois se juntaram à força policial e acabaram como parceiros andando de bicicleta no parque da cidade. Por serem jovens e parecerem alunos do ensino médio, eles são designados para uma unidade secreta para se infiltrar em um grupo de drogas que está fornecendo drogas sintéticas aos alunos do ensino médio.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]operacaofronteira - [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/operacaofronteira-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg</fanart>
+<info>Lutando para sobreviver, ex-soldados das operações especiais se reúnem para um assalto de alto risco: roubando US $ 75 milhões de um traficante sul-americano.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]mega tubarão - [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/themegnew-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2uSCHUsmzb6KkQPFSxBQ7bgfJLE.jpg</fanart>
+<info>Um piloto submersível do fundo do mar revisita seus medos passados ​​na Fossa das Marianas e acidentalmente desencadeia o ancestral de setenta pés do Grande Tubarão Branco que se acredita estar extinto.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]tempestade em furia - [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/tempestadefuria-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6jrMdMe4sMygTcJPpQTjKPmP4l0.jpg</fanart>
+<info>Após uma série sem precedentes de desastres naturais ameaçar o planeta, os líderes mundiais se uniram para criar uma intrincada rede de satélites para controlar o clima global e manter todos em segurança. Mas agora, algo deu errado: o sistema criado para proteger a Terra está atacando-o, e torna-se uma corrida contra o relógio para descobrir a ameaça real antes que uma tempestade global acabe com tudo e com todos.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]oblivion - [COLOR yellow](2013)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/oblivion-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmOzkHlkGvi8x24fYpFSnXvjklv.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6hVzc5a6cYiiTM06AbK2aVgCdUa.jpg</fanart>
+<info>Jack Harper é um dos últimos reparadores de drones estacionados na Terra. Parte de uma operação massiva para extrair recursos vitais após décadas de guerra com uma ameaça aterrorizante conhecida como Scavs, a missão de Jack está quase completa. Sua existência é derrubada quando ele resgata um belo estranho de uma nave espacial derrubada. Sua chegada desencadeia uma cadeia de eventos que o obriga a questionar tudo o que sabe e coloca o destino da humanidade em suas mãos.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Eu Robô - [COLOR yellow](2004)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://s2.ancap.top/hls/filmes/EuRobo/dub/video.json/index-v1-a1.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mkFzf168xJrV6Leqq0bjqOlJCK.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iNeKWgcTqUJhBToaosUXgca2nSY.jpg</fanart>
+<info>Em 2035, onde os robôs são comuns e cumprem as três leis da robótica, um policial tecnofóbico investiga um aparente suicídio. Suspeitando que um robô possa ser responsável pela morte, sua investigação o leva a acreditar que a humanidade pode estar em perigo.</info>
 </item>
 
 <item>
@@ -512,6 +552,32 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
 
 
 
