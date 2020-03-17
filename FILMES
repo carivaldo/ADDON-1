@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue]LANCAMENTOS[/COLOR]</name>
+<name>[COLOR red]LANCAMENTOS[/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LANCAMENTO</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]NACIONAIS[/COLOR]</name>
+<name>[COLOR red]NACIONAIS[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]AÇÃO[/COLOR]</name>
+<name>[COLOR red]AÇÃO[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]COMEDIA[/COLOR]</name>
+<name>[COLOR red]COMEDIA[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]FICÇÃO[/COLOR]</name>
+<name>[COLOR red]FICÇÃO[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -75,7 +75,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]POLICIAL[/COLOR]</name>
+<name>[COLOR red]POLICIAL[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -90,7 +90,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]GUERRA[/COLOR]</name>
+<name>[COLOR red]GUERRA[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
@@ -105,7 +105,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]FAROESTE[/COLOR]</name>
+<name>[COLOR red]FAROESTE[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/32/items/fanart_20200228/fanart.jpg</fanart>
