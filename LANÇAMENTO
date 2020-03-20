@@ -26,9 +26,9 @@
 
 <item><title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
 <link>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL4</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
-<link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LHM23_xUUvcP7uCj5Mqd9AwpBS3yQ44/view$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
-<thumbnail>https://archive.org/download/vinga2/VINGA2.jpg</thumbnail>
+<link>https://wozws09969qthkl.belugacdn.link/movies/capitamarvel-dub-720p.mp4$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
 <fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
 </item>
@@ -514,11 +514,59 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link></link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR lime][/COLOR][/B][B]Covil de ladrões - [COLOR yellow](2018)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/covildeladroes-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfybH6GbGFw1F9bcETe2yu25mIE.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
+<info>Uma saga criminosa que segue a vida de uma unidade de elite do Departamento do Xerife do Condado de LA e a mais bem-sucedida equipe de assalto a banco do estado, enquanto os bandidos planejam um assalto aparentemente impossível ao Federal Reserve Bank.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]A Torre Negra - [COLOR yellow](2017)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/atorrenegra-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9GUSgddIqrroubiLsvvMRYyRy0.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg</fanart>
+<info>O último Gunslinger, Roland Deschain, travou uma eterna batalha com Walter O'Dim, também conhecido como o Homem de Preto, determinado a impedi-lo de derrubar a Torre Negra, que mantém o universo unido. Com o destino dos mundos em jogo, o bem e o mal colidirão na batalha final, pois apenas Roland pode defender a Torre do Homem de Preto.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Rei Arthur: Lenda da Espada - [COLOR yellow](2017)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://wozws09969qthkl.belugacdn.link/movies/reiarthur-dub-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvSWdJN7peehxJYOugV9IwqiAFi.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg</fanart>
+<info>Quando o filho do pai de Arthur é assassinado, Vortigern, tio de Arthur, conquista a coroa. Roubado de sua primogenitura e sem ter idéia de quem ele realmente é, Arthur segue o caminho mais difícil nos becos da cidade. Mas uma vez que ele puxa a espada Excalibur da pedra, sua vida é virada de cabeça para baixo e ele é forçado a reconhecer seu verdadeiro legado ... se ele gosta ou não.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]Homem Formiga - [COLOR yellow](2015)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://s2.ancap.top/hls/filmes/HomemFormiga/dub/video.json/index-v1-a1.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6zTqO9vnNqt399aGE8KKQJFgqKX.jpg</fanart>
+<info>Armado com a surpreendente capacidade de diminuir em escala, mas aumentar em força, o ladrão mestre Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Doutor Hank Pym, a proteger o segredo por trás de seu espetacular traje Homem-Formiga de uma nova geração de ameaças imponentes. . Contra obstáculos aparentemente intransponíveis, Pym e Lang devem planejar e realizar um assalto que salvará o mundo.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]QUEIMA DE ARQUIVO- [COLOR yellow](1996)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://s2.ancap.top/hls/filmes/QueimaDeArquivo/dub/video.json/index-v1-a1.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmOG5k07nrnS8T49NVPM1LnrOf1.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gxl0eDEu2IJkubxu6UL0UN7ieYb.jpg</fanart>
+<info>O Marshall dos EUA John Kruger apaga a identidade das pessoas inscritas no Programa de Proteção a Testemunhas. Sua tarefa atual é proteger Lee Cullen, que descobriu evidências de que o fabricante de armas para o qual trabalha está vendendo para grupos terroristas. Quando Kruger descobre que há um agente corrupto dentro do programa, ele deve proteger sua própria vida enquanto tenta proteger a de Lee.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B] PAUL O ALIEN- [COLOR yellow](2011)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://sunflower.nxload.com/hls/2mhFmhHAKeXvvTeY7R3NNN-9JoyqPJeynz2BZ4C83U6A3lOh05rvEgZPUQTu2EQFD6yPCfYbQnRSI7xGB6hDl0k4hfD4lDSWjcLFXOw1/index-v1-a1.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/297N75COL0NsJJY5k5U8VTJ1DCe.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rEJGg8PH1cvvJIZWUWpEcS2X8kU.jpg</fanart>
+<info>Nos últimos 60 anos, um espertinho de viagens espaciais chamado Paul foi preso em uma base militar ultrassecreta, aconselhando líderes mundiais sobre sua espécie. Mas quando ele se preocupa, ele perdeu sua utilidade e a mesa de dissecação está se aproximando desconfortavelmente, Paul escapa no primeiro trailer que passa por seu complexo na Área 51. Felizmente, ele contém os dois terráqueos com maior probabilidade de resgatar e abrigar um alienígena. a corrida.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]SUPERBAD E HOJE - [COLOR yellow](2007)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://s2.ancap.top/hls/filmes/SuperbadEHoje/dub/video.json/index-v1-a1.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RZWtDkf0mgrxvJNFj43YW2Ugi8.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6hph2CMOB30XN3oKpgs4vqiaRcv.jpg</fanart>
+<info>Dois idosos co-dependentes do ensino médio são forçados a lidar com a ansiedade de separação depois que seu plano de organizar uma festa encharcada de bebida dá errado.</info>
 </item>
 
 <item>
@@ -577,8 +625,29 @@
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
