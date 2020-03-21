@@ -626,6 +626,14 @@
 </item>
 
 <item>
+<title>[B][COLOR lime][/COLOR][/B][Bcoringa ]- [COLOR yellow] (2019)[/COLOR] - [COLOR lime](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dyYptCh2vvMorleG3XKk7iHfcZ5OYsk3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
+<info>Durante a década de 1980, um comediante de stand-up fracassado é levado à loucura e se transforma em uma vida de crime e caos em Gotham City enquanto se torna uma figura infame do crime psicopata.</info>
+</item>
+
+<item>
 <title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
 <link></link>
 <thumbnail><thumbnail>
@@ -633,13 +641,26 @@
 <info></info>
 </item>
 
-
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link></link>
 <thumbnail><thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link></link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
