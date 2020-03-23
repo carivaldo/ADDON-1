@@ -25,9 +25,7 @@
 </item>
 
 <item><title>[B][COLOR lime][/COLOR][/B][B]Capitã Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
-<link>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL4</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL2</name><expres>(.*?).rcd</expres><page>https://bit.ly/twtmovrc</page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL4]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
-<link>https://wozws09969qthkl.belugacdn.link/movies/capitamarvel-dub-720p.mp4$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLADO</link>
+<link>https://jhbnq95330sexko.belugacdn.link/movies/capitamarvel-dub-480p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
 <fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
@@ -51,7 +49,7 @@
 
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]Projeto Gemini - [COLOR yellow](2019)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link>https://wozws09969qthkl.belugacdn.link/movies/projetogemini-dub-720p.mp4</link>
+<link>https://jhbnq95330sexko.belugacdn.link/movies/projetogemini-dub-480p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg</fanart>
 <info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
@@ -76,7 +74,7 @@
 
 <item>
 <title>[B][COLOR lime][/COLOR][/B][B]O Exterminador do Futuro: Destino Sombrio- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link>https://wozws09969qthkl.belugacdn.link/movies/oexterminadordofuturodestinosombrio-dub-720p.mp4</link>
+<link>https://jhbnq95330sexko.belugacdn.link/movies/oexterminadordofuturodestinosombrio-dub-480p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gvy2QCMuXBI3naKx4D5zTKStPNx.jpg</fanart>
 <info>Mais de duas décadas após os eventos de "O Julgamento Final", Sarah Connor (Linda Hamilton) precisa proteger uma jovem chamada Dani Ramos (Natalia Reyes) e seus amigos de um Exterminador (Gabriel Luna) enviado do futuro para aniquilá-las.</info>
@@ -690,11 +688,11 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
-<link></link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR lime][/COLOR][/B][B]Fique Rico ou Morra Tentando'   - [COLOR yellow](2005)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>https://jhbnq95330sexko.belugacdn.link/movies/fiquericooumorratentando-dub-480p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKeSnhQfdwrycHorc9OPQ5KxVxJ.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/90rM3lEYz6S05XLV687IiArgAhx.jpg</fanart>
+<info>Um conto de um traficante de drogas da cidade que se afasta do crime para perseguir sua paixão, o rap.</info>
 </item>
 
 <item>
