@@ -857,6 +857,12 @@
 <info></info>
 </item>
 
-
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]- [COLOR yellow][/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
