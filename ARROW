@@ -193,9 +193,14 @@
 </item>
 
 </item>
+<title>[B] [COLOR blue][/COLOR][/B]ARROW- [COLOR orange]EP1[/COLOR] - [COLOR orange][HD][/COLOR] - DUBLADO]</title>
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E01" tvg-logo="http://server.cinenaweb.us:8080/images/mo0FP1GxOFZT4UDde7RFDz5APXF_small.jpg" group-title="JR - Arrow",Arrow S01 E01
 <link>http://server.cinenaweb.us:8080/series/seriesvision/372923/6412.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0<link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
+<info>Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.</info>
 </item>
+
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E02" tvg-logo="http://server.cinenaweb.us:8080/images/mo0FP1GxOFZT4UDde7RFDz5APXF_small.jpg" group-title="JR - Arrow",Arrow S01 E02
 <link>http://server.cinenaweb.us:8080/series/seriesvision/372923/6400.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0<link>
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E03" tvg-logo="http://server.cinenaweb.us:8080/images/mo0FP1GxOFZT4UDde7RFDz5APXF_small.jpg" group-title="JR - Arrow",Arrow S01 E03
