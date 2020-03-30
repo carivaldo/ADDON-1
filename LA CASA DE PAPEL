@@ -1,3 +1,19 @@
+<item>
+<title>[B] [COLOR blue][/COLOR][/B]LA CASA DE PAPEL- [COLOR blue]1ª temporada[/COLOR] - [COLOR orange][HD][/COLOR] - DUBLADO]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
+<info>Para realizar o maior assalto da história, um homem misterioso chamado The Professor recruta um bando de oito ladrões que têm uma única característica: nenhum deles tem nada a perder. Cinco meses de reclusão - memorizando cada passo, cada detalhe, cada probabilidade - culminam em onze dias trancados na Fábrica Nacional de Moedas e Selos da Espanha, cercada por forças policiais e com dezenas de reféns em seu poder, para descobrir se seu suicídio A aposta levará a tudo ou a nada.</info>
+</item>
+
+<item>
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxndzrog" group-title="La Casa de Papel",La Casa de Papel T01E01
+<title>[B][COLOR lime][/COLOR][/B][B]La Casa de Papel",La Casa de Papel T01E01 - [COLOR yellow]()[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q2u8itLD3AktGdvpF5PwMEydmiABLJSb/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/MoEKaPFHABtA1xKoOteirGaHl1.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mxFvdWtK26oR7jR8suZKro6GT9U.jpg</fanart>
+<info>Para realizar o maior assalto da história, um homem misterioso chamado The Professor recruta um bando de oito ladrões que têm uma única característica: nenhum deles tem nada a perder. Cinco meses de reclusão - memorizando cada passo, cada detalhe, cada probabilidade - culminam em onze dias trancados na Fábrica Nacional de Moedas e Selos da Espanha, cercada por forças policiais e com dezenas de reféns em seu poder, para descobrir se seu suicídio A aposta levará a tudo ou a nada.</info>
+</item>
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yxndzrog" group-title="La Casa de Papel",La Casa de Papel T01E01
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q2u8itLD3AktGdvpF5PwMEydmiABLJSb/view<link>
