@@ -25,7 +25,7 @@
 [COLOR deeppink]|[/COLOR] -AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
-
+https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-series
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -47,7 +47,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name>
+<name>[COLOR blue]THE 100[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE100</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sIWQkAHMsOfObyGxlgllj8SzMFb.jpg</fanart>
@@ -58,5 +58,22 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+channels>
+<channel>
+<name>[COLOR blue]SERIES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-series</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
