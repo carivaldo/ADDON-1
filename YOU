@@ -5,11 +5,11 @@
 
 
 <item>
-<title>[B] [COLOR blue]*NEW [/COLOR][/B][B]NOME - [COLOR orange][2019][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bD88lKPVgaORqv_4YOdI_0DG7Enf-ykj/view$$1sname=[COLOR blue]HD[/COLOR] - LINK 1</link>
+<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E01][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bD88lKPVgaORqv_4YOdI_0DG7Enf-ykj/view</link>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
 <info></info>
 </item>
 
