@@ -3,6 +3,25 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bD88lKPVgaORqv_4YOdI_0DG7Enf-ykj/view</link>
 </item>
 
+
+<item>
+<title>[B] [COLOR blue]*NEW [/COLOR][/B][B]NOME - [COLOR orange][2019][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bD88lKPVgaORqv_4YOdI_0DG7Enf-ykj/view$$1sname=[COLOR blue]HD[/COLOR] - LINK 1</link>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>#EXTINF:-1 tvg-logo="https://tinyurl.com/yyonsx67" group-title="YOU",You T01E02</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-B-xdNMy7Cg9awO6u2i0VxrhZHq5qpo3/view</link>
