@@ -54,7 +54,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-[COLOR deeppink]|[/COLOR] - O MELHOR DA TV BRASILEIRA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - O MELHOR DO ADDON - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -82,8 +82,8 @@ https://raw.githubusercontent.com/carivaldo/ADDON-1/master/REDE%20CANAIS%20%20FI
 <channels>
 <channel>
 <name>[COLOR red]REDE CANAIS [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
+<thumbnail>https://ia601409.us.archive.org/22/items/tv_20200228/tv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/REDE%20CANAIS%20%20FILMES%20E%20SERIES</externallink>
 <fanart>https://ia601405.us.archive.org/30/items/fanart_20200228_1907/fanart.jpg</fanart>
 <info>
 
