@@ -1,15 +1,3 @@
-<channels>      
-</channels><channel>  
-<name>[B][COLOR yellow]•   Arrow [COLOR lime] ( 8 Temporadas + Trailer ) [COLOR red] ADDON BXL [/COLOR][/B]</name>
-1   <thumbnail>https://image.tmdb.org/t/p/original/740MYj8CXHWZHPIOOuiMljGqYFV.jpg</thumbnail>
-6   "<genre>[B][COLOR firebrick]bxl CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-6   <fanart>https://image.tmdb.org/t/p/original/iViBrd6Cn1L7zw5Awn34wF6VTXk.jpg</fanart>
-6   <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<externallink>https://pastebin.com/raw/n20rCgyb</externallink>
-</item>
-
 
 ****************************************************************************************************************************
 <channels>
@@ -21,7 +9,7 @@
 <item>
 <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow][/COLOR][/B]</link>
 1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM  AGRADECE !!! [/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Ws9X6I5CvcE&t=28s$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
@@ -36,10 +24,10 @@
 <item>	
 1	<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Piloto[COLOR lime] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow][/COLOR][/B]</link>
 1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM  AGRADECE !!! [/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Ws9X6I5CvcE&t=28s$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/15_lr0zbX21G--54Hasg4TN_2mKcuIWgY/view?usp=sharing$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick]O  [ 1 ] AQUI !!![COLOR yellow][/COLOR][/B]</link></link>
+1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/15_lr0zbX21G--54Hasg4TN_2mKcuIWgY/view?usp=sharing$texto=[B][COLOR yellow][COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick]O  [ 1 ] AQUI !!![COLOR yellow][/COLOR][/B]</link></link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
@@ -254,14 +242,14 @@
 <item>
 <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
-1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow][/COLOR][/B]</link>
+1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow][/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=uInZO2TdIV0$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick]MrP CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
 1	<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (MrPikachu)[/COLOR][/B]</info>	
+[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
 </item>   
 ***************************************************************************************************************************
 <item>    
@@ -280,7 +268,7 @@
 2    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 2    <fanart>https://image.tmdb.org/t/p/original/hD76ZDNjCAbGrKzAYJAHVCJ2ba7.jpg</fanart>
 2    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Após descobrir que remédios destinados ao hospital estão sendo roubados, Oliver trava um duelo com Tigre de Bronze e China White. (MrPikachu)[/COLOR][/B]</info>    
+[COLOR white]Após descobrir que remédios destinados ao hospital estão sendo roubados, Oliver trava um duelo com Tigre de Bronze e China White.[/COLOR][/B]</info>    
 </item>    
 <item>    
 3    "<title>[B][COLOR white]• [COLOR lime]3 [COLOR white]- [COLOR yellow]  Bonecas Despedaçadas[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -477,7 +465,7 @@
 <name>[B][COLOR white]• [COLOR yellow] ARROW [COLOR white] - [COLOR lime][3ªTEMPORADA][/COLOR][/B]</name>
 "<genre>[B][COLOR firebrick]MrPikachu,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (MrPikachu)[/COLOR][/B]</info>
+[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
 <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow][/COLOR][/B]</link>
@@ -525,7 +513,7 @@
 4    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 4    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 4    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 5    "<title>[B][COLOR white]• [COLOR lime]5 [COLOR white]- [COLOR yellow]  A Origem Secreta de Felicity Smoak[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -534,7 +522,7 @@
 5    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 5    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 5    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 6    "<title>[B][COLOR white]• [COLOR lime]6 [COLOR white]- [COLOR yellow]  Culpado[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -543,7 +531,7 @@
 6    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 6    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 6    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 7    "<title>[B][COLOR white]• [COLOR lime]7 [COLOR white]- [COLOR yellow]  Prepare Seu Arco[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -552,7 +540,7 @@
 7    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 7    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 7    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 8    "<title>[B][COLOR white]• [COLOR lime]8 [COLOR white]- [COLOR yellow]  Os Ousados e os Corajosos[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -561,7 +549,7 @@
 8    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 8    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 8    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 9    "<title>[B][COLOR white]• [COLOR lime]9 [COLOR white]- [COLOR yellow]  A Escalada[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -570,7 +558,7 @@
 9    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 9    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 9    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 10    "<title>[B][COLOR white]• [COLOR lime]10 [COLOR white]- [COLOR yellow]  Deixado Para Trás[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -579,7 +567,7 @@
 10    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 10    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 10    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 11    "<title>[B][COLOR white]• [COLOR lime]11 [COLOR white]- [COLOR yellow]   Cidade da Meia-Noite[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -588,7 +576,7 @@
 11    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 11    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 11    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 12    "<title>[B][COLOR white]• [COLOR lime]12 [COLOR white]- [COLOR yellow]   Revolta[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -597,7 +585,7 @@
 12    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 12    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 12    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 13    "<title>[B][COLOR white]• [COLOR lime]13 [COLOR white]- [COLOR yellow]  O Regresso[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -606,7 +594,7 @@
 13    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 13    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 13    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 14    "<title>[B][COLOR white]• [COLOR lime]14 [COLOR white]- [COLOR yellow]   Canários[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -615,7 +603,7 @@
 14    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 14    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 14    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 15    "<title>[B][COLOR white]• [COLOR lime]15 [COLOR white]- [COLOR yellow]   O Regresso[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -624,7 +612,7 @@
 15    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 15    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 15    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 16    "<title>[B][COLOR white]• [COLOR lime]16 [COLOR white]- [COLOR yellow]   Nanda Parbat[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -633,7 +621,7 @@
 16    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 16    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 16    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 17    "<title>[B][COLOR white]• [COLOR lime]17 [COLOR white]- [COLOR yellow]   A Oferta[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -642,7 +630,7 @@
 17    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 17    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 17    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 18    "<title>[B][COLOR white]• [COLOR lime]18 [COLOR white]- [COLOR yellow]    Inimigo Público[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -651,7 +639,7 @@
 18    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 18    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 18    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 19    "<title>[B][COLOR white]• [COLOR lime]19 [COLOR white]- [COLOR yellow]   Dois Arqueiros[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -660,7 +648,7 @@
 19    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 19    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 19    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 20    "<title>[B][COLOR white]• [COLOR lime]20 [COLOR white]- [COLOR yellow]   Perdas[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -669,7 +657,7 @@
 20    "<genre>[B][COLOR firebrick], CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 20    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 20    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 21    "<title>[B][COLOR white]• [COLOR lime]21 [COLOR white]- [COLOR yellow]   Al Sah-him[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -678,7 +666,7 @@
 21    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 21    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 21    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 22    "<title>[B][COLOR white]• [COLOR lime]22 [COLOR white]- [COLOR yellow]   Esta é a Sua Arma[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -687,7 +675,7 @@
 22    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 22    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 22    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 <item>    
 23    "<title>[B][COLOR white]• [COLOR lime]23 [COLOR white]- [COLOR yellow]  Meu Nome é Oliver Queen[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -696,7 +684,7 @@
 23    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 23    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 23    <info>[B][COLOR yellow] SINOPSE:
-[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white] (MrPikachu)[/COLOR][/B]</info>
+[COLOR white] (MrPikachu)[/COLOR][/B]</info>    [COLOR white][/COLOR][/B]</info>
 </item>    
 ******************************************************************************************************
 <channels>
@@ -704,15 +692,15 @@
 <name>[B][COLOR white]• [COLOR yellow] ARROW [COLOR white] - [COLOR lime][4ªTEMPORADA][/COLOR][/B]</name>
 "<genre>[B][COLOR firebrick]MrPikachu,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (MrPikachu)[/COLOR][/B]</info>
+[COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
 <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow][/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow][/COLOR][/B]</link>
-1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM  AGRADECE !!! [/COLOR][/B]</link>
+1	<link>$texto=[B][COLOR yellow][COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow][/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=UsWVS8WM3-E$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick]MrPikachu, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
+1	"<genre>[B][COLOR firebrick]CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
 1	<info>[B][COLOR yellow] SINOPSE:
 [COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
@@ -773,7 +761,7 @@
 [COLOR white]Ao descobrir que a explosão encolheu Ray, a equipe inicia uma missão para salvá-lo de Damien Darhk e fazê-lo voltar ao tamanho normal. [/COLOR][/B]</info>    [COLOR white]Ao descobrir que a explosão encolheu Ray, a equipe inicia uma missão para salvá-lo de Damien Darhk e fazê-lo voltar ao tamanho normal.[/COLOR][/B]</info>
 </item>    
 <item>    
-7    "<title>[B][COLOR white]• [COLOR lime]7 [COLOR white]- [COLOR yellow]   Fraternidade[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
+7    "<title>[B][COLOR white]• [COLOR lime]7 [COLOR white]- [COLOR yellow]Fraternidade[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
 7    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1jbpR0hfbSiLwdPO9_bA7-KV2ccN4wywy/view?usp=sharing</link>
 7    <thumbnail>https://image.tmdb.org/t/p/original/3yvo3F6zYf0KQaYeKTvBUfb4mr1.jpg</thumbnail>
 7    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
@@ -782,7 +770,7 @@
 [COLOR white]Thea descobre uma arriscada possibilidade de cura para sua sede de sangue. A equipe pede ajuda a Ray quando fica sabendo que Andy está vivo e trabalhando para Darhk. [/COLOR][/B]</info>    [COLOR white]Thea descobre uma arriscada possibilidade de cura para sua sede de sangue. A equipe pede ajuda a Ray quando fica sabendo que Andy está vivo e trabalhando para Darhk.[/COLOR][/B]</info>
 </item>    
 <item>    
-8    "<title>[B][COLOR white]• [COLOR lime]8 [COLOR white]- [COLOR yellow]   Lendas de Ontem[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
+8    "<title>[B][COLOR white]• [COLOR lime]8 [COLOR white]- [COLOR yellow]Lendas de Ontem[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
 8    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1DUMQGuOjgkJ4w1agvc6YwVxAkeAw4Hz0/view?usp=sharing</link>
 8    <thumbnail>https://image.tmdb.org/t/p/original/3yvo3F6zYf0KQaYeKTvBUfb4mr1.jpg</thumbnail>
 8    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
@@ -791,7 +779,7 @@
 [COLOR white]Oliver e Barry encontram uma solução engenhosa e fazem uma viagem no tempo para proteger Carter Hall e Kendra Saunders do assassino imortal Vandal Savage. [/COLOR][/B]</info>    [COLOR white]Oliver e Barry encontram uma solução engenhosa e fazem uma viagem no tempo para proteger Carter Hall e Kendra Saunders do assassino imortal Vandal Savage.[/COLOR][/B]</info>
 </item>    
 <item>    
-9    "<title>[B][COLOR white]• [COLOR lime]9 [COLOR white]- [COLOR yellow]   Fundo do Poço[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
+9    "<title>[B][COLOR white]• [COLOR lime]9 [COLOR white]- [COLOR yellow] Fundo do Poço[COLOR lime]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
 9    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1GOUYbxf4uYOo2H8KfqaaDzDTP0cqyQ2X/view?usp=sharing</link>
 9    <thumbnail>https://image.tmdb.org/t/p/original/3yvo3F6zYf0KQaYeKTvBUfb4mr1.jpg</thumbnail>
 9    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
@@ -1166,7 +1154,7 @@
 1	<link>$texto=[B][COLOR yellow][COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow][/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=bPx1R2BheS8$texto=[B][COLOR yellow] [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick]MrPikachu, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
+1	"<genre>[B][COLOR firebrick]CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
 1	<info>[B][COLOR yellow] SINOPSE:
 [COLOR white]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>	
@@ -1389,7 +1377,7 @@
 <item>
 <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow][/COLOR][/B]</link>
 1	<link>$texto=[B][COLOR yellow]   [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM AGRADECE !!! [/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=v0AiP78bZ44$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
