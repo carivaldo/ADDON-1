@@ -1,74 +1,219 @@
 
 
 
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E01][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</trailer>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bD88lKPVgaORqv_4YOdI_0DG7Enf-ykj/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<channels>
+</channels><channel>
+<name>[B][COLOR white]• [COLOR yellow] YOU (2020) [COLOR white] - [COLOR lime][1ªTEMPORADA][/COLOR][/B]</name>
+"<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Um primeiro encontro fortuito toma um rumo assustador quando o gerente de livraria Joe se apaixona pela universitária Beck. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   
+<item> 
+1   <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Piloto[COLOR lime] ADDON BXL - [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow]  ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=prEl9IHo1aQ$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1j4fLEHJtzbHPubpa7tqDVhrcDDtjVBCC/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 01 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>   
+1   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+1   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+1   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+1   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Um primeiro encontro fortuito toma um rumo assustador quando o gerente de livraria Joe se apaixona pela universitária Beck. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   
+<item> 
+<item> 
+2   <title>[B][COLOR white]• [COLOR lime]2 [COLOR white]- [COLOR yellow] O último cara legal em Nova York[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1M-TRTcMNGCoRZKpLIPlEsTkZ8kk_YTpm/view?usp=sharing</link>
+2   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+2   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+2   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+2   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Beck enfrenta as cantadas indesejadas de seu orientador e leva Joe a um evento sofisticado de Peach. Joe tenta lidar com Benji. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E02][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-B-xdNMy7Cg9awO6u2i0VxrhZHq5qpo3/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+3   <title>[B][COLOR white]• [COLOR lime]3 [COLOR white]- [COLOR yellow] Talvez[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ofvIIyYGmAwJmWksJ94TG_sAuidReEx8/view?usp=sharing</link>
+3   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+3   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+3   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+3   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Os encontros casuais de Beck e um problema com a polícia incomodam Joe. As duas situações o fazem perceber que precisa resolver um assunto importante. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E03][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YJvG1AV9iFck7or4QNT3p2RLtaTJJN-1/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+4   <title>[B][COLOR white]• [COLOR lime]4 [COLOR white]- [COLOR yellow] O Capitão[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1H8XlEjciQ5uMxGdDFEuPwn5TeOy52_dH/view?usp=sharing</link>
+4   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+4   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+4   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+4   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Após uma tarde constrangedora com Beck, Joe descobre que não é o único a guardar segredos. A antipatia de Peach por Joe fica evidente. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  [COLOR white]Após uma tarde constrangedora com Beck, Joe descobre que não é o único a guardar segredos. A antipatia de Peach por Joe fica evidente. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E04][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LK6Uc3oBiC_HKidbCuXGP9j-QizpUqc-/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+5   <title>[B][COLOR white]• [COLOR lime]5 [COLOR white]- [COLOR yellow] Vivendo com o inimigo[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=prEl9IHo1aQ$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/180FEJnfbzP3JX.euJqS6aZOWufd32SD/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 05 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>   
+5   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+5   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+5   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+5   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Um vídeo sobre o passado de Annika volta a assombrá-la. A tensão entre Joe e Peach atinge o auge quando ela apresenta Beck a um agente literário importante. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>    [COLOR white]Um vídeo sobre o passado de Annika volta a assombrá-la. A tensão entre Joe e Peach atinge o auge quando ela apresenta Beck a um agente literário importante. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E05][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zjTlkvEDy9mJJ9VwRLKyMmKD_BdskMJg/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+6   <title>[B][COLOR white]• [COLOR lime]6 [COLOR white]- [COLOR yellow] Amour louco[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ESLoj9j0VfdljdPonn-anmjzoNMEECPB/view?usp=sharing</link>
+6   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+6   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+6   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+6   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Beck vai a Connecticut com Peach, que esconde segundas intenções. Joe vai atrás dela, o que desperta velhas lembranças – e abre novas feridas. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>    [COLOR white]Beck vai a Connecticut com Peach, que esconde segundas intenções. Joe vai atrás dela, o que desperta velhas lembranças – e abre novas feridas. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+<item> 
+7   <title>[B][COLOR white]• [COLOR lime]7 [COLOR white]- [COLOR yellow] Um relacionamento especial[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bGD-Mm5QCgPEtROE3Vv83SnluHVgoEaj/view?usp=sharing</link>
+7   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+7   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+7   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+7   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Beck começa a fazer terapia. E Joe faz o mesmo – por motivos diferentes. Os planos de Joe para o aniversário de Beck não saem como o previsto. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info> [COLOR white]Beck começa a fazer terapia. E Joe faz o mesmo – por motivos diferentes. Os planos de Joe para o aniversário de Beck não saem como o previsto. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E06][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yND2EAfxAZDyc0gAVPxvtzlQb05fRq8b/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+8   <title>[B][COLOR white]• [COLOR lime]8 [COLOR white]- [COLOR yellow] Eu sou seu, meu bem![COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1rO_r5i6vRP7TND6ZCJeDh4SgZX7ph_nK/view?usp=sharing</link>
+8   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+8   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+8   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+8   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Três meses depois da separação, Joe e Beck vão muito bem. Mas uma série de encontros pode causar problemas no relacionamento atual de Joe. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info> [COLOR white]Três meses depois da separação, Joe e Beck vão muito bem. Mas uma série de encontros pode causar problemas no relacionamento atual de Joe. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+<item> 
+9   <title>[B][COLOR white]• [COLOR lime]9 [COLOR white]- [COLOR yellow] Candace[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1x1wl6tBdYZCpfxGitnbF65ADW9Y4OB-b/view?usp=sharing</link>
+9   <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+9   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+9   <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+9   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]O que realmente aconteceu com Candace? Beck está determinada a descobrir – mas, para isso, ela precisa comportar-se como Joe. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>    [COLOR white]O que realmente aconteceu com Candace? Beck está determinada a descobrir – mas, para isso, ela precisa comportar-se como Joe. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E07][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o8Y6JtLNqoiJljTfnsWddf-GH-nEPRi2/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+10  <title>[B][COLOR white]• [COLOR lime]10 [COLOR white]- [COLOR yellow] O castelo do Barba Azul[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=prEl9IHo1aQ$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1UfzsJY1tP04o1Cnd7lSG-WfVcpS1IMNv/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 10 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>    <thumbnail>https://image.tmdb.org/t/p/original/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+10  "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick]MISTÉRIO CRIME DRAMA [/COLOR][/B]</genre>"
+10  <fanart>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart>
+10  <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe tem problemas com Paco e Beck – e agora também precisa lidar com um detetive particular. Mas o desfecho se aproxima, de uma forma ou de outra. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   [COLOR white]Joe tem problemas com Paco e Beck – e agora também precisa lidar com um detetive particular. Mas o desfecho se aproxima, de uma forma ou de outra. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR white]• [COLOR yellow] YOU (2020) [COLOR white] - [COLOR lime][2ªTEMPORADA][/COLOR][/B]</name>
+"<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Um primeiro encontro fortuito toma um rumo assustador quando o gerente de livraria Joe se apaixona pela universitária Beck. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+1   <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Recomeço[COLOR lime] ADDON BXL - [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=OnZAUm4iLPg$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ae0gzWRL7EzksjY3Rc0ZT654_twImP1x/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 01 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+1   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+1   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+1   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Usando o nome Will, Joe enfrenta seu inferno pessoal em Los Angeles. Ele quer levar uma vida normal, mas o passado nem sempre pode ser esquecido. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  
+<item> 
+<item> 
+2   <title>[B][COLOR white]• [COLOR lime]2 [COLOR white]- [COLOR yellow] Só a ponta[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1gt5745kz0hnchNQxDEwguc2KRFXHgOWq/view?usp=sharing</link>
+2   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+2   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+2   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+2   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe percebe que Will Bettelheim não é o que ele esperava. As consequências de suas ações podem atrapalhar sua conexão cada vez mais forte com Love. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E08][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eXHtp3hBHd1BNQb7DkRYAiuDMGFAyXWa/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+3   <title>[B][COLOR white]• [COLOR lime]3 [COLOR white]- [COLOR yellow] Para que servem os amigos?[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1unLEkES4471iBRz-BjeYCtiDq9KujRmw/view?usp=sharing</link>
+3   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+3   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+3   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+3   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe tenta manter uma relação platônica com Love e evita se meter na vida de Ellie. Mas seus instintos logo o fazem mudar de comportamento. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  
 </item>
-
-<item>
-<title>[B] [COLOR blue][/COLOR][/B][B]"YOU" - [COLOR orange][T01E09][/COLOR] - [COLOR orange][FULLHD][/COLOR] - AUDIO ORIGINAL]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QiVCJwWNYPV0sRKsaQNWDsdg5T1WdFiz/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
-<info>Quando um brilhante gerente de livraria cruza o caminho de um aspirante a escritor, ele usa a internet e as mídias sociais para reunir os detalhes mais íntimos e se aproximar dela. Uma paixão encantadora e desajeitada rapidamente se torna obsessão, quando ele remove silenciosamente e estrategicamente todos os obstáculos - e pessoas - em seu caminho.</info>
+<item> 
+4   <title>[B][COLOR white]• [COLOR lime]4 [COLOR white]- [COLOR yellow] O bom, o mau e o Hendy[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1G2GuUlPWx2LD1oL410reFPnrAdw6xQux/view?usp=sharing</link>
+4   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+4   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+4   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+4   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Enquanto tenta se acostumar a dividir Love com o irmão, Joe é pego de surpresa em um encontro inusitado. Seu desejo de proteger Ellie o faz tomar medidas extremas. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   [COLOR white]Enquanto tenta se acostumar a dividir Love com o irmão, Joe é pego de surpresa em um encontro inusitado. Seu desejo de proteger Ellie o faz tomar medidas extremas. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
 </item>
+<item> 
+5   <title>[B][COLOR white]• [COLOR lime]5 [COLOR white]- [COLOR yellow] Bom final de semana de bem-estar, Joe![COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=OnZAUm4iLPg$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ZZGDF-zWBndDer2LF7lKYwNW9pKmJses/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 05 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+5   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+5   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+5   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+5   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Love leva Joe para um fim de semana de relaxamento junto com a família dela. Mas uma convidada especial de Forty pode acabar com sua tranquilidade. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>    [COLOR white]Love leva Joe para um fim de semana de relaxamento junto com a família dela. Mas uma convidada especial de Forty pode acabar com sua tranquilidade. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+</item>
+<item> 
+6   <title>[B][COLOR white]• [COLOR lime]6 [COLOR white]- [COLOR yellow] Adeus, gatinha[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1JYvxIgsq1uUkQwKkyfW8OXVztDMgy2C3/view?usp=sharing</link>
+6   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+6   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+6   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+6   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe vigia de perto um possível problema e suspeita que pode estar sendo seguido. Lembranças dolorosas do passado deixam Love em alerta com o presente. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>    [COLOR white]Joe vigia de perto um possível problema e suspeita que pode estar sendo seguido. Lembranças dolorosas do passado deixam Love em alerta com o presente. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+<item> 
+7   <title>[B][COLOR white]• [COLOR lime]7 [COLOR white]- [COLOR yellow] Crise ex-istencial[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_zZ3pbSDCy-OqrAA2jbFgmxnhHF1Ap0m/view?usp=sharing</link>
+7   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+7   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+7   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+7   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Para acalmar seu coração, Joe faz uso de remédios antigos, tecnologia moderna e a companhia de Delilah. Mas um pequeno deslize pode ter consequências devastadoras. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info> [COLOR white]Para acalmar seu coração, Joe faz uso de remédios antigos, tecnologia moderna e a companhia de Delilah. Mas um pequeno deslize pode ter consequências devastadoras. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+</item>
+<item> 
+8   <title>[B][COLOR white]• [COLOR lime]8 [COLOR white]- [COLOR yellow] Medo e delírio em Beverly Hills[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1AIYWozTHfH3jr7or7N7iQWSURNYutOPq/view?usp=sharing</link>
+8   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+8   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+8   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+8   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe quer fugir, mas Forty insiste em terminar o roteiro. Com a pressão cada vez maior, o comportamento excessivo de Forty torna a noite angustiante. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   [COLOR white]Joe quer fugir, mas Forty insiste em terminar o roteiro. Com a pressão cada vez maior, o comportamento excessivo de Forty torna a noite angustiante. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item> 
+<item> 
+9   <title>[B][COLOR white]• [COLOR lime]9 [COLOR white]- [COLOR yellow] Joe detetive[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1lgDRbNmsDixs9h4NZhfJUyXyt3tjho_t/view?usp=sharing</link>
+9   <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+9   "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick] CRIME DRAMA[/COLOR][/B]</genre>"
+9   <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+9   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Com Love cuidando de Ellie, que está cada vez mais nervosa, Joe tenta reconstruir os eventos de uma noite alucinante, mas não consegue encontrar a verdade. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   [COLOR white]Com Love cuidando de Ellie, que está cada vez mais nervosa, Joe tenta reconstruir os eventos de uma noite alucinante, mas não consegue encontrar a verdade. (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+</item>
+<item> 
+10  <title>[B][COLOR white]• [COLOR lime]10 [COLOR white]- [COLOR yellow] Simplesmente Love[COLOR lime] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] ADDON BXL  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=OnZAUm4iLPg$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1xNYOzDI64j_R4lBMJSHuWrgMiFQDPuvY/view?usp=sharing$texto=[B][COLOR yellow] ADDON BXL [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 10 ] AQUI !!![COLOR yellow] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+10  <thumbnail>https://image.tmdb.org/t/p/original/8orHQV75a3ZU3iipOw7ttpTkjVL.jpg</thumbnail>
+10  "<genre>[B][COLOR firebrick](..ADDON BXL).[COLOR white][COLOR yellow][ http://bit.ly/doarADDON BXL ]!!!   [COLOR firebrick]MISTÉRIO CRIME DRAMA [/COLOR][/B]</genre>"
+10  <fanart>https://image.tmdb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg</fanart>
+10  <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Joe sempre foi cheio de surpresas, mas Love também tem as suas. Será que esse é o começo do fim, ou apenas o fim de uma farsa? (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>  [COLOR white]Joe sempre foi cheio de surpresas, mas Love também tem as suas. Será que esse é o começo do fim, ou apenas o fim de uma farsa? (.ADDON BXL)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>
+<item>
