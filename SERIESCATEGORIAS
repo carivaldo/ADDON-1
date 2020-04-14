@@ -427,19 +427,16 @@ channels>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]13 Reasons[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nel144y4dIOdFFid6twN5mAX9Yd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/13%20REASONS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3I3qqwRuNguPjZIA5Ud6zSv7nlE.jpg</fanart>
+<info>Após o suicídio perplexo de uma adolescente, uma colega de classe recebe uma série de fitas que desvendam o mistério de sua trágica escolha<info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
