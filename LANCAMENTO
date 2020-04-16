@@ -39,7 +39,7 @@
 <item> 
 1   <title>[B][COLOR white]• [COLOR red]* [COLOR white]- [COLOR blue] MIB: Homens de Preto - Internacional (2019)[COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=7rJF4cOo3_4$texto=[B][COLOR blue] ADDON BXL [COLOR white]->-> [COLOR red]TRAILER [COLOR white] -> [COLOR firebrick] [ HD ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bISkov4_5-d1OwtDTMVPw6weaXVC4yEg/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR white]->-> [COLOR red]FILME [COLOR white] -> [COLOR firebrick] [ HD ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bISkov4_5-d1OwtDTMVPw6weaXVC4yEg/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
 1   "<genre></genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/enNSnMYj78ihLmiWrB4K6ymv9ux.jpg</fanart>
@@ -898,49 +898,35 @@
 
 *************************************************************************************************************************
 <item> 
-1   <title>[B][COLOR white]• [COLOR blue]* [COLOR white]- [COLOR red] Zoombies 2 (2019)[COLOR blue][COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR red][COLOR white]->-> [COLOR blue]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR red][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR red][COLOR white]->-> [COLOR blue]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR red][/COLOR][/B]</link>
-1   <link>$texto=[B][COLOR red][COLOR white]->-> [COLOR blue]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR red][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=F8SXZuPhDXw&t=7s$texto=[B][COLOR red]  [COLOR white]->-> [COLOR blue]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR red][/COLOR][/B]</link> <-<-<-
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1v0vGUzZPL9T2n7q16yg4-iXJqVdbbI-0/view?usp=sharing$texto=[B][COLOR red][COLOR blue]FILME [COLOR white]->-> ZOOMBIES 2[COLOR blue] AQUI [COLOR firebrick][/COLOR][/B]</link>
+1   <title>[COLOR blue] Zoombies 2 [COLOR red](2019)[/COLOR] [COLOR blue](HD)[/COLOR][/B]</title>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1v0vGUzZPL9T2n7q16yg4-iXJqVdbbI-0/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w1280/vqzLGo3uhqAcmhGjOdH6awteaoe.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](Mr).Comédia,Ação,Aventura,*http://bit.ly/doar*!!![/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/77jVbW3yyqK1tJsjNhpJpCbpIuV.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:
 [COLOR white]Um guarda florestal prendendo caçadores acaba salvando suas vidas quando animais zumbis os atacam na selva. Agora cercado, o guarda florestal e os caçadores forçam uma aliança desconfortável para deter os animais antes que o vírus super-zumbi se espalhe pelo mundo inteiro[/COLOR][/B]</info>  
 </item>
  
 <item> 
-1   <title>[B][COLOR white]• [COLOR blue]* [COLOR white]- [COLOR red] Zombi Child (2019)[COLOR blue][COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR red]  [COLOR white]->-> [COLOR blue]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR red][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR red]  [COLOR white]->-> [COLOR blue]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR red] FACA SUA DOACAO !!! [/COLOR][/B]</link>
-1   <link>$texto=[B][COLOR red]   [COLOR white]->-> [COLOR blue]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR red][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yDBHURrwf14$texto=[B][COLOR red]  [COLOR white]->-> [COLOR blue]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR red][/COLOR][/B]</link> <-<-<-
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1KSQvgfuvu-kvoxZis-yW11pIFLXGFBPp/view?usp=sharing$texto=[B][COLOR red] FILME [COLOR white]->-> [COLOR blue] AQUI [COLOR firebrick][/COLOR][/B]</link>
+1   <title>[COLOR blue] Zombi Child [COLOR red](2019)[/COLOR] [COLOR blue](HD)[/COLOR][/B]</title>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1KSQvgfuvu-kvoxZis-yW11pIFLXGFBPp/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/iOGd9M2bxx6yxpvfZ6p9pYD13W.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick]().FANTASIA TERROR FICÇÃO CIENTÍFICA[/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/5HQPWaHU5Hxb0pubPSo7JCdimRz.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:
 [COLOR white]Clairvius Narcisse é um jovem haitiano que tem seu destino mudado para sempre quando ele é vítima de um feitiço de vudu que o transforma em um zumbi. Passando pelo Haiti de 1962 e a Paris atual, as histórias de Narcisse, uma menina haitiana de 15 anos e uma sacerdotisa de vudu que é sua tia,[/COLOR][/B]</info>   
 <item> 
  
 <item> 
-1   <title>[B][COLOR white]• [COLOR blue]* [COLOR white]- [COLOR red] Zumbilândia: Atire Duas Vezes (2019)[COLOR blue]FULLHD[COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=BpQr80bjuAE$texto=[B][COLOR red] TRAILER [ HD ][COLOR white]->-> [COLOR blue] AQUI [COLOR firebrick] !!![/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=32s$texto=[B][COLOR red] COMO USAR [COLOR white]->-> [COLOR blue] [COLOR firebrick]  !!![/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=32s$texto=[B][COLOR red] COMO DOAR [COLOR white]->-> [COLOR blue][COLOR firebrick]  !!![/COLOR][/B]</link>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1FqBB02fIes9gOh9lzC47gEytOuINF_rZ/view?usp=sharing$texto=[B][COLOR red] FILME [ HD ][COLOR white]->-> [COLOR blue] AQUI [COLOR firebrick] NO   !!![/COLOR][/B]</link>
+1   <title>[COLOR blue] Zumbilândia: Atire Duas Vezes [COLOR red](2019)[/COLOR] [COLOR blue](FULLHD)[/COLOR][/B]</title>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1FqBB02fIes9gOh9lzC47gEytOuINF_rZ/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/3ghImmHdp4RnC3UkL6hpLayclnb.jpg</fanart>
 1   <info> white]Dez anos após Zombieland virar um filme de sucesso e um clássico cult, o elenco principal (Woody Harrelson, Jesse Eisenberg, Abigail Breslin e Emma Stone) se reuniu com o diretor Ruben Fleischer (Venom) e os roteiristas Rhett Reese e Paul Wernick (Deadpool) para Zombieland 2. Na sequência, escrita por Rhett Reese & Paul Wernick e Dave Callaham, através do caos cômico que se estende da Casa Branca até a zona central, esses quatro assassinos devem enfrentar diversos novos tipos de zumbis que evoluíram desde o primeiro filme, bem como alguns novos sobreviventes humanos. Mas, acima de tudo, eles precisam enfrentar os crescentes problemas de sua própria família irreverente e improvisada.  (Mr)...Faca sua Doacao...[COLOR red][ http://bit.ly/doar ] !!![/COLOR][/B]</info>"
 <item> 
  
 <item>    
-36    <title>[B][COLOR white]• [COLOR blue]* [COLOR white]- [COLOR red] Z:IP.MAN  LEGACY [1080p-FULL][/B][/COLOR]</title>
+36    <title>[COLOR blue] Z:IP.MAN  LEGACY [COLOR red](2019)[/COLOR] [COLOR blue](FULLHD)[/COLOR][/B]</title>
 36    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://tinyurl.com/y5czspkd</link>
 36    <thumbnail>https://tinyurl.com/y6jvzjyr</thumbnail>
-36    <genre>[B][COLOR firebrick] Ação, Aventura, Ficção Científica[/COLOR][/B]</genre>
 36    <fanart>https://tinyurl.com/yypt4p7u</fanart>
 36    <info>[B][COLOR red] SINOPSE:
 36    [COLOR white]
