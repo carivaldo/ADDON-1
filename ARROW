@@ -1,15 +1,18 @@
-<name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
-
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR yellow] ARROW [COLOR red] - [COLOR lime][1ªTEMPORADA][/COLOR][/B]</name>
+"<genre>[B][COLOR firebrick],monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>		
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Ws9X6I5CvcE&t=28s$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
+<title>[B][COLOR red]• [COLOR lime]1 [COLOR red]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
+1	<link>$texto=[B][COLOR yellow]   [COLOR red]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM  AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ws9X6I5CvcE&t=28s$texto=[B][COLOR yellow]  [COLOR red]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
+1	<info>[B][COLOR yellow] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
 </item>
 
