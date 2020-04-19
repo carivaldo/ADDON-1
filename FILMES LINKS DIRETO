@@ -1,6 +1,5 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/SnJauAA.png" ,[B][COLOR yellow] [B][COLOR yellow]PIKACHU  [COLOR lime]  ENTRETERIMENTOS [COLOR firebrick]  FHD / HD / SD .[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SnJauAA.png" ,[B][COLOR yellow] [B][COLOR yellow]  [COLOR lime]  ENTRETERIMENTOS [COLOR firebrick]  FHD / HD / SD .[/B][/COLOR]
 ******************************************************************
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zqOLf" group-title="FANTASIA & FICCÃO",O Ano Da Extinção
@@ -3663,7 +3662,7 @@ http://u9in.club:8080/movie/180982/180982/81774.mp4
 http://u9in.club:8080/movie/180982/180982/81847.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="LANÇAMENTOS 2020",O EXTERMINADOR DO FUTURO DESTINO SOMBRIO
 http://u9in.club:8080/movie/180982/180982/81848.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg" group-title="AVENTURA",POKEMO DETETIVE PIKACHU
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg" group-title="AVENTURA",POKEMO DETETIVE 
 http://u9in.club:8080/movie/180982/180982/81849.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/Y0NQuB8cMZlmgBe90BOlMoFMSX.jpg" group-title="LANÇAMENTOS 2020",bad boys para sempre
 http://u9in.club:8080/movie/180982/180982/81850.mp4
