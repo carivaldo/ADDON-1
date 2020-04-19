@@ -33,10 +33,10 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<name>[COLOR blue]SIMPSONS 1 A 15[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SIMPSONS%201%20A%2015</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4paTG5rCX4EWQReqBk2BiqNKSmD.jpg</fanart>
 <info>
 
 
