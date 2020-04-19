@@ -63,10 +63,10 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<name>[COLOR blue]PERNALONGA E SEUS AMIGOS [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf3iU2UQNNtmtQg7tZejgU3wTW4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/PERNALONGA%20E%20SEUS%20AMIGOS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/johna4IMdH9YuIHE6kcS1zKNqvp.jpg</fanart>
 <info>
 
 
