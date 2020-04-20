@@ -215,7 +215,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue][/COLOR][/B][B]Casino Royale  - [COLOR red](2006)[/COLOR] - [COLOR red](FULLHD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][COLOR]Casino Royale  - [COLOR red](2006)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y9Bo7dFZgLVXndRprywpP3aiyEX8hg9N/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPfnxJs4cIuTpucRIIF8J5jCIuQ.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3HFhVqXuCXFKJBiJYcJsdgHkr6X.jpg</fanart>
@@ -223,7 +223,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue][/COLOR][/B][B]QUANTUM OF SOLACE [COLOR red](2008)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][COLOR]QUANTUM OF SOLACE [COLOR red](2008)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1w483QQSEz7PZ3cUguNUgv1nJmLogH-sR/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2rCskvSSr7ywPAnFGhk4FT6Piz.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2OjNSTZjA64ftTMNLJUBHwZ3Au2.jpg</fanart>
@@ -231,7 +231,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue][/COLOR][/B][B]OPERACAO SKYFALL [COLOR red](2012)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][COLOR]OPERAÇÃO SKYFALL [COLOR red](2012)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1JPRaMBkuCEiGaFjg_c9SsU6PmmZBKgxf/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTAZjyTPIcsZffqD0WHtxOLZOSW.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oDARuvHg5Nw1LG9snA7j1ty1ZwI.jpg</fanart>
@@ -240,9 +240,14 @@
 
 
 <item>
-<title>[B][COLOR blue][/COLOR][/B][B]CONTRA SPECTRE [COLOR red](2016)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][COLOR]CONTRA SPECTRE [COLOR red](2016)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ElCrSDxOf3InhEXv1GclQRWdEQEbWOCx/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2n6uCKYNRiu9Cu8nhfITyBYnJGG.jpg</fanart>
 <info>Uma mensagem enigmática do passado de Bond o envia a uma pista para descobrir uma organização sinistra. Enquanto M luta contra as forças políticas para manter vivo o serviço secreto, Bond retira as camadas de engano para revelar a terrível verdade por trás de SPECTRE.</info>
 </item>
+
+
+
+
+
