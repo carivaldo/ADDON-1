@@ -231,39 +231,32 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR yellow] The Flash (2015) [COLOR white] - [COLOR lime][2ªTEMPORADA][/COLOR][/B]</name>
-"<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]DRAMA ACTION & ADVENTURE[/COLOR][/B]</genre>"
-<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Na segunda temporada, Flash conta com a ajuda de um super-herói veterano para enfrentar Zoom, que declarou guerra contra todos os velocistas do multiverso. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info>          
+<name>[B][COLOR red]• [COLOR blue] The Flash (2015) [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+"<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA ACTION & ADVENTURE[/COLOR][/B]</genre>"
+<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Na segunda temporada, Flash conta com a ajuda de um super-herói veterano para enfrentar Zoom, que declarou guerra contra todos os velocistas do multiverso. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info>          
 <item>
-<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
-1   <link>$texto=[B][COLOR yellow] PIKACHU  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=Upz_qa5igE4$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
+1   <link>$texto=[B][COLOR blue] ADDON BXL  [COLOR red]->-> [COLOR red]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
+1   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
-1   <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Seis meses depois de encarar a singularidade, a Equipe Flash se separou, deixando Barry sozinho nos Laboratórios S.T.A.R. e na sua luta contra os meta-humanos. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info>
+1   <info>[B][COLOR blue] SINOPSE:
+[COLOR red]Seis meses depois de encarar a singularidade, a Equipe Flash se separou, deixando Barry sozinho nos Laboratórios S.T.A.R. e na sua luta contra os meta-humanos. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info>
 </item>
 ****************************************************************************************************
 <item> 
-1   <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] O Homem Que Salvou Central City[COLOR lime] Pikachu - [COLOR firebrick] Series !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
-1   <link>$texto=[B][COLOR yellow] PIKACHU  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=Upz_qa5igE4$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BoXdl18m-i3XMxbfg03YkWP8ph9o6iSP/view?usp=sharing$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 01 ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] O Homem Que Salvou Central City[COLOR red] ADDON BXL - [COLOR firebrick] Series !!![/B][/COLOR]</title>
+1   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E01.mp4]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
+1   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
-1   <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Seis meses depois de encarar a singularidade, a Equipe Flash se separou, deixando Barry sozinho nos Laboratórios S.T.A.R. e na sua luta contra os meta-humanos. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info>   
+1   <info>[B][COLOR blue] SINOPSE:
+[COLOR red]Seis meses depois de encarar a singularidade, a Equipe Flash se separou, deixando Barry sozinho nos Laboratórios S.T.A.R. e na sua luta contra os meta-humanos. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info>   
 </item>
 <item> 
 2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Flash de Dois Mundos[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/12F7YNcLOoPw1dhbLkrTGY8FyIhHLUBQ8/view?usp=sharing</link>
+2   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E02.mp4</link>
 2   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 2   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 2   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -272,7 +265,7 @@
 </item>
 <item> 
 3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] A Família de Trapaceiros[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/16U8dnfkREhtHysyPGC-YZr2_kn9BzkBf/view?usp=sharing</link>
+3   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E03.mp4</link>
 3   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 3   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 3   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -281,7 +274,7 @@
 </item>
 <item> 
 4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] A Fúria da Tempestade de Fogo[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1X-9xuWkWrpvf5dv712vZkwqA3OpDgMNM/view?usp=sharing</link>
+4   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E04.mp4/link>
 4   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 4   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 4   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -290,7 +283,7 @@
 </item>
 <item> 
 5   "<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Uma Luz na Escuridão   [COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>"
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1K9K1aWzu7b8VcrHhUFUdQPtA4GDihb59/view?usp=sharing</link>
+5   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E05.mp4</link>
 5   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 5   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 5   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -299,7 +292,7 @@
 </item>
 <item> 
 6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Acionando Zoom[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1OqfvqjLyYG95tGFArPMFXcxxDZgxHNIc/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR red]->-> [COLOR red]EPISODIO [COLOR firebrick][ 06 ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+6   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E06.mp4</link>
 6   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 6   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 6   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -308,7 +301,7 @@
 <item> 
 <item> 
 7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Guerra do Gorila[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1QVYt1PWIvMEewHXuzNItGD8M5yUPnzgz/view?usp=sharing</link>
+7   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E07.mp4</link>
 7   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 7   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 7   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -317,7 +310,7 @@
 </item>
 <item> 
 8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Lendas do Presente[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_XIeznSGg1ZJcUObQWy9LEjcg3X1RS5h/view</link>
+8   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E08.mp4</link>
 8   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 8   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 8   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -326,7 +319,7 @@
 <item> 
 <item> 
 9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Correndo Para Ficar Parado[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Dr-orEot8DZuqjZ2bIyiy2ibxnW-5I9h/view?usp=sharing</link>
+9   <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E09.mp4</link>
 9   <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 9   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 9   <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -335,7 +328,7 @@
 </item>
 <item> 
 10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Energia Potencial[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1-dk2muD34gG-DALhzV1f9agHIZAIrdjc/view?usp=sharing</link>
+10  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E10.mp4</link>
 10  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 10  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 10  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -344,7 +337,7 @@
 <item> 
 <item> 
 11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] O Retorno do Flash Reverso[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1x5mhR8bbDoho-e20eP6eUTGFciS8MPkv/view?usp=sharing</link>
+11  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E11.mp4</link>
 11  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 11  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 11  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -353,7 +346,7 @@
 </item>
 <item> 
 12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Pista Rápida[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1LOcXsRs-uvdreoiSCr8o5EvVNRW5oVyB/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR red]->-> [COLOR red]EPISODIO [COLOR firebrick][ 12 ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+12  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E12.mp4</link>
 12  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 12  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 12  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -362,7 +355,7 @@
 </item>
 <item> 
 13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Bem Vindo à Terra-2[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1-goB5bYesNxQOcjsxmnu9Eof-WTYXujN/view?usp=sharing</link>
+13  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E13.mp4</link>
 13  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 13  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 13  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -371,7 +364,7 @@
 </item>
 <item> 
 14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Fuga da Terra-2[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MbUSAPXJDkTeG0L1fVlP_7o-2KqbXo5i/view?usp=sharing</link>
+14  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E14.mp4</link>
 14  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 14  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 14  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -380,7 +373,7 @@
 </item>
 <item> 
 15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Tubarão-Rei[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1EM4dH4Lon1l3TzblFyYPt--wEnJ_BPe-/view?usp=sharing</link>
+15  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E15.mp4</link>
 15  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 15  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 15  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -389,7 +382,7 @@
 </item>
 <item> 
 16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] Trajetória[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1by39yrYn50YhUIacCtvygwBQMTq6hkGs/view?usp=sharing</link>
+16  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E16.mp4</link>
 16  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 16  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 16  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -398,7 +391,7 @@
 </item>
 <item> 
 17  <title>[B][COLOR red]• [COLOR red]17 [COLOR red]- [COLOR blue] Flash Back[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-17  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1f7S6bhUXK1xFHHF6Z6w2L68kGtZspQjs/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR red]->-> [COLOR red]EPISODIO [COLOR firebrick][ 17 ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+17  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E17.mp4]</link>
 17  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 17  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 17  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -407,7 +400,7 @@
 </item>
 <item> 
 18  <title>[B][COLOR red]• [COLOR red]18 [COLOR red]- [COLOR blue] Contra Zoom[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-18  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17fKTROjt76tLrcmkH69EG6xJcLLuzy78/view?usp=sharing</link>
+18  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E18.mp4</link>
 18  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 18  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 18  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -416,7 +409,7 @@
 </item>
 <item> 
 19  <title>[B][COLOR red]• [COLOR red]19 [COLOR red]- [COLOR blue] De Volta ao Normal[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-19  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Zyxmmz9anRFOTnZEaWnpSFXEW5PQyiIf/view?usp=sharing</link>
+19  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E019.mp4</link>
 19  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 19  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 19  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -425,7 +418,7 @@
 </item>
 <item> 
 20  <title>[B][COLOR red]• [COLOR red]20 [COLOR red]- [COLOR blue] Ruptura[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-20  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17p3N_5akO6Gu1fBepBMLt5ovmA38RVuc/view?usp=sharing</link>
+20  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E20.mp4</link>
 20  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 20  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 20  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -434,7 +427,7 @@
 </item>
 <item> 
 21  <title>[B][COLOR red]• [COLOR red]21 [COLOR red]- [COLOR blue] O Dinossauro Fujão[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-21  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1l2SozNkfY1Xhu9hViy2spYyhdbQbYcGk/view?usp=sharing</link>
+21  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E21.mp4</link>
 21  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 21  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 21  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -443,7 +436,7 @@
 </item>
 <item> 
 22  <title>[B][COLOR red]• [COLOR red]22 [COLOR red]- [COLOR blue] Invencível[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-22  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ijxrhHmln0NJq_dIPt0p-zSHeoktWwmb/view?usp=sharing</link>
+22  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E22.mp4</link>
 22  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 22  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 22  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
@@ -452,7 +445,7 @@
 </item>
 <item> 
 23  <title>[B][COLOR red]• [COLOR red]23 [COLOR red]- [COLOR blue] A Corrida de Sua Vida[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
-23  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1r1fCmhkKVOPRgGRmkY1M4hdmnc8wmtVL/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR red]->-> [COLOR red]EPISODIO [COLOR firebrick][ 23 ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+23  <link>https://f000.backblazeb2.com/file/seriestube/The+Flash/2+temporada/The+Flash+S02E23.mp4</link>
 23  <thumbnail>https://image.tmdb.org/t/p/original/mUQb1iCMSa8m4ddtoAB5a2UYa6C.jpg</thumbnail>
 23  "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA ACTION & ADVENTURE                                                                                                                                                                                           [/COLOR][/B]</genre>"
 23  <fanart>https://image.tmdb.org/t/p/original/8s7WmphQS3jdUr3z6HvTLmet9Bk.jpg</fanart>
