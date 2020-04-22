@@ -1,26 +1,34 @@
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Flash (2014) [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-"<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA ACTION & ADVENTURE[/COLOR][/B]</genre>"
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Na primeira temporada, Barry procura o assassino de sua mãe enquanto Flash, sua versão meta-humana, protege a cidade dos poderosos vilões. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info>          
+<name>[B][COLOR white]• [COLOR yellow] The Flash (2014) [COLOR white] - [COLOR lime][1ªTEMPORADA][/COLOR][/B]</name>
+"<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]DRAMA ACTION & ADVENTURE[/COLOR][/B]</genre>"
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Na primeira temporada, Barry procura o assassino de sua mãe enquanto Flash, sua versão meta-humana, protege a cidade dos poderosos vilões. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info>          
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
+<title>[B][COLOR red]• [COLOR lime]1 [COLOR red]- [COLOR yellow]  TRAILER  [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR blue]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow]  [COLOR white]->-> [COLOR blue]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] PIKACHU  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Nojlwqw9NSM$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/oZHQHceEjxGyaQPnwZd5rtnzbXv.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
+1   "<genre>[B][COLOR firebrick](ADDON BXL).[COLOR white][COLOR blue] [COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/pFbTBo3t8bJZi4nvkKehJzange6.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Barry acorda do coma e usa sua nova e extraordinária velocidade para combater outro meta-humano que usa poderes meteorológicos para assaltar bancos. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info> 
+1   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Barry acorda do coma e usa sua nova e extraordinária velocidade para combater outro meta-humano que usa poderes meteorológicos para assaltar bancos. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info> 
 </item>
 ****************************************************************************************************
 <item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Cidade de Heróis[COLOR red] ADDON BXL - [COLOR firebrick] Series !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1fWEXun3tGUa4Llkzkh1UNSndF2zsXOcr/view?usp=sharing$texto=[B][COLOR blue] ADDON BXL [COLOR red]->-> [COLOR red]EPISODIO [COLOR firebrick][ 01 ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Cidade de Heróis[COLOR lime] Pikachu - [COLOR firebrick] Series !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo&t=6s$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR yellow] FACA SUA DOACAO !!! [/COLOR][/B]</link>
+1   <link>$texto=[B][COLOR yellow] PIKACHU  [COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Nojlwqw9NSM$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1fWEXun3tGUa4Llkzkh1UNSndF2zsXOcr/view?usp=sharing$texto=[B][COLOR yellow] PIKACHU [COLOR white]->-> [COLOR lime]EPISODIO [COLOR firebrick][ 01 ] AQUI !!![COLOR yellow] TEAM PIKACHU AGRADECE !!! [/COLOR][/B]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/oZHQHceEjxGyaQPnwZd5rtnzbXv.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick](.ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
+1   "<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]DRAMA SCI-FI & FANTASY [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/pFbTBo3t8bJZi4nvkKehJzange6.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Barry acorda do coma e usa sua nova e extraordinária velocidade para combater outro meta-humano que usa poderes meteorológicos para assaltar bancos. (ADDON BXL)...Faca sua Doacao...[COLOR blue][  BXL ] !!![/COLOR][/B]</info> 
+1   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Barry acorda do coma e usa sua nova e extraordinária velocidade para combater outro meta-humano que usa poderes meteorológicos para assaltar bancos. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info> 
 </item>
 <item> 
 2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] O Homem Mais Rápido Vivo[COLOR red] ADDON BXL - [COLOR firebrick]Series !!![/B][/COLOR]</title>
