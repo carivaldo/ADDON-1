@@ -1,7 +1,7 @@
 ****************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR red] - [COLOR blue][1ªTEMPORADA][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR blue][1ªTEMPORADA][/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -12,7 +12,7 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue] Piloto[COLOR blue]S01E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue][COLOR blue]S01E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1	<link>$texto=[B][COLOR blu]   [COLOR red]->-> [COLOR blue]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR red] ADDON BXL[/COLOR][/B]</link>
 1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sruCXxThqKPwj3xHwkL0FwbnvB17Uk4y/view</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
