@@ -2,19 +2,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-"<genre>[B][COLOR firebrick],monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR yellow] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>		
 <item>
-<title>[B][COLOR red]• [COLOR lime]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-1	<link>$texto=[B][COLOR blue]   [COLOR red]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow] TEAM  AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=Ws9X6I5CvcE&t=28s$texto=[B][COLOR red]  [COLOR red]->-> [COLOR lime]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR yellow][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item>
+
 
 
 ****************************************************************************************************
@@ -229,18 +221,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (.)[/COLOR][/B]</info> 
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uInZO2TdIV0$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick]MrP CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item>   
+
 ***************************************************************************************************************************
 <item>    
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  Cidade dos Heróis[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -453,18 +438,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=OAGc8M0piAo$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item>   
+  
 ***************************************************************************************************************************
 <item>    
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  A Calmaria[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -473,7 +451,7 @@
 1    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 1    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 1    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>    
 </item>    
 <item>    
 2    "<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue]  Sara[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -482,7 +460,7 @@
 2    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 2    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 2    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>    
 </item>    
 <item>    
 3    "<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue]  Corto Maltese[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -491,7 +469,7 @@
 3    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 3    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>    
 </item>    
 <item>    
 4    "<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue]  O Mago[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -500,7 +478,7 @@
 4    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 4    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 4    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 5    "<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue]  A Origem Secreta de Felicity Smoak[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -509,7 +487,7 @@
 5    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 5    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 5    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 6    "<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue]  Culpado[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -518,7 +496,7 @@
 6    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 6    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 6    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 7    "<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue]  Prepare Seu Arco[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -527,7 +505,7 @@
 7    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 7    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 7    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 8    "<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue]  Os Ousados e os Corajosos[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -536,7 +514,7 @@
 8    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 8    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 8    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 9    "<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue]  A Escalada[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -545,7 +523,7 @@
 9    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 9    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 9    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 10    "<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue]  Deixado Para Trás[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -554,7 +532,7 @@
 10    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 10    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 10    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 11    "<title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue]   Cidade da Meia-Noite[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -563,7 +541,7 @@
 11    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 11    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 11    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 12    "<title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue]   Revolta[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -572,7 +550,7 @@
 12    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 12    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 12    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 13    "<title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue]  O Regresso[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -581,7 +559,7 @@
 13    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 13    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 13    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 14    "<title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue]   Canários[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -590,7 +568,7 @@
 14    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 14    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 14    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 15    "<title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue]   O Regresso[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -599,7 +577,7 @@
 15    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 15    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 15    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 16    "<title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue]   Nanda Parbat[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -608,7 +586,7 @@
 16    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 16    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 16    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 17    "<title>[B][COLOR red]• [COLOR red]17 [COLOR red]- [COLOR blue]   A Oferta[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -617,7 +595,7 @@
 17    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 17    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 17    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 18    "<title>[B][COLOR red]• [COLOR red]18 [COLOR red]- [COLOR blue]    Inimigo Público[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -626,7 +604,7 @@
 18    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 18    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 18    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 19    "<title>[B][COLOR red]• [COLOR red]19 [COLOR red]- [COLOR blue]   Dois Arqueiros[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -635,7 +613,7 @@
 19    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 19    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 19    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 20    "<title>[B][COLOR red]• [COLOR red]20 [COLOR red]- [COLOR blue]   Perdas[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -644,7 +622,7 @@
 20    "<genre>[B][COLOR firebrick], CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 20    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 20    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 21    "<title>[B][COLOR red]• [COLOR red]21 [COLOR red]- [COLOR blue]   Al Sah-him[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -653,7 +631,7 @@
 21    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 21    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 21    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 22    "<title>[B][COLOR red]• [COLOR red]22 [COLOR red]- [COLOR blue]   Esta é a Sua Arma[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -662,7 +640,7 @@
 22    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 22    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 22    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 <item>    
 23    "<title>[B][COLOR red]• [COLOR red]23 [COLOR red]- [COLOR blue]  Meu Nome é Oliver Queen[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -671,25 +649,17 @@
 23    "<genre>[B][COLOR firebrick]] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 23    <fanart>https://image.tmdb.org/t/p/original/dXTyVDTIgeByvUOUEiHjbi8xX9A.jpg</fanart>
 23    <info>[B][COLOR blue] SINOPSE:
-[COLOR red] (.)[/COLOR][/B]</info>    [COLOR red][/COLOR][/B]</info>
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 </item>    
 ******************************************************************************************************
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-1	<link>$texto=[B][COLOR blue][COLOR red]->-> [COLOR red]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR blue][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=UsWVS8WM3-E$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick]CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item>   
+  
 ***************************************************************************************************************************
 <item>    
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]   Arqueiro Verde[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -897,11 +867,15 @@
 23    <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
 23    <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Enquanto a equipe faz de tudo para impedir um desastre global, Oliver descobre um poder surpreendente para enfrentar Darhk de uma vez por todas.[/COLOR][/B]</info>    [COLOR red]Enquanto a equipe faz de tudo para impedir um desastre global, Oliver descobre um poder surpreendente para enfrentar Darhk de uma vez por todas. [/COLOR][/B]</info>
+</item>
+
+***************************************************************************************************************************
+
 </item>    
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
-"<genre>[B][COLOR firebrickmonster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
+"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
@@ -912,7 +886,7 @@
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  Legado[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
 1    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1xUzYOPwX1gau3xGcN-DrJ_ZSd73vggwb/view?usp=sharing</link>
 1    <thumbnail>https://image.tmdb.org/t/p/original/uzGRZtaDTh0nKruS0raXVZnGQAj.jpg</thumbnail>
-1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1    <fanart>https://image.tmdb.org/t/p/original/n0weP7T6A4TEMeg2mO8U3S2M67J.jpg</fanart>
 1    <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Enquanto Felicity insiste em buscar novos recrutas e Oliver tenta esquecer o passado, o assassino brutal Tobias Church inicia sua ascensão ao poder.  [/COLOR][/B]</info>    
@@ -1119,19 +1093,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-<link>$texto=[B][COLOR yellow][COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR yellow][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=bPx1R2BheS8$texto=[B][COLOR blue] [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick]CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>	
-</item> 
+
 ***************************************************************************************************************************
 <item>    
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  Consequências[COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -1344,21 +1310,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR blue] [COLOR red]->-> [COLOR red]COMO FAZER SUA DOACAO [COLOR firebrick]VIDEO [COLOR blue][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=yVGSe5LpxVo$texto=[B][COLOR blue] [COLOR red]->-> [COLOR red]INCENTIVE [COLOR firebrick]E SE DESEJAR [COLOR blue][/COLOR][/B]</link>
-1	<link>$texto=[B][COLOR blue]   [COLOR red]->-> [COLOR red]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR blue] TEAM AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=v0AiP78bZ44$texto=[B][COLOR blue]  [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (.)[/COLOR][/B]</info>	
-</item> 
+
 ***************************************************************************************************************************
 <item>	
 1	"<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  Inmate 4587[COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
@@ -1562,19 +1518,11 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][8ªTEMPORADA][/COLOR][/B]</name>
-"<genre>.</genre>
+1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. (.)[/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-1	<link>$texto=[B][COLOR blue][COLOR red]->-> [COLOR red]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR blue][/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=-OeRdDgwkR0$texto=[B][COLOR blue] [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item> 
+
 ***************************************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Starling City[COLOR red] [COLOR firebrick] Series !!![/B][/COLOR]</title>
