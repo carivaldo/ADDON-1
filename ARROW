@@ -954,9 +954,11 @@
 8    <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Diante de uma invasão alienígena, a equipe do Arqueiro Verde se une aos heróis Flash, Supergirl e Legends of Tomorrow para enfrentar a ameaça intergalática.[/COLOR][/B]</info>    [COLOR red]Diante de uma invasão alienígena, a equipe do Arqueiro Verde se une aos heróis Flash, Supergirl e Legends of Tomorrow para enfrentar a ameaça intergalática. [/COLOR][/B]</info>
 </item>    
+
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ey8mmdIe0TZTGJEd4ueQdvqcARw2i1w3/view?usp=sharing
 <item>    
 9    "<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue]  O Que Deixamos Para Trás[COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
-9    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ey8mmdIe0TZTGJEd4ueQdvqcARw2i1w3/view?usp=sharing</link>
+9    <link>http://server.cinenaweb.us:8080/series/seriesvision/372923/6696.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
 9    <thumbnail>https://image.tmdb.org/t/p/original/uzGRZtaDTh0nKruS0raXVZnGQAj.jpg</thumbnail>
 9    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 9    <fanart>https://image.tmdb.org/t/p/original/n0weP7T6A4TEMeg2mO8U3S2M67J.jpg</fanart>
@@ -964,9 +966,11 @@
 [COLOR red]A equipe enfrenta uma traição inesperada de um de seus membros após um ataque violento revelar que Prometeus conhece todos os segredos deles.[/COLOR][/B]</info>    [COLOR red]A equipe enfrenta uma traição inesperada de um de seus membros após um ataque violento revelar que Prometeus conhece todos os segredos deles. [/COLOR][/B]</info>
 </item>  
 
+
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ey8mmdIe0TZTGJEd4ueQdvqcARw2i1w3/view?usp=sharing
 <item>    
 10    "<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue]  Quem é Você?[COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
-10    <link>http://server.cinenaweb.us:8080/series/seriesvision/372923/6696.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
+10    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ey8mmdIe0TZTGJEd4ueQdvqcARw2i1w3/view?usp=sharing</link>
 10    <thumbnail>https://image.tmdb.org/t/p/original/uzGRZtaDTh0nKruS0raXVZnGQAj.jpg</thumbnail>
 10    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 10    <fanart>https://image.tmdb.org/t/p/original/n0weP7T6A4TEMeg2mO8U3S2M67J.jpg</fanart>
