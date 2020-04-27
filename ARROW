@@ -898,7 +898,6 @@
 23    <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Enquanto a equipe faz de tudo para impedir um desastre global, Oliver descobre um poder surpreendente para enfrentar Darhk de uma vez por todas.[/COLOR][/B]</info>    [COLOR red]Enquanto a equipe faz de tudo para impedir um desastre global, Oliver descobre um poder surpreendente para enfrentar Darhk de uma vez por todas. [/COLOR][/B]</info>
 </item>    
-***************************************************************************************************************************
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
@@ -906,15 +905,8 @@
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
 <item>
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  TRAILER  [/B][/COLOR]</title>
-1	<link>$texto=[B][COLOR blue][COLOR red]->-> [COLOR red]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR blue] TEAM  AGRADECE !!! [/COLOR][/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=8nIOG8RRtAs$texto=[B][COLOR blue] [COLOR red]->-> [COLOR red]ASSISTA [COLOR firebrick]O TRAILER [ HD ] AQUI !!![COLOR blue][/COLOR][/B]</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item> 
+
+
 ***************************************************************************************************************************
 <item>    
 1    "<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue]  Legado[COLOR red]  [COLOR firebrick] SERIES !!![/B][/COLOR]</title>"
