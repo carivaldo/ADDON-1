@@ -1,12 +1,8 @@
-<channels></channels>
-<channel>
-<name>O Besouro Verde</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/rTU8mxFJasWIiG73GTmwHQy24Ir.jpg
-https://image.tmdb.org/t/p/w780/aBCn1z1tJGivVhY1nHSrXOQqQwG.jpg</thumbnail>
+
 
 
 <item>
-<title>O Besouro Verde</title>
+<title>[B][COLOR blue][/COLOR][/B][B]O Besouro Verde- [COLOR blue](2011)[/COLOR] - [COLOR red](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=E14B6EDF4AF7723D721342576D6CEC96A01C0247</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/rTU8mxFJasWIiG73GTmwHQy24Ir.jpg
 https://image.tmdb.org/t/p/w780/aBCn1z1tJGivVhY1nHSrXOQqQwG.jpg</thumbnail>
