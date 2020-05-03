@@ -5,8 +5,9 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Jack Ryan [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSziGhC2d8kHzOhLgSUZBJvXbjW.jpg</thumbnail>
-<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSziGhC2d8kHzOhLgSUZBJvXbjW.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>		
 <item>
@@ -16,6 +17,8 @@
 <item>	
 <title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E01[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hosd-msbhMMYt-XmrBpL7faq1VSMrCFO/view</title>	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 <fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>	
@@ -96,8 +99,9 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Jack Ryan [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSziGhC2d8kHzOhLgSUZBJvXbjW.jpg</thumbnail>
-<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSziGhC2d8kHzOhLgSUZBJvXbjW.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>		
 <item>
