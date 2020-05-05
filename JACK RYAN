@@ -1,6 +1,3 @@
-
-
-
 ****************************************************************************************************************************
 <channels>
 </channels><channel>
@@ -10,11 +7,15 @@
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>		
-</item>	
+<item>
+
+
+
+**************************************************************************************************
 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E01[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hosd-msbhMMYt-XmrBpL7faq1VSMrCFO/view</link>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10302.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -23,32 +24,22 @@
 </item>
 
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E01[COLOR blue]- [COLOR blue][COLOR blue]S01E0 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hosd-msbhMMYt-XmrBpL7faq1VSMrCFO/view</title>	
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
-<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
-<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:
+1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E02[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10303.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>	
 </item>
 
 <item>	
-<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E02[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s7NrYIlrs736gulW10XHlmf9SdoQv-Gn/view</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
-<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
-<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:
-[COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>	
-</item>
-
-<item>	
-<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E03[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xLf4Kor07QTodWiCAWA9u5JPnxpFWDQX/view</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
-<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
-<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:
+1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E03[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10304.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>	
 </item>
 
@@ -64,7 +55,7 @@
 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E05[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iZoMyLlHfaqGaO6tgiELS0Mdj8m2Y788/view</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10306.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -74,7 +65,7 @@
 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E06[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13lkzyqi7kc1Fjcz6YbdcsiAwgGIoQpYr/view</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10307.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -84,7 +75,7 @@
 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E07[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mJyJvXMwCDGek7x7kZsQd9VN3iFbLaig/view</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10308.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -94,7 +85,7 @@
 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]Tom Clancy's Jack Ryan S01 E08[COLOR blue]- [COLOR blue] [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPfbVxearXgXTeFWlgRDJiijZhFzs69m/view</title>
+<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/10309.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</title>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO GUERRA & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
@@ -104,6 +95,7 @@
 
 
 ****************************************************************************************************************************
+
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Jack Ryan [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
@@ -112,8 +104,10 @@
 1	<fanart>https://image.tmdb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B][COLOR red] SINOPSE:
 [COLOR red][/COLOR][/B]Quando o analista da CIA, Jack Ryan, tropeça em uma série suspeita de transferências bancárias, sua busca por respostas o tira da segurança de seu trabalho no escritório e o catapulta para um jogo mortal de gato e rato por toda a Europa e Oriente Médio, com uma figura terrorista crescente se preparando por um ataque maciço contra os EUA e seus aliados.</info>		
-</item>	
+<item>
 
+
+****************************************************************************************************
 
 
 
