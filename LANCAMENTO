@@ -1,5 +1,5 @@
    <item>	
-1	<title>[B][COLOR red]• [COLOR red] [COLOR blue]Dolittle [COLOR red](2020) [COLOR blue](FULLHD)[/COLOR]</title>
+1	<title>[B][COLOR blue]Dolittle [COLOR red](2020)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DEXjYgtPwQ0wqUohpf5sWx0m-qItao06/view</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnjvwfDulnOCy8qtYX0iqydmMhk.jpg</thumbnail>
 1	<fanart>https://image.tmdb.org/t/p/original/xcUf6yIheo78btFqihlRLftdR3M.jpg</fanart>
@@ -44,8 +44,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Homem Invisível [COLOR red](2020)[/COLOR ] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-1   <link>$texto=[B][COLOR blue]ADDON BXL[COLOR white]->-> [COLOR lime]FIQUE LIGADO [COLOR firebrick] NAS NOVIDADES [COLOR red] ADDON BXL AGRADECE [/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/124v0LnLvlNS5UWWXxyfaXdeD3aazOaxH/view?</link>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/124v0LnLvlNS5UWWXxyfaXdeD3aazOaxH/view?</link>
 1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ak6TNDomX_3kpUYVlxbFbgSBKUZqL9X2/view?</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/2VNPPiycsbnbAP9shfECCrI6pSb.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]Drama,</genre>
@@ -102,11 +101,10 @@
 
   
 <item> 
-1   <title>[B][COLOR red]• [COLOR red]* [COLOR red]- [COLOR blue] MIB: Homens de Preto - Internacional (2019)[COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=7rJF4cOo3_4$texto=[B][COLOR blue] ADDON BXL [COLOR white]->-> [COLOR red]TRAILER [COLOR white] -> [COLOR firebrick] [ HD ] AQUI !!![COLOR blue] TEAM ADDON BXL AGRADECE !!! [/COLOR][/B]</link>
+1   <title>[B][COLOR red][COLOR red]- [COLOR blue] MIB: Homens de Preto - Internacional (2019)[COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bISkov4_5-d1OwtDTMVPw6weaXVC4yEg/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
-1   "<genre></genre>"
+1   "<genre> ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/enNSnMYj78ihLmiWrB4K6ymv9ux.jpg</fanart>
 1   <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Por décadas a agência Homens de Preto protegeu a Terra da escória do universo, mas agora precisa lidar com a maior das ameaças: um traidor, justo quando a agência torna-se internacional. É neste contexto que Em tenta se tornar agente, já que teve uma experiência extraterrestre quando jovem e não teve sua memória apagada. Quem irá auxiliá-la nesta jornada é o atrapalhado agente H. (MrADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info> 
@@ -129,7 +127,7 @@
 </item>
 
 <item> 
-1   <title>[B][COLOR red]• [COLOR blue]* [COLOR red]- [COLOR blue] Malévola: Dona do Mal (2019)[COLOR red] ADDON BXL - [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
+1   <title>[B][COLOR blue][COLOR red]- [COLOR blue] Malévola: Dona do Mal (2019)[COLOR red] ADDON BXL - [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
 1   <link>https://f000.backblazeb2.com/file/filmetube/Mal%C3%A9vola.Dona.do.Mal.2020.mp4</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/bYHXQhIdqDW8I0cg3aX7LRFniMX.jpg</thumbnail>
 1   "<genre></genre>"
