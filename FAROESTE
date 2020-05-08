@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Sete Homens e Um Destino - [COLOR yellow](2016)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]</title>
+<title>[B][COLOR blue][/COLOR][/B][B]Sete Homens e Um Destino - [COLOR red](2016)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>https://cdn.topcine.tv/filmes/The.magnificent.seven.2016.mp4?token=aCLA8QPKBnLC48CdoP5ctg&expires=1584033100</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/T3LrH6bnV74llVbFpQsCBrGaU9.jpg</fanart>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Um Milhão de Maneiras de Pegar na Pistola - [COLOR yellow](2014)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][/COLOR][/B][B]Um Milhão de Maneiras de Pegar na Pistola - [COLOR red](2014)[/COLOR] - [COLOR red](HD)[/COLOR][/B]<title>
 <link>https://wozws09969qthkl.belugacdn.link/movies/ummilhaodemaneirasdepegarnapistola-dub-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/12fqfvUmBOPg2pA0RsEhc31P28O.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tkxiEwG9xJIbyzvJSGYUyTkz3Mj.jpg</fanart>
@@ -15,76 +15,36 @@
 </item>
 
 <item>
-<title>[B][COLOR lime][/COLOR][/B][B]Cowboys & Aliens - [COLOR yellow](2011)[/COLOR] - [COLOR lime](HD)[/COLOR][/B]<title>
+<title>[B][COLOR blue][/COLOR][/B][B]Cowboys & Aliens - [COLOR red](2011)[/COLOR] - [COLOR red](HD)[/COLOR][/B]<title>
 <link>https://wozws09969qthkl.belugacdn.link/movies/cowboysealiens-dub-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gmapSsDGkPNPRxaQXLdotYkYKzM.jpg</fanart>
 <info>Um estranho tropeça na cidade deserta de Absolution, sem lembrança de seu passado e com uma corrente futurista no pulso. Com a ajuda da misteriosa beleza Ella e do coronel Dolarhyde, ele se vê liderando um grupo improvável de cowboys, bandidos e guerreiros Apache contra um inimigo comum de outras partes do mundo em um confronto épico pela sobrevivência.</info>
 </item>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5WApjam.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",O Último Duelo Dublado [2019]
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14o5VAM5np7EPy1uxs2jU26fz4tv3W7LM/view
-#EXTINF:-1 tvg-logo="https://goo.gl/3wWnLo" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Invasão 1996
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VS318ljwdMHWbwByGyUv7D91sBN0Ukix/view
-#EXTINF:-1 tvg-logo="https://goo.gl/uEzx5S" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",O Tirano da Fronteira 1955
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hPAkJfKsVecd-mmgg49WO5PNqk4K1FZ_/view
-#EXTINF:-1 tvg-logo="https://goo.gl/ubi8c8" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Um por Deus outro pelo Diabo 1972 -Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwkPN95OoFqVR0hCUC1JMjB1Sms/view
-#EXTINF:-1 tvg-logo="https://goo.gl/XKNLp4" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Salvação 2014
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKUTk4Zm1FZ056d2c/view
-#EXTINF:-1 tvg-logo="" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Lenda de Wild Bill Hickok (2017)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cPWQJlNcOjSpDGrPDN0VyHAOheUbS49g/view
-#EXTINF:-1 tvg-logo="https://goo.gl/DEkgJZ" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",OS ULTIMOS DIAS DE BILLY THE KID - LEGENDADO
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ao24CWpWA_nZpentinQliY73R1xB206h/view
-#EXTINF:-1 tvg-logo="https://goo.gl/XGBJy5" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",O DUELO 2016
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18ksgqI_YFtOBo-UTZ7vTrFnm90eMI0gl/view
-#EXTINF:-1 tvg-logo="https://goo.gl/vFcsSJ" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",The Sisters Brothers - Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZuJuo3dD8zxPVCE7fngP6orUrdATdqgB/view
-#EXTINF:-1 tvg-logo="https://goo.gl/Vu2gys" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Vingança dos Daltons 1940 - Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKUmotLUJXeHNfLTQ/view
-#EXTINF:-1 tvg-logo="https://goo.gl/pzwPQp" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Os Últimos Machões 1976
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3C_eGOuloIwY05vcGdLMVVnY0k/view
-#EXTINF:-1 tvg-logo="https://goo.gl/GB1P4P" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Johnny Guitar 1954 -Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6-yZskoa3sObkJYckY5amhNN3M/view
-#EXTINF:-1 tvg-logo="https://goo.gl/LN7hDb" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Sete Homens e Um Destino 2016
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QndG-VH0BfeQ0-MgSsWuUXU36eVreza3/view
-#EXTINF:-1 tvg-logo="https://goo.gl/43wG1k" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Jane Got a Gun 2016
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B889aeU0SJm0QUpScXhHZHpDZlk/view
-#EXTINF:-1 tvg-logo="https://goo.gl/YbtHgH" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Renegado Heróico 1952 - Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKTWVSbzhZdVlLS2M/view
-#EXTINF:-1 tvg-logo="https://goo.gl/dVpQxN" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Obrigado a Matar 1955
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8GK56u8Ehp-YVp5Y1NhelV4eHc/view
-#EXTINF:-1 tvg-logo="https://goo.gl/kWqdEX" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Os Cowboys 1972 - Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6-yZskoa3sOUlJBRGp5OHNrNXM/view
-#EXTINF:-1 tvg-logo="https://goo.gl/1Z31vL" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Roy Rogers - Os Sinos de Santo Angelo 1947
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5lU8y67vRrmcFVIX3kwN2I2U0E/view
-#EXTINF:-1 tvg-logo="https://goo.gl/kzW1Nq" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Caminhos Ásperos 1953
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7J7732axg9pNVlnY2FRRFlWRWc/view
-#EXTINF:-1 tvg-logo="https://goo.gl/5aGzE7" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",O Assassinato de Jesse James pelo Covarde Robert Ford 2007
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u6SfPP8boGHumFXi3oXpaluZjDIWnnd3/view
-#EXTINF:-1 tvg-logo="https://goo.gl/ZKMvsT" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Cavalgada Trágica 1960
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0Bysr0BQZO8n6TXVXV3ktY0VyU0E/view
-#EXTINF:-1 tvg-logo="https://goo.gl/nXC5kg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Os Imperdoáveis 1992
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WmBlHWT5Yy2HZPyr_Ac7UfhgWy47C5sd/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g2CFeqL.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Alvarez Kelly – Tenente Kelly
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D7jEr1ALEqBy_UgZD0GqPX2Ke_LR_EkJ/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lem5smq.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Resgate no Oeste
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hv-baiMY7zB3XfKmBq33v4OOC5wc5GWY/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mbnd1sy.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Vingança de Lefty Brown
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SbTv1Glf12lc5e6qJ0XAID1NV4egiIoe/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRH3UEN.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Pistoleiros: Vingança Sem Perdão
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n69GbR1A8faUYHgl8ngULpo7jiARm61e/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q8N2vpq.jpgg" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Amaldiçoada
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zoZdTZSBzlKLUmbZ-eRPvChERqD-IFhv/view
-#EXTINF:-1 tvg-logo="https://goo.gl/8thjm4" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",A Balada de Buster Scruggs
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D5POnmhb235X6XBhQ8HU-IQhaP3Y7gz3/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycn427hw" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Joe Kidd 1972
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XbDO3-8bwR0XYf7b53ArXsyh1wnoRJaP/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycz2azkh" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="FAROESTE",O Vingador Silencioso 1968
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1opkSIepz9cwgobnEsTO9ks2lRaRAYpSN/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9t962vb" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",Silverado 1985
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ACD8elmvNvtw5-gGHpKKv4CxdUCF5ONZ/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSIrvWN.png" group-title="FILMES GDRIVE" pltv-subgroup="FAROESTE",7 Pistolas para os MacGregor 1966
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16nemcPvBLoT9jnFo82OTodm5erfEsIQe/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9r8mezp" group-title="FILMES CLASSICOS" pltv-subgroup="FAROESTE",A Face Oculta 1961
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B9DwW5bhA2fSOF9SSUk1cDJwTlk/view
+<item>
+<title>[B][COLOR blue][/COLOR][/B][B] Os Jovens Pistoreiros- [COLOR red](1988)[/COLOR] - [COLOR red](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19cjXVDiykJSOWWnWo4WAEsTA-jVxaC7-/view</link>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y7my8CrEPcW4IBpNwtfS6oPs4q.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/19HcNeMo6w3PlhIw7ZdaSHbbacm.jpg</fanart>
+<infoUm grupo de jovens pistoleiros, liderados por Billy the Kid, se tornam deputados para vingar o assassinato do fazendeiro que se tornou seu benfeitor. Mas quando Billy leva sua autoridade longe demais, eles se tornam caçados.></info>
+</item>
+
+<item>
+<title>[B][COLOR blue][/COLOR][/B][B]JOVENS DEMAIS PARA MORRER[COLOR red](1990)[/COLOR] - [COLOR red](FULLHD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13byd5q2Pz28RXt_96B-AStcDyDsRkfzT/view</link>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/edCvASPoE4VXCzzVx0U0J1BuAIP.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m8QdI3hsCMDJPFhaWXUvX8pLCtX.jpg</fanart>
+<info>Três das cinco "armas jovens" originais - Billy the Kid (Emilio Estevez), Jose Chavez e Chavez (Lou Diamond Phillips) e Doc Scurlock (Kiefer Sutherland) - retornam em Young Guns, Parte 2, que é a história de Billy o Kid e sua corrida para a segurança no Velho México, sendo perseguido por um grupo de agentes do governo liderado por Pat Garrett.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue][/COLOR][/B][B] - [COLOR red]()[/COLOR] - [COLOR red](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
+<thumbnail><thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
