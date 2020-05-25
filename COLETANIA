@@ -1,13 +1,7 @@
 ****************************************************************************************************************************
  
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Garfield - O Filme[/B][/COLOR] [COLOR red](2004-2006)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/Y9dPBvkq</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/v6xvth8PjDG350ARG9H2sF7N3SF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/obvIA9vxfJUUYU5N7e5u3ppqvfJ.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
-<item>
+
+
 <title> [COLOR blue][B]Garfield - O Filme [/B][/COLOR] [COLOR red](2004)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19k19qhLjQJR4Cv35dEh-AIuNH3iiZInL/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/4enKsfn2HocwUHcm6mqKNgdWkMT.jpg</thumbnail>
@@ -15,6 +9,7 @@
 <info></info>
 <genre>[COLOR red]ANIMAÇÃO, COMÉDIA, FAMÍLIA[/COLOR]</genre>
 </item>
+
 <item>
 <title> [COLOR blue][B]Garfield 2[/B][/COLOR] [COLOR red](2006)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cPOyHZLurBOYpA7FuEMquh_8-icsxNWX/view</link>
@@ -27,13 +22,8 @@
  
  
  
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Alice no País das Maravilhas[/B][/COLOR] [COLOR red](2010-2016)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/GdaeCpHA</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/sUWjOycadSsKiMIjNm7Jo1dHtBk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/aLpMOKoERy1bprsj0k7yMKtRGUc.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
+
 <item>
 <title> [COLOR blue][B]Alice no País das Maravilhas[/B][/COLOR] [COLOR red](2010)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EmXD2b3cpzudrEJ9QB2k1j5U44SHuAu6/view</link>
@@ -53,15 +43,7 @@
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Invasão a Casa Branca[/B][/COLOR] [COLOR red](2013-2016)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/qgMRa9Vc</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/l542hLtKhsmOWEBFoC7Aajk0nKt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lxbMXD12UCj7kMgfqjaZq5irGAu.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Invasão a Casa Branca[/B][/COLOR] [COLOR red](2013)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LUO0JNw7RYfmk0ypEOGyULHrhk_6dNzu/view</link>
@@ -83,13 +65,7 @@
  
  
  
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Filmes Elvis Presley[/B][/COLOR] [COLOR red](1961-1970)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/MSs7jTmt</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/8Q5Ymn7xb3cwNRciEfKtiFadewO.jpg</thumbnail>
-<fanart>https://i.imgur.com/bplr6Av.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Feitiço Havaiano[/B][/COLOR] [COLOR red](1961)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZN61_fDYdFSVtw4De3PLLwfvwMEvx_30/view</link>
@@ -154,15 +130,7 @@
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Premonição[/B][/COLOR] [COLOR red](2000-2011)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/1hqs2tAD</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/9s6rmdXsqklRY9EAPHtPDWzrowo.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v8V46xTO3we3KZjLbe32wzuc7VZ.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Premonição[/B][/COLOR] [COLOR red](2000)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ApfVkGt0i2jZIcihtYPHsyfTed4-qwe9/view</link>
@@ -209,15 +177,6 @@
 </item>
  
  
- 
-channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Se Beber, Não Case![/B][/COLOR] [COLOR red](2009-2013)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/ndd5Ac7R</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/uluhlXubGu1VxU63X9VHCLWDAYP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rl30cTC0C1cqOtXMHPOQenfZinl.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre
- 
 <item>
 <title> [COLOR blue][B]Se Beber, Não Case![/B][/COLOR] [COLOR red](2009)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13nMuncwgsene02DZAzYjnWwr_eqjUHyG/view</link>
@@ -245,16 +204,6 @@ channels>
 <genre>[COLOR red]COMÉDIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]48 Horas[/B][/COLOR] [COLOR red](1982-1990)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/herXcewc</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/rq8NvwC5tC2E8SNU1CF8iJJErNQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/w5tGhHT9jgcSLsahZ8N5BnK5MEZ.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
 <item>
 <title> [COLOR blue][B]48 Horas[/B][/COLOR] [COLOR red](1982)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jkQcH3hhuLDUzpudSxLBswbwE2cCGVSF/view</link>
@@ -272,18 +221,7 @@ channels>
 <info></info>
 <genre>[COLOR red]THRILLER, AÇÃO, COMÉDIA, CRIME, DRAMA[/COLOR]</genre>
 </item>
- 
- 
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]A Morte Te Dá Parabéns[/B][/COLOR] [COLOR red](2017-2019)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/hcLhnbfj</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/sBZ4dKmucfJVjKLbPUkB5xPVnRH.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9bjHAkyi3aRRnfrIGhHPu7RATPR.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]A Morte Te Dá Parabéns[/B][/COLOR] [COLOR red](2017)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dcSUXGc7WrsRRVUFScA6EXK-zqE-idb4/view</link>
@@ -301,17 +239,7 @@ channels>
 <info></info>
 <genre>[COLOR red]TERROR, MISTÉRIO, THRILLER, FICÇÃO, COMÉDIA[/COLOR]</genre>
 </item>
- 
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]A Família Addams[/B][/COLOR] [COLOR red](1991-1993)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/PMVtjWkh</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/w1r5MKBPUlfFrtTXYrlT0vAR3Cp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eWN1V1yFrC076DarXcZUfuiDFXt.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]A Família Addams[/B][/COLOR] [COLOR red](1991)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nS9UCvJ1FOypQFN0oF7Am4YyKesU6yM5/view</link>
@@ -330,16 +258,7 @@ channels>
 <genre>[COLOR red]COMÉDIA, FAMÍLIA, FANTASIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]A História sem Fim[/B][/COLOR] [COLOR red](1984-1994)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/13Jimutf</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/xnOK0p3PHwLw6C5tEkYY8xJR8zK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dVWtAHKbFhsbg8RYJuBquj723m2.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]A História sem Fim[/B][/COLOR] [COLOR red](1984)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FQ3hy3zx_qOz6vQLpTt3uNYKnG9BiwWc/view</link>
@@ -369,14 +288,7 @@ channels>
  
  
  
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Anjos da Noite[/B][/COLOR] [COLOR red](2003-2016)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/uYHtautv</externallink>
-<thumbnail>https://i.imgur.com/JoIXdS2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cPhRPAJWK8BuuJqqf6PztzvOlnZ.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Anjos da Noite - Underworld[/B][/COLOR] [COLOR red](2003)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n-OdPCKJx3-WR2aHjph9lqz27UVWuw_X/view</link>
@@ -422,16 +334,7 @@ channels>
 <genre>[COLOR silver]FANTASIA, AÇÃO, THRILLER[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]A Volta dos Mortos Vivos[/B][/COLOR] [COLOR red](1985-1993)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/ZKxJsAyQ</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ym4xJCLsgerPgJmStW7nN0HzNv8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1kdoaciZXz6yBG6XNovF7qmTY3f.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]A Volta dos Mortos Vivos[/B][/COLOR] [COLOR red](1985)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hvr4qh3lQ1GdmeLS7POnx_clZfobm6IX/view</link>
@@ -460,15 +363,6 @@ channels>
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Charlie Chaplin[/B][/COLOR] [COLOR red](1916-1957)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/YS3CzcFU</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ssMMNDfpRJeVcr8MJ9Fy1nlP0GN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vka8CtZnuFCt52FB6szt9447kYI.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
 <item>
 <title> [COLOR blue][B]Charles Chaplin – O Vagabundo[/B][/COLOR] [COLOR red](1916)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A0wTMzqSc-8MSOJA1z-1Z5EbQSvRH7Pr/view</link>
@@ -559,17 +453,6 @@ channels>
 <genre>[COLOR red]COMÉDIA, DRAMA[/COLOR]</genre>
 </item>
  
- 
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Conan[/B][/COLOR] [COLOR red](1982-1984)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/erWTSL8K</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/15oyEyo2RMljlMFPXqiyQ5Ef16f.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
 <item>
 <title> [COLOR blue][B]Conan, o Bárbaro[/B][/COLOR] [COLOR red](1982)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jhMTrkn-_KJcg4EDcdxOrjlZQWWhlIXF/view</link>
@@ -588,21 +471,6 @@ channels>
 <genre>[COLOR red]AVENTURA, FANTASIA, AÇÃO[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Chucky - O Brinquedo Assassino[/B][/COLOR] [COLOR red](1988-2017)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/QZzTrjaD</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/oauDHoKZJh7Ul2JKNkb4GjRMmM8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/8DkJrxEyRN8gTseEhajybpC5smK.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Chucky - O Brinquedo Assassino[/B][/COLOR] [COLOR red](1988-2017)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/QZzTrjaD</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/oauDHoKZJh7Ul2JKNkb4GjRMmM8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/8DkJrxEyRN8gTseEhajybpC5smK.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
 <item>
 <title> [COLOR blue][B]Brinquedo Assassino[/B][/COLOR] [COLOR red](1988)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cfDHH_RRLKSpHxQ3gza98WycTTyZvtEs/view</link>
@@ -667,15 +535,7 @@ channels>
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Debi & Lóide[/B][/COLOR] [COLOR red](1994-2014)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/S2ZQ6uam</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/3PEAkZHa8ehfUkuKbzmQNRTTAAs.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/c5F5lNJOr9w8gb9J5XXMl4z6tuq.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Debi & Lóide - Dois Idiotas em Apuros[/B][/COLOR] [COLOR red](1994)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KL04p5WXyHFSn1Wxp-ffy1sr536ew9Hh/view</link>
@@ -696,16 +556,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]COMÉDIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Doze é Demais[/B][/COLOR] [COLOR red](2003-2005)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/DJjFLThR</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/jPNKvDZrqSL20sWWgnNM1FATJ9Q.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/96edCz5QWs2SNd65jeeBAVQRbcq.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Doze é Demais[/B][/COLOR] [COLOR red](2003)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z8GvxcgjdDjcbOKHTRVZ4T9EWpFNtNQC/view</link>
@@ -724,16 +575,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]COMÉDIA, FAMÍLIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Esqueceram de Mim[/B][/COLOR] [COLOR red](1990-1992)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/68QkShrW</externallink>
-<thumbnail>https://i.imgur.com/mAZhBzo.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vUyDnfk7DHaozfl1cXFh6PzbUW4.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Esqueceram de Mim[/B][/COLOR] [COLOR red](1990)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19o3C1hSEhfH6xJL91dzdQbgDtzcb7rOW/view</link>
@@ -752,15 +594,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]COMÉDIA, FAMÍLIA AVENTURA, CRIME[/COLOR]</genre>
 </item>
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Free Willy[/B][/COLOR] [COLOR red](1993-2010)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/D4dgetij</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/5Os6y44EBABDl55oM6Fu3g1bCsU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7CNgefk746czQzTVqSuf8yYQxOS.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Free Willy[/B][/COLOR] [COLOR red](1993)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UL7g8asYTJfxa3QFo4xdY_5HMMsm--Rx/view</link>
@@ -790,14 +624,6 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
  
  
  
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Indiana Jones[/B][/COLOR] [COLOR red](1981-2008)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/nA69b1VB</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dU1CArBM4YsKLfG8YvhtuTJJaGR.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
 <item>
 <title> [COLOR blue][B]Indiana Jones e os Caçadores da Arca Perdida[/B][/COLOR] [COLOR red](1981)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S22IedCFGdpziApS3g5VqWu2H56EaULH/view</link>
@@ -834,16 +660,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]AVENTURA, AÇÃO[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Karatê Kid[/B][/COLOR] [COLOR red](1984-2010)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/KiZaZuF5</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ntyzTrOPxo45OR6htBHlKSJfcze.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/whUDmA3rjIa7z3rdjzX4N9X9HDC.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Karatê Kid - A Hora da Verdade[/B][/COLOR] [COLOR red](1984)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jxA4ivT9WweiSAUOOBW3jVs-3_nRNbX9/view</link>
@@ -880,16 +697,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]AÇÃO, AVENTURA, DRAMA, FAMÍLIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Mad Max[/B][/COLOR] [COLOR red](1979-2015)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/bgxDh62v</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/gRHNiFFxXlx0mlpxZMZqZCfBN5D.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/k95sN7BDpuFGhAwIn00t3z27NQs.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Mad Max[/B][/COLOR] [COLOR red](1979)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18tYyjKR0hfqCn_szHUzcM01xXsY4QnaS/view</link>
@@ -928,14 +736,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
  
  
  
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]MIB - Homens de Preto[/B][/COLOR] [COLOR red](1997-2012)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/LtZuSv53</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/7clRKHvRSXhpsTBMw7pyTjdNege.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/80wJYiTZq5b9sGjBRM5otNQ0Zd1.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre><item>
+<item>
 <title> [COLOR blue][B]MIB - Homens de Preto[/B][/COLOR] [COLOR red](1997)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gKk8K2k-cOQw0DS6Y5oRleeR1MJT4fl4/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gOoHufmtkQLbCP6z98f6c7ItRKO.jpg</thumbnail>
@@ -963,14 +764,6 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Os Vingadores[/B][/COLOR] [COLOR red](2012-2018)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/yxKMxvqR</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/n3G6dLQPDDdKvUKWMlCI7LRH9TQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6zyH2IiTBEdVrT7Y47
 <item>
 <title> [COLOR blue][B]Os Vingadores[/B][/COLOR] [COLOR red](2012)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uyPgiztEqFXItvOu_ZnswYBfKbLPQK2E/view</link>
@@ -998,16 +791,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]AVENTURA, AÇÃO, FANTASIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]O Poderoso Chefão[/B][/COLOR] [COLOR red](1972-1990)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/CHSJK4SU</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/9nzglwFdTHiuMQFzIXHVmkkJdI1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zaD8H902w5q6LmZTnJspFRRwsyO.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]O Poderoso Chefão[/B][/COLOR] [COLOR red](1972)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11EKbVCgyTBfX9m0pNhpbxz3tBLJo5XIo/view</link>
@@ -1036,15 +820,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Piratas do Caribe[/B][/COLOR] [COLOR red](2003-2017)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/BZcFLgzC</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/pEQLs5mSt2dhDpiPZFRMIMZuFTg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/81I06XzAVJKTEzt8CXq1fSYraBv.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Piratas do Caribe - A Maldição do Pérola Negra[/B][/COLOR] [COLOR red](2003)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZuF1U9QkmiFZ0l-xtvIF_PxmSo1MgBhq/view</link>
@@ -1090,16 +866,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]AVENTURA, AÇÃO, FANTASIA, COMÉDIA[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Rambo[/B][/COLOR] [COLOR red](1982-2008)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/gKqy9Vhm</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4RWn8xUQccAR1ymImvNM17u8trw.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xiBsA8Qj5KhO4cUKz6RHDtKpBGs.jpg</fanart>
-<genre>[COLOR silver]Dublagem Clássica[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Rambo - Programado Para Matar[/B][/COLOR] [COLOR red](1982)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
@@ -1136,16 +903,7 @@ Passaram-se exatamente vinte anos desde que deixámos Lloyd e Harry com as suas 
 <genre>[COLOR red]AÇÃO, THRILLER[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]RoboCop[/B][/COLOR] [COLOR red](1987-1993)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/NtXBsrhJ</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/SHvUi5f7Gft49vdTNCGwS1PN4F.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/szd5SbG2ASP4CUZeF9bdoJ4tVn7.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+>
 <item>
 <title> [COLOR blue][B]RoboCop - O Policial do Futuro[/B][/COLOR] [COLOR red](1987)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EQnvhpfrwuhucCo7VVK44nbGHNYWv-Uy/view</link>
@@ -1176,16 +934,7 @@ A corporação OCP transformou Detroit num campo de batalha, abrindo caminho par
 <genre>[COLOR red]AÇÃO, AVENTURA, CRIME, FICÇÃO, THRILLER[/COLOR]</genre>
 </item>
  
- 
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]Superman[/B][/COLOR] [COLOR red](1978-1987)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/uNngzWLh</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/pR3dEeprHwX6x9vzOhAD1PiOwdq.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/nS0rEXPbkHI449SF6R4WUQvTVxE.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]Superman - O Filme[/B][/COLOR] [COLOR red](1978)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mfsF13yqquTXUsn0ge0PV5BdkEJaXwtP/view</link>
@@ -1222,15 +971,7 @@ A corporação OCP transformou Detroit num campo de batalha, abrindo caminho par
 <genre>[COLOR red]AÇÃO AVENTURA FICÇÃO[/COLOR]</genre>
 </item>
  
- 
- 
-<channels>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]As Tartarugas Ninja[/B][/COLOR] [COLOR red](1991-1993)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/HRctvTkD</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/pawKbEMXX0wcAfV67yIwIc2evmv.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oBpA0TtEj9sf8uK3iCYvvp1725f.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
-<name>13ª Temporada</name>
+
 <item>
 <title> [COLOR blue][B]As Tartarugas Ninja[/B][/COLOR] [COLOR red](1990)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e8t72k38-cGEh7d9QTI54y-gx71BPfDG/view</link>
@@ -1262,15 +1003,7 @@ Um cetro mágico comprado pela jornalista April ONeill (Paige Turco) acidentalme
 </item>
  
  
- 
- 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]|COLEÇÃO:[/B] [COLOR blue][B]X-Men[/B][/COLOR] [COLOR red](2000-2016)[/COLOR]</name>
-<externallink>https://pastebin.com/raw/Y0b10nh2</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4kYj7fUJzhEg7xz8J3oMPi7gDww.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3jEq0f7DCa5ntRdHshDJUi9272K.jpg</fanart>
-<genre>[COLOR silver]Coleção Filmes[/COLOR]</genre>
+
 <item>
 <title> [COLOR blue][B]X-Men - O Filme[/B][/COLOR] [COLOR red](2000)[/COLOR] [COLOR red][B]DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zkG-3qAImsmDCVEKUx4mu4eIxrYO2qRY/view</link>
