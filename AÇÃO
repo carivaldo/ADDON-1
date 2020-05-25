@@ -1,4 +1,37 @@
-
+  
+   
+   
+   
+   <item> 
+1   <title>[B][COLOR blue] John Wick 2: Um Novo Dia para Matar - [COLOR red](2017) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/1Q3ZGg3P0J0ARB_mwMi2XE072qrX002Z3/view</link>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo
+[/COLOR red]</info>  
+</item>
+ 
+ <item> 
+1   <title>[B][COLOR blue] John Wick 3: Parabellum - [COLOR red](2019) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UZ3LP6u15qnLloglEOIoK5YgbwGASvVM/view</link>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de US$ 14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.
+[/COLOR red]</info>  
+</item>
+ 
+<item> 
+1   <title>[B][COLOR blue] Uma Mente Brilhante  - [COLOR red](2001) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CFIuTHUbBjLKFQuDUr4HQ-JjfpNd9XCt/view</link>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/emI82b8ndgDAdqFOWfVZId5EkID.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/9PwUQZDHGPKsgbnoBl1Ah9zXWjk.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE: John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega até mesmo a ser diagnosticado como esquizofrênico pelos médicos que o tratam. Porém, após anos de luta para se recuperar, ele consegue retornar à sociedade e acaba sendo premiado com o Nobel.
+[/COLOR red]</info>  
+</item>   
+   
 <item> 
 1   <title>[B][COLOR blue]3 Dias para Matar - [COLOR red](2014) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZNZKutJXfaZ8eGpEYuL10AuQiV7iF-O4/view</link>
@@ -229,13 +262,6 @@
 <info>Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.</info>
 </item>
 
-<item>
-<title>[B][COLOR blue]John Wick 3: Parabellum- [COLOR red](2019)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UZ3LP6u15qnLloglEOIoK5YgbwGASvVM/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg</fanart>
-<info>Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de US$ 14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.</info>
-</item>
 
 <item>
 <title>[B][COLOR blue]RED - Aposentados e Perigosos- [COLOR red](2010)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
