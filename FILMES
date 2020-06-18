@@ -13,6 +13,27 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<channels> 
+<channel>
+<name>[COLOR red]AVENTURA [/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/AVENTURA</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/tCQ7bAoKeJysRXZCGLdawk5Oosp.jpg</fanart>
+<info> 
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+
+
+
 <channels>
 <channel>
 <name>[COLOR red]NACIONAIS[/COLOR]</name>
