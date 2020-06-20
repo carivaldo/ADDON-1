@@ -1,9 +1,22 @@
-  
+
+
+
+<item> 
+1   <title>[B][COLOR blue] O Homem Invisível [COLOR red](2020)- [COLOR blue](FULLHD)[/COLOR][/B]</title>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XXKLJiw8y-PjymC6-evhfelaBvxEjS_L/view</link>
+1   <thumbnail>https://image.tmdb.org/t/p/original/2VNPPiycsbnbAP9shfECCrI6pSb.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick]ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:
+[COLOR red]Refilmagem do clássico de 1933. Na trama, um cientista brilhante descobre como se tornar invisível. Mas sua invenção acaba custando sua sanidade.[/COLOR][/B]</info>  
+</item>
+
+
   <item> 
 1   <title>[B][COLOR blue] Line of Duty - A Última Chance  - [COLOR red](2020) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15lAQkKzKgc0ZHe0_ihs_qZGCanJKhrqY/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vQ0bDVcCpsUIwxxTnz6ESRUt.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/ygIHxA8EB246fwnNlHn6gN1QCf4.jpg</fanart>
 1   <info>[B][COLOR red]SINOPSE:Um policial desonrado encontra-se em uma corrida contra o tempo para encontrar uma vítima de seqüestro cujo sequestrador ele acidentalmente matou.
 [/COLOR red]</info>  
@@ -151,16 +164,6 @@
 <info>Depois que um terremoto destrói sua estação subaquática, seis pesquisadores devem navegar três quilômetros ao longo das perigosas profundezas desconhecidas do fundo do oceano para garantir a segurança em uma corrida contra o tempo.</info>
 </item>
 
-<item> 
-1   <title>[B][COLOR blue] O Homem Invisível [COLOR red](2020)- [COLOR blue](FULLHD)[/COLOR][/B]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/124v0LnLvlNS5UWWXxyfaXdeD3aazOaxH/view?</link>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ak6TNDomX_3kpUYVlxbFbgSBKUZqL9X2/view?</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/2VNPPiycsbnbAP9shfECCrI6pSb.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick]Drama,</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:
-[COLOR red]Refilmagem do clássico de 1933. Na trama, um cientista brilhante descobre como se tornar invisível. Mas sua invenção acaba custando sua sanidade.[/COLOR][/B]</info>  
-</item>
 
 <item>
 <title>[B][COLOR blue]Bad Boys Para Sempre - [COLOR red](2020)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
