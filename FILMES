@@ -1,3 +1,21 @@
+
+https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES%20EM%20TORRENTS
+
+<channels>
+<channel>
+<name>[COLOR red]LANCAMENTOS[/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES%20EM%20TORRENTS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[COLOR red]LANCAMENTOS[/COLOR]</name>
