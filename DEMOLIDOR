@@ -1,7 +1,9 @@
+
+
 ****************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR blue][1ªTEMPORADA][/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -12,8 +14,8 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue][COLOR blue]S01E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sruCXxThqKPwj3xHwkL0FwbnvB17Uk4y/view</link>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue][COLOR blue] DEMOLIDOR [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D82FDC7F301ECD69B927CE693C89CD7F52EDC217&dn=Demolidor%202015%20-%201%C2%AA%20Temporada%20Completa%20%5bBluRay%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
@@ -21,137 +23,6 @@
 [COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
 <item>
 
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]2 [COLOR blue]- [COLOR blue][COLOR blue]S01E02 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19W8F-dxDzN9f_EJME9PLHvkzJAGmwAal/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]3 [COLOR blue]- [COLOR blue][COLOR blue]S01E03 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/172vp75hJuAVQh-8ITZooLCI07adS4AK9/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]4 [COLOR blue]- [COLOR blue][COLOR blue]S01E04 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mFa2Hr7FLRdFTYQWyUqmyTFrCq1mCSFP/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]5 [COLOR blue]- [COLOR blue][COLOR blue]S01E05 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AXaDuRenMgWLLR5BLx5-sdpzIDqLfwEn/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]6 [COLOR blue]- [COLOR blue][COLOR blue]S01E06 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zwAGFXFRIuJJZhhHvri3uXKt38so2ygO/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]7 [COLOR blue]- [COLOR blue][COLOR blue]S01E07 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CtxzkIhePbb91ejCvPD-s6r51cnApp0J/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]8 [COLOR blue]- [COLOR blue][COLOR blue]S01E08 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M-HNcr3yrjIu4hOPO4inawmC4rY0MIo1/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]9 [COLOR blue]- [COLOR blue][COLOR blue]S01E09 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fpkF_p0DS7BKRTeaWG1xNOXD8L8F2De0/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]10 [COLOR blue]- [COLOR blue][COLOR blue]S01E10 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10FDhO7VKMoxsSktQN80LyY8etqbdGkZs/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]11 [COLOR blue]- [COLOR blue][COLOR blue]S01E11[COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1so73Oh70as2JeAu8A2J57Wio9Wn-MgAp/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]12 [COLOR blue]- [COLOR blue][COLOR blue]S01E12 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17fnJdoZ0P3pWo9q4c9nCx3rjaVGrxzz8/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]13 [COLOR blue]- [COLOR blue][COLOR blue]S01E13 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-axpgj8YT08UOWwLBoTWXxiNyHqWnxPG/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
 
 
 ****************************************************************************************************************************
@@ -168,8 +39,8 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue][COLOR blue]S02E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1msvvSlkD8ILLetXqiJFy410Omqv-9N-Q/view</link>
+1	<title>[B][COLOR red]• [COLOR red] [COLOR blue]- [COLOR blue][COLOR blue]DEMOLIDOR [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:564D12CC4670F6D6F88B35F23784BD666C15F626&dn=Demolidor%202016%20-%202%C2%AA%20Temporada%20Completa%20%5bWEBRip%5d%20WWW.BLUDV.COM&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
@@ -177,142 +48,12 @@
 [COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
 <item>
 
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]2 [COLOR blue]- [COLOR blue][COLOR blue]S02E02 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zc3rT_1VNU20Hkz8IXqDhZmAsYH_UJw2/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
 
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]3 [COLOR blue]- [COLOR blue][COLOR blue]S02E03 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bLzJUYMaLiiRbJWltvPICGkUsqEKggMh/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]4 [COLOR blue]- [COLOR blue][COLOR blue]S02E04 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ESlaV3kbaBaI_Fa9EiXREh08oAASzO92/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]5 [COLOR blue]- [COLOR blue][COLOR blue]S02E05 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1to09ejzWdAOgZ6y_QuRKlXaSNR4gR1NL/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]6 [COLOR blue]- [COLOR blue][COLOR blue]S02E06 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QfFciFdRVVGal_zQm7RicurpX3UhtEH4/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]7 [COLOR blue]- [COLOR blue][COLOR blue]S02E07 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bm5O_52xdGYdrHZgE5naFBz4uRmzCd6h/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]8 [COLOR blue]- [COLOR blue][COLOR blue]S02E08 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DxYC38Z9G5UQYbcI7nmXQYz3PuKiGAXb/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]9 [COLOR blue]- [COLOR blue][COLOR blue]S02E09 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JidLPEAf0RQK80OoPELGqKstGsip7y8W/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]10 [COLOR blue]- [COLOR blue][COLOR blue]S02E10 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C7d9UUvVkm9JvO_UIsGjBzxoB_YJ_BWB/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]11 [COLOR blue]- [COLOR blue][COLOR blue]S02E11 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WGvr5I7NoSOB6yzvxUHtIFD2Izhc5sxH/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]12 [COLOR blue]- [COLOR blue][COLOR blue]S02E012 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X1_LlECoM4iHzOd9Q-xv5drwSCbEgMm2/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]13 [COLOR blue]- [COLOR blue][COLOR blue]S02E13 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1npFe3JmhyVJiayv24jTS4gDQzLb95EAV/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
 
 ****************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR blue][3ªTEMPORADA][/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -323,136 +64,11 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]- [COLOR blue][COLOR blue]S03E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Za4le5WXo5v0BMa35I79r5LFd5rSACDG/view</link>
+1	<title>[B][COLOR red]• [COLOR red] [COLOR blue]- [COLOR blue][COLOR blue]DEMOLIDOR [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A21DAF67328D9E4AB9A8A7113B3D987F5FB85E5A&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Demolidor%203%C2%AA%20Temporada%20Completa%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
 1	<info>[B][COLOR red] SINOPSE:
 [COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
 <item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]2 [COLOR blue]- [COLOR blue][COLOR blue]S03E02 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V6QDGhZDDuIj4kku6xXkVZYfLaUi1FaI/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]3 [COLOR blue]- [COLOR blue][COLOR blue]S03E03 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iuMMxx55tnbu5PvMRUWmY0yyyGMoatSX/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]4 [COLOR blue]- [COLOR blue][COLOR blue]S03E04 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_yKobgc4NZPzUPBH3lZHDv5BOMQRkQYZ/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]5 [COLOR blue]- [COLOR blue][COLOR blue]S03E05 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19RUSsZWxw4ZuNwElC9zI5QGBCAWdR7EE/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]6 [COLOR blue]- [COLOR blue][COLOR blue]S03E06 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EDGFZ98yymIDzOpmZyfaToRpNmklV9Ac/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]7 [COLOR blue]- [COLOR blue][COLOR blue]S03E07 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KQ8bcBQI3_wIVKrecnzJPLDgWsqAsdGw/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]8 [COLOR blue]- [COLOR blue][COLOR blue]S03E08 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16tClAuZlzcTJFrdOdVcdUxjkTSX-SleM/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]9 [COLOR blue]- [COLOR blue][COLOR blue]S03E09 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yutv_lPXGn44MYiFtJzpYTtND3GwBKbO/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]10 [COLOR blue]- [COLOR blue][COLOR blue]S03E10 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Kh6WEW8f_pN-aR4f8SSq1WaGu1q2c8wc/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]11 [COLOR blue]- [COLOR blue][COLOR blue]S03E11 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12vhivseCY99tJP1LlRAprvId92GxsS_Z/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]12 [COLOR blue]- [COLOR blue][COLOR blue]S03E12 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yMccG1ZuyLr_mNiomc2gRcH0bcPt-kp9/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]13 [COLOR blue]- [COLOR blue][COLOR blue]S03E13 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ka77FANWfomUPn0BbJZ6u78KLXjOiTtX/view</link>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/jy8zlPPD3LQZa2Cq41iRg6IXD7u.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]O advogado de dia Matt Murdock usa seus sentidos aguçados de ser cego quando jovem para combater o crime à noite nas ruas de Hell's Kitchen como Demolidor.[/COLOR][/B]</info>		
-<item>
-
-
-
-
-
