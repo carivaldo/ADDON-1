@@ -1,441 +1,545 @@
 ***************************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR blue] Better Call Saul (2015) [COLOR white] - [COLOR red][1ª Temporada][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] Better Call Saul (2015) [COLOR red] - [COLOR red][1ª Temporada][/COLOR][/B]</name>
 <genre></genre>
 <info>[B][COLOR blue] SINOPSE:
-[COLOR white]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
+[COLOR red]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
 </info>
 ***************************************************************************************************************************************
 <item>	
-1	<title>[B][COLOR white]• [COLOR red]1 [COLOR white]- [COLOR blue] Um[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+1	<title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6184047F9AB4D106F21CD8C096D55F19FD6553F&dn=Better%20Call%20Saul%201%c2%aa%20Temporada%20%282015%29%20-%20Dual%20%c3%81udio%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
+1	<genre></genre>
+1	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
+1	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy McGill tenta se livrar de um passado suspeito, mas surge uma oportunidade que sopra nova vida a seus velhos truques. </info>	
+</item>	
+
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Um[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1dqhBQlPVsNSkbmbtNNNjH-V3Fsf2M_HU/view?usp=sharing</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 1	<genre></genre>
 1	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 1	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy McGill tenta se livrar de um passado suspeito, mas surge uma oportunidade que sopra nova vida a seus velhos truques. </info>	
+[COLOR red]Jimmy McGill tenta se livrar de um passado suspeito, mas surge uma oportunidade que sopra nova vida a seus velhos truques. </info>	
 </item>	
 <item>	
-2	<title>[B][COLOR white]• [COLOR red]2 [COLOR white]- [COLOR blue] Mijo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+2	<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Mijo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1m8GEjodz_u3NS6zunbRQWIZW9wS7lP0L/view?usp=sharing</link>
 2	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 2	<genre></genre>
 2	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 2	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Num confronto tenso com criminosos, a única arma de Jimmy é sua lábia. </info>	
+[COLOR red]Num confronto tenso com criminosos, a única arma de Jimmy é sua lábia. </info>	
 </item>	
 <item>	
-3	<title>[B][COLOR white]• [COLOR red]3 [COLOR white]- [COLOR blue] Nacho[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+3	<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Nacho[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 3	#REF!
 3	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 3	<genre></genre>
 3	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 3	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Com seu novo cliente detido, Jimmy tenta despistar a polícia e se safar ao mesmo tempo. </info>	
+[COLOR red]Com seu novo cliente detido, Jimmy tenta despistar a polícia e se safar ao mesmo tempo. </info>	
 </item>	
 <item>	
-4	<title>[B][COLOR white]• [COLOR red]4 [COLOR white]- [COLOR blue] Herói[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+4	<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Herói[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 4	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/15Hxz03yi6VdquL16n-U094b_pH9CseBu/view?usp=sharing</link>
 4	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 4	<genre></genre>
 4	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 4	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Desesperado com a falta de clientes, Jimmy encontra um jeito de melhorar os negócios e até ter um gostinho de vingança. </info>	[COLOR white]Desesperado com a falta de clientes, Jimmy encontra um jeito de melhorar os negócios e até ter um gostinho de vingança. </info>
+[COLOR red]Desesperado com a falta de clientes, Jimmy encontra um jeito de melhorar os negócios e até ter um gostinho de vingança. </info>	[COLOR red]Desesperado com a falta de clientes, Jimmy encontra um jeito de melhorar os negócios e até ter um gostinho de vingança. </info>
 </item>	
 <item>	
-5	<title>[B][COLOR white]• [COLOR red]5 [COLOR white]- [COLOR blue] Gelatina[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+5	<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Gelatina[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 5	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1SCsajJJIeCrjYAokGju-NzSNb67iD7m-/view?usp=sharing</link>
 5	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 5	<genre></genre>
 5	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 5	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy testa suas habilidades numa nova área de especialização e faz o possível para cuidar de Chuck. </info>	[COLOR white]Jimmy testa suas habilidades numa nova área de especialização e faz o possível para cuidar de Chuck. </info>
+[COLOR red]Jimmy testa suas habilidades numa nova área de especialização e faz o possível para cuidar de Chuck. </info>	[COLOR red]Jimmy testa suas habilidades numa nova área de especialização e faz o possível para cuidar de Chuck. </info>
 </item>	
 <item>	
-6	<title>[B][COLOR white]• [COLOR red]6 [COLOR white]- [COLOR blue] Cinco ó[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+6	<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Cinco ó[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 6	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1tQWWX8NscLrKuI9l4Cp4-pGqUkHOJe60/view?usp=sharing</link>
 6	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 6	<genre></genre>
 6	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 6	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Mike precisa de um favor, e Jimmy não hesita em ajudar. Mas restam esqueletos no armário de Mike. </info>	[COLOR white]Mike precisa de um favor, e Jimmy não hesita em ajudar. Mas restam esqueletos no armário de Mike. </info>
+[COLOR red]Mike precisa de um favor, e Jimmy não hesita em ajudar. Mas restam esqueletos no armário de Mike. </info>	[COLOR red]Mike precisa de um favor, e Jimmy não hesita em ajudar. Mas restam esqueletos no armário de Mike. </info>
 </item>	
 <item>	
-7	<title>[B][COLOR white]• [COLOR red]7 [COLOR white]- [COLOR blue] Bingo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+7	<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Bingo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 7	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_rmcIb0itllI7GqVooFF66Romj81OXgF/view?usp=sharing</link>
 7	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 7	<genre></genre>
 7	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 7	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy arruma clientes, mas também ganha problemas de ordem pessoal e profissional. Nada que um pouco de ajuda anônima não resolva. </info>	[COLOR white]Jimmy arruma clientes, mas também ganha problemas de ordem pessoal e profissional. Nada que um pouco de ajuda anônima não resolva. </info>
+[COLOR red]Jimmy arruma clientes, mas também ganha problemas de ordem pessoal e profissional. Nada que um pouco de ajuda anônima não resolva. </info>	[COLOR red]Jimmy arruma clientes, mas também ganha problemas de ordem pessoal e profissional. Nada que um pouco de ajuda anônima não resolva. </info>
 </item>	
 <item>	
-8	<title>[B][COLOR white]• [COLOR red]8 [COLOR white]- [COLOR blue] Rico[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+8	<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Rico[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 8	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1KWeBWg3DIpcXff5cRe2wTdQ1KHEUiufG/view?usp=sharing</link>
 8	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 8	<genre></genre>
 8	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 8	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Uma empresa com más intenções revigora o lado investigador de Jimmy e dá uma injeção de ânimo em Chuck. </info>	[COLOR white]Uma empresa com más intenções revigora o lado investigador de Jimmy e dá uma injeção de ânimo em Chuck. </info>
+[COLOR red]Uma empresa com más intenções revigora o lado investigador de Jimmy e dá uma injeção de ânimo em Chuck. </info>	[COLOR red]Uma empresa com más intenções revigora o lado investigador de Jimmy e dá uma injeção de ânimo em Chuck. </info>
 </item>	
 <item>	
-9	<title>[B][COLOR white]• [COLOR red]9 [COLOR white]- [COLOR blue] Pimentão[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+9	<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Pimentão[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 9	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/10sM23QP2Kywdg0Kty__aYqnZ5YljoP84/view?usp=sharing</link>
 9	<thumbnail>https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg</thumbnail>
 9	<genre></genre>
 9	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 9	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Quando Jimmy finalmente consegue um cliente graúdo, ele é forçado a engolir um sapo e procurar ajuda. Mike ingressa no mercado de trabalho. </info>	[COLOR white]Quando Jimmy finalmente consegue um cliente graúdo, ele é forçado a engolir um sapo e procurar ajuda. Mike ingressa no mercado de trabalho. </info>
+[COLOR red]Quando Jimmy finalmente consegue um cliente graúdo, ele é forçado a engolir um sapo e procurar ajuda. Mike ingressa no mercado de trabalho. </info>	[COLOR red]Quando Jimmy finalmente consegue um cliente graúdo, ele é forçado a engolir um sapo e procurar ajuda. Mike ingressa no mercado de trabalho. </info>
 </item>	
 <item>	
-10	<title>[B][COLOR white]• [COLOR red]10 [COLOR white]- [COLOR blue] Quadro[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+10	<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Quadro[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 10	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1L4OIBf015lXA0epDkbYckrMRMQvogz85/view?usp=sharing</link>
 10	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 10	<genre></genre>
 10	<fanart>https://image.tmdb.org/t/p/original/x1bdE3BEmgsX27ErE6W9WY2y06B.jpg</fanart>
 10	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy volta para sua cidade natal e cruza com o parceiro dos seus tempos de golpista. Num piscar de olhos, os dois retomam os hábitos da juventude. </info>	[COLOR white]Jimmy volta para sua cidade natal e cruza com o parceiro dos seus tempos de golpista. Num piscar de olhos, os dois retomam os hábitos da juventude. </info>
+[COLOR red]Jimmy volta para sua cidade natal e cruza com o parceiro dos seus tempos de golpista. Num piscar de olhos, os dois retomam os hábitos da juventude. </info>	[COLOR red]Jimmy volta para sua cidade natal e cruza com o parceiro dos seus tempos de golpista. Num piscar de olhos, os dois retomam os hábitos da juventude. </info>
 </item>	
 ***************************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR blue] Better Call Saul (2015) [COLOR white] - [COLOR red][2ª Temporada][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] Better Call Saul (2015) [COLOR red] - [COLOR red][2ª Temporada][/COLOR][/B]</name>
 <genre></genre>
 <info>[B][COLOR blue] SINOPSE:
-[COLOR white]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
+[COLOR red]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
 </info>
 ***************************************************************************************************************************************
+
+
 <item>	
-11	<title>[B][COLOR white]• [COLOR red]1 [COLOR white]- [COLOR blue] Interruptor[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+11	<title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+11	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8AA6DA526E9B01CFD40AEE86C5FFE7E5A8CF09&dn=Better%20Call%20Saul%20-%202%c2%aa%20Temporada%20%282016%29%20Dual%20%c3%81udio%20%2b%20Legendas%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+11	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
+11	<genre></genre>
+11	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
+11	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>	[COLOR red]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>
+</item>
+
+<item>	
+11	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Interruptor[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 11	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1K3runyLzHu0-g3qaQJorfc25OAkKPj3G/view?usp=sharing</link>
 11	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 11	<genre></genre>
 11	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 11	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>	[COLOR white]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>
+[COLOR red]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>	[COLOR red]Decidido a viver a vida plenamente, Jimmy apresenta seu outro lado a Kim. Mike se livra de um cliente inexperiente. </info>
 </item>	
 <item>	
-12	<title>[B][COLOR white]• [COLOR red]2 [COLOR white]- [COLOR blue] Torta Cremosa[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+12	<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Torta Cremosa[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 12	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1c-To9WLoeejCoAbU0fu5w7BaY2Q0fiSV/view?usp=sharing</link>
 12	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 12	<genre></genre>
 12	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 12	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Mike tenta resolver um impasse antes de o caldo entornar, mas divide parte da dor de cabeça com Jimmy. </info>	[COLOR white]Mike tenta resolver um impasse antes de o caldo entornar, mas divide parte da dor de cabeça com Jimmy. </info>
+[COLOR red]Mike tenta resolver um impasse antes de o caldo entornar, mas divide parte da dor de cabeça com Jimmy. </info>	[COLOR red]Mike tenta resolver um impasse antes de o caldo entornar, mas divide parte da dor de cabeça com Jimmy. </info>
 </item>	
 <item>	
-13	<title>[B][COLOR white]• [COLOR red]3 [COLOR white]- [COLOR blue] Amarillo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+13	<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Amarillo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 13	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ZJJ2BgPsc-OPuG4xXxCsewucGdxsQTf_/view?usp=sharing</link>
 13	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 13	<genre></genre>
 13	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 13	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy tenta encontrar mais vítimas da rede de casas de repouso, mas começa a levantar suspeitas. É hora de mudar de estratégia e usar o charme. </info>	[COLOR white]Jimmy tenta encontrar mais vítimas da rede de casas de repouso, mas começa a levantar suspeitas. É hora de mudar de estratégia e usar o charme. </info>
+[COLOR red]Jimmy tenta encontrar mais vítimas da rede de casas de repouso, mas começa a levantar suspeitas. É hora de mudar de estratégia e usar o charme. </info>	[COLOR red]Jimmy tenta encontrar mais vítimas da rede de casas de repouso, mas começa a levantar suspeitas. É hora de mudar de estratégia e usar o charme. </info>
 </item>	
 <item>	
-14	<title>[B][COLOR white]• [COLOR red]4 [COLOR white]- [COLOR blue] Além das Vias de Fato[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+14	<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Além das Vias de Fato[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 14	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1P_jhLcuMwVfPkBL5n4OYS_CvFl-DRbcL/view?usp=sharing</link>
 14	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 14	<genre></genre>
 14	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 14	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Mike estuda a possibilidade de fazer um serviço lucrativo, mas questionável. Jimmy tenta dar um jeito de reverter as consequências do vídeo que produziu. </info>	[COLOR white]Mike estuda a possibilidade de fazer um serviço lucrativo, mas questionável. Jimmy tenta dar um jeito de reverter as consequências do vídeo que produziu. </info>
+[COLOR red]Mike estuda a possibilidade de fazer um serviço lucrativo, mas questionável. Jimmy tenta dar um jeito de reverter as consequências do vídeo que produziu. </info>	[COLOR red]Mike estuda a possibilidade de fazer um serviço lucrativo, mas questionável. Jimmy tenta dar um jeito de reverter as consequências do vídeo que produziu. </info>
 </item>	
 <item>	
-15	<title>[B][COLOR white]• [COLOR red]5 [COLOR white]- [COLOR blue] Rebecca[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+15	<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Rebecca[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 15	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/18wPR4vProT2X_squAWiOrJTpCEQ9srKX/view?usp=sharing</link>
 15	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 15	<genre></genre>
 15	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 15	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Enquanto Kim se desdobra para recuperar seu cargo na firma, Jimmy se irrita com uma colega abaixo dele. Chuck relembra histórias de família. </info>	[COLOR white]Enquanto Kim se desdobra para recuperar seu cargo na firma, Jimmy se irrita com uma colega abaixo dele. Chuck relembra histórias de família. </info>
+[COLOR red]Enquanto Kim se desdobra para recuperar seu cargo na firma, Jimmy se irrita com uma colega abaixo dele. Chuck relembra histórias de família. </info>	[COLOR red]Enquanto Kim se desdobra para recuperar seu cargo na firma, Jimmy se irrita com uma colega abaixo dele. Chuck relembra histórias de família. </info>
 </item>	
 <item>	
-16	<title>[B][COLOR white]• [COLOR red]6 [COLOR white]- [COLOR blue] Bali Ha'i[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+16	<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Bali Ha'i[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 16	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1j6OXT2nSGZ25wswGVq4aCGt5qydtp0tT/view?usp=sharing</link>
 16	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 16	<genre></genre>
 16	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 16	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy volta a um endereço mais confortável, e Kim pondera uma proposta que vira a mesa. O serviço de Mike não foi tão definitivo. </info>	[COLOR white]Jimmy volta a um endereço mais confortável, e Kim pondera uma proposta que vira a mesa. O serviço de Mike não foi tão definitivo. </info>
+[COLOR red]Jimmy volta a um endereço mais confortável, e Kim pondera uma proposta que vira a mesa. O serviço de Mike não foi tão definitivo. </info>	[COLOR red]Jimmy volta a um endereço mais confortável, e Kim pondera uma proposta que vira a mesa. O serviço de Mike não foi tão definitivo. </info>
 </item>	
 <item>	
-17	<title>[B][COLOR white]• [COLOR red]7 [COLOR white]- [COLOR blue] Boneco Inflável[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+17	<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Boneco Inflável[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 17	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_7pAcml0XmZBgF9-mGH44uzIvbm-uJED/view?usp=sharing</link>
 17	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 17	<genre></genre>
 17	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 17	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy esbarra numa solução colorida para suas frustrações no escritório, e Kim mal pode esperar por uma oferta de emprego. </info>	[COLOR white]Jimmy esbarra numa solução colorida para suas frustrações no escritório, e Kim mal pode esperar por uma oferta de emprego. </info>
+[COLOR red]Jimmy esbarra numa solução colorida para suas frustrações no escritório, e Kim mal pode esperar por uma oferta de emprego. </info>	[COLOR red]Jimmy esbarra numa solução colorida para suas frustrações no escritório, e Kim mal pode esperar por uma oferta de emprego. </info>
 </item>	
 <item>	
-18	<title>[B][COLOR white]• [COLOR red]8 [COLOR white]- [COLOR blue] Fifi[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+18	<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Fifi[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 18	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1c-_LdZATiivdPSOVj-i2md17IpLtKK58/view?usp=sharing</link>
 18	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 18	<genre></genre>
 18	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 18	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Mike é pressionado de todos os lados e tenta tomar as rédeas do seu destino. Jimmy corre atrás de uma nova oportunidade que surge do nada. </info>	[COLOR white]Mike é pressionado de todos os lados e tenta tomar as rédeas do seu destino. Jimmy corre atrás de uma nova oportunidade que surge do nada. </info>
+[COLOR red]Mike é pressionado de todos os lados e tenta tomar as rédeas do seu destino. Jimmy corre atrás de uma nova oportunidade que surge do nada. </info>	[COLOR red]Mike é pressionado de todos os lados e tenta tomar as rédeas do seu destino. Jimmy corre atrás de uma nova oportunidade que surge do nada. </info>
 </item>	
 <item>	
-19	<title>[B][COLOR white]• [COLOR red]9 [COLOR white]- [COLOR blue] Pregado[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+19	<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Pregado[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 19	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1TxRtPcsEdBApbTMTjnaihG3m4nYh3uVA/view?usp=sharing</link>
 19	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 19	<genre></genre>
 19	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 19	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Chuck sofre um revés profissional e decide revelar o passado de Jimmy para Kim. Com uma carta na manga, Mike enfrenta Hector Salamanca. </info>	[COLOR white]Chuck sofre um revés profissional e decide revelar o passado de Jimmy para Kim. Com uma carta na manga, Mike enfrenta Hector Salamanca. </info>
+[COLOR red]Chuck sofre um revés profissional e decide revelar o passado de Jimmy para Kim. Com uma carta na manga, Mike enfrenta Hector Salamanca. </info>	[COLOR red]Chuck sofre um revés profissional e decide revelar o passado de Jimmy para Kim. Com uma carta na manga, Mike enfrenta Hector Salamanca. </info>
 </item>	
 <item>	
-20	<title>[B][COLOR white]• [COLOR red]10 [COLOR white]- [COLOR blue] Clique[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+20	<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Clique[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 20	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1tID2Wqn9lErG3r6vK1GCIG7L3PVLBgWQ/view?usp=sharing</link>
 20	<thumbnail>https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg</thumbnail>
 20	<genre></genre>
 20	<fanart>https://image.tmdb.org/t/p/original/nRZQxvozpSwf565W6SafGNP3c3M.jpg</fanart>
 20	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Com o colapso de Chuck, Jimmy precisa tomar decisões sem ter uma boa opção. Mike se prepara para uma missão no deserto. </info>	[COLOR white]Com o colapso de Chuck, Jimmy precisa tomar decisões sem ter uma boa opção. Mike se prepara para uma missão no deserto. </info>
+[COLOR red]Com o colapso de Chuck, Jimmy precisa tomar decisões sem ter uma boa opção. Mike se prepara para uma missão no deserto. </info>	[COLOR red]Com o colapso de Chuck, Jimmy precisa tomar decisões sem ter uma boa opção. Mike se prepara para uma missão no deserto. </info>
 </item>	
 ***************************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR blue] Better Call Saul (2015) [COLOR white] - [COLOR red][3ª Temporada][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] Better Call Saul (2015) [COLOR red] - [COLOR red][3ª Temporada][/COLOR][/B]</name>
 <genre></genre>
 <info>[B][COLOR blue] SINOPSE:
-[COLOR white]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
+[COLOR red]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
 </info>
 ***************************************************************************************************************************************
+
+
 <item>	
-21	<title>[B][COLOR white]• [COLOR red]1 [COLOR white]- [COLOR blue] Mabel[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+21	<title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+21	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AB1B50BCAB82E6AD33B9D1A64B788C322741707&dn=Better%20Call%20Saul%202017%20-%203%c2%aa%20Temporada%20Completa%20%5bWEBRip%5d%20%5b1080p%5d%20WWW.BLUDV.COM</link>
+21	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
+21	<genre></genre>
+21	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
+21	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>	[COLOR red]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>
+</item>	
+
+
+<item>	
+21	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Mabel[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 21	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1w-WQZls29cN9blZHGaqKSAoCkvpc0EY4/view?usp=sharing</link>
 21	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 21	<genre></genre>
 21	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 21	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>	[COLOR white]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>
+[COLOR red]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>	[COLOR red]Chuck planeja sua próxima tacada, e uma mentira de Jimmy bate à porta. Abalado, Mike procura descobrir quem está o seguindo, e investiga a nota deixada em seu carro. </info>
 </item>	
 <item>	
-22	<title>[B][COLOR white]• [COLOR red]2 [COLOR white]- [COLOR blue] Testemunha[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+22	<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Testemunha[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 22	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1wK39qDjDNehGF5B4rjM8-kjsswbwZzDH/view?usp=sharing</link>
 22	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 22	<genre></genre>
 22	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 22	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Cada vez mais perto de descobrir por quem está sendo seguido, Mike precisa da ajuda de Jimmy. A firma contrata mais uma pessoa, mas Kim recebe notícias preocupantes. </info>	[COLOR white]Cada vez mais perto de descobrir por quem está sendo seguido, Mike precisa da ajuda de Jimmy. A firma contrata mais uma pessoa, mas Kim recebe notícias preocupantes. </info>
+[COLOR red]Cada vez mais perto de descobrir por quem está sendo seguido, Mike precisa da ajuda de Jimmy. A firma contrata mais uma pessoa, mas Kim recebe notícias preocupantes. </info>	[COLOR red]Cada vez mais perto de descobrir por quem está sendo seguido, Mike precisa da ajuda de Jimmy. A firma contrata mais uma pessoa, mas Kim recebe notícias preocupantes. </info>
 </item>	
 <item>	
-23	<title>[B][COLOR white]• [COLOR red]3 [COLOR white]- [COLOR blue] Prejuízo Irrecuperáveis[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+23	<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Prejuízo Irrecuperáveis[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 23	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bAeGYgZF2aOnRBMmVBhw3npvT_pNwcaz/view?usp=sharing</link>
 23	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 23	<genre></genre>
 23	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 23	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Mike se encontra com a figura misteriosa que conheceu, e Jimmy encara as consequências da briga na casa de Chuck. </info>	[COLOR white]Mike se encontra com a figura misteriosa que conheceu, e Jimmy encara as consequências da briga na casa de Chuck. </info>
+[COLOR red]Mike se encontra com a figura misteriosa que conheceu, e Jimmy encara as consequências da briga na casa de Chuck. </info>	[COLOR red]Mike se encontra com a figura misteriosa que conheceu, e Jimmy encara as consequências da briga na casa de Chuck. </info>
 </item>	
 <item>	
-24	<title>[B][COLOR white]• [COLOR red]4 [COLOR white]- [COLOR blue] Sabrosito[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+24	<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Sabrosito[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 24	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1JnngkBrvCqyj_-QFl7g37G_iZIoKjLHA/view?usp=sharing</link>
 24	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 24	<genre></genre>
 24	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 24	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Um confronto na taqueria Los Pollos Hermanos finalmente traz inimizades à tona. Kim ajuda Jimmy a se preparar para uma audiência de irmão contra irmão. </info>	[COLOR white]Um confronto na taqueria Los Pollos Hermanos finalmente traz inimizades à tona. Kim ajuda Jimmy a se preparar para uma audiência de irmão contra irmão. </info>
+[COLOR red]Um confronto na taqueria Los Pollos Hermanos finalmente traz inimizades à tona. Kim ajuda Jimmy a se preparar para uma audiência de irmão contra irmão. </info>	[COLOR red]Um confronto na taqueria Los Pollos Hermanos finalmente traz inimizades à tona. Kim ajuda Jimmy a se preparar para uma audiência de irmão contra irmão. </info>
 </item>	
 <item>	
-25	<title>[B][COLOR white]• [COLOR red]5 [COLOR white]- [COLOR blue] Sacanagem[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+25	<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Sacanagem[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 25	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1qabh1YSAyJPFQVG02Q0R3ZD-vHJm71Zg/view?usp=sharing</link>
 25	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 25	<genre></genre>
 25	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 25	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Conforme o dia da audiência perante a ordem dos advogados se aproxima, Jimmy e Kim organizam uma série de surpresas para Chuck. </info>	[COLOR white]Conforme o dia da audiência perante a ordem dos advogados se aproxima, Jimmy e Kim organizam uma série de surpresas para Chuck. </info>
+[COLOR red]Conforme o dia da audiência perante a ordem dos advogados se aproxima, Jimmy e Kim organizam uma série de surpresas para Chuck. </info>	[COLOR red]Conforme o dia da audiência perante a ordem dos advogados se aproxima, Jimmy e Kim organizam uma série de surpresas para Chuck. </info>
 </item>	
 <item>	
-26	<title>[B][COLOR white]• [COLOR red]6 [COLOR white]- [COLOR blue] Revolução de Branding[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+26	<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Revolução de Branding[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 26	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1tRz89zCuCDpnxebWTqiYomwcOsVOSK4d/view?usp=sharing</link>
 26	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 26	<genre></genre>
 26	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 26	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Chuck tenta entender o que rolou na audiência. Jimmy encontra um jeito de sair da pindaíba e Nacho se irrita com Don Hector. </info>	[COLOR white]Chuck tenta entender o que rolou na audiência. Jimmy encontra um jeito de sair da pindaíba e Nacho se irrita com Don Hector. </info>
+[COLOR red]Chuck tenta entender o que rolou na audiência. Jimmy encontra um jeito de sair da pindaíba e Nacho se irrita com Don Hector. </info>	[COLOR red]Chuck tenta entender o que rolou na audiência. Jimmy encontra um jeito de sair da pindaíba e Nacho se irrita com Don Hector. </info>
 </item>	
 <item>	
-27	<title>[B][COLOR white]• [COLOR red]7 [COLOR white]- [COLOR blue] Despesas[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+27	<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Despesas[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 27	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1KEwDgGBy4Gy1Sr49tAA5imTPKKo6pNQU/view?usp=sharing</link>
 27	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 27	<genre></genre>
 27	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 27	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]As despesas de Jimmy tornam-se um problema, Kim fica com a consciência pesada, e Nacho convence um antigo fornecedor a cooperar com seu plano contra Don Hector. </info>	[COLOR white]As despesas de Jimmy tornam-se um problema, Kim fica com a consciência pesada, e Nacho convence um antigo fornecedor a cooperar com seu plano contra Don Hector. </info>
+[COLOR red]As despesas de Jimmy tornam-se um problema, Kim fica com a consciência pesada, e Nacho convence um antigo fornecedor a cooperar com seu plano contra Don Hector. </info>	[COLOR red]As despesas de Jimmy tornam-se um problema, Kim fica com a consciência pesada, e Nacho convence um antigo fornecedor a cooperar com seu plano contra Don Hector. </info>
 </item>	
 <item>	
-28	<title>[B][COLOR white]• [COLOR red]8 [COLOR white]- [COLOR blue] Escorregar[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+28	<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Escorregar[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 28	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1VwEADGH7Rd_qQDZEjnSlPnCDBAzWnit7/view?usp=sharing</link>
 28	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 28	<genre></genre>
 28	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 28	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Quando seus clientes tentam desfazer uma compra de anúncios, Jimmy liga a câmera e entra em ação. Nacho treina sua jogada, e Mike faz uma parceria. </info>	[COLOR white]Quando seus clientes tentam desfazer uma compra de anúncios, Jimmy liga a câmera e entra em ação. Nacho treina sua jogada, e Mike faz uma parceria. </info>
+[COLOR red]Quando seus clientes tentam desfazer uma compra de anúncios, Jimmy liga a câmera e entra em ação. Nacho treina sua jogada, e Mike faz uma parceria. </info>	[COLOR red]Quando seus clientes tentam desfazer uma compra de anúncios, Jimmy liga a câmera e entra em ação. Nacho treina sua jogada, e Mike faz uma parceria. </info>
 </item>	
 <item>	
-29	<title>[B][COLOR white]• [COLOR red]9 [COLOR white]- [COLOR blue] Queda[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+29	<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Queda[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 29	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MdriOjSWH2M7qRFF0Vi3PTOp4VnvdcYd/view?usp=sharing</link>
 29	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 29	<genre></genre>
 29	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 29	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Um esquema acaba levando Jimmy de volta ao grupo Sandpiper. Chuck e Howard enxergam o futuro da firma de formas opostas, e Kim precisa agir para agradar um novo cliente. </info>	[COLOR white]Um esquema acaba levando Jimmy de volta ao grupo Sandpiper. Chuck e Howard enxergam o futuro da firma de formas opostas, e Kim precisa agir para agradar um novo cliente. </info>
+[COLOR red]Um esquema acaba levando Jimmy de volta ao grupo Sandpiper. Chuck e Howard enxergam o futuro da firma de formas opostas, e Kim precisa agir para agradar um novo cliente. </info>	[COLOR red]Um esquema acaba levando Jimmy de volta ao grupo Sandpiper. Chuck e Howard enxergam o futuro da firma de formas opostas, e Kim precisa agir para agradar um novo cliente. </info>
 </item>	
 <item>	
-30	<title>[B][COLOR white]• [COLOR red]10 [COLOR white]- [COLOR blue] Lanterna[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+30	<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Lanterna[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 30	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1i2RbTGEapB-cu0dk9FAnvJWuCaB0WU2X/view?usp=sharing</link>
 30	<thumbnail>https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg</thumbnail>
 30	<genre></genre>
 30	<fanart>https://image.tmdb.org/t/p/original/bx4hSA3FruXR2VMQjgrpGcq7umk.jpg</fanart>
 30	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Traumatizada, Kim repensa suas prioridades. Jimmy tenta se redimir de um erro e Chuck enfrenta uma série de más notícias. </info>	[COLOR white]Traumatizada, Kim repensa suas prioridades. Jimmy tenta se redimir de um erro e Chuck enfrenta uma série de más notícias. </info>
+[COLOR red]Traumatizada, Kim repensa suas prioridades. Jimmy tenta se redimir de um erro e Chuck enfrenta uma série de más notícias. </info>	[COLOR red]Traumatizada, Kim repensa suas prioridades. Jimmy tenta se redimir de um erro e Chuck enfrenta uma série de más notícias. </info>
 </item>	
 ***************************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR blue] Better Call Saul (2015) [COLOR white] - [COLOR red][4ª Temporada][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] Better Call Saul (2015) [COLOR red] - [COLOR red][4ª Temporada][/COLOR][/B]</name>
 <genre></genre>
 <info>[B][COLOR blue] SINOPSE:
-[COLOR white]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
+[COLOR red]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
 </info>
 ***************************************************************************************************************************************
+
+
+
 <item>	
-31	<title>[B][COLOR white]• [COLOR red]1 [COLOR white]- [COLOR blue] Fumaça[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+31	<title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+31	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4DEDEFA89D4CAFD6D38DAC87E935526A6724EF9&dn=Better%20Call%20Saul%202018%204%C2%AA%20Temporada%20Completa%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+31	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
+31	<genre></genre>
+31	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
+31	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>	[COLOR red]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>
+</item>
+
+
+
+<item>	
+31	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Fumaça[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 31	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Yb9zD37KddjydgQmG6IDFQdA4mbVlRLG/view?usp=sharing</link>
 31	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 31	<genre></genre>
 31	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 31	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>	[COLOR white]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>
+[COLOR red]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>	[COLOR red]Enquanto Jimmy tenta superar uma tragédia, Mike vai até a Madrigal em missão de reconhecimento e Nacho se encontra com Juan Bolsa. </info>
 </item>	
 <item>	
-32	<title>[B][COLOR white]• [COLOR red]2 [COLOR white]- [COLOR blue] Respire[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+32	<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Respire[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 32	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Qq5QGfj65RA14z8NOXy0nqTgP42ewPeC/view?usp=sharing</link>
 32	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 32	<genre></genre>
 32	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 32	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy usa toda a sua astúcia em uma entrevista de emprego. Hector Salamanca deixa Gus preocupado. Irritada, Kim desconta em Howard. </info>	[COLOR white]Jimmy usa toda a sua astúcia em uma entrevista de emprego. Hector Salamanca deixa Gus preocupado. Irritada, Kim desconta em Howard. </info>
+[COLOR red]Jimmy usa toda a sua astúcia em uma entrevista de emprego. Hector Salamanca deixa Gus preocupado. Irritada, Kim desconta em Howard. </info>	[COLOR red]Jimmy usa toda a sua astúcia em uma entrevista de emprego. Hector Salamanca deixa Gus preocupado. Irritada, Kim desconta em Howard. </info>
 </item>	
 <item>	
-33	<title>[B][COLOR white]• [COLOR red]3 [COLOR white]- [COLOR blue] Algo Lindo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+33	<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Algo Lindo[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 33	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_07kErfq6IlcKtzOlM2rfcQGyUxH8cAx/view?usp=sharing</link>
 33	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 33	<genre></genre>
 33	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 33	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Os homens de Gus obrigam Nacho a participar de uma ação arriscada. O plano de Jimmy para ganhar grana fácil esbarra em um obstáculo. Kim volta ao trabalho na Mesa Verde. </info>	[COLOR white]Os homens de Gus obrigam Nacho a participar de uma ação arriscada. O plano de Jimmy para ganhar grana fácil esbarra em um obstáculo. Kim volta ao trabalho na Mesa Verde. </info>
+[COLOR red]Os homens de Gus obrigam Nacho a participar de uma ação arriscada. O plano de Jimmy para ganhar grana fácil esbarra em um obstáculo. Kim volta ao trabalho na Mesa Verde. </info>	[COLOR red]Os homens de Gus obrigam Nacho a participar de uma ação arriscada. O plano de Jimmy para ganhar grana fácil esbarra em um obstáculo. Kim volta ao trabalho na Mesa Verde. </info>
 </item>	
 <item>	
-34	<title>[B][COLOR white]• [COLOR red]4 [COLOR white]- [COLOR blue] Fale[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+34	<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Fale[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 34	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ye-yNCakZzI6AnnrPmaOHmAXnrOSmNnT/view?usp=sharing</link>
 34	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 34	<genre></genre>
 34	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 34	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Para provar a Kim que retomou o controle de sua vida, Jimmy arruma um novo emprego. Nacho se envolve em um massacre. Mike vai a uma reunião de um grupo de apoio. </info>	[COLOR white]Para provar a Kim que retomou o controle de sua vida, Jimmy arruma um novo emprego. Nacho se envolve em um massacre. Mike vai a uma reunião de um grupo de apoio. </info>
+[COLOR red]Para provar a Kim que retomou o controle de sua vida, Jimmy arruma um novo emprego. Nacho se envolve em um massacre. Mike vai a uma reunião de um grupo de apoio. </info>	[COLOR red]Para provar a Kim que retomou o controle de sua vida, Jimmy arruma um novo emprego. Nacho se envolve em um massacre. Mike vai a uma reunião de um grupo de apoio. </info>
 </item>	
 <item>	
-35	<title>[B][COLOR white]• [COLOR red]5 [COLOR white]- [COLOR blue] Uma Aventura e Tanto[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+35	<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Uma Aventura e Tanto[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 35	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17lSpuB0w6Lsa3kka0Q9j_768ZMzaRvSI/view?usp=sharing</link>
 35	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 35	<genre></genre>
 35	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 35	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy usa toda a sua malandragem para vender celulares. Kim pega trabalho como defensora pública. Mike entrevista especialistas em escavação. </info>	[COLOR white]Jimmy usa toda a sua malandragem para vender celulares. Kim pega trabalho como defensora pública. Mike entrevista especialistas em escavação. </info>
+[COLOR red]Jimmy usa toda a sua malandragem para vender celulares. Kim pega trabalho como defensora pública. Mike entrevista especialistas em escavação. </info>	[COLOR red]Jimmy usa toda a sua malandragem para vender celulares. Kim pega trabalho como defensora pública. Mike entrevista especialistas em escavação. </info>
 </item>	
 <item>	
-36	<title>[B][COLOR white]• [COLOR red]6 [COLOR white]- [COLOR blue] Piñata[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+36	<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Piñata[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 36	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1kXqSzMK8jsqVVzv89MRjfm1DX6OorYr4/view?usp=sharing</link>
 36	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 36	<genre></genre>
 36	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 36	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Kim quer aceitar uma oferta de trabalho, atrapalhando os planos de Jimmy para a dobradinha Wexler-McGill. Mike e Gus se preparam para receber os trabalhadores alemães. </info>	[COLOR white]Kim quer aceitar uma oferta de trabalho, atrapalhando os planos de Jimmy para a dobradinha Wexler-McGill. Mike e Gus se preparam para receber os trabalhadores alemães. </info>
+[COLOR red]Kim quer aceitar uma oferta de trabalho, atrapalhando os planos de Jimmy para a dobradinha Wexler-McGill. Mike e Gus se preparam para receber os trabalhadores alemães. </info>	[COLOR red]Kim quer aceitar uma oferta de trabalho, atrapalhando os planos de Jimmy para a dobradinha Wexler-McGill. Mike e Gus se preparam para receber os trabalhadores alemães. </info>
 </item>	
 <item>	
-37	<title>[B][COLOR white]• [COLOR red]7 [COLOR white]- [COLOR blue] Algo Estúpido[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+37	<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Algo Estúpido[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 37	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BYQBjuFyx5eXKo5fk0JDBkmFW3RYcail/view?usp=sharing</link>
 37	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 37	<genre></genre>
 37	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 37	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Em meio a tensões na relação com Kim, Jimmy se envolve cada vez mais no seu novo empreendimento e arruma problemas com a polícia. Hector chega a um momento decisivo. </info>	[COLOR white]Em meio a tensões na relação com Kim, Jimmy se envolve cada vez mais no seu novo empreendimento e arruma problemas com a polícia. Hector chega a um momento decisivo. </info>
+[COLOR red]Em meio a tensões na relação com Kim, Jimmy se envolve cada vez mais no seu novo empreendimento e arruma problemas com a polícia. Hector chega a um momento decisivo. </info>	[COLOR red]Em meio a tensões na relação com Kim, Jimmy se envolve cada vez mais no seu novo empreendimento e arruma problemas com a polícia. Hector chega a um momento decisivo. </info>
 </item>	
 <item>	
-38	<title>[B][COLOR white]• [COLOR red]8 [COLOR white]- [COLOR blue] Coushatta[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+38	<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Coushatta[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 38	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1M_Co1ONEIPnQmywOrkZdWjLbmRYyfl9p/view?usp=sharing</link>
 38	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 38	<genre></genre>
 38	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 38	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy e Kim avançam com um plano elaborado para manter Huell fora da cadeia. Mike leva os caras para saírem à noite na cidade e o resultado é preocupante. </info>	[COLOR white]Jimmy e Kim avançam com um plano elaborado para manter Huell fora da cadeia. Mike leva os caras para saírem à noite na cidade e o resultado é preocupante. </info>
+[COLOR red]Jimmy e Kim avançam com um plano elaborado para manter Huell fora da cadeia. Mike leva os caras para saírem à noite na cidade e o resultado é preocupante. </info>	[COLOR red]Jimmy e Kim avançam com um plano elaborado para manter Huell fora da cadeia. Mike leva os caras para saírem à noite na cidade e o resultado é preocupante. </info>
 </item>	
 <item>	
-39	<title>[B][COLOR white]• [COLOR red]9 [COLOR white]- [COLOR blue] Wiedersehen[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+39	<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Wiedersehen[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 39	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MrU6F_Nj_7r7kYYRJhUleniWbJ31z_gZ/view?usp=sharing</link>
 39	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 39	<genre></genre>
 39	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 39	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Depois de aplicar um golpe com a ajuda de Kim, Jimmy tenta reaver a licença para advogar. O comportamento de Werner preocupa Mike. Lalo Salamanca visita Gus. </info>	[COLOR white]Depois de aplicar um golpe com a ajuda de Kim, Jimmy tenta reaver a licença para advogar. O comportamento de Werner preocupa Mike. Lalo Salamanca visita Gus. </info>
+[COLOR red]Depois de aplicar um golpe com a ajuda de Kim, Jimmy tenta reaver a licença para advogar. O comportamento de Werner preocupa Mike. Lalo Salamanca visita Gus. </info>	[COLOR red]Depois de aplicar um golpe com a ajuda de Kim, Jimmy tenta reaver a licença para advogar. O comportamento de Werner preocupa Mike. Lalo Salamanca visita Gus. </info>
 </item>	
 <item>	
-40	<title>[B][COLOR white]• [COLOR red]10 [COLOR white]- [COLOR blue] Vencedor[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
+40	<title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Vencedor[COLOR red]  [COLOR firebrick] Animes !!![/B][/COLOR]</title>
 40	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1k1GjpBCzg1glqh3Jb-TP-WyVLSOvEFqp/view?usp=sharing</link>
 40	<thumbnail>https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg</thumbnail>
 40	<genre></genre>
 40	<fanart>https://image.tmdb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
 40	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]No aniversário da morte de Chuck, Jimmy faz de tudo para melhorar sua reputação. Enquanto isso, Mike vasculha a área em busca de sinais de Werner. </info>	[COLOR white]No aniversário da morte de Chuck, Jimmy faz de tudo para melhorar sua reputação. Enquanto isso, Mike vasculha a área em busca de sinais de Werner. </info>
+[COLOR red]No aniversário da morte de Chuck, Jimmy faz de tudo para melhorar sua reputação. Enquanto isso, Mike vasculha a área em busca de sinais de Werner. </info>	[COLOR red]No aniversário da morte de Chuck, Jimmy faz de tudo para melhorar sua reputação. Enquanto isso, Mike vasculha a área em busca de sinais de Werner. </info>
 </item>
 ***************************************************************************************************************************************
 <channels>
 </channels><channel>
-<name>[B][COLOR white]• [COLOR blue] Better Call Saul (2015) [COLOR white] - [COLOR red][5ª Temporada][/COLOR][/B]</name>
+<name>[B][COLOR red]• [COLOR blue] Better Call Saul (2015) [COLOR red] - [COLOR red][5ª Temporada][/COLOR][/B]</name>
 <genre></genre>
 <info>[B][COLOR blue] SINOPSE:
-[COLOR white]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
+[COLOR red]Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.
 </info>
 ***************************************************************************************************************************************
+<link>plugin://plugin.video.elementum/play?uri=</link>
+
 <item>	
-1	<title>[B][COLOR white]• [COLOR red]1 [COLOR white]- [COLOR blue] Mago[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1sAy6_ttkwDCJigKehJWR9-2B97Y7aUI0/view?usp=sharing</link>
+1	<title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] mago[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E01%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
 1	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
 1	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
 1	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy mergulha de cabeça na nova vida como Saul e deixa Kim com um pé atrás. Lalo atrapalha os planos de Gus para a lavanderia. Em Omaha, Gene toma um susto. [/COLOR][/B]</info>	
+[COLOR red]Jimmy mergulha de cabeça na nova vida como Saul e deixa Kim com um pé atrás. Lalo atrapalha os planos de Gus para a lavanderia. Em Omaha, Gene toma um susto. [/COLOR][/B]</info>	
 </item>	
+
 <item>	
-2	<title>[B][COLOR white]• [COLOR red]2 [COLOR white]- [COLOR blue] 50% de desconto[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1I2iLnFe1maXlHaVWLtu3D6kqflR6wxwP/view?usp=sharing</link>
+2	<title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] 50% de desconto[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E02%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
 2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
 2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
 2	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy faz uma promoção e dá duro para atender a demanda. Pressionado por Gus, Nacho encara um grande risco para ganhar a confiança de Lalo. [/COLOR][/B]</info>	
+[COLOR red]Jimmy faz uma promoção e dá duro para atender a demanda. Pressionado por Gus, Nacho encara um grande risco para ganhar a confiança de Lalo. [/COLOR][/B]</info>	
 </item>
 <item>	
-2	<title>[B][COLOR white]• [COLOR red]3 [COLOR white]- [COLOR blue] O Cara Certo[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BiuhJuzTYV-BUhEA2K1KCV3uG7685kX0/view?usp=sharing</link>
+2	<title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] O Cara Certo[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138ad0ee55fdfb5f920e40e2279c87c071e8786e&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E03%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
 2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
 2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
 2	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Lalo recruta Saul para uma missão. Uma emergência na Mesa Verde abala Kim. Dois agentes da DEA visitam Domingo na prisão. [/COLOR][/B]</info>	
+[COLOR red]Lalo recruta Saul para uma missão. Uma emergência na Mesa Verde abala Kim. Dois agentes da DEA visitam Domingo na prisão. [/COLOR][/B]</info>	
 </item>
 <item>	
-2	<title>[B][COLOR white]• [COLOR red]4 [COLOR white]- [COLOR blue] Namastê[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1aswU919vNJSH6SE7zAa3DaKJeoL_HubR/view?usp=sharing</link>
+2	<title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Namastê[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E04%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
 2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
 2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
 2	<info>[B][COLOR blue] SINOPSE:
-[COLOR white]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
 </item>
+
+<item>	
+2	<title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] EP05[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E05%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
+2	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+</item>
+
+<item>	
+2	<title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] EP06[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E06%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
+2	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+</item>
+
+<item>	
+2	<title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] EP07[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E07%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
+2	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+</item>
+
+<item>	
+2	<title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] EP08[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E08%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
+2	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+</item>
+
+<item>	
+2	<title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] EP09[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d&dn=COMANDO.TO%20-%20Better%20Call%20Saul%20S05E09%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/mAgBQaGqoDUgCAmntKiqp61y1Ec.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick],Comédia,Crime,Drama,[http://bit.ly/doar][/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg</fanart>
+2	<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Jimmy considera uma oferta de Howard. Kim faz uma nova abordagem em relação ao impasse do Mesa Verde. Hank e Steve vigiam o ponto de entrega de Gus. [/COLOR][/B]</info>	
+</item>
+
