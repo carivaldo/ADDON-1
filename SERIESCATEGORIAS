@@ -1129,7 +1129,7 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue]Band of Brothers[/COLOR]</name>
+<name>[COLOR blue]Band of Brothers[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Band%20of%20Brothers</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sKLRYY6jXHTMY5H94fEov98JgSc.jpg</fanart>
