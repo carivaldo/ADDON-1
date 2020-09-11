@@ -35,11 +35,11 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]AWAY[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZKqLBIZcjaB5NEpFr4umT8ezoW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/AWAY</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xWO6nUn69VHqKGm2U2aC1VHUbVT.jpg</fanart>
+<info>Emma Green (Hilary Swank), uma astronauta americana que deve deixar seu marido (Josh Charles) e sua filha adolescente para trás para comandar uma tripulação espacial internacional embarcando em uma missão traiçoeira.<info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -47,14 +47,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 channels>
