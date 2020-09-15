@@ -181,7 +181,7 @@
 <channel>
 <name>[COLOR red]TERROR[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvJ9pg8ksWZRxw2TZDXGSeN4Nvf.jpg</thumbnail>
-<externallink></externallink>    
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/TERROR</externallink>    
 <fanart>https://image.tmdb.org/t/p/original/2hHkKgw9DW0pX0NLO4l8ds41p5M.jpg</fanart>
 <info>
 
@@ -191,9 +191,7 @@
 </channels>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>   
-</channel>
-</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<      
  
