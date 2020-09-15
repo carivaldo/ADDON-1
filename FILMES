@@ -179,6 +179,26 @@
  
 <channels>
 <channel>
+<name>[COLOR red]TERROR[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvJ9pg8ksWZRxw2TZDXGSeN4Nvf.jpg</thumbnail>
+<externallink></externallink>    
+<fanart>https://image.tmdb.org/t/p/original/2hHkKgw9DW0pX0NLO4l8ds41p5M.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>   
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<      
+ 
+<channels>
+<channel>
 <name>[COLOR red]FAROESTE[/COLOR]</name> 
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FAROESTE</externallink>    
