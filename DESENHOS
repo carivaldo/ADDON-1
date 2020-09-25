@@ -1,15 +1,44 @@
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+
+channels>
+<channel>
+<name>[COLOR blue][/COLOR]</name> 
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info><info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
-<channel>
+channel>
 <channel>
 <name>[COLOR blue]Os Cavaleiros do Zodíaco[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20CAVALEIROS%20DO%20ZODIACOS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/exu0EdDWPfvO9XHERf2zaAluvbZ.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -17,12 +46,13 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+channel>
 <channel>
 <name>[COLOR blue]NARUTO[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jlPIl3283I4lN8A2gOxNDT34F4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARUTO%202001</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ldwWnaWoW8ziEFflimoraZouyvB.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -38,7 +68,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNbhHo2bsVj0tYuxyb3FbvIkcbK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LIGA%20DA%20JUSTI%C3%87A</externallink>
 <fanart>https://image.tmdb.org/t/p/original/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -53,7 +83,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SIMPSONS%201%20A%2015</externallink>
 <fanart>https://image.tmdb.org/t/p/original/4paTG5rCX4EWQReqBk2BiqNKSmD.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -68,7 +98,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SIMPSONS%2016%20A%2030</externallink>
 <fanart>https://image.tmdb.org/t/p/original/5zS9trn5k6T6Oew85ZIEKUfRo91.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -83,7 +113,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf3iU2UQNNtmtQg7tZejgU3wTW4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/PERNALONGA%20E%20SEUS%20AMIGOS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/johna4IMdH9YuIHE6kcS1zKNqvp.jpg</fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -98,7 +128,7 @@ channels>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
@@ -113,10 +143,34 @@ channels>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info>
+<info><info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+
+channels>
+<channel>
+<name>[COLOR blue][/COLOR]</name> 
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info><info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
