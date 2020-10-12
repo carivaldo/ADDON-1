@@ -1,8 +1,25 @@
 
 
 
+<item> 
+1   <title>[B][COLOR blue]Motoqueiros Selvagens - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1aa1009942b8388fdbf13484f679d20acec4fdec&dn=Motoqueiros+Selvagens+%282007%29+-+Dublado+-+Blu+Ray+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYoKAgJrgOxUs9QHzoqsHGGf6nn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1OA4b4BNhibJNyyw4mxmxElDP1W.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Doug Madsen (Tim Allen) é um dentista com complexo de inferioridade tão grande que sempre se apresenta como médico. Woody Stevens (John Travolta) é um executivo rico e carismático que parece ser um grande vencedor, mas sofre com seus problemas pessoais. Bobby Davis (Martin Lawrence) é um encanador desempregado dominado pela esposa, Karen (Tichina Arnold), que decidiu ficar sem trabalhar por um ano para tentar, sem sucesso, tornar-se um escritor. Dudley Frank (William H. Macy) é um solteirão que é também um gênio da informática, tendo o incrível dom de se meter em situações constrangedores. Cada um leva sua vida durante a semana, mas nos fins de semana eles se reúnem para andar de moto. O grupo decide agitar suas vidas monótonas com a realização de uma viagem de moto, sem destino definido. Eles conseguem tirar uma folga de seus trabalhos e se preparam para a viagem, sendo que ao iniciá-la não têm a menor idéia do que está por vir. Com o tempo eles começam a dividir segredos, até que enfrentam uma gangue de motoqueiros chamada Del Fuegos, liderada por Jack (Ray Liotta).[/COLOR][/B]</info>	
+  </item>
 
-
+<item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>$$lsname=[COLOR lime](1080P)[/COLOR] - DUBLADO</maglink>
+1   <thumbnail></thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart></fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Ace Ventura: Um Detetive Diferente TRILOGIA - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
