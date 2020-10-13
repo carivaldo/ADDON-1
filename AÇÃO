@@ -2,9 +2,65 @@
 
 
 
+<item> 
+1   <title>[B][COLOR blue] 47 Ronins - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:80046a00d30994a618c2a0ac67fe60dbc39512f1&dn=47.Ronin.2013.BluRay.1080p.x264.DTS-HD.MA.5.1-HDW-DUAL-Smeagol&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1B51d6Ot8erxhEkE7OZXkQZO2f7.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Kai (Keanu Reeves) é um mestiço que vive em Ako desde quando era garoto, sempre sob a proteção do lorde Asano (Min Tanaka). Entretanto, por mais que habite o local há muitos anos, ele nunca foi aceito por Oishi (Hiroyuki Sanada), o chefe dos samurais. Um dia, o shogun Tsunayoshi (Cary-Hiroyuki Tagawa) visita Ako e leva consigo o lorde Kira (Tadanobu Asano), que possui um pacto secreto com uma feiticeira (Rinko Kinkuchi). Juntos, eles tramam contra Asano e fazem com Oishi caia em desgraça. Um ano depois, Mika (Ko Shibasaki), a filha de Asano, está de casamento marcado com Kira. É o suficiente para que Oishi procure a ajuda de Kai, que sempre nutriu um forte sentimento por ela.[/COLOR][/B]</info>	
+  </item>
 
+<item> 
+1   <title>[B][COLOR blue] O Mestre das Armas - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:84D2E95EC481D31F5790BF8ACBF68BB04380C654&dn=O%20Mestre%20das%20Armas%20%282006%29%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Wellington%20Torrent&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJqsKqmQoDJKUEQoHq6I0cj9hJy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qwU5ggsb41pkmnxjQoWeJKgMRN5.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Huo Yuanjia (Jet Li) foi o maior e mais famoso mestre de toda a China. Porém, após uma grande guerra, o país foi dominado por estrangeiros. Decididos a acabar com a auto-estima do povo chinês, os novos governantes organizam um torneio que contará com guerreiros de vários países. A idéia é mostrar a todos a superioridade dos estrangeiros frente aos chineses. Mas o que eles não esperavam era que Huo decidisse também participar da competição[/COLOR][/B]</info>	
+  </item>
 
+<item> 
+1   <title>[B][COLOR blue] Romeu Tem Que Morrer  - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:143821384b4343868cfc68e8299051f0670cc5ae&dn=Romeu+Tem+Que+Morrer+%282000%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fwP2w0TAwwSxiCk4s6agDGFoKNm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O submundo do crime gerou uma verdadeira guerra em São Francisco, pois a máfia chinesa, comandada por Ch'u Sing (Henry O), disputa o controle do porto com o grupo chefiado pelo afro-americano Isaak O'Day (Delroy Lindo). Em Hong Kong, o ex-policial Han Sing (Jet Li), filho de Ch'u, foi injustamente acusado e cumpre pena, pois assim permitiu que seu pai, um chefão chinês do crime, e seu irmão fugissem para São Francisco. Ao saber que seu irmão foi morto, ele escapa da prisão e vai para os Estados Unidos atrás do assassino. Hostilizado pela própria família e alvo da gangue inimiga, Han encontra apoio em Trish O'Day, justamente a filha de Isaak, mas muita coisa está em jogo. E Han terá de usar todo seu conhecimento das artes marciais para sair vivo.[/COLOR][/B]</info>	
+  </item>
 
+<item> 
+1   <title>[B][COLOR blue] Ronin  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1C58BDC851A70C6A6988B40ED91F979BD72E38C7&dn=Ronin%20%5B1998%5D-BluRay%20720p%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cErYSa1xjPBvjf0yCB26oWaOEYp.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oluhanwldGYjwIJ1hzfWlhSsXr3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Vários espiões são convocados para encontrar uma maleta de conteúdo desconhecido. Mas a situação se complica quando os agentes descobrem que estão enredados numa trama de mentiras, traições e assassinatos.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] A Cartada Final  - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7f357d663618530232c5e8e5376160e40d01550e&dn=A+Cartada+Final+%282001%29+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/doBpwnPORLioilRWdJu9wkrR6t0.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nick Wells (Robert De Niro) é um criminoso profissional que decidiu abandonar a vida de crimes, após quase ser capturado em seu último assalto. Nick pretende agora levar uma vida pacata com sua namorada Diane (Angela Bassett), que coordena seu clube de jazz em Nova York. Até que Max (Marlon Brando), seu grande amigo e financiador de Nick em seus trabalhos ilegais, lhe faz uma oferta impossível de recusar: o roubo de um histórico cetro francês que havia sido descoberto recentemente e que estava em exibição na cidade. Porém, para realizar o roubo Nick precisa da ajuda de um cúmplice, Jackie Teller (Edward Norton), que é um jovem, talentoso e agressivo ladrão, mesmo que para tanto ele tenha que quebrar sua própria regra de nunca trabalhar com parceiros.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Os Especialistas - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:59cea259116c67653f5dabe93295c1e45cee99d9&dn=Os+Especialistas+%282011%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bO6AyfU23VHoe6qQFe3JGIoWviE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O agente especial Danny (Jason Statham), embora quisesse desistir de seu profissionalismo na arte de matar, foi forçado a fazer um último serviço para garantir a sobrevivência de seu antigo parceiro de missões secretas Hunter (Robet De Niro). Para isso, ele deverá vingar um poderoso xeque do petróleo que teve seu três filhos assassinados por três agentes das forças especiais britânicas SAS. Contudo, Spike (Clive Owen), um poderoso ex-membro do grupo, está disposto a defender seus antigos parceiros e não medirá esforços para eliminar seu novo oponente.[/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Corridas Clandestinas - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
