@@ -12,7 +12,7 @@
   <item> 
 1   <title>[B][COLOR blue]A Bruxa de Blair 2: O Livro das Sombras - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:18EB24B8F2413B42CE579519423EE27259AF1B68&dn=ABruxaDeBlair2OLivroDasSombras.avi&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3bd282e8c0093dfeb3f4e7e90084b989fac5f2b8&dn=CINETERROR.ORG%20-%20A%20Bruxa%20de%20Blair%202%20(2000)%20WEB-DL%20720p%20Tri%20%c3%81udio&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/h6SodMmCfGk5m9fXGri5ZFtanpy.jpg</fanart>
