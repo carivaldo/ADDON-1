@@ -1,7 +1,59 @@
 
 
 
+<item> 
+1   <title>[B][COLOR blue] Os Irmãos Sisters - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:576cc11ebeff90f5cea386a9101b014e783c24a9$$lsname=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a2050257e5c3e59c6b7dcf99c245fb5224706dbb$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:791907d975c8dc91209f63b4c5c3c14d490ddbd2$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEm7m49gDyiaEPPYs8pclwBF7Bc.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fzvzm3HDEHhnpdiq17pdE7eJ6WJ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Eli e Charlie Sisters são dois pistoleiros que recebem uma missão complicada: capturar e eliminar Hermann Kermit Warm, um explorador de minas de ouro. Os assassinos perseguem o explorador através do deserto do Oregon, no entanto, Eli começa a ter uma crise de consciência sobre a carreira que leva. Para se salvar, Hermann pode se aproveitar dessa fraqueza momentânea e oferecer um acordo melhor para os irmãos.[/COLOR][/B]</info>	
+  </item>
 
+<item> 
+1   <title>[B][COLOR blue] A Última Jornada - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ec9ca2f6c5a4f0f84c93be5e4a1ca6c86d17165d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7s53hE2y44OIwpITPkcGBp2qet.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bNTBWrSLZrOdB4NLCV2LmA3fuiK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A mãe do menino Sira está morrendo e dá a ele uma missão: munido de um misterioso artefato, o garoto terá de encontrar um lugar muito especial, capaz de realizar os desejos das pessoas. O objeto que Sira recebe é a única forma de se proteger do ataque de uma força mortal a quem eles chamam de ‘o vento’, capaz de matar instantaneamente qualquer ser vivo. Com a ajuda de uma amiga e um aliado inesperado, Sira segue seu caminho na esperança de salvar o mundo.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Manual de Caça a Monstros - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:cd1e8c7a7eca81596b6c40f79563f0c7086ea422</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEKwyhgdAfw41zcMc9VAuKOdNN8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8iCVbFjjz33A1jm3Nbt6zflect7.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Uma antipática babá que não gosta muito de crianças precisa se juntar à uma sociedade secreta de babás para lutar contra criaturas da noite quando a criança que ela está cuidando é sequestrada por monstros.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Attraction 2: A Invasão - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4abe2a9f48ff1259397029d5d6a5118f2c07f477$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3a5b9aff3c0b43caadbff4b12afdbb8f0521c72d$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/cbJNZeFkiG4ggsNcwzBs6yeCXga.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um objeto voador não identificado que vem do espaço muda a visão da humanidade sobre a vida em outros planetas. Quando os alienígenas desembarcam na terra, a destruição é documentada pelos moradores de um bairro residencial de Moscovo, que precisam sobreviver enquanto começam a questionar as motivações dos alienígenas.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Adeus - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3ba38a8d5bfedeb5fa8cd5f704bb1fbf501aefa7$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4c$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWX7PHjRwSPk0zwWg2SykH1QrMl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yGfLJYj7zkI45Xf569OM0ZuiHiU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A morte acidental de uma garota revela toda uma rede de corrupção envolvendo a polícia e o tráfico de drogas. O caso cai nas mãos de Eli, um inspetor que terá que lutar contra a desconfiança de certos policiais e Juan, o pai da menina morta, que quer fazer justiça com as suas próprias mãos.[/COLOR][/B]</info>	
+  </item>
   
   <item> 
 1   <title>[B][COLOR blue] S.W.A.T: Força Letal - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
