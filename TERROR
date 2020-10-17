@@ -1,3 +1,37 @@
+
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Casa De Vidro - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:58adf772c3af5163f243acbb8486f15a6343dd3d&dn=A+Casa+de+Vidro+%282001%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u25L85xK0s2JYsvt4NhQ7imMNH3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mnRZQRlQNWCnWjeqnYhChv8uG1V.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após a morte dos pais em um acidente de carro, dois irmãos vão morar com seus novos pais adotivos. Porém, com o passar do tempo, os irmãos acham que seus 'pais' já procuravam adotá-los antes mesmo da morte dos pais verdadeiros, de olho nos quatro milhões de dólares que eles possuem em forma de ações.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] A Casa que Jack Construiu - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:e06f98d048c104e0617ffe0d6a497be147e87081</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKG4YJJCoXJSZ89J52CNJwmVKS0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/itdm9wqCo03NZ3CGSz5P7eiMo68.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Estados Unidos. Anos 70. Acompanhamos Jack (Matt Dillon), um serial killer altamente ardiloso, e seus crimes num espaço de 12 anos. Enquanto a inevitável intervenção da polícia se aproxima a cada passo, Jack se arrisca na esperança de realizar sua obra de arte definitiva.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Somos o que Somos - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:523e7996ba765d530ad68e6ce559329ed677248d&dn=Somos.O.Que.Somos.%282014%29.BDrip.Dublado.1080p.%5B5.1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/elQ2Qhj3thOz24OFt2MI3sCM872.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2coqMK4EzJAasBOAD1Dc8w9kGor.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Na vila onde Frank Parker (Bill Sage) mora, todos o conhecem por sua discrição. Após a súbita morte da mãe, as adolescentes Iris (Ambyr Childers) e Rose (Julia Garner) ficam encarregadas de cuidar do irmão mais novo, Rory (Jack Gore). Com novas responsabilidades, elas são obrigadas a aceitar o forte temperamento do pai, que deseja manter os costumes familiares. Quando uma tempestade atinge a região, seus segredos são ameaçados pelas investigações das autoridades locais.[/COLOR][/B]</info>	
+  </item>
+
 <item> 
 1   <title>[B][COLOR blue] A Bruxa de Blair - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
