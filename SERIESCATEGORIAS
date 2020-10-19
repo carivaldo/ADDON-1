@@ -130,11 +130,11 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]THE RESIDENT[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20RESIDENT</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kLNq4wFD2ErH9eVZlMGy7Wgafv2.jpg</fanart>
+<info>A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.<info>
  
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
