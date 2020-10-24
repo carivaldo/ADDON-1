@@ -1,5 +1,14 @@
 
-
+<item> 
+1   <title>[B][COLOR blue] Os Safados - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:B7EE6CE9B96115DE3D15C3A5E06D208B78A202E1&dn=Os.Safados.1988.1080p.Dual-&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C6B2117A555EC5EBFEB3613822FC4EE2A4AFE421&dn=Os.Safados.1988.720p.Dual-&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TWdGZnBS7ZSTkvqEaTUB0QzV4i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yeAxeypRc6RsUVQaxCIrtqaE4l.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Lawrence Jamieson (Michael Caine) é um trambiqueiro de classe, que vive na Riviera francesa seduzindo milionárias americanas de meia idade. Seu estilo de vida passa a ser ameaçado após a chegada de Freddy Benson (Steve Martin), um vigarista folgado e bem menos sofisticado que também quer aplicar golpes no local. Após muita insistência Freddy consegue convencer Jamieson a lhe ensinar alguns truques, mas logo ambos passam a disputar os mesmos alvos. Cansados da disputa, eles resolvem fazer uma aposta: quem conseguir US$ 50 mil da primeira milionária que aparecer no local vence, com o derrotado tendo que deixar a Riviera.[/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Um Dia a Casa Cai - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
