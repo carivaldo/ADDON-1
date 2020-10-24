@@ -1,9 +1,25 @@
 
 
 
+  <item> 
+1   <title>[B][COLOR blue] Trinity é o Meu Nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ILM7JOHOUNPKRMSCKLLMZWFRZUV6MYDA&dn=Trinity+%C3%A9+o+Meu+Nome+%281970%29+BRrip+Blu-Ray+720p+Dublado+%27%27DAT-2016%27%27&tr=udp://tracker.openbittorrent.com:80/announce</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUhDLnxWpsAG9ew5zJihioHJGPP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ohPgEkVZ3xr2nngrmKTUie2FjGz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A dupla de heróis do desastre, rápidos no gatilho e bons de briga, tentam salvar uma cidade das mãos de ladrões de gado, cruéis e sanguinários. O diabólico xerife da cidade também está envolvido nesta aventura cheia de adrenalina. E na medida em que Trinity resolve interferir nos planos dos bandidos, a tensão aumenta. Esta situação explosiva, atira violentamente os dois irmãos de encontro a um clímax incrível. Com muita ação, tiros e humor, nossos herois do barulho tentarão salvar a cidade e seus colonos das garras dos bandidos. Uma aventura inperdível![/COLOR][/B]</info>	
+  </item>
 
-
-
+  <item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink></maglink>
+1   <thumbnail></thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart></fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Maverick - [COLOR red](1994) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
