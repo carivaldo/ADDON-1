@@ -113,11 +113,11 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]CONDOR[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/28cIK70tN2t4gPTV8CBQZED1H2G.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CONDOR</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uxqf2uRHs0FFOVoQznF5KdBhFqc.jpg</fanart>
+<info>Young CIA analyst Joe Turner has his idealism tested when he learns that the CIA has been using an algorithm he developed to spy on American citizens, leading the organization to a terrorist plot that threatens the lives of millions. Inspired by Sydney Pollack’s 1975 political thriller Three Days of the Condor.<info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
