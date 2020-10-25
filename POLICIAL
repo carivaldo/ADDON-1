@@ -1,3 +1,28 @@
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Repo Men - O Resgate de Órgãos - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5f034234715a848b6066f5585916186e081bbb3b</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uJZLLhEs6CVyQWohaa7xqthdaq.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hXNiSA21uPj2ywM94p4WpXY0F3p.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O filme futurista acompanha um ex-soldado (Jude Law) reconstituído de órgãos artificiais que trabalha como um cobrador, chamado de Repomen. Caso o usuário do órgão não possa pagar, os Repomen são chamados para retomar a mercadoria. Osproblemas dele se intensificam quando ele sofre um infarto e recebe um novo coração, mas não tem dinheiro para pagar o transplante e é perseguido pelo seu ex-parceiro (Forest Whitaker), também Repomen.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Rookie - Um Profissional do Perigo - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:10ba588ee318bd14e5bfc145dc8bece3d09486a6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8DH2eI4HRoXBujGckBTJtdNDQ0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/L84tMkxs0YnEXFwRs1fyvD1SqV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nick Pulovski (Clint Eastwood) é um policial que está na divisão de roubo de carros e nunca conseguiu realizar um grande feito em sua vida. Quando ele descobre que um homem chamado Strom é o chefe por trás de um grande roubo, ele vê sua grande chance. Como seu parceiro ser assassinado durante missão, o caso é transferido para o departamento de homicídios e ele não tem mais acesso aos arquivos. Pulovski ganha um novo parceiro, David Ackerman (Charlie Sheen), e quer continuar em busca de Strom, mesmo não estando mais oficialmente ligado ao caso.[/COLOR][/B]</info>	
+  </item>
+
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
