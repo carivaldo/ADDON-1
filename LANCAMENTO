@@ -1,6 +1,44 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Borat - Fita de Cinema Seguinte - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:559B82451A3945D1958B91FDB06A1352471CE6A6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4ciG34AaQLfk38ltBGMDdxLeF5.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ji7m2g3xYw2B3Z1IqTNQSldRlzT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Borat retorna aos Estados Unidos e dessa vez procura oferecer a sua filha em casamento para o vice-presidente, Mike Pence.[/COLOR][/B]</info>	
+  </item>
+  
+
+<item> 
+1   <title>[B][COLOR blue] Agente Infiltrada - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:bce87f1744cf7ec7012ccd5932e056c6e4d94a28</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PpgvIQlaYLL3HSNwidsppnpf3A.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/p7b1IEXvtuYMZwDJSAIYFW7GbWn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Rachel (Diane Kruger) é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas (Martin Freeman). Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.[/COLOR][/B]</info>	
+  </item>
+  
+
 <item> 
 1   <title>[B][COLOR blue] Os Irmãos Sisters - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
