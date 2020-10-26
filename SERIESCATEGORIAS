@@ -79,11 +79,11 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]The Mandalorian [/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW1gHKDy5Sg3nORaGz8VHiKiF6S.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Mandaloriano</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tW7colv0Zv40fNJOC9w9T68CsgG.jpg</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.<info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
