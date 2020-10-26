@@ -1,6 +1,46 @@
 
 
-
+  <item> 
+1   <title>[B][COLOR blue] O Código Da Vinci - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a09a6f744f768c99461987dbc9adefd0913f20e3</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g3ycW5zAHc20LAcWRYM7LHgaE0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jqs77q458sFkVGNUMnv8btF6THK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O famoso simbologista e professor Robert Langdon (Tom Hanks) é convocado a comparecer ao Museu do Louvre uma certa noite, onde o curador foi assassinado, deixando para trás um rastro de pistas e símbolos misteriosos. Com a própria vida em jogo e a ajuda da agente Sophie Neveu (Audrey Tautou), criptóloga da polícia, Langdon descobre uma série de mensagens atordoantes ocultas nas obras de Leonardo da Vinci, que levam a uma sociedade secreta cuja missão é proteger um segredo secular que permanece guardado há 2.000 anos. O casal se lança numa emocionante gincana pelas ruas de Paris, Londres e pela Escócia, coletando pistas, ao mesmo tempo em que tenta, desesperadamente, decifrar o código que revelará segredos que podem abalar os alicerces da civilização.[/COLOR][/B]</info>	
+  </item>
+  
+  
+    <item> 
+1   <title>[B][COLOR blue] Anjos e Demônios  - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:cb2ae5a1fc0b09650acb6c398527996ea5878f69</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Nl3kVgNOWuOSwf0TwseVcR1gLj.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dsdjGDWxdm9wbDHY52a7qpRqPHt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O professor de simbologia Robert Langdon (Tom Hanks), depois de decifrar o código DaVinci, é chamado pelo Vaticano para investigar o misterioso desaparecimento de quatro cardeais. Agora, além de enfrentar a resistência da própria igreja em ajudá-lo nos detalhes de sua investigação, Langdon precisa decifrar charadas numa verdadeira corrida contra o tempo porque a sociedade secreta por trás do crime em andamento tem planos de explodir o Vaticano.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] Inferno - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:E00B82F123BC43268BAE64CA0014B13BABE76FCF$$lsname=[COLOR lime]4K[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BD09BC944B42F1E1E220E592BBFABE860C992AFB$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/e4VbfxoZZDPi9KfR0YxxXKA669c.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Versão em 4K Ultra HD Bluray. Florença, Itália. Robert Langdon (Tom Hanks) desperta em um hospital, com um ferimento na cabeça provocado por um tiro de raspão. Bastante grogue, ele é tratado por Sienna Brooks (Felicity Jones), uma médica que o conheceu quando ainda era criança. Langdon não se lembra de absolutamente nada que lhe aconteceu nas últimas 48 horas, nem mesmo o porquê de estar em Florença. Subitamente, ele é atacado por uma mulher misteriosa e, com a ajuda de Sienna, escapa do local. Ela o leva até sua casa, onde trata de seu ferimento. Lá Langdon percebe que em seu paletó está um frasco lacrado, que apenas pode ser aberto com sua impressão digital. Nele, há um estranho artefato que dá início a uma busca incessante através do universo de Dante Alighieri, autor de "A Divina Comédia", de forma a que possa entender não apenas o que lhe aconteceu, mas também o porquê de ser perseguido.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue]Stallone: Cobra - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0d261538b5c82a0450d68286bc1c891f82daa87f</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC47dOBpqh9uZb6jX5vF0RjaUbJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/cCw6fQxH2syBrY5KAxVxBhbKfo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cobra é um tira que sabe tudo sobre o submundo da cidade grande, e, também, é um especialista nas tarefas ?impossíveis? que ninguém mais quer ou ousa fazer. Seu nome faz estremecer de medo a sociedade marginal. Seu propósito fixo e seus métodos pouco ortodoxos criam uma paranóia extrema, mesmo entre seus colegas policiais. Agora, um terror igualmente mortal acelerou o pulso da cidade, e Cobra foi escolhido: ele tem total liberdade de ação para encontrar o assassino que vem matando a esmo, de forma impiedosa e selvagem, como uma besta que escapou do inferno. Mas este monstro não age sozinho. Ele é o líder de um bando de assassinos psicopatas, auto denominados ?Nova Ordem?, determinados a eliminar a única testemunha que pode ameaçar o anonimato do grupo: uma bela modelo (Brigitte Nielsen) que felizmente está sob a custódia protetora de Cobra. Se o crime é uma doença, conheça a cura... Cobra![/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Conan, o Bárbaro - [COLOR red]ADDON BXL [COLOR red](1982) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
