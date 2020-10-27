@@ -2,6 +2,93 @@
 
 
 
+
+
+
+
+
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Os Outros Caras  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:591DBDA22AE2FCE39883FA870C83EC9FD219BD28</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GyARLcQF124BKs9IBBlpaSrSqn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/nHyri67CN6juBR6hmOefCn9oGf8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Terry Hoitz e Allen Gamble são dois detetives que vivem na cidade de Nova York. Muito atrapalhados, sonham em se dar bem na profissão. Para conquistarem esse sonho, Terry e Allen seguem os melhores policiais da cidade, Danson e Highsmith, porém nada acontece como o esperado, e ao invés de seguir os policiais para ser como eles, eles acabam atrapalhando o trabalho dos tiras fazendo uma grande bagunça na cidade.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] O Quinto Elemento - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ec88604b859b464a7f2febefdce48a421e1c33e1</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjWYd2qziS18BPQs85xE6Lb3H09.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No século XXIII, um motorista de taxi (Bruce Willis) de Nova York se envolve em uma aventura na qual tem de deter um ser demoníaco que percorre a galáxia a cada 5000 anos. Se nada for feito a Terra será destruída, mas para isto ele precisa encontrar 4 pedras antigas, que representam os elementos, e colocá-las em volta de uma bela mulher (Milla Jovovich), que é o quinto elemento.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Assassinos Múltiplos - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:165C4F64F5D9DB4ABC2F851AF02C4D8B0565AB4E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C22B309711F10CD96AA546C7DD3E14A75D45A067$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:1135A5504D84843642F4F9542E188E9315C19A1E$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvcsAfWEbtO85YvzJ7N2c9ghuOn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/vZxusrzdhJa3D7g3UoSWWaoq4Nl.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A vida de Frank sofre uma reviravolta quando sua esposa e filha são assassinadas. Determinado, faz um voto de silêncio e transforma-se em um homem sem limites. Agora, lutará até o fim para se vingar.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Millennium: Os Homens Que Não Amavam as Mulheres - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:42efa3fbe93a3c69fe310d94fcc253bf8bcb622e</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnQTC6VjlkvXmCGAiBkJEmkoChC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hDpNZEts6R6EUyrMB4lOTbTRwhb.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Harriet Vanger (Moa Garpendal) desapareceu há 36 anos, sem deixar pistas, em uma ilha no norte da Suécia. O local é de propriedade exclusiva da família Vanger, que o torna inacessível para a grande maioria das pessoas. A polícia jamais conseguiu descobrir o que aconteceu com a jovem, que tinha 16 anos na época do sumiço. Mesmo após tanto tempo, seu tio Henrik Vanger (Christopher Plummer) ainda está à procura e decide contratar Mikael Bomkvist (Daniel Craig), um jornalista investigativo que trabalha na revista Millennium. Bomkvist, que não está em um bom momento por enfrentar um processo por calúnia e difamação, resolve aceita a proposta e começa a trabalhar no caso. Para isso, ele vai contar com a ajuda de Lisbeth Salander (Rooney Mara), uma investigadora particular incontrolável e anti social.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Millennium 2 - A Menina que Brincava com Fogo - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9cdae88ba57a187bf47d5702c6c2ca24a7a975a5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/neXx74IYwDpEO1TdVPPHZDLL8ZU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uAeboY1WAuxRbJExkYCKnImrVOx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Após um ano viajando pelo mundo, Lisbeth Salander (Noomi Rapace) retorna à Suécia. Logo ela é acusada pela morte de Dag Svensson (Hans Christian Thulin) e sua namorada Mia (Jennie Silfverhjelm). Dag estava preparando uma matéria investigativa sobre tráfico humano para a revista Millennium, enquanto que Mia estava terminando um livro sobre as conexões dos agentes secretos da extinta União Soviética no restante da Europa. Lisbeth é também acusada pela morte de Nils Bjurman (Peter Andersson), seu tutor, que queria recuperar um vídeo comprometedor que está com ela. Após encontrar os corpos de Dag e Mia, Mikael Blokvist (Michael Nyqvist), o editor da Millennium, passa a investigar o caso para provar a inocência de Lisbeth.[/COLOR][/B]</info>	
+  </item>
+    
+ 
+  <item> 
+1   <title>[B][COLOR blue] Millennium 3 - A Rainha do Castelo de Ar - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ccee1eba71a06ac74c15026f2cdacad8899e17f8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzC3RUzLbj5jm0pVzCZS13KHRlX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qhohCrCs4sv1M4H9NIRlhgl0lcE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Após quase ser morta pelo próprio pai, Lisbeth Salander (Noomi Rapace) é levada para o hospital em estado grave. Lá também está internado o pai dela, Alexander Zalachenko (Georgi Staykov), que se tornou uma grande ameaça devido às informações que possui. Alexander era um agente soviético que trabalhava para um restrito grupo sueco, que agora teme o que ele possa revelar às autoridades. Para eliminar a ameaça, é enviado ao hospital um homem com pouco tempo de vida, que tem por objetivo matar Alexander e Lisbeth. Entretanto, ele apenas consegue matar Zalachenko e, logo em seguida, se suicida. A partir de então Lisbeth se recupera fisicamente para enfrentar um processo nos tribunais, recebendo a ajuda do editor da revista Millennium, Mikael Blomqvist (Michael Nyqvist).[/COLOR][/B]</info>	
+  </item>
+   
+   <item> 
+1   <title>[B][COLOR blue] Millennium 4 - A Garota na Teia de Aranha - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9D3236C0588EE349AC8A7FFDCD26BAC50DAE78C8$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:CB94AF4434B8B29C39299CA1F7350640B8B38298$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5e5UftiifMLjzmer70SdPIH2BJr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Adaptação do quarto livro da saga "Millennium". Após os eventos de "Os Homens que Não Amavam as Mulheres", o jornalista Mikael Blomkvist e a hacker Lisbeth Salander se veem em meio à uma teia de corrupção, espionagem e intriga internacional.[/COLOR][/B]</info>	
+  </item>
+   
+  
+
 <item> 
 1   <title>[B][COLOR blue] Repo Men - O Resgate de Órgãos - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
