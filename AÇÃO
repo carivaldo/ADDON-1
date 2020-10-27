@@ -1,5 +1,97 @@
 
 
+
+
+
+
+
+
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Anjos da Noite - Underworld  - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:674d2db8b5793ab2b9a25b4bafe268eaf7f2f4d5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hU9SBiv4dJSx4vXPmieyAHakk0W.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Numa noite chuvosa, ao entrar numa estação do metrô Michael Corvin, um estudante de medicina, se vê no meio de um violento tiroteio entre duas facções inimigas. De um lado estão os Mercadores da Morte, grupo de elite formado por vampiros. Do outro os lycans ou lobisomens, inimigos milenares dos sanguessugas. Depois do violento embate Selene, uma bela e combativa vampira, desconfia que os lycans estavam perseguindo Michael, o que soa muito incomum, visto que tanto vampiros quanto lobisomens preferem manter distância dos humanos e não têm interesse por estes.[/COLOR][/B]</info>	
+  </item>
+  
+  
+   <item> 
+1   <title>[B][COLOR blue] Anjos da Noite - A Evolução - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:aa4f07b6df534fcba3c3b3479101c692c27bc356</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI2VTnT7EjYt4ZJEHn0cmJQYqpV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fHrc6qjVJ36Qi5UUiI3ON4v5uEL.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após o final do primeiro filme, a união de Selene a vampira e seu namorado Michael o vampiro-lobisomen terá de ser mais forte que o amor. Os dois terão de enfrentar uma legião de vampiros e lobisomen, e a evolução das espécies. Além disso, o centenário vampiro Marcus desperta de seu sono, pronto para matá-los.[/COLOR][/B]</info>	
+  </item> 
+  
+   <item> 
+1   <title>[B][COLOR blue] Anjos da Noite - A Rebelião - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2ae4cf925d4df355508e3c9c4f575232af3ea1a0</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPv2WJzlD76ZQP3wjaixZooR1l.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/om5EGrV0XwP4dRdmkgMOaxjOBI9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A partir do primeiro imortal, Alexander Corvinus, nascem duas raças de seres sobrenaturais: os vampiros e os lobisomens. Os vampiros vêm da linhagem de Markus, filho de Corvinus, tornando-se elegantes e aristocráticos. Já os lobisomens, oriundos de William, também filho de Corvinus, são bestas selvagens sem qualquer traço de humanidade. Os vampiros dominam o território onde hoje é situada a Hungria e sempre temeram os lobisomens devido à sua força e brutalidade. Até que uma alteração genética faz com que um lobisomem feminino desse à luz um filho de aparência humana, Lucian (Michael Sheen). Ele nasce na casa de Viktor (Bill Nighy), o líder dos vampiros, e, ao contrário dos demais de sua espécie, pode se transformar em animal sempre que desejar. Viktor usa esta característica para desenvolver a partir de Lucian uma nova espécie de escravos, explorados pelos vampiros como trabalhadores à luz do dia. Para controlá-los a nova espécie é obrigada a usar coleiras pontiagudas prateadas, que os impedem de se transformar.[/COLOR][/B]</info>	
+  </item> 
+  
+   <item> 
+1   <title>[B][COLOR blue] Anjos da Noite - O Despertar - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3bf43032af0fb2291d866f67d23781c956c4cdc8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6GY91MCrmUdMeUIxbw9JXvblES.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/Aauhfw6Lu3eVpTNVm8Av6JIylqk.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após ser mantida em estado de coma por quinze anos, a vampira Selene (Kate Beckinsale) descobre que ela possui uma filha de quatorze anos, híbrida de vampiro e lobisomem. Com a ajuda dela, Selene deve impedir a empresa BioCom de criar super lobisomens que possam matar todos os vampiros[/COLOR][/B]</info>	
+  </item> 
+  
+  <item> 
+1   <title>[B][COLOR blue] Anjos da Noite - Guerras de Sangue - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:BB68952E7F2D615CA9E988871F319F6F6E9B08B6$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:262A60AA24848E905923B3F420B568E7FB19ED0F$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/i1seucUeHPid3LG1Q0GZsV6LmxT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Selene (Kate Beckinsale) é uma guerreira vampira que luta para acabar com a guerra eterna entre o clã Lycan de lobisomens sanguinários e a facção de vampiros que a traiu. Quando um novo levante parece tomar forma, ela irá utilizar sua influência e relacionamento com ambas as partes para negociar um cessar fogo.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Blade - O Caçador de Vampiros  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F23772F3EA9614C2FCD6B4ADA80FB50A897211DF</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyivyoXd6zP09tS1PP7b35sB84h.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gIR61o4awBHCNHUOrBcjyZa22BZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após ser contaminado pelo sangue de uma criatura das trevas, Blade (Wesley Snipes) transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost (Stephen Dorff) e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Blade II - O Caçador de Vampiros - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:EAC8016B1B8AE5D2C55C523208D3336A6C05E3E6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dK0SgvApvrboOTfm7FZc4wAITk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8GE5fnZUBKHqKnFZtOZrbEDoka3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Blade (Wesley Snipes) é um ser meio homem, meio vampiro que é consumido pelo desejo de vingança contra os seres que atacaram sua mãe antes mesmo dele nascer e fizeram com que ele se tornasse o que é atualmente. Com isso, ao crescer Blade iniciou uma verdadeira cruzada pessoal para combater e eliminar os vampiros, mas agora uma nova raça mais poderosa chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros, ameaça eliminar ambas as raças. Visto isso, Blade se alia aos seus maiores inimigos para que, juntos, possam combater esta nova raça de seres.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Blade: Trinity - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C312EB6493759202F88468F6A94511F584A11DA6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTTQYwvhM0pJLJV9Z78TK9R4lZM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/55885wQeb8XISRccwnfVJ7DDJFM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Blade, agora um homem procurado pelo FBI, deve unir forças com os Nightstalkers para enfrentar seu inimigo mais desafiador ainda: Drácula.[/COLOR][/B]</info>	
+  </item>
+
   <item> 
 1   <title>[B][COLOR blue] O Código Da Vinci - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
