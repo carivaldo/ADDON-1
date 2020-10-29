@@ -3,6 +3,53 @@
 
 
   <item> 
+1   <title>[B][COLOR blue] Pânico no Lago - [COLOR red]ADDON BXL [COLOR red](1999)A(2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:BB06C7D1FCFCD869F9848DCA9CFC8BB08EF8F58C$$lsname=[COLOR lime]720P FILME 01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:5BDC26076C6AD5E51EA53663E1E3D35EB240106B$$lsname=[COLOR lime]720P FILME 02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:67C5490FD330D05928FBEC36E95D5D33E3F46EE7$$lsname=[COLOR lime]720P FILME 03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:95EF80E9809E436A9299E18310F01357DBBCBD5E$$lsname=[COLOR lime]720P FILME 04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:95EF80E9809E436A9299E18310F01357DBBCBD5E$$lsname=[COLOR lime]720P FILME 06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:FB7CC146E8706B556EA3A15FA6F249F5338C74C3$$lsname=[COLOR lime]1080P FILME 07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:35B40D381636CCCBA60E1DA5624175B954CE2DCD$$lsname=[COLOR lime]1080P FILME 08[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uug2N5CDbyZI0ZZ7uyAyWyY6jlY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qjfKppgAEvayZo2vBbesySb7pqf.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Lenda Urbana 1 - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:fedaa01358ce1711dc1df72537df26dd8788850c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bfW0kucALtgeHziRV1gVwxxnSn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/cwjERuZptihnwFKeOJiwB5U32kB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Série de crimes inspirados em assassinatos do passado assolam uma localidade. Quando Natalie (Alicia Witt) investiga antigo crime, o assassinato de um aluno por professor psicopata, ela inadvertidamente entra na mira do maníaco homicida.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Lenda Urbana 2 - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6883590DA7A33A55011190193FCAF5F221E95C1C</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKUdXDl7QXxMs79hv5fT1ogMLUO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/sOn1tOLzvhRaEtOdRP4dxmweNBN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um grupo de jovens estudantes de cinema estão prestes a se formar e estão ávidos por fazerem sucesso com suas idéias em Hollywood. Mas antes disso eles precisam concluir um filme, como projeto final da faculdade. Só que, no meio da produção, acidentes bizarros começam a acontecer, deixando a equipe cada vez menor e levantando a dúvida sobre quem estaria provocando tais acidentes.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Lenda Urbana 3 - A Vingança de Mary - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C89173F6A570FF40D242964073B5090A66108DF4</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjRARXvgNAR1C02PCYSmWVNhDq.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hgwBYgFvHEDJVx0OVA4qGtcYrCC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Durante uma noite de celebração, três garotas invocam um espírito maligno. O que parecia ser apenas uma brincadeira entre colegiais transforma-se numa trágica sucessão de assassinatos, que precisam ser detidos a qualquer custo. Com o mal à solta, elas precisam evitar o pior e fazer de tudo para controlar essa vingança, nem que para tanto seja preciso colocar a própria vida em perigo. Essa produção é a segunda continuação da série Lenda Urbana, que faz sucesso entre o público adolescente apostando em sustos e numa boa dose de sangue.[/COLOR][/B]</info>	
+  </item>
+
+
+  <item> 
 1   <title>[B][COLOR blue] Casa De Vidro - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:58adf772c3af5163f243acbb8486f15a6343dd3d&dn=A+Casa+de+Vidro+%282001%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
