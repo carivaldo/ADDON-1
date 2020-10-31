@@ -1,14 +1,54 @@
 
 
+  <item> 
+1   <title>[B][COLOR blue] Soldado Universal 1 - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f95c6f8c4ced8cf866786cbd87c2ebe9106173e5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/aaWDl11bHFNkNtIQb3IqdT4DQdy.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Durante a Guerra do Vietnã, o soldado Luc Deveraux descobre que seu superior, Andrew Scott, se tornou descontroladamente violento, e os dois lutam até a morte. Seus corpos são resgatados e colocados num programa secreto em que são reanimados e treinados para se tornar máquinas assassinas. Inicialmente, Devereaux e Scott não têm memória de suas vidas passadas, mas lampejos do passado começam a retornar, reavivando o intenso conflito.[/COLOR][/B]</info>	
+  </item>
 
+  <item> 
+1   <title>[B][COLOR blue] Soldado Universal 2 - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6b1c87ba999f24f3003b82990ea7dedc66d40549</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/45B7MKUtfrgIYQ2iU0fneaF2LW.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sequência não-oficial feita originalmente para a TV a cabo, os testes de soldados universais foram interrompidos e o orçamento cortado pelo governo. Porém, sob ordens de um maléfico oficial da CIA, o programa continua e os soldados ressuscitados são transformados num grupo imortal de mercenários. Quando Luc Deveraux é preso e tem sua memória apagada para integrar o time, a repórter Veronica precisa contar com a ajuda do seu irmão mais velho, Eric Deveraux, um dos primeiros soldados universais.[/COLOR][/B]</info>	
+  </item>
 
+  <item> 
+1   <title>[B][COLOR blue] Soldado Universal 3: Regeneração - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3EC06B34362648B5330281FA5721711788D99E9F</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/pqLRmOhDYqjdBpO7ioNMus9qs6i.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Um grupo de rebeldes sequestra os filhos de um importante político do leste europeu, exigindo, em troca, a liberdade de alguns prisioneiros. Para complicar, tomam posse da desativada usina de Chernobyl e instalam no local bombas que podem fazer um grande estrago radioativo na região. Como o inimigo possui um exemplar de Soldado Universal (Andrei Arlovski) em sua equipe, antigos Soldados Universais são reativados para combater o inimigo, sobrando também para Luc Deveraux (Jean-Claude Van Damme), que passando por tratamento psicológico, não imaginava encontrar novamente o sargento Andrew Scott (Dolph Lundgren).[/COLOR][/B]</info>	
+  </item>
 
+  <item> 
+1   <title>[B][COLOR blue] Soldado Universal 4: Juízo Final  - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:85E1AA16E3ECE0DB38A356FE4B6EE0FB399FC219</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IEFB4ROAh6tt3g4u57mtWDq3F.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5wxjd6D6jX8XlhQRw3rUiwl4HwK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quarto filme da franquia Soldado Universal. A direção é de John Hyams e o protagonista é Scott Adkins. Jean-Claude Van Damme e Dolph Lundgren voltam aos papéis de Luc Deveraux e Andrew Scott, mas em participações menores.[/COLOR][/B]</info>	
+  </item>
 
-
-
-
-
-
+  <item> 
+1   <title>[B][COLOR blue] Um Dia de Fúria - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:71227207a73d6acf44f10943d5f113734a039839</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI8CFBrfd62g5tlTZLT18DMqgs0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tgftdpSjQIUk2NVJIVqjtVaemxB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Prendergast (Robert Duvall), um policial em seu último dia de trabalho pois vai se aposentar, arrisca sua vida para tentar deter William Foster (Michael Douglas), um homem emocionalmente perturbado que perdeu seu emprego e vai ao encontro de Beth (Barbara Hershey), sua ex-mulher, e da filha, sem requer reconhecer que o seu casamento já acabou há muito tempo. Em seu caminho, William vai eliminando quem cruza seu destino.[/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Anjos da Noite - Underworld  - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
