@@ -3,6 +3,49 @@
 
 
   <item> 
+1   <title>[B][COLOR blue] A Experiência - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6A1C4B124E0333AA17A90648D28583F7D35C3816$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:D615535524BC1EE2D39D26F016427C5B1686BBF9$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivBkQcF3Bny0NgX1DRniK9rbvMg.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bTHqaM1SVXSpEELkZ471MFlt53s.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um ser alienígena é o resultado de um código genético desconhecido enviado do espaço e recebido por cientistas. Após o nascimento da criança e seu rápido desenvolvimento, há uma ordem para matar a "menina", que é meio humana e meio extraterrestre, mas ela foge do laboratório onde é mantida. Enquanto procuram por uma criança, ela se transforma em uma atraente mulher (Natasha Henstridge), que deseja acasalar rapidamente para proliferar a sua espécie.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] A Experiência II - A Mutação - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A777E43BA54ABCEADFA5154E726408A10F8FBEB4$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:AACE8DB2F67629B4B578DDA9A417F3F79022C560$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tU4n3aACxbE4AxYnAWqWMjVdkrn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O filho de um senador americano é o primeiro homem que pisa em Marte, logo se tornando um herói. Porém, ele foi infectado por um DNA alienígena que o transforma em um ser preocupado apenas em tem relações com mulheres da terra, que possam lhe dar filhos. Quando o filho do senador toma consciência de que se tornou um monstro estoura a cabeça com um tiro, mas automaticamente o DNA que está em seu corpo regera tudo que foi destruído. Este fato é testemunhado por um companheiro da missão espacial que não foi infectado. Ele relata o acontecido a um mercenário e a uma cientista. No passado ambos tinham ajudado a eliminar uma alienígena, que também infectava os humanos através de relações. A pesquisadora fez um clone desta alienígena, que é mantida sobre a mais rígida segurança, mas telepaticamente os dois alienígenas se comunicam e um desejo enorme entre eles de terem relações e procriarem pode ser fatal para os humanos.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] A Experiência III - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:cd7409875d4c7f11e8a3f865b843eadc45f1709a</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH7pQTCwenRToalvPAreFjdHDmG.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5VrXNceBM6uXNookbhpHFRoUHTD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A filha de Eve (Natasha Henstridge), Sara (Sunny Mabrey), faz parte da 3ª geração de alienígenas na Terra. Existem outros da sua espécie, mas Sara é mais resistente aos diversos tipos de doença do planeta. Ela vive na casa de um professor universitário, Abbot (Robert Knepper), que a seqüestrou do governo quando era apenas um bebê, ou seja, poucos dias atrás, pois ela cresce 15 centímetros por dia e em breve será uma adulta. Abbot quer criar o espécime perfeito e obter reconhecimento internacional, mas várias coisas começam a dar totalmente e mortes acontecem. Além disto outros alienígenas mestiços começam a apresentar sérios problemas de saúde, mas uma dela, Amelia (Amelia Cooke), parece estar disposta a tudo para poder sobreviver.[/COLOR][/B]</info>	
+  </item>
+
+
+  <item> 
+1   <title>[B][COLOR blue] A Experiência 4 - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f1ca0cd52fc7c88197ab6561cf01142f3df0816f</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/15RP2TcF31Xbm8Tk0oZVC7wVC15.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/edcGttXCDPOpDlLdo06eBF448wr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ela pode ser linda por fora … mas por dentro, carrega um segredo mortal! Prepare-se para a quarta edição da lendária série A Experiência, que leva as emoções e o suspense ao mais elevado nível de ação, terror e caos! Quando a brilhante professora Miranda Hollander passa por uma misteriosa ausência de consciência e acorda em meio a uma sangrenta matança em massa, ela recorre a seu tio em busca de respostas. Mas ele lhe revela a estarrecedora verdade: ela é apenas metade humana, um clone de um híbrido humano com DNA alienígena. Agora, eles precisam ir correndo ao México na esperança de localizar o cientista que a criou. Em pouco tempo, eles se vêem envolvidos por uma batalha com uma horda de híbridos violentos e implacáveis... e Miranda está prestes a se render inevitavelmente ao instinto assassino que a espreita dentro de seu próprio corpo! Seu tempo está se esgotando rapidamente...[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
 1   <title>[B][COLOR blue] Depois da Terra - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:CA9F318B3D261C828A981D621AE494045BA9276F&dn=Depois%20Da%20Terra%20%284k%29%20%28TORRENTUS%20FILME%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[COLOR lime]4K [/COLOR] - DUBLADO</maglink>
