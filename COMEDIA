@@ -12,7 +12,16 @@
 
 
 
-
+<item> 
+1   <title>[B][COLOR blue] Finalmente 18 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79889b640388bbbeda14c9932a7f8b058e971cc6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mL0etS6jpQD3fq2B4L8DGCiFO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bGePh6CyZIzrueokpvyijWeBZ4X.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A melhor coisa da vida é ter amigos! E Jeff não pode reclamar nem um pouco disso, afinal, seus dois melhores amigos vão até o campus onde ele mora para agitar o seu aniversário de 18 anos. Este é "O" primeiro grande momento na vida de uma pessoa, é poder entrar em qualquer clube de dança, poder beber a vontade e praticamente fazer tudo o que quiser... ou quase tudo.[/COLOR][/B]</info>	
+  
+</item>
 
   <item> 
 1   <title>[B][COLOR blue]The Best of Borat - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
