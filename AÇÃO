@@ -1,5 +1,123 @@
 
 
+
+
+  
+  <item> 
+1   <title>[B][COLOR blue] Inimigo do Estado - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3d0592c7fccb94e8425d1b75e14bda0ce7d35ba7</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/lPLTLCBn39Wiy1RPQLB9xOKyF2v.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O congressista Phillip Hammersley assassinado por um órgão do governo, logo após ter se declarado radicalmente contra uma lei que, em nome da segurança nacional, permitiria que houvesse uma total invasão de privacidade, pois na prática qualquer pessoa poderia ser monitorada pelo governo. Mas, acidentalmente, o crime filmado e o dono da gravação, vendo-se ameaçado, coloca a prova do crime na sacola de compras de Robert Clayton Dean (Will Smith), um advogado que era seu conhecido. Ele ainda tenta escapar, mas na fuga morre atropelado. Sem ter a menor noção do que está acontecendo, Robert vai para casa com a gravação e deste momento em diante sua vida se transforma em um verdadeiro inferno, pois, sem que saiba, suas roupas e objetos pessoais têm escutas, logo ele perde o emprego e todos seus cartões de crédito são cancelados. Vendo-se ameaçado, ele tenta entender tudo e continuar vivo, mas suas chances são poucas, pois está envolvido em uma trama inimaginável.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Teoria da Conspiração - [COLOR red]ADDON BXL [COLOR red]1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:EDF942384B371047BA17AC951722120966B8EA5C</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygYcfOgTgkDbswkPCxjhpXqqAMI.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/e1gDjdd80rEIxNJGqHA4qFvZmi9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em Nova York, Jerry Fletcher (Mel Gibson) é um motorista de taxi que critica o governo e fala sempre da existência de uma conspiração envolvendo altos escalões. Ele ama Alice Sutton (Julia Roberts), uma mulher que ele observa à distância e que ironicamente trabalha para o governo. Porém, nela Jerry acredita, tanto que faz alvoroço no Departamento de Justiça para falar com Alice, mas ninguém lhe dá atenção sobre suas teorias, que envolvem alienígenas e assassinatos. No entanto, ele escreveu algo em seu jornal (com apenas 5 assinantes) que alguém acreditou, pois decidiram matá-lo de qualquer jeito.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Assassinos - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:be9014c96642da971de7579935e7f5aeaeb49acf</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6fmzSP9whKjo6xpH3G1USCQcxn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3qpYNWPmHfqatGCqpeGtVRBsyvS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A escuridao, esconde assassinos profissionais que executam seus contratos com perfeicao! Isolados do mundo, nunca deixam pistas e desaparecem protegidos pelas sombras. Neste filme de acao e suspense, temos o confronto de duas situacoes, Miguel Bain (Banderas), e extremamente violento e obcecado em se tornar o mais perfeito de todos os assassinos. Richard Rath (Stallone), e considerado o melhor na arte de matar mas...chegou a sua hora e ele quer deixar seu passado para tras e comecar uma nova vida. Os dois se cruzam, quando sao enviados para eliminar Electra (Moore), uma linda assassina que guarda valiosos segredos em um disquete. No perigoso jogo dos assassinos, so existe um objetivo - Eliminar o alvo![/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CB5DBA814A0BBBA908BEB2FB0A39D4C0A77BDF2C$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9DC4D804CF11FB16E7554EB57DECD56484D8FAF6$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y4R7JvSDPs9TGwNvOzhCb8ec7B.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/f2FOPlspPGm0ZPLxd5DEXCYEkGZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após o doloroso fim de um relacionamento, uma garota encontra um homem que parece ser o homem perfeito para ela. Porém, a medida que o relacionamento deles se desenvolve, ela descobre que que o cara perfeito é um ex-assassino que está fugindo do antigo cartel criminoso do qual era contratado.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] A Outra Face - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a7a83b0fe1da114da636d32fccb2d051d278eec2</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yeIpgoZWzbNqkeSYPwhNZQ5xCRX.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sean Archer (John Travolta), um agente especial do FBI, vê seu filho ser morto por balas destinadas a ele, disparadas por Castor Troy (Nicolas Cage), um terrorista psicopata. Por seis anos o agente tentou capturá-lo e, quando consegue, descobre que uma grande explosão está para acontecer em Los Angeles por obra do criminoso, que, logo depois, devido a um acidente, entra em coma profundo. Assim, Sean Archer, utilizando uma técnica revolucionária, troca de rosto com Castor Troy, para conseguir com o irmão (Alessandro Nivola) deste a localização da bomba. Mas o criminoso sai do coma, e agora ele tem o rosto do agente do FBI Sean Archer.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] O 6º Dia  - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A3249FEB7B7366B1E954323F003808290003D1BC</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5nRER1G3zzX41g3SBaaWwc1M3m.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/96aR8eYY9FHCXfA9Ii1d0e7agwS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em um futuro próximo, a clonagem de gado, peixes e até mesmo animais de estimação já fato corriqueiro. Mas clonar seres humanos um ato ilegal em todo o planeta. Pelo menos até Adam Gibson (Arnold Schwarzenegger) um dia chegar em casa e encontrar um clone em seu lugar. Agora, separado de sua família e jogado em um mundo que ele não compreende, Gibson precisa salvar a si mesmo para descobrir quem está por trás destes acontecimentos e recuperar sua família.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Comando Para Matar  - [COLOR red]ADDON BXL [COLOR red](1985) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:eb84000f85d932d3c49a7c22cbdf39d1e22b242c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c02d619U138A3eBt3ZhMPrlwiaM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2WyO5B5L6qQlY5lWzONcP6Qkrwr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]John Matrix (Arnold Schwarzenegger) é um coronel aposentado há dez anos que vive para Jenny Matrix (Alyssa Milano), sua filha. Repentinamente ela é seqüestrada por Arius (Dan Hedaya), um ex-ditador latino-americano que espera recuperar o poder, e que para isto chantageia Matrix, ordenando-o que mate o presidente Velasquez, o atual mandatário. Mas John foge do avião e tem só 11 horas para resgatar Jenny antes que descubram que escapou e não pretende cometer nenhum assassinato. Na sua tentativa só encontra obstáculos pelo caminho e a única pessoa que fica do seu lado é Cindy (Rae Dawn Chong), uma aeromoça.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] O Juiz - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVLxNo53QniZxxRaYPB3vY7PRFN.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ahNuT6MzvKu3pnsIs9P2lBm26Q5.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No terceiro milênio, o mundo mudou. O clima, as nações, tudo entrou em revolta e o planeta se transformou em um deserto insalubre e desolado, conhecido como "A Terra Maldita." Milhões de pessoas habitavam as escassas "megacidades", onde bandos errantes e selvagens urbanos geravam tamanha violência que o sistema judiciário não podia controlá-los. A lei como conhecemos entrou em colapso. Da decadência surgiu uma nova ordem, uma sociedade regida por uma nova força de elite da polícia, que atua como juiz, júri e carrasco, que são conhecidos como "Os Juizes". Dredd (Sylvester Stallone), o mais lendário dos juizes, é vítima de um plano que o incrimina como assassino e acaba banindo-o da cidade onde vive.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] O Demolidor  - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0f398dd8eec5aee94757b3c57e8aa5f8c6454b64$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f17e2c2fa664cc27955d0c23a4c35af479e19ec5$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG0mNI9ZXeHHf3cdQNWN4aqO1FE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1TsG85GkQYwJceePEvOakKwZH5V.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] O Demolidor (Demolition Man) um clássico dublado e com qualidade de blu-ray. 1996. Depois de capturar o perigosos Simon Phoenix (Wesley Snipes, de Crime na Casa Branca) o policial John Spartan (Sylvester Stallone, de O Especialista) é acusado de homicídio e excesso de brutalidade. Condenado, ele é enviado para a prisão, junto com seu inimigo, onde permanecerão congelados até o fim de suas sentenças. 2032... Phoenix realiza o impossível: consegue escapar da prisão futurista e desencadeia uma nova onda de terror e violência. O único homem capaz de detê-lo é Spartan, conhecido como O Demolidor. Agora o futuro irá presenciar a batalha final entre o maior de todos os criminosos e um policial que não medirá esforços para reestabelecer a lei e a ordem nesse novo mundo.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Falcão - O Campeão dos Campeões - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:bc901478a3fe932186fa0a267a0282adfd44e68c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSsrQ450oOdEsCymOUo9dYq892w.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dcNs7gOSc8abhGISZA9hVIsaUDh.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Lincoln Falcão (Sylvester Stallone) é um caminhoneiro que tenta reconstruir sua vida após a morte da esposa. Ele tenta se reaproximar do filho, Michael (David Mendenhall), de quem se afastou anos atrás. O garoto não dá muita atenção ao pai, até que ele se inscreve em um campeonato nacional de queda de braço, realizado em Las Vegas.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Daylight - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:31e8dfecdbc9f0cd6808faa5ed13903bb3205c66</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcQlG6XMkhea1uOwjUpeA9qCDFu.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/zLWt0uRC6NRQAcsxVaQQi1m86ZR.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um carro em fuga bate em um caminhão cheio de material tóxico, provocando uma explosão que sela ambas as saídas de um túnel subterrâneo entre Manhattan e Nova Jersey. Esta situação leva Kit Latura (Sylvester Stallone), ex-chefe dos Serviços Médicos de Emergência da cidade, a tentar encontrar um caminho para salvar os sobreviventes antes que o ar acabe ou o Rio Hudson inunde tudo[/COLOR][/B]</info>	
+  </item>
+
   <item> 
 1   <title>[B][COLOR blue] Soldado Universal 1 - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
