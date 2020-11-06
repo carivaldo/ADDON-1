@@ -1,7 +1,17 @@
 
 
 
-
+<item> 
+1   <title>[B][COLOR blue] Filme Bourne - Coleção Completa - [COLOR red]ADDON BXL [COLOR red](2002)A(2916) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9E3834EBAA1331FD1AE3802789C026306C901FC1$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:26BD514F05627DA2172918149CF09AA9CA8C6369$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C925DF465EB9887916CE4E52008C0C77ADF96CFB$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5XMzFOw6Sp1M9KuvKxihpwl0j.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uSkcH2bcDBkUZCZMPcLSzaMY0td.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Coleção completa com todos os 5 filmes da franquia Bourne: A Identidade Bourne (2002), A Supremacia Bourne (2004), O Ultimato Bourne (2007), O Legado Bourne (2012) e Jason Bourne (2016). Após ficar à beira da morte, por ter sido baleado, um desconhecido (Matt Damon) acorda sem memória em uma costa do Mar Mediterrâneo. Ele consegue se recuperar, com a ajuda de um médico aposentado, mas tem como única pista de sua identidade um chip que estava implantado em seu quadril, onde estava gravado o número da conta de um banco de Zurique, na Suíça. No cofre deste banco suíço ele descobre que se chama Jason Bourne e que mora em Paris, mas também acha alguns passaportes falsos (com sua fotografia, mas cada um com um nome diferente), uma arma e uma grande quantia em dinheiro. No entanto logo é perseguido, sem entender por qual razão, e demonstra possuir diversas habilidades em autodefesa e luta, além de saber vários idiomas. Ele oferece US$ 20 mil para Marie Helena Kreutz (Franka Potente), que está dificuldades financeiras, para levá-lo até Paris. Após relutar ela concorda, pois precisa do dinheiro. Mas eles não poderiam imaginar o que o futuro lhes reservava.[/COLOR][/B]</info>	
+  </item>
   
   <item> 
 1   <title>[B][COLOR blue] Inimigo do Estado - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
