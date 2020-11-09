@@ -3,6 +3,101 @@
 
 
   <item> 
+1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman II: A Aventura Continua  - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOpi5evcEfw5w9hn09Re1VWvI8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qz5WdxU1HryZnIlXh0kMBxSsKtL.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Involuntariamente três criminosos do Planeta Kypton (Terence Stamp, Sarah Douglas e Jack O'Halloran) com super-poderes fogem da prisão da Zona Fantasma com planos para escravizar o Planeta Terra – bem na hora em que o Superman (Christopher Reeve) decide investir em seu romance com Lois Lane (Margot Kidder).[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman III - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jrVIVvgN37MeccHSfxqZlKE5hyK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Superman (Christopher Reeve) enfrenta agora um computador diabólico, programado por um gênio da informática que pretende dominar o mundo.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman IV: Em Busca da Paz  - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUBLocsfASNbVC2RueRGp1IPrmO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/spFSZBt83uruCwedMN8HR2uFklI.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Para tornar o mundo um lugar seguro para os contrabandistas de armas nucleares, Lex Luthor (Gene Hackman) cria um novo tipo de desafio para o Homem-de-Aço: um vilão carregado de radiação e conhecido como Homem Nuclear (Mark Pillow). Esses dois seres superpoderosos se enfrentarão em um combate explosivo, que obriga Superman a salvar a Estátua da Liberdade, a impedir que o Monte Etna entre em erupção e a reconstruir a Grande Muralha da China.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman - O Retorno - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITZTyXh88ylGFEePoLfz8iex8e.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ed58Qrsde3osDoZStd9p2y0cq2i.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após alguns anos de um misterioso desaparecimento, Superman (Brandon Routh) retorna ao planeta Terra. Porém a situação em Metrópolis está bastante mudada desde que o Homem de Aço deixou o planeta, pois a cidade se acostumou a viver sem ele. Além disto Lois Lane (Kate Bosworth), sua grande paixão, seguiu sua vida após o sumiço do herói. Ao mesmo tempo em que precisa se adaptar à nova realidade, Superman precisa enfrentar um antigo inimigo, que planeja um meio de acabar com ele de uma vez por todas.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] O Homem de Aço - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Há anos enviado de Krypton, um avançado planeta alienígena, à Terra, Clark sofre com a derradeira questão: Por que estou aqui? Moldado pelos valores de seus pais adotivos, Martha e Jonathan Kent, Clark logo descobre que ter super-habilidades significa tomar decisões muito difíceis. Mas quando o mundo mais precisa de estabilidade, ele é atacado. E agora, suas habilidades serão usadas para manter a paz ou partir para um tudo ou nada?[/COLOR][/B]</info>	
+  </item>
+  
+
+<item> 
+1   <title>[B][COLOR blue] Batman vs Superman: A Origem da Justiça - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:9B3F85B8FCAA58561969DE6950C1508DE0A37075$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:91F6A046783EA2E0DBDC379B3BD86C7CFE999DD8$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj3CX2GT2A5MR6WnBWs4F4r7k6n.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dasEWdFNSobYvY8xWcfz3z02kTu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Liga da Justiça - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5IpGz6M2QiH4MMWsVj4rfO6iyF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
 1   <title>[B][COLOR blue] A Experiência - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:6A1C4B124E0333AA17A90648D28583F7D35C3816&dn=viatorrents.com%20-%20Experiencia.95.TrialBD1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
