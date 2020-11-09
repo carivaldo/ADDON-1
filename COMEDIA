@@ -8,9 +8,38 @@
 
 
 
+  <item> 
+1   <title>[B][COLOR blue]Crocodilo Dundee - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3EDF271788420A2E5E36B18F500633BCF14C022B&dn=hidratorrent.com%20-%20CrocodiloD.86.BD1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:F8986EAF26BD26DA66DD10B2438ACF4D43541F65&dn=hidratorrent.com%20-%20CrocodiloD.86.BD720p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pduPduL1ub5kok3lPYT15ryC9L6.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sue Charlton (Linda Kozlowski) é uma jornalista americana que vai até a Austrália entrevistar Michael J. "Crocodilo" Dundee (Paul Hogan), um caçador que foi muito ferido por um crocodilo. Quando ela o leva para Nova York, ele se comporta de forma pouco convencional por estar fora de seu habitat natural.[/COLOR][/B]</info>	
+  </item>
+  
 
-
-
+  <item> 
+1   <title>[B][COLOR blue]Crocodilo Dundee 2 - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:AEUXU3RJSI52LWDJ2UATEWXYZFHBAOTH</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DXagEK09xO5xBUFUUr1SL1yUpd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/l4nnri0d2krbQpeRKGNyWhoBtxP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sue Charlton (Linda Kozlowski) é uma jornalista americana que vai até a Austrália entrevistar Michael J. "Crocodilo" Dundee (Paul Hogan), um caçador que foi muito ferido por um crocodilo. Quando ela o leva para Nova York, ele se comporta de forma pouco convencional por estar fora de seu habitat natural.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] Crocodilo Dundee em Hollywood 3 - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4ce1739362957e4c2b7ceaafdfe4e5b5bc9a8efc</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwt6iJjPuXRDKJON5s9G9pdfPbu.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ox31YBS3kFGIjBXbaltNareMONP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Crocodile Dundee em Hollywood: Mick Dundee (Paul Hogan), sua esposa Sue (Linda Kozlowski) e seu filho Mikey (Serge Cockburn) precisam deixar a pequena cidade de Walkabout, onde vivem, e viajar até Los Angeles, onde Sue precisa assumir a chefia do jornal do seu pai, após o chefe anterior ter morrido em circunstâncias suspeitas. Mick acredita que esta seja uma boa oportunidade de mostrar a seu filho o mundo existente além da pequena cidade onde vivem, enquanto que Sue precisa se desdobrar entre seu novo trabalho e ainda as investigações decorrentes da morte do antigo chefe.[/COLOR][/B]</info>	
+  </item>
+  
 
 <item> 
 1   <title>[B][COLOR blue] Finalmente 18 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
