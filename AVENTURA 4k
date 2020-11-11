@@ -1,6 +1,65 @@
 
 
 
+
+
+
+  <item> 
+1   <title>[B][COLOR blue] Jurassic Park: O Parque dos Dinossauros  - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8gdIKyQ587Gdo4XCc99usA1eyA7.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O Dr. John Hammond (Richard Attenborough) possui uma equipe de cientistas para descobrir um método cientifico de regenerar dinossauros através do DNA que eles encontram em âmbares preservados. Com isso ele cria um parque temático chamado Jurassic Park, onde todos são bem vindos para ver o passado retornar a vida. Dr. Hammond convida seus netos, Dr. Alan Grant (Sam Neil), Dra. Ellie Sattler (Laura Dern) e Ian Malcolm (Jeff Goldblum) para serem os primeiros? testemunhar a sua criação. As coisas começam a ir mal quando um empregado, Nedry (Wayne Knight), desativa o alarme de segurança e o mecanismo de defesa na tentativa de roubar espécies para revendê-las. Os dinossauros estão livres e as pessoas precisam lutar por suas vidas ou virar refeição para os ferozes Tiranossauros.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Jurassic Park 2 - O Mundo Perdido  - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1321cb286a4df7ed1ddfb6c32e87e21ea4941f0f</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkF6JPfru2FEIP9du7QyHVLSOzu.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5pwXUENVWmzuh93UTPrNi0SbA3E.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quatro anos após a catástrofe de Jurassic Park, expedições com interesses diferentes são enviadas para recapturar espécies de dinossauros que sobreviveram na ilha. Os grupos se encontram em meio ao perigo, e percebem que precisam se unir para conseguir sobreviver.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Jurassic Park III - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d8404921557797d3115af79f3d6808c9a13092c1</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dObEUGvS4cTbVNi8ewvd6gLIv4.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/obbCw31vvnFMFP1XFrM1OKPDNUz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O agora famoso paleontólogo Alan Grant é convencido por um rico empresário e a mulher dele a realizar uma excursão aérea pela Ilha Sorna. Nela, dinossauros clonados vivem em liberdade e são estudados no ambiente natural. Mas um acidente com o avião faz com que o grupo de sete pessoas fique encalhado na perigosa ilha. Cercados por carnívoros famintos, os visitantes tentam escapar do lugar e salvar suas próprias vidas.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Jurassic World: O Mundo dos Dinossauros - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:97CFF5DD4A07FD9BB82ABB4E8C5D5D912BE662CA$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2F41FA5303F244370F2EC3243CA55038B5CB6686$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:D085E357202535DDD6020C0DABBE2A0187D7E856$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/stg9saQsfZdyrhXJRmwmZmcooNS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/xX0IzuFa1Fj06iU2NlOmeMPe7oS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas com estes seres, de forma a criar novas espécies. Uma delas adquire inteligência bem mais alta, logo se tornando uma grande ameaça para a existência humana.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Jurassic World: Reino Ameaçado - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:925859199790A751720901BBA21CB93863748A74$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7941AD862EB6C7D296292C2FCB63585F21DE382D$$lsname=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:B055801AA7E8ED8012A04EFEFD7EC211C715139C$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E7322700E03D6B6F4950FD37BA2AF0F542A848CF$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jI1YUUasrswc73yCT6jekM5r8RY.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quatro anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire convoca Owen a retornar à ilha com ela.[/COLOR][/B]</info>	
+  </item>
+
 <item> 
 1   <title>[B][COLOR blue] Titanic - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
