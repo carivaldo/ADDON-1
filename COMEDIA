@@ -6,7 +6,152 @@
 
 
 
+  <item> 
+1   <title>[B][COLOR blue] Chef - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:aa8173dd5bc620f962bcccb888ac992bf7415143</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7G2Z1BcF4cMYqZMFja1IX3aBqGG.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2tp2y3uvOHfYB5d38ShtodV2BzD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Carl Casper (Jon Favreau) é o chef de um restaurante badalado de Los Angeles, mas volta e meia enfrenta problemas com o dono do local (Dustin Hoffman) por querer inovar no cardápio ao invés de fazer sempre os pratos mais pedidos pelos clientes. Um dia, um renomado crítico gastronômico (Oliver Platt) vai ao restaurante e publica uma crítica bastante negativa, baseada justamente no fato do cardápio ser pouco criativo. Furioso, Casper vai tirar satisfação com ele e acaba demitido. Pior: a briga vai parar na internet e se torna viral, o que lhe fecha as portas nos demais restaurantes. Sem saída, ele recebe a ajuda de sua ex-esposa (Sophia Vergara) para reiniciar a vida no comando de um trailer de comida.[/COLOR][/B]</info>	
+  </item>
 
+  <item> 
+1   <title>[B][COLOR blue] Mansão Mal-Assombrada  - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C7A329F89C418CF78C5B9D17069F3C4B9DADBD6E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:7758ED50FF558972C815B7815B0E84E17AAC970A$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcrrqT4Rq0N7wuyNKelESbpFNPT.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/27bE7RjXOd3nkFEdLevXH7QcUDI.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A confusão começa quando Jim Evers (MURPHY), um agente imobiliário viciado em trabalho, interrompe uma viagem de família para tentar fechar um negócio em uma mansão. Chegando lá, Jim descobre não só que a casa é mal-assombrada, mas também que tem poucas horas para quebrar uma terrível maldição! Baseado na famosa atração dos parques Disney, MANSÃO MAL-ASSOMBRADA é diversão do começo ao fim.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Um Tira da Pesada - [COLOR red]ADDON BXL [COLOR red](1984) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:be80365c25422430c0363814de207a61430a8201</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jInjxzwR14AulEFYB6x9c9oBKS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/pDMNtdSbwXZIz1TSSEPhcQYDJvt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Poucas horas depois de chegar em Detroit Mikey Tandino foi morto. Axel Foley, policial eseu melhor amigo, viaja para Los Angeles, pois tinha sido o último lugar onde Mikey trabalhara. O emprego de Mikey tinha sido conseguido por Jenny Summers, amiga de ambos, que administra uma famosa galeria de arte em Beverly Hills. Porém Foley tem de fazer tudo informalmente, pois está fora do caso, e pretende seguir a pista do possível mandante do crime, Victor Maitland, o chefe de Jenny e dono da galeria. Apesar de Maitland ser considerado um dos maiores marchands do país, Axel acredita que ele usa o mercado de arte como fachada e consegue que dois relutantes policiais locais, Billy Rosewood e Taggart, se unam a ele nas investigações.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Um Tira da Pesada 2 - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1f5019d5245718989d26f84882f851f79166d2e5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3zUVtNZeiYTwtp4XGacJRU5pdE1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Detroit voltou a ser a área de atuação do detetive Axel Foley (Eddie Murphy), que investiga um esquema de cartões de crédito falsos. Ele interrompe esta missão ao saber através, pelo noticiário da televisão, que Andrew Bogomil (Ronny Cox), um detetive que atua em Beverly Hills, foi baleado. Assim Axel ruma para lá, pois já tinham trabalhado juntos em um caso. Lá ele se reencontra com a filha de Andrew, Jan (Alice Adair), e com os detetives William "Billy" Rosewood (Judge Reinhold) e John Taggart (John Ashton), que eram subordinados de Andrew. Novamente Axel investiga com John e Billy uma onda de assaltos bem planejados, que está sendo conhecida como "crimes do alfabeto".[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Um Tira da Pesada III  - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7b66a0a1da271c1950ba60ff8121aa8ad9b38b7b</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/onNcraJY5jyFo0kWB3vrXptnfkE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/35tBkTTIOjsrngPiDrqCz7NpKYK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Numa noite em Detroit, Michigan, durante uma batida policial numa oficina de desmanche de carros, o detetive Axel Foley (Eddie Murphy) vê seu chefe, o inspetor Douglas Todd (Gilbert R. Hill), ser assassinado por um homem bem vestido. Em seu último suspiro Todd pede a Axel que pegue o homem que atirou nele, com Axel dizendo que fará isto. Após investigar Axel acha o veículo do assassino em WonderWorld, um parque temático em Beverly Hills, Califórnia. Já em Beverly Hills, Axel se encontra com o amigo Billy Rosewood (Judge Reinhold), que agora ocupa um cargo importante e tem outro parceiro, Jon Flint (Hector Elizondo), pois John Taggart se aposentou. Axel investiga o WonderWorld, cujo proprietário é Dave Thornton (Alan Young), que sente que algo errado está acontecendo no lugar.[/COLOR][/B]</info>	
+  </item>
+
+  <item> 
+1   <title>[B][COLOR blue] Babá Fora de Controle - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F234C1C36D20193F29ACF156624DD319E39D3491</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DFNEsG8uqe4Gldk8Z18uSbpVXO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dfb4cPAh2rWlWxWKbiAuE0MSs0n.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]À procura de uma babá por uma noite, Marc Schaudel confia seu filho Remy aos cuidados de seu empregado Franck, um homem honesto. Mas o que Marc não sabe, é que Franck está completando 30 anos neste fim de semana e que seu filho Remy é uma criança muito excêntrico. No dia seguinte, Marc e sua esposa Claire são acordados por um telefonema da polícia. Remy e Franck sumiram, e a casa está totalmente devastada. A polícia encontra uma câmera. Marc, Claire e a polícia começam a assistir o vídeo que foi gravado no dia anterior durante a noite e descobrem o que aconteceu com Franck e Remy.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] Babá fora de Controle - Missão Brasil - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:64CC6EFA8E15B0E05D03320ECAF92CC08E8A30A0$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:4F9D9BE867A04E53A093635F62E10ABB10E569AE$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbgOLOhb1ngWb5YHJncCzK02Bdk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/xbcJOmBn3FqHd2mtyq1P1pXWLWv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Franck, Sonia, Sam, Ernest, Alex, e Estelle viajam até o Brasil para passar as férias no hotel de Jean-Pierre, o pai de Sonia. Franck quer aproveitar esta viagem para propor casamento a Sonia. No Hotel o grupo conhece Yolande, a avó rabugenta de Sonia. Eles vão a uma excursão até a selva, mas tudo começa a dar errado e suas aventuras começam.[/COLOR][/B]</info>	
+  </item>
+  
+  
+    <item> 
+1   <title>[B][COLOR blue] Quero Matar Meu Chefe - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:38f46bff2c5e0ce8f892f3f3d6722d74c357fd00</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHmfgsECX3alvrjkEvdpelRmwZ2.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yYFTWXmqzB1pYK4FsYnd3ieA7lB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nick Hendricks (Jason Bateman), Kurt Buckman (Jason Sudeikis) e Dale Arbus (Charlie Day) são amigos que sofrem nas mãos de seus chefes, Dave Harken (Kevin Spacey), Bobby Pellitt (Colin Farrell) e Julia Harris (Jennifer Aniston), respectivamente. Juntos, eles resolvem pôr em ação um plano para eliminá-los.[/COLOR][/B]</info>	
+  </item>
+  
+  
+    <item> 
+1   <title>[B][COLOR blue] Quero Matar Meu Chefe 2  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:26B776AEE5A3527C9CE76E81883C573F5F7C8D90</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXRwjL92nD5VN83kAmZKMmjMOJK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/pM4xCEItOf6G3Uujvc6GttwWvtJ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após o trauma vivido no filme anterior, os amigos Nick (Jason Bateman), Dale (Charlie Day) e Kurt (Jason Sudeikis) resolvem abrir seu próprio negócio, de forma que eles mesmos sejam seus chefes. O problema é que, quando a companhia começa a deslanchar, eles sofrem um golpe do investidor (Christoph Waltz) que bancou o negócio. Sem ter como recorrer através dos meios legais, o trio decide partir para um ato desesperado: sequestrar o filho do investidor (Chris Pine) e, com o dinheiro do resgate, pagar a dívida contraída e manter a empresa.[/COLOR][/B]</info>	
+  </item>
+  
+  
+    <item> 
+1   <title>[B][COLOR blue] Se Beber, Não Case!  - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:47E838161017DE97193626E7D63E6FF35502889F$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:082A3C3BFDDF704A71DC3F3A94E816BD774D0D82$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hi9g065cxrQc2TLh5zwmTOurvK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Dois dias antes de seu casamento, Doug e três amigos vão de carro até Las Vegas para uma louca e memorável despedida de solteiro. Quando os três padrinhos acordam na manhã seguinte, eles não conseguem se lembrar de nada e notam que Doug desapareceu. Com pouco tempo de sobra, os amigos tentam refazer a noite anterior e encontrar Doug para que possam levá-lo de volta a Los Angeles a tempo de chegar ao altar.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] Se Beber, Não Case! Parte II - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ba9dce17dc470cee7fb27dce1093a7a5e75955b5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mAeh0qObTdyuVdOuU5ElSH5G4yq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois de uma farra inesquecível em Las Vegas, Phil (Bradley Cooper), Stu (Ed Helms), Alan (Zach Galifianakis) e Doug (Justin Bartha) seguiram com suas vidas. Mas o bom e velho Stu está disposto a se casar novamente, desta vez com Lauren (Jamie Chung), e o local escolhido para a cerimônia foi a exótica Tailândia. Entretanto, o que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser "marcante".[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] Se Beber, Não Case! Parte III  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4a437d7a4cfb28085bc1f171af761eca30f4ec69</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SOnmTK0XoEcc7AoyXoce76to3Y.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/9XGVeKl8gUk69kRrNoel5IRaKuF.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Alan (Zach Galifianakis) está deprimido devido à morte de seu pai. Preocupado com o cunhado, Doug (Justin Bartha) sugere que ele vá até um lugar chamado New Horizons, que pode torná-lo um novo homem. Alan apenas aceita a sugestão após Phil (Bradley Cooper) e Stu (Ed Helms) concordarem em levá-lo, juntamente com Doug. É o início de uma nova viagem do quarteto, que acaba sendo interrompida bruscamente pelos capangas de Marshall (John Goodman). O malfeitor está atrás de Chow (Ken Jeong), que lhe aplicou um golpe milionário, e acredita que os amigos ainda possuam contato com ele. Após sequestrar Doug, Marshall dá a Alan, Stu e Phil um prazo para que encontrem Chow e devolvam as barras de ouro por ele roubadas, caso contrário todos morrerão. O que o trio não esperava era que, para reencontrar Chow, teria que ir até Tijuana, no México, e também em Las Vegas.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] A Ressaca - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:78BEE371F6E217BDC1ADB49AA84A82898227BC52</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZooDCZrUANCgDXZKRKnjuJCoDE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/xGZqk56DoAT6o3ovh1B3a7CzgSV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Adam (John Cusack) foi abandonado por sua namorada. Lou (Rob Corddry) adora uma festa, mas não consegue encontrá-la. Nicky (Craig Robinson) tem sua vida controlada pela esposa. Jacob (Clark Duke) é fanático por videogame e, por causa disto, raramente sai de casa. Eles são amigos e, após uma noite de muita bebedeira, acabam na banheira de hidromassagem de um resort de esqui. Sem saber como, eles acordam em pleno 1986. É a chance que têm para apagar erros do passado e criar um novo futuro.[/COLOR][/B]</info>	
+  </item>
+  
+    <item> 
+1   <title>[B][COLOR blue] A Ressaca 2 - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8FA1B1010933F527CF3FDE177247CE1EAD7A3F3A$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:AB34A11B9D88BE632FE927034F2AEE573CF860D6$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>    
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2KVIrzzuhPZNWRv8HUQeNJqAKY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/r1J575svb1NbaM19NP8ePPHqlNn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nick (Craig Robinson), Lou (Rob Corddry) e Jacob (Clark Duke) voltam a se envolver numa misteriosa viagem no tempo através de uma banheira. Porém, acabam indo parar no futuro. Agora, eles tem a missão de mudarem suas atuais condições, a fim de salvar o passado que, na verdade, é o presente.[/COLOR][/B]</info>	
+  </item>
 
   <item> 
 1   <title>[B][COLOR blue]Crocodilo Dundee - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
