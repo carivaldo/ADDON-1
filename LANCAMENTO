@@ -7,11 +7,36 @@
 
 
 
+  <item> 
+1   <title>[B][COLOR blue] Buffalo Boys - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d2c5f5c4c81dcbf27841fa4cf05c9e0628bb5c97</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1Bn2zlIDJSnM5aOljbOPTM6Kf9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tLKashUlRCN8zzYBXiago4eJPho.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Depois de anos exilados na América, os irmãos Jamar (Ario Bayu) e Suwo (Yoshi Sudarso) retornam ao local onde cresceram, na intenção de vingar a morte do pai, que foi brutalmente assassinados pelos sultões. Apesar de saberem do risco de que a missão resulte na morte de ambos, eles estão convencidos a tomar de volta a terra que os pertencia por direito.[/COLOR][/B]</info>	
+  </item>
 
+  <item> 
+1   <title>[B][COLOR blue] Alma de Guerreiro - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5eaa04bf2ed1f21c72f3c7885ff14cfe19f79048</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g20Xg263ckStqtHwvoQHfxb5UUt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkUxVISgn7eSX19JWoe5d35HW7u.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Seguidores de duas religiões lutam entre si em uma batalha de proporções gigantescas. Um estranho se encontra no meio do conflito e é pressionado a escolher um lado. No final, ele decide que nenhum dos lados merece seu favor e deve lutar por seus próprios desejos.[/COLOR][/B]</info>	
+  </item>
 
-
-
-
+  <item> 
+1   <title>[B][COLOR blue] Guns Akimbo  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1d2c3a40a7f56f066e4632c5133c42df22abd30f$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:29d9f3723384223795afaa17f8c2ee7e82f9781a$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSypWMagzI7jJ7cq2TStGnYyyfL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/7LZJoVBGoXuczfsuzKREbn0z0b3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A vida patética de Miles (Daniel Radcliffe), um desenvolvedor de jogos, toma rumos dramáticos quando ele acidentalmente se torna o novo competidor de SKIZM, uma violenta competição underground exibida ao vivo na internet, tendo que destronar a maior matadora do jogo, Nix (Samara Weaving), que está disposta a tudo para manter sua posição.[/COLOR][/B]</info>	
+  </item>
 
   <item> 
 1   <title>[B][COLOR blue] O Cobrador de Dívidas 2- [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
