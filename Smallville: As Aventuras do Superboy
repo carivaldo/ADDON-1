@@ -15,7 +15,7 @@
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2001) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1  <maglink>magnet:?xt=urn:btih:E31A6D9A0B39D7365A91786AF8407E891AA951DC&dn=Smallville%20-%201%C2%AA%20Temporada%20Completa%20-%20www.ComandoFilmes.Com.BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</maglink>
+1  <maglink>magnet:?xt=urn:btih:083dbad07c3ce459aca129bc180a25d182edb4f0</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qfiB0VDNEXP9IZDrOhNakwPZ0Tc.jpg</fanart>
