@@ -2,6 +2,65 @@
 
 
 
+
+   <item> 
+1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglinkmagnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e>$$lsname=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kvbbK2rLGSJh9rf6gg1i1iVLYQS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando o mais terrível e narcisista vilão de Gotham, Roman Sionis (Ewan McGregor), e seu braço direito, Zsasz (Chris Messina), começam a caçar a jovem Cass (Ella Jay Basco), a cidade é virada de cabeça para baixo em busca da garota. Os caminhos de Arlequina (Margot Robbie), Caçadora (Mary Elizabeth Winstead), Canário Negro (Jurnee Smollett-Bell) e Renée Montoya (Rosie Perez) se encontram e o quarteto improvável não tem escolha a não ser um para derrubar Roman.[/COLOR][/B]</info>	
+  </item> 
+  
+   <item> 
+1   <title>[B][COLOR blue] Esquadrão Suicida  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ipeXnga37Y9TX697AKRqx8h7Yw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/6Ljm3aMh07OrY11h51XrGr694oi.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?[/COLOR][/B]</info>	
+  </item>  
+  
+  
+   <item> 
+1   <title>[B][COLOR blue] Eclipse Mortal - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2126a5d315a4b99b4961139c7a08ffe33fc6453d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/lslE5igXrdRb1Zg8xvC80gE3L7P.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No futuro, as viagens interplanetárias são corriqueiras e o homem conhece boa parte do universo. Durante uma viagem tripulada por centenas de pessoas rumo ao planeta New Mecca, um acidente ocorre e a nave é obrigada a pousar num planeta desconhecido. De toda a tripulação, apenas seis pessoas sobrevivem à queda, que descobrem estar em um planeta povoado por milhares de criaturas carnívoras, que hibernam nas cavernas locais, mas que irão caçar em céu aberto com a chegada do próximo eclipse. A única arma que eles têm contra os monstros é a claridade, mas mesmo assim o planeta não possui eletricidade e as baterias de seus trajes estão se esgotando.[/COLOR][/B]</info>	
+  </item>  
+  
+  
+   <item> 
+1   <title>[B][COLOR blue] A Batalha de Riddick  - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/9o0WHLPvHHAznN0H3pBfjjiFioN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cinco anos depois de escapar de um planeta infestado de criaturas estranhas e mortais, e de violentos caçadores intergalácticos (presentes no desenho animado "A Fúria de Riddick"), o ex-prisioneiro Riddick esperava que o deixassem em paz. Esperava! Perseguido pelo mercenário Toombs, ele encontra seu amigo Abu em New Mecca e acaba descobrindo que pode ser a chave para impedir a destruição e a conversão do mundo em Necromongers, cavaleiros de uma religião apocalíptica comandados pelo terrível Lorde Marshall. Riddick, este verdadeiro exército de um homem só, interessado apenas em salvar a sua própria vida, agora terá de zelar pelas vidas de dezenas de pessoas com as quais nunca se importou antes. Tudo isso para que um mal maior não transforme as galáxias em planetas mortos. A batalha será das mais difíceis e violentas.[/COLOR][/B]</info>	
+  </item>  
+  
+  
+   <item> 
+1   <title>[B][COLOR blue] Riddick 3 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:369c73444546a362bf3a1bba26c023c1cb33feb7</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnHiwSracywrCVrUZmr1wArGUiV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/naGU49u4BXynQ1o5L755pfs8dom.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Riddick, o homem mais procurado da galáxia, foi abandonado à própria morte em um planeta habitado apenas por animais selvagens. Ele deseja retornar ao seu planeta natal, mas como não tem uma nave precisa encontrar um jeito de sobreviver neste ambiente inóspito. A situação muda quando dois grupos de mercenários chegam ao planeta separadamente, ambos com o objetivo de capturar Riddick. Conhecendo muito bem os perigos do local, Riddick passa a usá-los a seu favor na tentativa de conseguir uma das naves para si.[/COLOR][/B]</info>	
+  </item>  
+  
+
   <item> 
 1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
