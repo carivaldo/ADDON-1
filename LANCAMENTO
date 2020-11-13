@@ -1,11 +1,44 @@
 
+   <item> 
+1   <title>[B][COLOR blue] Artemis Fowl: O Mundo Secreto - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0a4367ce556e0785484f2873eeb48540249f8a3f$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:34730fcf1c1c7bc9fa0f963ca8855d36da345f2b$$lsname=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hQP7lvlVwgxTMIuRpH29Is4ZR0j.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Artemis Fowl é um garoto de 12 anos extremamente inteligente que usa sua capacidade para roubar. Um dia, ele descobre um local mágico chamado mundo das fadas. Decidido a roubar a fortuna local, ele sequestra um elfo e cobra um resgate para libertá-lo. Só que logo a Liga de Elite da Polícia parte em seu encalço.[/COLOR][/B]</info>	
+  </item>  
 
+   <item> 
+1   <title>[B][COLOR blue] A Verdadeira História de Ned Kelly  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:80b9f3371c38112743fc41420aaca0894fca14df</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y30AxTVrQUVKlokjz1TR0m5ISoY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5wehVzQNLiLI6iCz0pIkJfrXzYQ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Baseado no livro de Peter Carey, o filme conta a história do fora da lei australiano Ned Kelly. Criado em uma família irlandesa e rebelde, que já enfrentava a polícia local, ele conhece Harry Power, um guarda florestal com pouca consideração pela autoridade colonial, no território selvagem onde trabalha. Sob influência de Power, Kelly se lança em uma delicada vida de crime. Com o tempo, ele forma uma gangue, que passa a ser exaltada por colonos australianos.[/COLOR][/B]</info>	
+  </item>  
 
+   <item> 
+1   <title>[B][COLOR blue] Quando a Vida Acontece - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:77447e779b85b417ac50240c7b2623374d476f75</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjhyXwf9sFnttNBNln9e3ugmFlQ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ynEdTmpTkoMUmjcRKVQpxjb2oTR.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um casal que enfrenta problemas de fertilidade tem seu casamento testado durante as férias em um resort na Sardenha - e a família ao lado só aumenta a tensão.[/COLOR][/B]</info>	
+  </item>  
 
-
-
-
-
+   <item> 
+1   <title>[B][COLOR blue] The Liberator - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fyoyatOPLLnI8rWOMTyr0jUhuP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fyoyatOPLLnI8rWOMTyr0jUhuP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A série vai narrar a fascinante história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau. - Série de animação original Netflix. - Baseado no livro "The Liberator: One World War II Soldier’s 500-Day Odyssey", escrito por Alex Kershaw. - The Liberator será o primeiro projeto produzido em uma nova tecnologia de animação híbrida chamada Trioscope, que combina CGI de última geração com performance ao vivo.[/COLOR][/B]</info>	
+  </item>  
 
   <item> 
 1   <title>[B][COLOR blue] Buffalo Boys - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
