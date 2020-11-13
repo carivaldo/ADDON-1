@@ -2,7 +2,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/qfiB0VDNEXP9IZDrOhNakwPZ0Tc.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -14,7 +13,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2001) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1  <maglink>magnet:?xt=urn:btih:083dbad07c3ce459aca129bc180a25d182edb4f0</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -26,7 +24,7 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+
 1	<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8g9mF0b23Qflwk9VdagnmU5jYI.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/kuOt3LxmHW8k39SK2tyg6qSWhop.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -37,8 +35,7 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy  - [COLOR blue] [COLOR red](0000) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy  - [COLOR blue] [COLOR red](2002) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1    <maglink>magnet:?xt=urn:btih:ee0694474cf4901d17312c6d1b7c6591340cce76</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8g9mF0b23Qflwk9VdagnmU5jYI.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -51,7 +48,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/aNNvscbbmzr3s9lS54b5N6s45DF.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -63,7 +59,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2003) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:C5DE49DD0E8C520C01829339A6FD96B167795D7A</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -75,7 +70,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/3BPf9wQr6OInyg8vhvb33gBKjxy.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -87,7 +81,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2004) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1  <maglink>magnet:?xt=urn:btih:684C8071BA3772EA8EEB68B8EB27FE554F33750A</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -99,7 +92,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/8A2IYYRLM5rR0hYwbWJr9KLPnUu.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB8VKkafyGzTNJuxueKQNKuWxn5.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -111,7 +103,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2005) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1    <maglink>magnet:?xt=urn:btih:e8649fad5e692846a27decb501ff6ac4303ffa6eC</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB8VKkafyGzTNJuxueKQNKuWxn5.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -123,7 +114,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/8zSPooK3Xz4mpB0wcSjyZTtOtju.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rv2Ok7fPjTwdz8V8A9OUtE1hOv.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -135,7 +125,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2006) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:DBC5B42ACE16EF1AF0144FC6C37DE1BCBB423B2E</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rv2Ok7fPjTwdz8V8A9OUtE1hOv.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -147,7 +136,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/bBP3TQkcyv12qkDirnkqA9FWZLt.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BcPslccbs5symFx89BhupWbAwn.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -159,7 +147,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2007) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1    <maglink>magnet:?xt=urn:btih:2E221FB3E68E1C4BD4CE1B463AF6DBD2BC01451A</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BcPslccbs5symFx89BhupWbAwn.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -171,7 +158,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][8ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/gn9MHlVYz7JXaA22njXu8YKnDO1.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXMx60hLie6LEWjpfl5Hs1jhJSD.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -183,7 +169,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2008) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:65B88CC3D5DA15BDFB90A8D72528F7A4CFBD3806</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXMx60hLie6LEWjpfl5Hs1jhJSD.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -195,7 +180,6 @@
    <channels>
   </channels><channel>
   <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][9ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/5DwkQEMIavEuPafosNnO7suX3FH.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/96lY7JTaPdxHUvNLsYPsDbvL9qO.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -220,7 +204,6 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][10ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/zaReiMEX0acmmdBZygIJmWk0chc.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/u9yZHsBm0i3yFy0uvi2Cl5U7GiL.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -232,26 +215,9 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Smallville - As Aventuras do Superboy - [COLOR blue] [COLOR red](2011) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1  <maglink>magnet:?xt=urn:btih:9e3ad04ac74857de2a82cc136cd46e06a4d3c9a3</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/original/u9yZHsBm0i3yFy0uvi2Cl5U7GiL.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/zaReiMEX0acmmdBZygIJmWk0chc.jpg</fanart>
 1	<info>[B][COLOR red] SINOPSE:[COLOR red]Décima temporada completa - Essa é a série que conta a história da juventude do Superman. Em 1989 uma chuva de meteoros caiu em Smallville, no Kansas, causou destruição, mortes e diversas alterações na vida de muitos moradores, sobretudo, na vida do belo casal Jonathan e Martha Kent, impossibilitado de ter filhos. Após terem o caminhão que dirigiam atingido por um meteoro, acordam com um garotinho diante deles. Percebem que o menino saíra de uma espaçonave e resolvem assumi-lo como filho chamando-o de Clark. Os Kent têm uma vida de uma família normal e lutam de todas as formas para evitar que o segredo do filho seja descoberto! A medida que Clark cresce, seus poderes também vão sendo revelados aos poucos (força, velocidade, inteligência, visão de raio x, etc). Como um adolescente normal, Clark cultiva uma silenciosa paixão pela bela Lana, órfã também pela chuva de meteoros.[/COLOR][/B]</info>	
 </item>	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
