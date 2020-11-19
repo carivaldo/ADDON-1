@@ -2,6 +2,122 @@
 
 
 
+
+
+
+
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Castelo de Areia - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4E9F41497DA8908794FB92B59A63647B5ACF348F</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPgg1VB852FyMSMblBXSVg22t1y.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/eM9MZ1dhDCbRzwQg0FWpWWtLPMn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um pequeno vilarejo chamada Baquba é colocado em perigo durante a invasão americana no Iraque. A única esperança da cidadezinha é uma tropa de soldados americanos, alocada anteriormente em Bagdá, que fará de tudo para proteger o local, encarando, pela primeira vez, os verdadeiros horrores de uma grande guerra e de uma difícil e longa batalha.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Companhia de Heróis - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:00cdf5ad9cc1f35b40c8413778c79701cdef2f2d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y99mqIU4t9u5DhmLE2epET4P6L.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rGmQf2EPIVjkvXliQPc7VCF9CAK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.[/COLOR][/B]</info>	
+  </item>  
+  
+
+<item> 
+1   <title>[B][COLOR blue] Zona Verde - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:75DDDB91512597F895D07544C5AB993A5F62AD4C</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xsN1CidLgq2H1wN5FnU3P6FIAo.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mDcLNgCgTLh5iO8DbY8uaa0sNE2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bagdá, 2003. Roy Miller (Matt Damon) lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] O Exército do Pai  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:116169A913BC3D2E2FEA5BEE2C50B7DE6622DA18</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MnhydfF3L97zJ0GlukE58kOByo.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/vGbHVVJsCmE3DE4iTMYnpcUKQU2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1944, a Segunda Guerra Mundial está prestes a chegar ao fim. Em Walmington-on-Sea, a guarda local do capitão Mainwaring sofre pela baixa moral. Um dia, uma jornalista glamorosa chega para relatar as façanhas do pelotão. Enquanto isso, o MI5 descobriu um sinal de rádio transmitido de Walmington-on-Sea em direção a Berlim, aparentemente, o trabalho de um espião, dando a Guarda Interna a oportunidade de fazer uma diferença real na guerra.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Bom Dia, Vietnã - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9754b61b02b17239cd5e8e15294ba7d4be806345</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BNwDEow9MVFquxxmdNjVre0TFy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/wGNClnyVGfom0t5n1sH1pXfDG6w.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Convocado pelo exército para transmitir um programa de rádio, Cronauer acaba com a caretice das ondas pasteurizadas da rádio, com suas piadas e os últimos sucessos musicais da América. Os soldados o veneram enquanto as altas patentes o consideram um ultraje.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Missão de Honra - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7d8acc07bbad1a755f23811b1d5e2bbccabeea15$$lsname=[COLOR lime]1080FULLHD[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9a9a478ca9d0a72961cf33999b9cb73e13719d05$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:3038686517de092f1ae982acc04afd4da291583a$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lQAAu6WZ7l0Cn4KW3igVGIMPXl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jiLDlDgNMaUjyKcBQEOeFMPj3Z3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Drama sobre pilotos de caça poloneses durante a Batalha da Grã-Bretanha, na Segunda Guerra Mundial. Os aviões de combate britânico Hawker Hurricane, do esquadrão 303 da Royal Air Force foram pilotados por pilotos poloneses durante a Batalha da Grã-Bretanha. Esses polacos deixaram a Polônia ocupada pelos nazistas no início da guerra.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] The Post: A Guerra Secreta - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:EFC8A2ACA351CF4F89E5AAFA36F1551944EBB66E$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOq5Pus5W2IwVcTdveu9tO6yYFB.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/h6Qisa5HxxyeIpswIpqaJzN9puT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um encobrimento escandaloso que abrangeu quatro mandados presidenciais dos Estados Unidos força a primeira editora jornalística do país (Meryl Streep) e um editor difícil de trabalhar (Tom Hanks) a juntarem forças numa batalha sem precedentes entre os jornalistas e o governo.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Pássaros Amarelos - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9343424B0250B6ED3B50549893998BAEF197306F</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL2nskRGOk8Igin0bMI24LYNyU5.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3TU2qPRRrNmZkVAF12kWJBSkOPq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Adaptado da obra autobiográfica de Kevin Powers. Dois jovens soldados são enviados para o Iraque. Unidos desde recrutas, os rapazes sempre se protejeram. Em meio à pressões de todos os lados, os dois acabam sob os cuidados de um sargento mais velho e enfrentam diversos atos de violência na luta diária pela sua sobrevivência.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Círculo de Fogo - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2e1e92beebf242af3dc69e5b457a552771d877fd</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PcX5sFE83QhKqDuiz0EXnR8LPX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/atpnR1yFUmk29fe17B8MzgGK22r.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Vasily Zaitsev (Jude Law) é um jovem atirador russo que, convencido por um companheiro político (Joseph Fiennes), torna-se o ícone da propaganda russa em plena 2ª Guerra Mundial. A fama de Vasily o torna uma lenda viva para o exército russo e desperta também a atenção do exército nazista, que envia seu melhor atirador de elite (Ed Harris) com o objetivo de matar aquele que se tornou a esperança de toda a Rússia.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] 13 Horas: Os Soldados Secretos de Benghazi - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:79D5C798A7A5473F558578D6D318C91D453F8A4E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:A9221FC4968E74B4E5455241261C354EAD3A6A7A$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1kBiJA4IUr8ek8jO0hw8v0JGqhE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] O longa conta a história de um grupo de seis soldados privados que trabalham num complexo da CIA em Benghazi, na Líbia, em 2012. Em um aniversário dos atentados de 11 de setembro, eles precisaram defender um posto diplomático que recebe a visita de um embaixador americano, e que, obviamente, será um alvo de terroristas.[/COLOR][/B]</info>	
+  </item>  
+
 <item> 
 1   <title>[B][COLOR blue] O Reino - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1    <maglink>magnet:?xt=urn:btih:b3278a45eb0337edbbdfb04a800afe4d2e1a1c51&dn=O+Reino+%282007%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
