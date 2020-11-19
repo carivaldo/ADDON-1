@@ -1,5 +1,227 @@
 
+   <item> 
+1   <title>[B][COLOR blue] A Balada do Pistoleiro - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8861c77aa9a5ce9aa91093df6e1e237c76f35b3d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnnbMcHuytlxlof4nIjcCQ9UuUX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/u2WH8PH5w34xmxGYQazQeGq6P1x.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]El Mariachi (Antonio Banderas) é um ex-músico que chega a uma cidade carregando várias armas dentro da caixa de um violão. Ele está atrás de Bucho (Joaquim de Almeida), que matou sua namorada e ainda atirou em sua mão. Desejando vingança, ele conta com a ajuda de Carolina (Salma Hayek), uma bela mulher que é dona da livraria local.[/COLOR][/B]</info>	
+  </item>  
 
+   <item> 
+1   <title>[B][COLOR blue] Appaloosa - Uma Cidade sem Lei - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:13098A7CB7BF540EE40333A3D0369B514A0B465F</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLLUC8QaNx4BK1Vuf7XqSyd8icX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/b1JX9ObumTs84BRJzrL3Z8EU0RP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Virgil Cole (Ed Harris) e Everett Hitch (Viggo Mortensen) são pistoleiros contratados para que cuidem da cidade de Appaloosa, no velho oeste americano. O local é controlado por Randall Bragg (Jeremy Irons), um rancheiro que ordenou a morte do último xerife e que não respeita qualquer lei. Entretanto a tarefa de Virgil e Everett é prejudicada pela chegada de Allison French (Renée Zellweger), uma jovem viúva.[/COLOR][/B]</info>	
+  </item>  
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Rápida e Mortal  - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7dddd9988ddc3bae68ce6eae6eafb66ad3ca63be</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Wj0oiuoAmVgSceDXl7sSR1muq1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/nl099IgJQdJcTBuXmIzouWXK929.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ellen (Sharon Stone) chega ao vilarejo de Redenção para participar de um concurso entre pistoleiros, organizado anualmente por John Herod (Gene Hackman). Seu objetivo é enfrentar Herod, já que ele destruiu sua vida no passado. Logo ao chegar ela conhece o pastor Cort (Russell Crowe), que se recusa a usar uma arma para matar alguém novamente. Sabendo que Cort é um dos melhores pistoleiros da região, Herod tenta fazer com que ele também participe da competição.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Dança com Lobos - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0bd635de65a7af4b979c1af34572c27271048e37</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV0osM3c6sKdycsPegQJIqB06RJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rurAVkoiWnLdx6NhOLsHYRAylzD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Durante a Guerra Civil, um jovem soldado (Kevin Costner) pratica uma ato ousado, é considerado herói e vai servir por sua escolha em um lugar com forte predominância do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma aculturação às avessas.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Por uns Dólares a Mais - [COLOR red]ADDON BXL [COLOR red](1965) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:29a6c825ca652e24a8cb24fe30875eb8a30f4efb</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oh6GjdcCbUE6Tlr2ZTSl2XdmSE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kkycuiWF9hpC3JQ1BXqsF09uaQH.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Monco (Clint Eastwood) é um astuto caçador de recompensas, que perambula pelas cidades do velho oeste americano em busca de um novo alvo. Ele o encontra quando vê o cartaz de procurado de Índio (Gian Maria Volonté), um perigoso bandido que também está sendo procurado pelo coronel Douglas Mortimer (Lee Van Cleef), outro caçador de recompensas. Os dois partem no encalço de Índio mas, sem conseguir capturar o bandido nem eliminar o rival, eles precisam decidir entre unir forças ou serem eliminados pela gangue de Índio.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] O Retorno de John Henry - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79A16AFCAEBD1953C8C35D3D2F674192EB7A39B3</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMMULi3CdMxsNqXPvLcQ8WWBfuS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/9oLlUJt1adchRGdmHSEtzLB1598.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Atormentado por um segredo obscuro, um pistoleiro abandona sua vida de assassinatos e volta para casa, quando descobre que sua mãe morreu. Ele é forçado a confrontar seu distante pai e a vida que deixou para trás.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Os Renegados - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ad62cbc6985067ece2470b2665bdef38a11f92ad</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgxpjJieJFeB652qBOUrybJRQiZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jlYSIDHdfmZemFjElNoVngfozU4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando dois andarilhos ouvem rumores de que trabalhadores chineses que estavam construindo a ferrovia deram um golpe, fugiram com o dinheiro e agora vivem em um fazenda na Carolina do Norte, a dupla percebe que esta pode ser a grande chance de riqueza que eles esperavam.Saul, o andarilho mais jovem, planeja se aproximar do casal Zhen e Kun Hua e ganhar a confiança deles. Ele consegue e é contratado pelos chineses para trabalhar no rancho, enquanto Bill, seu parceiro, fica à espreita, aguardando uma oportunidade para atacar.E no momento em que os andarilhos estão a postos para tomar posse do dinheiro roubado, um grupo de milicianos armados chega ao rancho para recuperar o produto do roubo. Agora, não há mais lados e todos empunham suas armas para ver quem fica com a fortuna roubada! Quem realizará o Sonho Americano de riqueza e ficará vivo para desfrutá-la?[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Pistoleiros: Vingança Sem Perdão - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3DC5D6802888F2F2A0337A2F6308F8C71D56FDA6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7qEi0ORq5B8J0e6PlRNcPTTqjj.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/a7qEi0ORq5B8J0e6PlRNcPTTqjj.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois da Guerra Civil Norte-Americana, Charles Holley volta para casa e descobre que sua família foi assassinada. Deste momento em diante, a missão de vida de Charles é executar sua vingança.Ao longo de sua jornada, ele encontra dois guias, o Reverendo MacKenzie, que está em busca de redenção enquanto peregrina pelo país, e o misterioso Carlo, que o leva até Animus Smite, o homem que controla, na base da violência, a cidade. Smite é dono de um rentável negócio de apostas que acontece no saloon de propriedade de Miss Lorena.Holley chega ao local e entra no jogo, já suspeitando que Smite tenha algo a ver com o assassinato. As cartas estão na mesa e é hora da vingança![/COLOR][/B]</info>	
+  </item>  
+  
+   <item> 
+1   <title>[B][COLOR blue] Os Violentos Vão para o Inferno - [COLOR red]ADDON BXL [COLOR red](1968) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:617AB64550704FE21ED7F9BC6112C4CD46E7EE52</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRDQDbILK8rDxzpasuBrjR1XeCC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oZURvapexMxnFMeZL8jf8y8YvPI.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Franco Nero, Jack Palance e Tony Musante estrelam este clássico dos filmes de western, dirigido pelo especialista no gênero Sergio Corbuci. O mercenário Kowalski (Nero) é especialista em armas e usa suas habilidades como assassino profissional. As coisas se complicam quando ele bate de frente com o malfeitor Ricciolo (Palance).[/COLOR][/B]</info>	
+  </item>    
+  
+    <item> 
+1   <title>[B][COLOR blue] Hatfields & McCoys - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:946FF97E2A53CDC8F78D2A567BB7610AA54824E2</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeu57tLFpYTuRttIusgdcAUf2Iq.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/w1UO704SsUNXYszTdsqRcHJjmDK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A saga começa com Devil Anse Hatfield e Randall McCoy. Amigos íntimos até o fim da Guerra Civil, eles retornam às suas vizinhanças: Hatfield na West Virginia, McCoy na fronteira de Tug River, no Kentucky. O embate começa quando um Hatfield assassina um McCoy, e a filha de Randall inicia um tempestuoso romance com o filho de "Devil". Aumentam as tensões, desentendidos e ressentimentos que logo explodem em uma guerra entre as famílias. Enquanto as hostilidades crescem, amigos e a vizinhança unem forças aos conflitos, colocando os dois estados à beira de outra Guerra Civil.[/COLOR][/B]</info>	
+  </item>   
+  
+  
+     <item> 
+1   <title>[B][COLOR blue] Meu Ódio Será Sua Herança - [COLOR red]ADDON BXL [COLOR red](1969) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFvHnMHYzKQh1bk0O6QFSEcwHzg.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5vpwzGuo7pVE5gom9VmuR2EA3Hx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Perigosos fora-da-lei decidem se aposentar, mas são tentados por um trem carregado de armas com valiosa remessa.Eles já foram os mais perigosos "fora da lei" da fronteira, seguindo seus próprios códigos de honra e lealdade. Realizaram diversos assaltos pelas planícies do oeste, sempre colocando suas cabeças a prêmio. Mas os tempos mudaram. O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a ganância falou mais alto. Dez mil dólares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia detê-los, a não ser a morte. William Holden (Inferno na Torre), Ernest Borgnine (Os Doze Condenados) e grande elenco atuam na versão original do diretor Sam Peckinpah.[/COLOR][/B]</info>	
+  </item>  
+  
+     <item> 
+1   <title>[B][COLOR blue] A Proposta  - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:BDA366805E45D3DE4BE35E517DA40DF35638CF7E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3AKdgueYypcflGdFvo0XyoZvIK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3FGL93msdcVAWNb6OJtYQM8awPQ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Século XIX. Austrália rural. Uma quadrilha de irmãos ataca uma grande fazenda e mata toda a família que mora ali. Após um intenso tiroteio, Charlie Burns (Guy Pearce) e seu irmão mais novo Mike (Richard Wilson) acabam sendo presos pelo Capitão Stanley (Ray Winstone) , porém o mentor do crime, Arthur (Danny Huston), escapa em direção às montanhas. Então, o capitão faz uma proposta inacreditável para Charlie: Se ele capturar Arthur em nove dias, o preso ganha o perdão. Se ele não conseguir, seu irmão mais novo será morto.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Hostis  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:179c46a6a213702352637b9b08fd9d0d21258dbe</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kecpqiHskoChgdLhBa8aMyDYJAS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hkeAPvb5NrrRn5aTHe1YtmxCikh.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1892, um lendário capitão do exército americano (Christian Bale) aceita relutantemente escoltar um chefe de guerra Cheyenne moribundo (Wes Studi), assim como a sua família, na viagem de regresso às suas terras tribais. Fazendo a perigosa travessia do Novo México até às planícies do Montana, os antigos inimigos encontram uma jovem viúva (Rosamund Pike), cuja família foi assassinada. Juntos, eles terão de unir forças para sobreviverem às provações da tortuosa viagem, a comanches hostis, e outros contratempos que vão encontrando pelo caminho.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] A Balada de Buster Scruggs - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:BB11D5F465A183E2016063F8DB4D2E1C8655ED21</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFvFyuIeCZfu94pZzzhTm991397.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, até todo tipo de personalidade do velho oeste, essa série de histórias vai desde profundas reflexões até o mais completo absurdo.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Rango - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C6C4854CD572E2B21BA476368045C5EF15F3FD05$$lsname=[COLOR lime]1080P Sem Comp[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:282576D0053FCE4E748D1B760F3A7AC17941EA69$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:D74D57B2E071F28E46712E301B592A3A3D9C1FEA$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwsHEw5IWOx6cjrgAsMPlYm0J6h.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/anSPPInN5tY6Bk1sOwLLTJAFzTq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Rango: Versão Estendida dublado e com qualidade de blu-ray. Rango (Johnny Depp) é um camaleão da cidade grande que vai parar no velho oeste. A questão toda é que ele estava acostumado a boa vida "camuflada" de animal de estimação e, agora, a história real é muito diferente, fazendo com que ele tenha que enfrentar inimigos que não estava acostumado para se manter vivo.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Quatro Mulheres e Um Destino - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5CE2111B6EDF3BD61632B84857DEE7A19340F60E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq1lqJNEoM4s9NFMEJqhdIM7Gx.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/lliLm5qfg8lbTCMHSuZ2Dup5HCM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cody Zamora (Madeleine Stowe), Anita Crown (Mary Stuart Masterson), Eileen Spenser (Andie MacDowell) e Lilly Laronette (Drew Barrymore) são quatro prostitutas que trabalham no velho oeste. Um dia, Anita é quase molestada por um coronel rude e bêbado. Para impedir o estupro, Cody atira no homem, o que desperta a fúria da comunidade local, que quer enforcar moça. Porém, as outras três entram em ação e salvam a amiga, iniciando uma aventura que envolve: fugir do xerife, roubar bancos e muitas balas.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] À Procura da Vingança  - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DLOaSIovu5SMkA5fkzLfTXydTE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ttoqJkAjWJfNNo4tTZzVBjtKCaq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon (Pierce Brosnan), o coronel Carver (Liam Neeson) parte em sua busca.[/COLOR][/B]</info>	
+  </item>  
+  
+   <item> 
+1   <title>[B][COLOR blue] Josey Wales - O Fora da Lei - [COLOR red]ADDON BXL [COLOR red](1976) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d664168660e3449545928f11b74582ac88a6054e</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/92BZIFPbyCPNhExyFScxA3xF1dy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mdx9MpWsTliwiH3fAJ8s7g9qTwo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Clint interpreta Josey Wales, um fazendeiro cujas terras no Missouri são atacadas por soldados da União, que também matam sua mulher e filho. Buscando vingança, Wales inicia uma solitária e violenta caçada combatendo soldados, bandidos e renegados.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Justiça - Entre a Lei e a Vingança  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:be9e5b472246bfb46c4c68ee743c72a2757051e3$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:dbfe28a2f62f3cbbe440990a3928d65a4bd3b8d9$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqV3qlspRr2C87EeZQdoTSh8SSy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/32EMFV8Ms3GIGz9OyVthkUJmhJJ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um agente federal americano (U.S. Marshal) em busca de justiça para o assassinato de seu irmão, defende uma pequena cidade contra o seu prefeito corrupto e seus homens com intenções de reviver a guerra civil.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Bandidas - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:10F836A8D2E4F31B6B13B9355F0C0072F32586E3$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:EFCEDD5E4C9045EEE5C6F16296FFE5F46FF7CAAF$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qdc6SohDYb1pe9ypv4NShWZMAN.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gufJHTWEl3JeUC6gBPqzebHfhFu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]México, 1880. Sara Sandoval (Salma Hayek) é a bela filha de um rico banqueiro. Maria Alvarez (Penélope Cruz) é a bela filha de um camponês. Elas aparentemente não têm nada em comum, mas o destino faz com que se tornem as mais perigosas e sensuais assaltantes de banco do país. Com a ajuda de Quentin Cooke (Steve Zahn), um inspetor de polícia idealista, Sara e Maria combatem Tyler Jackson (Dwight Yoakam), o representante do Banco de Nova York que está tentando tomar ilegalmente as terras da população local.[/COLOR][/B]</info>	
+  </item>  
+
+ 
+
+   <item> 
+1   <title>[B][COLOR blue] Bater ou Correr - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:B4A064557AD82531726450F0DE99B9CFD24D0C9E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX6Z3zILvt1811lMVkLmnXCHmNk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/301KcFm1GL3yaTGOO25I0MeAy0W.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1800, uma princesa é sequestrada na Cidade Proibida, China, e levada até o Velho Oeste americano. Na tentativa de salvá-la parte Chon Wang, que se depara com uma cultura completamente diferente da sua. Ao ser atacado por cowboys armados, Wang responde com acrobáticos golpes de kung fu que deixam os americanos de cabelo em pé.[/COLOR][/B]</info>	
+  </item>  
 
   <item> 
 1   <title>[B][COLOR blue] Trinity é o Meu Nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
