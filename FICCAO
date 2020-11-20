@@ -1,7 +1,49 @@
 
+   <item> 
+1   <title>[B][COLOR blue] O Vingador do Futuro - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:990722ff03320983172a38e529803a85197ad7fc</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3yM4EGph80edeyKcubDoJywxoY1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Douglas Quaid (Arnold Schwarzenegger) é um construtor e tem pesadelos recorrentes envolvendo uma viagem a Marte. Ele vai até a Rekall Inc., uma empresa que realiza implantes de memória que dão a sensação aos clientes de terem um final de semana dos sonhos. A intenção de Douglas é que seja implantada a memória de uma viagem a Marte, mas durante o processo algo sai errado. Ele perde a memória e passa a ser perseguido por assassinos, entre eles sua esposa Lori (Sharon Stone). Desorientado, Douglas descobre que, na verdade, chama-se Hauser e que é um agente da inteligência marciana. Em busca de respostas, ele viaja para Marte.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] O Vingador do Futuro - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:317e5f0a37f6647f3cc002f23b13cc1beb37986d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7SpzrOBAJPbGoqp6sOaowbTnsn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/80XbMAZoLSFUOyOkHYFTMX5jFyI.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Doug Quaid (Colin Farrell) leva uma vida pacata. Ele mora na Colônia, trabalha em uma fábrica na Bretanha Unida e é casado com a bela Lori (Kate Beckinsale). Um dia, resolve visitar a Rekall, uma empresa que oferece aos clientes a inserção de memórias no cérebro, simulando viagens que não aconteceram de verdade. Doug se submete ao tratamento, mas durante a inserção algo dá errado e ele logo se vê cercado por policiais, os quais mata sem dó nem piedade. Sem saber o que está acontecendo, Doug foge para casa. Lá descobre que Lori também está contra ele e deseja matá-lo. Após escapar da esposa, Doug começa a decifrar o enigma: no passado ele foi um importante agente do chanceler Cohaagen (Bryan Cranston), com ligações entre os rebeldes que desejam a liberdade da Colônia.[/COLOR][/B]</info>	
+  </item> 
 
-
-
+   <item> 
+1   <title>[B][COLOR blue] Círculo de Fogo - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:97E5DBB88D482D95230F8E8ED87B574DF410AA84$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7bb07916936bfa81d9ce5126609b9f6b75446b3f$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i5ZbkPiKUrBaF2wxYqzhlv1n1i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gXJ91Mn0ASnihQBCm2k8gOTRUWN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando várias criaturas monstruosas, conhecidas como Kaiju, começam a emergir do mar, tem início uma batalha entre estes seres e os humanos. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers, cada um controlado por duas pessoas através de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, obsoleto, que passa a ser comandado por um antigo piloto (Charlie Hunnam) e uma treinadora (Rinko Kikuchi).[/COLOR][/B]</info>	
+  </item>  
+  
+  
+     <item> 
+1   <title>[B][COLOR blue] Círculo de Fogo: A Revolta - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5548F52AF83B3FAD6B31E6A022BC151C1FC8D916$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C61460F95983EAAE912356D46838D907ACEEC9A8$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rcMAgeZFdO0MRPxUsMKiBakq4yE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Circulo de Fogo 2 (Pacific Rim: Uprising) dublado qualidade de Blu-Ray. Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.[/COLOR][/B]</info>	
+  </item>  
+  
 
    <item> 
 1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
