@@ -4,6 +4,113 @@
 
 
 
+
+   <item> 
+1   <title>[B][COLOR blue] Invasão Zumbi 2: Península  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9CAF48722D622D1C9487312FAE8E1523BAC4F66F</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Busan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Poltergeist - O Fenômeno  - [COLOR red]ADDON BXL [COLOR red](1982) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0a20f2c47de7f05bd7c160eadce2a0495990230c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVYBZo9sqHrLcM3F32urM5ru0k1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1EynSGoIKWKrQBLHng17b8DzpSN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Família é visitada por fantasmas, que inicialmente se manifestam apenas movendo objetos pela casa, mas gradativamente vão aterrorizando-os cada vez mais, chegando a sequestrar a caçula através do televisor. Os pais se desesperam e uma especialista em fenômenos paranormais sugere que eles busquem a ajuda de uma mulher com poderes mediúnicos.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Poltergeist II - O Outro Lado - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2152449c35c57473007663cc38da069eb3c5d3e7</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2voRChqTYsYGOj9yzOORNzoqrpy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tAUTob8zLFqoDSRER6XxM7mg3Ys.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A família Freeling se muda em uma tentativa de se recuperar do trauma causado pelo seqüestro de Carol Anne (Heather O'Rourke) pela Besta. No entanto, ela não será descartada assim tão facilmente. Assim, a Besta reaparece como o Reverendo Kane (Julian Beck), um religioso que foi responsável pela morte de muitos dos seus seguidores. O objetivo da Besta ter Carol Anne, mas para isto precisa ser mais forte que o amor da família dela, que se uniu a uma mediúnica que já os tinha ajudado no passado e a um sábio índio.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Poltergeist III - O Capítulo Final  - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7c5ff87109f2a9722d8b17a4199788d8108a5a7f</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLewUibOJLGISvMqB94mAMdjz2q.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uqmKvRtdfu9d49ESkhN0BWQ1ttv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um terapeuta tenta curar Carol Anne (Heather O'Rourke) dos traumas deixados por suas experiências apavorantes. Porém, ao remexer em suas lembranças, as forças do mal retornam na pele do Reverendo Kane para ameaçá-la mais uma vez.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue]The Poltergeist of Borley Forest  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:AA31F8E460E9C200691552391DCF6BCD8154DCB6</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmw7RHYSnc7p3kopV3yvLOoH9Q1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uNUOV7AtI3oy3Ms5U6CeGBCPvVB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em uma noite de festa adolescente na floresta, Paige involuntariamente põe em movimento uma cadeia de eventos que a mergulham em um pesadelo. Atormentada por terríveis e cada vez mais violentas visitas sobrenaturais, Paige começa a cavar no passado e descobrir um segredo sinistro, enterrado por décadas. Por trás da força que agora a assombra está uma entidade malévola do mal indizível. À medida que seu poder cresce e seus amigos são vítimas de sua selvageria, ela (ou qualquer pessoa) pode impedir o Poltergeist da Floresta Borley?[/COLOR][/B]</info>	
+  </item>  
+ 
+    <item> 
+1   <title>[B][COLOR blue] Poltergeist - O Fenômeno - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CFB5B2BA5FE9C47F0BFE1830976DFB7AD07FD5B9</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jilLdMHbBou1XuIqvqlyxZMwtc8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/iOFisrQOQ94IPWkAUDHX52oNWpQ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A família Bowen acaba de se mudar para uma nova casa. O pai, a mãe e os dois filhos parecem se adaptar bem ao novo lar, até começarem a perceber estranhas manifestações em casa, atingindo principalmente a filha pequena. Um dia, ela é sequestrada pelas forças malignas, fazendo com que os pais procurem a ajuda em especialistas no assunto, para recuperar a criança antes que seja tarde demais[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Psicose - [COLOR red]ADDON BXL [COLOR red](1960) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:80A7C5121B9F7F8003999A5E2809693B56C45D81</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNayuJV4gqtjhWeIeFYIO834rOd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/q3OqYum8kcFUtcXcuHxeKXLLmoy.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Marion Crane é uma secretária (Janet Leigh) que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates (Anthony Perkins), que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.[/COLOR][/B]</info>	
+  </item>  
+  
+    <item> 
+1   <title>[B][COLOR blue] Psicose 2  - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CE16DA4F9729EEBF0777F0A024E45200FC33BEAB</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BCxCK7tHcZSsc7M6S2XFEPai6i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/NfvPmU2lhyJU1pTE6YM44I6uag.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois de vinte e dois anos internado em um sanatório, Norman Bates (Anthony Perkins) é considerado apto para se reintegrar à sociedade. Ele então retorna à velha mansão e ao seu motel, mas algumas pessoas o consideram ainda perigoso e tentam evitar sua reintegração na sociedade.[/COLOR][/B]</info>	
+  </item>  
+   
+    <item> 
+1   <title>[B][COLOR blue] Psicose 3 - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ba4d0f3ff74723a9fdb35a4b892cb4307c6aa984</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrpMVuxMKSpQWcBwoyL4akPEuHA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/duefs1pXnXTsj4tu5UKfBa1hOqE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tudo parece calmo no famigerado Bates Motel, o pequeno motel de beira de estrada administrado pelo aparentemente recuperado psicopata Norman Bates. Até que a chegada de uma nova hóspede, Maureen, uma ex-noviça, desperta terríveis recordações em Norman - ela é uma sósia de Marion Crane, uma de suas primeiras vítimas. Novos assassinatos começam a acontecer, levantando a suspeita de que Mamãe Bates possa ter voltado a atacar. Contém 3 áudios, sendo eles a dublagem clássica, a redublagem e o áudio original.[/COLOR][/B]</info>	
+  </item>  
+   
+  
+     <item> 
+1   <title>[B][COLOR blue] Psicose 4 - A Revelação  - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:daa287659b09be8d8fdf60f0ebd25f2f513481be</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/abuwwK56t1SA4XkjrMGFnSTnVgJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/phZQFBFJQmFMY6P4CrryxIUHhXi.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Se você nem imagina porque Norman Bates tornou-se um perigoso assassino, prepare-se para o pior: Psicose 4 mostra a terrível infância de Norman. Atormentado pelo comportamento violento e esquizofrênico de sua mãe, o garoto acaba cometendo o pior de todos os crimes: o matricídio. Começa então um pesadelo que ele carregará por toda a vida. De volta ao presente, Norman, já adulto, planeja outro assassinato e mostra porque cada novo filme da série Psicose consegue ser mais macabro, sangrento e assustador. No papel de Norma Bates, a mãe, Olivia Hussey surpreende como uma figura soturna e doente. Capaz de fazer surgir o mais demoníaco de todos os matadores: seu próprio filho. Contém a dublagem clássica.[/COLOR][/B]</info>	
+  </item>  
+  
    <item> 
 1   <title>[B][COLOR blue] A Mosca - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
@@ -13,9 +120,6 @@
 1   <fanart>https://image.tmdb.org/t/p/original/7ZpvX2HQiLmx6js0cur9pdpLARv.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte - a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.[/COLOR][/B]</info>	
   </item>  
-
-
-  
 
 <item> 
 1   <title>[B][COLOR blue] Resident Evil: O Hóspede Maldito - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
