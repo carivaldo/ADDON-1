@@ -8,7 +8,15 @@
 
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] O Último Matador  - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:25671d17f26ba50ba383ea5513e3f11942340205</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgkZRsysKw0fg0cwTWixzyKbVuC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qfQGDBUuILDkRL5CPa897NAqcTZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]John Smith é um misterioso pistoleiro que, após sua última façanha, conhece a cidade de Jericó, no Texas. Um lugar que mais parece uma cidade-fantasma desde que duas violentas gangues expulsaram todas as pessoas decentes. Smith percebe a oportunidade de jogar uma gangue contra a outra e ganhar uma bolada de dinheiro como matador de aluguel. Num jogo perigoso, John toma a lei em suas próprias mãos e arrisca sua vida para realizar o serviço.[/COLOR][/B]</info>	
+  </item>  
 
   <item> 
 1   <title>[B][COLOR blue] Os Outros Caras  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
