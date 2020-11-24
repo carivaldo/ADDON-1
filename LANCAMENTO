@@ -1,4 +1,21 @@
 
+
+
+
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Verdade e Honra - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3574ff0f028bf8e745da6b7e18de8f20f173d5bb</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtbJwsC8X3SfEfdMPyvX5bBtTTk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yBAQZhj9DA8ZLeHNLFisHxUOTog.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A história é centrada no jovem investigador do Pentágono Scott Huffman que luta contra a máquina da política de Washington, EUA. Mesmo relutante, ele se une a um grupo de veteranos para tentar convencer o Congresso americano de dar uma Medalha de Honra para William Pitsenbarger, que se sacrificou para salvar 60 soldados durante a Guerra do Vietnã.[/COLOR][/B]</info>	
+  </item>  
+
    <item> 
 1   <title>[B][COLOR blue] Artemis Fowl: O Mundo Secreto - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
