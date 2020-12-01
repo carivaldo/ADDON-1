@@ -2,9 +2,28 @@
 
 
 
+  
+   <item> 
+1   <title>[B][COLOR blue]  Cidade da Garganta Cortada  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0691ede246bb9ed9cf066831aaca17bafaba8d6e</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bpY753P4mDiyMyqFej8cFPGbKae.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quatro amigos de infância retornam para Nova Orleães logo após o furacão Katrina e encontram seus lares destruídos, nenhum emprego e nenhuma ajuda do governo. Desesperados, eles entram em um grande esquema de assalto e acabam em uma enrascada. Fugindo da polícia e dos gangsters locais, eles decidem se voltar contra os grandes donos de cassinos, que tanto tiraram da sua cidade.[/COLOR][/B]</info>	
+  </item>  
 
-
-
+   <item> 
+1   <title>[B][COLOR blue] Os Novos Mutantes - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c2160b8bd67fba724efe51139feebe7a36e07b22$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8038e6b2e9165e9679611830eb93d1a400e44efb$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:0e6245a00bae3dedcc03f7ebb8c4a63da947445c$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bCQ9BHkiCH4H1NEBkEX5MHmIUzl.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cinco jovens mutantes, ainda descobrindo seus poderes, lutam para fugir dos seus pecados do passado e para se salvarem, enquanto são mantidos contra sua vontade numa instalação psiquiátrica.[/COLOR][/B]</info>	
+  </item>  
 
    <item> 
 1   <title>[B][COLOR blue] Verdade e Honra - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
