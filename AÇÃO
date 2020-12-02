@@ -1,6 +1,71 @@
 
 
+<item> 
+1   <title>[B][COLOR blue] Agarra-me se Puderes - [COLOR red]ADDON BXL [COLOR red](1977) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A8692375099C9916EC2328D16F70351F50EF4AAF$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0BF208DD7540F3D9807B4B4FF6A30B90D80A30FC$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUyqvFZRXbSyayhsamKHSj8f6U.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bo Darville, "Bandit" (Burt Reynolds), é um contrabandista perseguido por Buford T. Justice (Jackie Gleason), um xerife, pois Bandit fez uma aposta de que levará um carregamento da cerveja Coors de Texarkana, Texas, até Atlanta. Se conseguir recebe 80 mil dólares, mas o transporte tem de ser feito em 28 horas, o que significa um trajeto de ida e volta de 3000 quilômetros. É importante lembrar que na época era ilegal vender a Coors a leste do Texas sem uma permissão especial. Além disto Bandit dá carona para Carrie (Sally Field), que resolve escapar de um casamento indesejado com Junior (Mike Henry), o filho do xerife. Os caminhoneiros resolvem ajudá-lo e, para atrapalhar na perseguição, colocam um comboio de caminhões no caminho.[/COLOR][/B]</info>	
+  </item>
 
+    <item> 
+1   <title>[B][COLOR blue] O Imbatível I - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7f95cfd23b5330c2cac5f43797f69d8c60059361</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3bBXxBUADs3dUlIh627gRZ9V3q.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1MYBUWs7h2wh31wp67w90892O4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]James ´Keman´ Chambers (Ving Rhames) é um invicto campeão mundial de boxe que se vê envolvido num rumoroso caso de estupro. Depois de julgado, ele é condenado e enviado para uma prisão de segurança máxima onde estão o que há de pior entre os bandidos presos. Enquanto isso, Monroe Hutchen (Wesley Snipes), o campeão invicto da prisão, defende brutalmente seu titulo contra outro oponente sob o olhar atento de Mendy Ripstein (Peter Falk), um velho chefe mafioso que está preso há anos. Logo Mendy começa a organizar um grande tira-teima entre os dois para ver quem será o verdadeiro Imbatível.[/COLOR][/B]</info>	
+  </item>  
+
+ 
+
+   <item> 
+1   <title>[B][COLOR blue] O Lutador II - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d7e1dddc9db1adf37bdcd12a1e6bdc28667798d3</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2GdEZ3fBvXjMm6wgNx4Ynya8b8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/sSFpQicxdDqAR2gB6d2I5iC03fE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Preso na Rússia, um homem depende de suas habilidades no ringue para poder salvar sua própria vida ao enfrentar um boxeador extremamente bruto.[/COLOR][/B]</info>	
+  </item>  
+
+
+   <item> 
+1   <title>[B][COLOR blue] O Imbatível III: Redenção - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8e883ab9ae329eb492840d026c78b6430a48c057</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWghOYTMNYEq3YPRREHgarDkTKj.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tOfAkOf7TrAPuz4kKG5Fvq1seCd.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A cadeia se torna um ringue quando oito prisioneiros disputam um campeonato internacional. O prêmio para o campeão é a liberdade e muitos dólares para o bolso dos organizadores. Scott Adkins (X-Men Origens: Wolverine) volta como Boyka, o furioso russo especialista em artes marciais, pronto para tirar sangue dos adversários.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Boyka - O Imbatível 4 - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:383e0b428504f121f276674b3bd3674348a9a189$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:feadb2d1dda7c21e93378a48b57095cfe68b5971$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IssuG5Xyv3R3ZdwnQfAQzyUwvU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rvebaEirVZ10pq2AnkxzyGnczfZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No quarto capítulo da franquia de luta, Boyka está atirando para as grandes ligas quando uma morte acidental no ringue faz dele questionar tudo o que ele representa. Quando ele descobre que a esposa do homem que ele matou acidentalmente está em apuros, Boyka oferece para lutar em uma série de batalhas impossíveis para libertá-la de uma vida de servidão.[/COLOR][/B]</info>	
+  </item>  
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Lutador de Rua - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8f72b5e40c0dc25daa9090a2ad0734e864b21110</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK81yIbCqcLrcnMRspIsuZ0vcv7.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/lRNx04avj1R9uKOR49TNWbzHKY9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Isaiah Bone (Michael Jai White), um ex-presidiário, entra de cabeça no submundo das lutas clandestinas de Los Angeles determinado a cumprir a promessa que fez a um grande amigo já falecido.[/COLOR][/B]</info>	
+  </item>  
 
    <item> 
 1   <title>[B][COLOR blue] A Origem do Dragão - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
