@@ -1,12 +1,55 @@
 
 
+   <item> 
+1   <title>[B][COLOR blue] Risco Total - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d506cafd2a18a2aa8e0d8506eb87918cafef5a34</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2neSG07q03vM5jVA70LC3MB9dnE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rtFLZnXqC1jKxCwBnnkuzj3aR0f.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Traumatizado com um acidente que resultou na morte de uma amiga, o experiente alpinista Gabe Walker (Sylvester Stallone) se afastou das montanhas. Um ano após o acontecido, no entanto, ele é chamado para resgatar um grupo em apuros nas Montanhas Rochosas. A missão, porém, logo revela-se uma armadilha: Gabe está lá na verdade para guiar o bando de perigosos terroristas até um tesouro perdido.[/COLOR][/B]</info>	
+  </item>  
 
+ <item> 
+1   <title>[B][COLOR blue] Encontro Explosivo - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c72ff54144b43446651fa974a880de52ff0717d8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qKLKSfvYYGFLP9qubm2eXoaV9X.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/s28TDCPY9TRcaD0CN96k1klzkJh.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.[/COLOR][/B]</info>	
+</item>  
 
-
-
-
-
-
+<item> 
+1   <title>[B][COLOR blue] Fúria Sobre Rodas - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:865fdda753fca75177b267fd8bfebb143c36922c$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:865fdda753fca75177b267fd8bfebb143c36922c$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3efFqfuqOFG1sEiv6buy81YHbpk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yIRZD1g79CkV3OE1WGnAqbAfPNW.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Milton (Nicolas Cage) se envolveu com pessoas erradas no passado, foi parar no inferno e acabou tendo sua filha assassinada. Agora sua neta está das mãos do líder da mesma seita satânica. Chegou a hora de Milton retornar do mundo das trevas para tentar salvá-la e, quem sabe, ter a sua redenção. Em sua jornada para descobrir o paradeiro da criança ele conhece Piper (Amber Heard), uma garçonete boa de briga e em busca de aventura. Era o que ele precisava para enfrentar seus inimigos e ainda driblar O Contador (William Fichtner), um fiel súdito do diabo disposto a tudo para levá-lo de volta para o príncipe da escuridão.[/COLOR][/B]</info>	
+  </item>
+  
+   <item> 
+1   <title>[B][COLOR blue] A Rocha - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:67c8f33bf4e2a042e13579008762a3addc6c7eec</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFPh6GQMQROAe6y1KQuL9f0TFRX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uUCij548JeREaZeWQ9HX4IlK8sE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um general, herói na Guerra do Vietnã, e seus comandados se apoderam de poderosas armas químicas e se instalam na prisão de Alcatraz, com 81 reféns. De lá eles ameaçam disparar as armas sobre São Francisco se 100 milhões de dólares não forem pagos, sendo que grande parte desta quantia será para doar às famílias de soldados americanos que morreram em missões secretas e nunca foram reconhecidos pela pátria. Para combatê-los, um grupo de elite é mandado para a ilha e entre eles está um jovem especialista em armas bioquímicas e o único homem que escapou do presídio, só que agora ele tem de entrar e, se possível, completar sua missão e sair vivo.[/COLOR][/B]</info>	
+  </item>  
+  
+   <item> 
+1   <title>[B][COLOR blue] 60 Segundos - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9fe644bd17c247f8506e31ae364757e45e3980c4</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F9AlinnP2OhgnsK8xjksK94Oh1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fR4XguI5Bp8YhH6aBVMNY3hCm0s.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Randall "Memphis" Raines (Nicolas Cage) um lendário ladrão de carros. Nenhuma fechadura ou alarme pode pará-lo e ele consegue roubar seu carro em apenas 60 segundos. Durante anos, Memphis iludiu a polícia local, aplicando todo tipo de golpe imaginável. Mas quando o cerco ficou muito intenso, ele decidiu por largar a vida de crimes e partir para uma vida completamente diferente. Mas agora, quando seu irmão caçula (Giovanni Ribisi) está tentando seguir seus passos no mundo do assalto a automóveis, Memphis volta a agir para tentar salvar a vida de seu irmão.[/COLOR][/B]</info>	
+  </item>  
 
    <item> 
 1   <title>[B][COLOR blue] O Último Matador  - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
