@@ -1,7 +1,25 @@
 
+<item> 
+1   <title>[B][COLOR blue] A Rosa Venenosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1e8044eb223dd2a10a7aa4cfd95c423e4d8024e9$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f6971e8a4d3ff680e9d8eb8a206ca94bcc768bcc$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/6RWSRsQQkhHM5i22eXqC41t8aCB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Inspirado no clássico filme noir 'The Poison Rose', estrelado por Carson Phillips, uma ex-astro de futebol virou detetive particular, que tem um fraquinho por uma senhora em perigo. Como os contos clássicos fiados pelos mestres, ele assume um caso de pessoa desaparecida que lentamente se revela uma teia complexa de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha há muito tempo perdida, é o suspeito número um, ele corre contra o relógio para salvá-la, resolver os assassinatos, e descobrir os segredos sujos da cidade.[/COLOR][/B]</info>	
+  </item>
 
-
-
+<item> 
+1   <title>[B][COLOR blue] Ava - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:540556068848dc00a6b4809079e7e1e9e13e161a$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:62cca1e1669c30350dd7f9ad735889f2feb44d21$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uobkkvvKCZbTKpJCMnvuTRQt5bV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/54yOImQgj8i85u9hxxnaIQBRUuo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Eve é uma assassina, que trabalha matando alvos de alto-nível para uma organização secreta. Mas quando uma missão dá terrivelmente errado, ela é forçada a lutar pela própria sobrevivência.[/COLOR][/B]</info>	
+  </item>
   
    <item> 
 1   <title>[B][COLOR blue]  Cidade da Garganta Cortada  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
