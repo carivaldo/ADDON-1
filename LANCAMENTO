@@ -1,4 +1,30 @@
 
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Jogo Assassino - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c5577f57aba9d2111513081e0234ae5f85e6508f</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/920UZBy06CnEXpJpC3AeatroO3m.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8knaRrDd1FM1pbSLaViEQSxodi5.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A polícia monta uma força-tarefa para encontrar um predador online que vem fazendo várias vítimas. No entanto, a equipe se vê presa numa investigação com situações inesperadas e consequências avassaladoras.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Fukushima - Ameaça Nuclear  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:305087d8e89258c427ee06f2c9370aeec469b076$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:36e8aedeefda1f4c0e06b3d07bafc0010c1df159$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AttnD1lfhAEtW8dUak3nd1wJzmO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/51cokyYKvpcrLWExChUV85rmP0v.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Um longa-metragem sobre o desastre da usina nuclear de 2011 no Japão, quando um tsunami pós-terremoto atingiu a usina de Fukushima Daiichi e causou um derretimento dos reatores nucleares. A história centra-se nos trabalhadores, incluindo o supervisor de turno Isaki (Koichi Sato) e o superintendente local Yoshida (Ken Watanabe), que arriscaram suas vidas e permaneceram na usina para evitar a destruição total dos reatores superaquecidos e minimizar a devastação que poderia afetar a vida de 50 milhões de pessoas. - Os trabalhadores que retornaram foram apelidados de “Fukushima 50” pela mídia. - Baseado no livro "On the Brink: The Inside Story of Fukushima Daiichi", escrito por Ryusho Kadota.[/COLOR][/B]</info>	
+  </item>  
+  
+
 <item> 
 1   <title>[B][COLOR blue] A Rosa Venenosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
