@@ -2,6 +2,104 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Carrie, A Estranha - [COLOR red]ADDON BXL [COLOR red](1976) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:89b4379286bde1804be07caf949135e1398349a1</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8tLK9Ou5SOSf5dR3Vnsqw219A3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kVthdQuL0lU51pjK4C4jlnRGsRe.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Do best seller de Stephen King, o suspense terrivelmente lírico do Diretor Brian DePlama (The New Yorker) que captura sua mente, abala-a recusa-se a libertá-la (Time Magazine)! Estrelando Sissy Spacek e Piper Laurie (em atuações indicadas para o Oscar®), John Travolta e Amy Irving, esta obra da fantasia é absolutamente enfeitiçante (Roger Ebert), definitivamente inteligente ( Los Angeles Times) e um dos grandese clássicos do terror de todos os tempos! O centro deste suspense é Carrie (Spacek), uma colegial repudiada por seus colegas, sem amigos... E sem nenhuma noção de seus poderes telecinéticos secretos. Mas quando sua mãe psicótica e seus sádicos colegas de classe chegam longe demais, aquela que foi um dia uma adolescente tímida torna-se uma máquina descontrolada de vingança que, com o auxílio de seu dom especial transforma seu mundo em um famoso rio de sangue, fogo e demolição que irá transportá-los às profundezas do terror - e mais além![/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Carrie, A Estranha - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:056e629054155d82c3ad7b04517f4987bd06eebf</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f60bJjQ6FUfxr0msrA1aMrwa9aV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3QnipDAtB0Pou0g3jYwM0BJLyyU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Carietta White (Chloë Grace Moretz) sempre foi oprimida pela sua mãe, Margaret (Julianne Moore), uma fanática religiosa. Além dos maus tratos em casa, Carrie também sofre com o abuso dos colegas de escola, que nunca compreenderam sua aparência nem seu comportamento. Ridicularizada por todos, aos poucos ela descobre que possui estranhos poderes telecinéticos, que se manifestam com força total durante sua festa de formatura.[/COLOR][/B]</info>	
+  </item>  
+
+ 
+
+   <item> 
+1   <title>[B][COLOR blue] Cemitério Maldito - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9924862e1b4752a5037888e08948cfbb4d2d1a85$$lsname=[COLOR lime] REMUX 4K   [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BBF46F9D1C31AB8C62FDE2A3BBC576853E87F75F$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:D885B4C7A6EA3AC0D15F105EDCB20FAC8BAC2D09$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gklxyWeboH8ZerVwLSW79AEIInf.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3yoFETmp7bjGUjXBRcqv2E4otsm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma série de acontecimentos estranhos se inicia após a morte do gato da família Creed. Aos poucos eles percebem que um antigo cemitério, que fica nos fundos da casa, pode ter ligação com esses eventos.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Cemitério Maldito II - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:68EE7ADF3C82BA39CB20C5E36DEDF67E0D3C2DA8$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:5216CFC4992A06C6AE703DC727D3BE878CE9D484$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYMo3Jr9rCqAgDRANSE4NdW4Yc.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oNYWTNMfO26cSxnil8GT0cpJVR5.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jeff Matthews (Edward Furlong) é filho de Renee Halow (Darlanne Fluegel), uma atriz de filme de terror que morreu acidentalmente durante uma filmagem, quando recebeu um enorme choque elétrico. Jeff se muda com Chase Matthews (Anthony Edwards), seu pai, um veterinário, para o campo e lá Jeff faz amizade com Drew Gilbert (Jason McGuire), um tímido garoto que é maltrado por Gus Gilbert (Clancy Brown), seu padrasto, que é o xerife local. Jeff também descobre um antigo cemitério indígena, no qual pessoas e animais que ali são enterrados voltam à vida.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Cemitério Maldito - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3794e3ba93211eb6d3b9bfeca839cfbcaf8d0bed</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/F66gh3HxLLHIsaxvH1zJSgPAsf.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8iZjnNSIH4teZERl0VjUeHHVrec.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Dr. Louis Creed (Jason Clarke), que após se mudar com sua esposa Rachel (Amy Seimetz) e seus dois filhos, de Boston para o Maine, descobre um misterioso cemitério escondido nas florestas perto da nova casa da família. Quando uma tragédia os atinge, Louis se volta para seu vizinho incomum, Jud Crandall (John Lithgow), desencadeando uma perigosa reação em cadeia que libera um mal insondável com consequências terríveis.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Bebê de Rosemary - [COLOR red]ADDON BXL [COLOR red](1968) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d008d8b020a708e988cc69c11e6b2ac69b326021</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aK4JAhmx6ZIdJF8TqW1lk3ELTg9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/rZFObP0WZrsWDKoe3JuSocRu6Fq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um jovem casal se muda para um apartamento em Nova York para começar uma família. As coisas ficam assustadoras quando Rosemary começa a suspeitar que seu futuro bebê não está seguro ao lado dos seus estranhos vizinhos.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Os Irmãos Grimm - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:82453aa507b2cb6cde795884c2150c77f7cc4964</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/wMQhjgX6pRHB5TYELwSJ8ScxCcl.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Wilhelm (Matt Damon) e Jacob (Heath Ledger) são dois irmãos famosos pelos seus contos de fada, recheados de personagens mágicos. Eles percorrem a Europa comandada por Napoleão Bonaparte enfrentando monstros e demônios falsos em troca de dinheiro rápido. Porém, quando as autoridades francesas descobrem o plano deles, os coloca para enfrentar uma maldição real em uma floresta encantada, na qual jovens donzelas desaparecem misteriosamente.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Invocação do Mal  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0032160AB449F818890DE403D61F29FA495E27D4$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:7C7DADAB71C0B5B1CA43BEF6DA02C3B1303F1D30$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RGbDvZjv7awYEqc7rZT8a3xws4.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/tYJue86lW7GZuVxS2phYEkAJA8n.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real[/COLOR][/B]</info>	
+  </item> 
+  
+  
+   <item> 
+1   <title>[B][COLOR blue] Invocação do Mal 2  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>'magnet:?xt=urn:btih:C09482BC85B6615B3C8BC3EC3D8FD56FA5360392</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/16kR95yBmFlf3sveibocl7ND83V.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/4mfFtlGeInPrQVm1hpv7th02yjx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sete anos após os eventos de Invocação do Mal (2013), Lorraine (Vera Farmiga) e Ed Warren (Patrick Wilson) desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha. A trama é baseada no caso Enfield Poltergeist, registrado no final da década de 1970.[/COLOR][/B]</info>	
+  </item>   
+  
+ 
 
  <item> 
 1   <title>[B][COLOR blue] Sobrenatural: A Última Chave - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
