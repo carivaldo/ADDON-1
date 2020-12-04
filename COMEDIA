@@ -6,6 +6,50 @@
 
 
 
+
+   <item> 
+1   <title>[B][COLOR blue] Banana Joe  - [COLOR red]ADDON BXL [COLOR red](1982) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:47a5d900e3a949da9258ab1b396c02fa608e42a8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwGmvZT2TzYQvzyDDnyUC1y8uQ2.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/40YMCqagvB1E951yfm76RlzZZfZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Banana Joe vive em Amantido, uma vila na foz de um rio em uma das muitas repúblicas da América do Sul, que de certa forma, espcapou do progresso. Ele é um homem grande, pesado e poderoso, que vive entre os amigáveis nativos, levado carregamentos de banana.
+É o dia de azar de Joe quando o chefe da máfia de San Cristoban, a capital da República, forma uma organização para tomar conta de todo o negócio de bananas. Sendo Joe um analfabeto sem nenhum documento e sem licença para comercializar suas bananas, ele revida determinado a conseguir sua documentação e obter sua licença. Em San Cristoban, Joe entra em choque com a civilização que o manda para escanteio.[/COLOR][/B]</info>	
+  </item>  
+
+
+   <item> 
+1   <title>[B][COLOR blue] Entrando numa Fria - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:91a3fd17123c81acebd8b257f455cad7ddaaf305</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIjGzZsTt5D5bfVXiUpF6uY7G9k.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fab7CdKtXSWov5h1ZnrYcWl1ROx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Completamente apaixonados, Pam (Teri Polo) resolve levar seu namorado Greg (Ben Stiller) para conhecer seus pais. Só que, ao chegar, o pai (Robert De Niro) dela não se impressiona com Greg e decide tornar seu final de semana insuportável, utilizando todos os meios possíveis de intimidação, com apenas um único objetivo: se Greg aguentar até o fim, ele o homem certo para se casar com sua filha.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Entrando Numa Fria Maior Ainda- [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:91a3fd17123c81acebd8b257f455cad7ddaaf305</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0XRKzf4zSDOs439X0wdwQ77oDC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hIfy9G7CQoKpDkJgEfOPcfW2HYK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após passar por várias confusões, Greg Focker (Ben Stiller) e Jack Byrnes (Robert De Niro) estão se dando bem. Greg e Pam (Teri Polo) estão animados com os preparativos do casamento, mas há ainda uma pendência a ser resolvida: os futuros sogros precisam passar um fim de semana juntos. Para resolver o problema Greg, Pam, Jack e Dina (Blythe Danner) viajam no moderno trailer de Jack rumo à ilha Focker, em Cocoanut Grove. Ao chegar os Byrnes conhecem Bernie (Dustin Hoffman) e Roz (Barbra Streisand), pais de Greg. Porém o modo liberal como os Fockers levam a vida entra em conflito com os rígidos valores pregados por Jack.[/COLOR][/B]</info>	
+  </item>  
+
+   <item> 
+1   <title>[B][COLOR blue] Entrando Numa Fria Maior Ainda com a Família  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0905fd388faca73b0240f1f6472c69792502f76e</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFcqogEn6GKZTVBW6SRaF07URoy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/xjD6BJVjzJH5661byL2TQ0liRxj.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após 10 anos de convivência, Greg enfim consegue se enturmar com seu sogro, Jack. Agora pai de dois filhos, Greg tenta impressionar a diretora de uma escola particular de prestígio, já que gostaria que as crianças estudassem lá. Ele precisa ainda lidar com as obras na casa, cujo atraso pode prejudicar a festa de aniversário dos filhos. Em meio a tudo isso, Greg aceita um emprego noturno em um laboratório farmacêutico, mas uma sexy colega de trabalho faz com que Jack volte a desconfiar do genro.[/COLOR][/B]</info>	
+  </item>  
+
+
   <item> 
 1   <title>[B][COLOR blue] Chef - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
