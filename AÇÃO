@@ -1,4 +1,15 @@
+ dict( 
+1   name='[B][COLOR blue] Agarra-me se Puderes - [COLOR red]ADDON BXL [COLOR red](1977) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]',
+1   label='[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC',
+1   label='magnet:?xt=urn:btih:A8692375099C9916EC2328D16F70351F50EF4AAF$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO',
+1   label='magnet:?xt=urn:btih:0BF208DD7540F3D9807B4B4FF6A30B90D80A30FC$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO',
+1   logo='https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUyqvFZRXbSyayhsamKHSj8f6U.jpg/default',
+1   preset='[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]',
+1   logo='https://image.tmdb.org/t/p/original/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg/default',
+1   preset='[B][COLOR red] SINOPSE:[COLOR red]Bo Darville, "Bandit" (Burt Reynolds), é um contrabandista perseguido por Buford T. Justice (Jackie Gleason), um xerife, pois Bandit fez uma aposta de que levará um carregamento da cerveja Coors de Texarkana, Texas, até Atlanta. Se conseguir recebe 80 mil dólares, mas o transporte tem de ser feito em 28 horas, o que significa um trajeto de ida e volta de 3000 quilômetros. É importante lembrar que na época era ilegal vender a Coors a leste do Texas sem uma permissão especial. Além disto Bandit dá carona para Carrie (Sally Field), que resolve escapar de um casamento indesejado com Junior (Mike Henry), o filho do xerife. Os caminhoneiros resolvem ajudá-lo e, para atrapalhar na perseguição, colocam um comboio de caminhões no caminho.[/COLOR][/B]',	
+  ),
 
+     dict(
 
 <item> 
 1   <title>[B][COLOR blue] Agarra-me se Puderes - [COLOR red]ADDON BXL [COLOR red](1977) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
