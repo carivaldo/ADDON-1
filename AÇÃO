@@ -1,15 +1,54 @@
- dict( 
-   name='[B][COLOR blue] Agarra-me se Puderes - [COLOR red]ADDON BXL [COLOR red](1977) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]',
-   label='[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC',
-   label='magnet:?xt=urn:btih:A8692375099C9916EC2328D16F70351F50EF4AAF$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO',
-   label='magnet:?xt=urn:btih:0BF208DD7540F3D9807B4B4FF6A30B90D80A30FC$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO',
-   logo='https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUyqvFZRXbSyayhsamKHSj8f6U.jpg/default',
-   preset='[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]',
-   logo='https://image.tmdb.org/t/p/original/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg/default',
-   preset='[B][COLOR red] SINOPSE:[COLOR red]Bo Darville, "Bandit" (Burt Reynolds), é um contrabandista perseguido por Buford T. Justice (Jackie Gleason), um xerife, pois Bandit fez uma aposta de que levará um carregamento da cerveja Coors de Texarkana, Texas, até Atlanta. Se conseguir recebe 80 mil dólares, mas o transporte tem de ser feito em 28 horas, o que significa um trajeto de ida e volta de 3000 quilômetros. É importante lembrar que na época era ilegal vender a Coors a leste do Texas sem uma permissão especial. Além disto Bandit dá carona para Carrie (Sally Field), que resolve escapar de um casamento indesejado com Junior (Mike Henry), o filho do xerife. Os caminhoneiros resolvem ajudá-lo e, para atrapalhar na perseguição, colocam um comboio de caminhões no caminho.[/COLOR][/B]',	
-  ),
 
-     dict(
+
+   <item> 
+1   <title>[B][COLOR blue] 8mm: Oito Milímetros - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7b17a51ae8045ee36f387d7fd09c644f197f32a2</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoFWiOhMvTvGdunXuRhiZMscldV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/229NyjoFar4S1aq02fFHVGh0Pn9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O detetive particular Tom Welles vive uma vida normal com sua esposa e sua filha até receber um caso novo surpreendente. Uma viúva de nome Sra. Christian encontra o que parece ser um filme entre os pertences de seu marido e ela quer que Welles investigue se o filme é real ou falso. Welles vai para a Califórnia, onde um empregado de uma loja de vídeo o ajuda a infiltrar-se no perigoso e depravado mundo dos filmes pornográficos ilegais.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Advogado do Diabo - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79a1dccb2a005bade12b471df97d0297d48815ae</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap3w0h5mjY2kbYULJ73Ae2Hcip9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1h1arpHTQucAzBRmGRsy4vdln2c.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Kevin Lomax (Keanu Reeves) é um homem de sucesso dentro e fora do tribunal. Um jovem advogado de defesa que nunca perdeu uma causa, por pior que seja o crime cometido por seus clientes. John Milton (Al Pacino) é o misterioso e brilhante presidente de uma poderosa firma de advocacia com interesses e clientes no mundo inteiro. O que há de comum entre esses dois homens? Uma tentadora oferta de trabalho, a chance de alcançar o sucesso de uma vez por todas e um segredo que irá transformar a vida de Kevin em uma viagem ao inferno.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Dias de Trovão - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F2CFE570693E9E627337F4A9D3BFDE5B039A2B91</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKD9UvOxFIILaZazgzDNdZlsTgK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/9kEM0ju09rLPjjcSMooZLGGGmir.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cole Trickle (Tom Cruise) é um jovem piloto de stock car que tem muito talento, mas nenhuma idéia de como canalizar este dom para obter vitórias. Porém, as coisas mudam quando Tim Daland (Randy Quaid) incumbe Harry Hogge (Robert Duvall), um veterano piloto de stock car, a construir um carro e contratar Cole para dirigi-lo. A partir de então Harry precisa passar para Cole sua filosofia de vitória e ensiná-lo como transformar seu talento cru em sucesso. Cole imediatamente entra em conflito com Rowdy Burns (Michael Rooker), o piloto mais badalado do circuito, mas esta rivalidade acaba criando um acidente, que manda ambos para o hospital. Por causa dos seus ferimentos, Rowdy é forçado a abandonar a competição. Sem seu principal rival para atormentá-lo, Cole acelera em direção de Claire Lewicki (Nicole Kidman), uma atraente médica que supervisiona a recuperação de Cole. A saúde de Cole é restabelecida, ele começa a correr novamente e parece que agora ele está fadado para o sucesso, mas tem que competir contra Russ Wheeler (Cary Elwes), que não quer apenas derrotar Cole, mas deixá-lo incapacitado para sempre.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Guarda-Costas - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:71aff58b914863de6fb9ed5a97f9fcca0efc20c2</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ttyRxB2MOkGkhaxdC5d5ElZXaol.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Frank Farmer (Kevin Costner), um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron (Whitney Houston), uma grande cantora e atriz, que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado por John Hinckley. Frank e Rachel se apaixonam mas ele não deixa este amor evoluir, pois quando estão juntos Rachel fica vulnerável. Paralelamente, novos atentados acontecem.[/COLOR][/B]</info>	
+  </item> 
+
+ <item> 
+1   <title>[B][COLOR blue] Coração de Cavaleiro - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:44189aba57a1da9b0602551bdf33da71d6835d55</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFpqFoLdQnsNOqBQfyN8LsnWxLC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/7BicyhHoUwVx6kBObUwAjMXd9Lu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após seu mestre morrer subitamente, o jovem William, um valoroso escudeiro, resolve substituí-lo em uma competição envolvendo combate com lanças. Para tanto ele passa a treinar exaustivamente e consegue convencer Chauncer, um escritor, a forjar uma árvore genealógica para si, que faria com que ele tivesse uma família de nobres e não traria dúvidas? sua participação no torneio.[/COLOR][/B]</info>	
+  </item> 
 
 <item> 
 1   <title>[B][COLOR blue] Agarra-me se Puderes - [COLOR red]ADDON BXL [COLOR red](1977) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
