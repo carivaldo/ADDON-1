@@ -1,8 +1,50 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Curtindo a Vida Adoidado - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f155eb98f58944f45812d68744d8b5883e9a72bd</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/zmVq7y63z8NewluK7MUBfTxuyvD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey).[/COLOR][/B]</info>	
+  </item> 
+ 
+ <item> 
+1   <title>[B][COLOR blue] Fúria de Titãs  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f25b48763aa1ce43fc3aa773c667518418544e89</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwswPRTjzSZTzcCEpjubuVU56vo.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8nlIP8REpkLLW6vU2sX2Z5SRt7s.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Perseu (Sam Worthington) descobre que é o filho mortal de Zeus (Liam Neeson), mas recusa-se a aceitar tal condição. Contudo, para salvar a cidade de Argos da fúria dos deuses do olimpo e da vingança de seu tio Hades (Ralph Fiennes), ele vai ter que enfrentar uma perigosa jornada contra terríveis criaturas como a Medusa para salvar os simples mortais e a bela Andrômeda (Alexa Davalos) do sacrifício para o monstro Kraken.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:166ea927473e2ff966590496fd2e799a2836d61c</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/s7VNgGkbgX2ZB8ctDBJXDBq7yt7.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Dez anos depois, o semideus Perseus (Sam Worthington) leva uma vida pacata de pescador enquanto cria seu filho, Hélio (John Bell). Os deuses estão enfraquecidos, já que os humanos não estão mais rezando para eles. Esta situação permite que Hades (Ralph Fiennes) e Ares (Édgar Ramírez) elaborem um plano para libertar Cronos, o pai de Hades, Zeus (Liam Neeson) e Poseidon (Danny Huston), que está aprisionado no tártaro. Para que o plano funcione Hades e Ares capturam Zeus, o que faz com que Perseus parta para salvá-lo.[/COLOR][/B]</info>	
+  </item> 
 
 
-
-
-
+   <item> 
+1   <title>[B][COLOR blue] A Odisseia - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/xWQ0KxliLlrtGX3Uqcn3yVY3cn9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após dez anos, a Guerra de Tróia chega ao fim e o herói Odysseus (Armand Assante) faz uma viagem de volta para casa. Ele enfrenta criaturas mitológicas, deuses e outros inimigos poderosos. Essa adaptação do poema épico de Homero revela a força e bravura do herói e a sua luta para voltar ao lar, onde é aguardado pela amada Penélope (Greta Scacchi).[/COLOR][/B]</info>	
+  </item> 
 
   <item> 
 1   <title>[B][COLOR blue] Jurassic Park: O Parque dos Dinossauros  - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
