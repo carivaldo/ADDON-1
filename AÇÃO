@@ -1,4 +1,23 @@
 
+   <item> 
+1   <title>[B][COLOR blue] Reação em Cadeia - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:68E8F5C9075C906E0E5A6848376B9DDB3DDA2865</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPaChKkDwsW8WMo3A2o1u6ksooR.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/aCF54i60qmTriWUAKbGDqzp52vm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cientista idealista está alarmado com a poluição que nosso planeta é submetido por ser dependente do petróleo e está quase pronto para anunciar a descoberta de uma tecnologia que permitirá tirar energia da água. Porém, ele deseja dividir este conhecimento com todas as nações, sendo que pessoas ligadas a ele são contrárias a esta idéia. Quando o único problema que existia é resolvido a equipe comemora, mas ao voltar ao laboratório um estudante (Keanu Reeves) que trabalha com o pesquisador descobre que ele foi morto e uma bomba foi colocada para explodir o laboratório. Ele foge rapidamente e consegue escapar da violenta explosão, que destruiu oito quarteirões. Ele relata tudo à polícia, mas são encontrados 250 mil dólares no seu apartamento e assim ele e uma doutora (que também tem dados incriminadores), que fazia parte da equipe, passam a serem caçados pelo país inteiro como terroristas e espiões. Assim, eles precisam fugir e descobrir quem armou esta cilada para eles[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Rajada de Fogo - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5FA5D08678C6623E58F94A24AD82463E9FBCC199</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjLRTjlBh8umdlUv2EUzV33vOq3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hGhtobTxIJJ7atGp1nfanfPT4Nf.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nesta explosiva aventura das artes marciais, o universitário Jake Lo (Brandon Lee) é perseguido por traficantes, mafiosos e agentes federais corruptos, após ter testemunhado um assassinato cometido pelo chefe da Máfia Antonio Serrano (Nick Mancuso). Quando o programa de proteção à testemunha falha, ele tem que se proteger com suas próprias armas - suas mãos. Determinado a sobreviver, ele encurrala os senhores do tráfego de drogas de Chicago com a ajuda de policial renegado (Powers Boothe) e sua bela parceira (Kate Hodge).[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] 8mm: Oito Milímetros - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
