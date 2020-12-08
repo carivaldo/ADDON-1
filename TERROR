@@ -1,6 +1,64 @@
 
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:475ae27cbc6f709e1bb1f60e97c3bc321b3c9298</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qHHlBPTpKyh9iTjx1cNMU8sXBnj.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta 2: Floresta do Mal - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0772c0d75b81bd7560522df1dd525a53385984dc</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPJbwDKG0L2FiDTKyW1iXAXAC0E.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Quando Mike (Josh Randall, da série Scrubs) leva sua namorada Sheryl (Brianna Brow, O Virgem de 40 anos) para um acampamento nas montanhas da Virgínia, o pior inimigo que eles esperavam encontrar eram os mosquitos. Mas os dois são recebidos em um verdadeiro pesadelo. Shreyl desaparece misteriosamente. Procurando na floresta por conta própria, Mike encontra uma pequena cabana - e entre as velas e crucifixos de um culto de degenerados, o horror para este casal vai começar. E contra o mal que os aguarda não adianta rezar.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta 3 - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f2ca50ec25daef4c4f6ea43a27c1b37cb0c5d877</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ablEp5NwXbfSL3HXPOkM9fW5DKP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/zCKAsO1wubW7tFGlhANP4MIftjn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Enquanto faziam rafting em um rio, quatro amigos da faculdade são atacados por um grupo de canibais mutantes. Apenas a estudante Alex (Janet Montgomery) consegue escapar pelas florestas. Ao mesmo tempo, um grupo de criminosos é transportado em um ônibus, quando são atingidos por um caminhão dirigido pelos canibais. O perigoso criminoso Carlo Chavez domina os guardas e prisioneiros restantes. Acidentalmente eles encontram Alex que conta sobre os canibais, que logo os sobreviventes descobrirão que são reais.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta 4: Origens Sangrentas  - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f8f6fb328b28e46d3833c97e2d6ea7269bed1196</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZ6eeVyDo9PUIH3accCxi4zm5SZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3IJ1YlepPnmo9tUpphjsPyRWrAJ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Num hospital isolado em West Virginia, três mutantes deformados iniciam uma matança impiedosa. Agora, décadas depois, essa família de canibais sedentos de sangue está espreitando novas presas: um grupo de jovens esquiadores presos por uma nevasca. As alas abandonadas logo se tornarão o campo de batalha, quando as vítimas descobrirem que só existem duas opções: lutar ou morrer.[/COLOR][/B]</info>	
+  </item> 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta 5: Linha de Sangue - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:73e03e001f47cd174115c32b59ef8a8c1527bc22</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsH0zwELHvVSKCyQlEZfDxjMSaP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/sl6KuxRiBTn2riYG0upL2RsxHIm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Uma pequena cidade do oeste da Virgínia é sede do lendário Festival Mountain Man no Halloween, onde uma multidão de foliões fantasiados se reúne para celebrar uma noite selvagem de músicas e travessuras. Mas uma família de canibais quer acabar com a diversão quando eles resolvem atacar um grupo de estudantes universitários que visita o local para farrear.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Pânico na Floresta 6: Último Resort - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:35594A15AA37317F23E7F788B8151DA4E859F18D</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9JMIja6UYHwK6fFw0RR5w3pGVR.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/r4XKyfVf7jYalc6fU6XjzhO2CYf.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma misteriosa herança leva Danny e seus amigos para um resort abandonado em Hobb Springs, que está sobre os cuidades de Jackson e Sally, um estranho casal que introduz Danny à família que nunca conheceu. Mas aos poucos, ele percebe que há esquisitas tradições, como canibalismo, uma das práticas que mantém a família unida. Agora, Danny terá de escolher entre seus amigos e sua linhagem de sangue.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] Carrie, A Estranha - [COLOR red]ADDON BXL [COLOR red](1976) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
