@@ -1,4 +1,119 @@
 
+
+
+
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4E49AD331883C56A52E27C9B79B47D41329E00AB$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2D58DE4DFADADACEA6BBBF764A7454CC85192F3F$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGiLNTHbDyNIY3Fvo96A836UpIy.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/spQeQgmeKDaOnDV0g20x3n0fG2D.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Dominic Toretto é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian O'Conner, que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes ou se há alguém mais por trás deles.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] +Velozes +Furiosos - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:94A7371CC030EDDFC59351E0B9D4B6137CAB8203$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:463FC4FB69A54B274926B85C61C8C627DBA60B01$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após deixar a polícia, Brian O'Conner é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone, o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce e da agente secreta Monica Fuentes.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos: Desafio em Tóquio  - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:B0640A1F7757554D0833CE8944C4E751A07BE1D0$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:25304F2324A4157526B206317247A264CC68EB6D$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/eJciNVeMWekmBAeT7HrDP4DWmFb.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos 4 - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F6D37DD55FE1C6E45FC7327E95D3D0630A74685B$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2FCA689C362BEBD2D95BFE4263056073490CC1D5$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/7JfbwZCqe7OvuNTsF2c0ZByNgex.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois de ser visto rumo ao México no filme que deu origem a série, Dominic "Dom" Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O'Conner numa perigosa missão.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos 5: Operação Rio - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5D606B02261EE919492C45C899FBBD3BF2088F0B</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qwDk1mnnlmRJdNV4D7Dnp8leaVM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O ex- policial Brian O'Conner (Walker) firmou uma parceria com ex-condenado Dom Toretto (Diesel), ambos no lado oposto da lei. Desde que Brian e Mia (Brewster) tiraram Dom da custódia da polícia, eles vivem atravessando muitas fronteiras para fugir das autoridades. Agora, escondidos em um canto no Rio de Janeiro, eles precisam entregar um último trabalho para ganhar a liberdade. Enquanto montam sua equipe de elite de pilotos de corrida, eles sabem que mesmo se o plano der certo, terão de confrontar um empresário corrupto, que quer vê-los mortos . Mas ele não é o único de seus problemas.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos 6 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C62D28EC878A6B9343CEC48F32431546FB9FA5C1</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oXbCw2RuZ9A2ZO7aA8kWH2mSqL6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando um Comboio Militar Russo é derrotado em Moscou, o agente Hobbs (Dwayne Johnson) vai até o único homem capaz de ajudá-lo a atingir seu objetivo: Dominic Toretto (Vin Diesel). Toretto só aceita ajudar quando descobre que Letty (Michelle Rodriguez) está viva e trabalhando com o alvo nº 1 de Hobbs, Owen Shaw (Luke Evans), um mercenário de operações especiais comandando um grupo igualmente brilhante. A tropa de elite de Toretto, incluindo Brian O’Conner (Paul Walker) e toda a equipe original, persegue Shaw e seu bando através da Europa, em uma série de golpes de pular o coração, cada perseguição superando a outra em tamanho, escala e ação vibrante.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes & Furiosos 7  - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:588B2397893C64C5EA14A42B6EFCE9BA4AA8D2D8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/eiX6QVZTgyKA9sywLHNPd8wQ3s6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos 8  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CC7CA6F835EBDA2AA7BFD07D3E3E1B8B444C486A$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E095633EE80A182BAA478443F05B3235787C1733$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4E0E356133ECBC97A5C395282D358CC2FE1234CD$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/iey7wKps9EVDIYnC1vZUL50GS8d.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Velozes e Furiosos: Hobbs & Shaw - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3DBE9B48C38EB8893F8FDADC441A3C0FE36A85F0$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7588FF46789E670AF15245F35C17091CC767F98C$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:49f24b7741e184814a77617b4dc6e53cae9f9d39$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/4J8a4wZJPm4owrvy9Kwsx9Q8cfd.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Need for Speed - O Filme - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5118a8eef4d59e097e2fb29c020bfad70c7b0872</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMoayAYNo5Q5A3Ja9W9GVZjv0kB.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kuHVUU97o39UvRLfcYXiKUmhqAx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Tobey Marshall (Aaron Paul) herdou do pai uma oficina mecânica, onde, juntamente com sua equipe, modifica carros para que se tornem o mais rápido possível. Além disto, Tobey é um exímio piloto e volta e meia participa de rachas. Um dia, o ex-piloto da Fórmula Indy Dino Brewster (Dominic West) o procura para que Tobey possa concluir um Mustang desenvolvido por um gênio da mecânica que já faleceu. Apesar das divergências entre eles, Tobey aceita a proposta por precisar muito do pagamento oferecido por Dino. O carro é concluído e posteriormente vendido. Entretanto, a velha rixa entre eles faz com que disputem um último racha, que conta ainda com a participação de Pete (Harrison Gilbertson), grande amigo de Tobey. A corrida termina em tragédia devido ao falecimento de Pete. Considerado culpado pela morte, Tobey passa dois anos na prisão. Quando enfim é solto, ele organiza um plano para que possa participar de uma conhecida corrida do submundo onde Dino também correrá.[/COLOR][/B]</info>	
+  </item>
+
    <item> 
 1   <title>[B][COLOR blue] Reação em Cadeia - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
