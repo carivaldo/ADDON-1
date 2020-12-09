@@ -10,7 +10,7 @@
 <channels>
 <channel>
 <name>[COLOR red]LANCAMENTOS[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/2/items/lancamentos_20200228/filmes.png</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx7xg1xfIlBZlZ89Dd43bo3cwBM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LANCAMENTO</externallink>
 <fanart>https://image.tmdb.org/t/p/original/6f8vQN9Tx1pJOqUB12oAoKopFVz.jpg</fanart>   
 <info>
@@ -26,7 +26,7 @@
 <channels>  
 <channel>
 <name>[COLOR red]AVENTURA [/COLOR]</name>    
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/AVENTURA%204k</externallink>             
 <fanart>https://image.tmdb.org/t/p/original/iYSRRNPB3R0ZIeVMasBy0y7n2mi.jpg</fanart> 
 <info> 
@@ -46,7 +46,7 @@
 <channels>
 <channel>
 <name>[COLOR red]NACIONAIS[/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYTZoNEWbHPD2ujjdhdlpvbSYdr.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NACIONAL</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg</fanart>  
 <info>
@@ -61,7 +61,7 @@
 <channels>
 <channel>
 <name>[COLOR red]AÇÃO[/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkRLUQQdlve7H7LjhyNODF7F5mK.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%C3%87%C3%83O</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg</fanart>
 <info>
@@ -76,7 +76,7 @@
 <channels>
 <channel>
 <name>[COLOR red]COMEDIA[/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>              
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ER5NBqdSuxnmOzAqmm9OGNGg7g.jpg</thumbnail>              
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COMEDIA</externallink>                      
 <fanart>https://image.tmdb.org/t/p/original/bGePh6CyZIzrueokpvyijWeBZ4X.jpg</fanart>  
 <info>  
@@ -90,7 +90,7 @@
 <channels>
 <channel>
 <name>[COLOR red]FICÇÃO[/COLOR]</name> 
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FICCAO</externallink>    
 <fanart>https://image.tmdb.org/t/p/original/mteMiVu3PPyWf6zmzYtENAK4SIn.jpg</fanart> 
 <info>
@@ -105,7 +105,7 @@
 <channels>
 <channel>
 <name>[COLOR red]POLICIAL[/COLOR]</name> 
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/slwKFpQPCnBpq1gMAyp2LC1VpNb.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/POLICIAL</externallink>      
 <fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>    
 <info>
@@ -120,7 +120,7 @@
 <channels>
 <channel>
 <name>[COLOR red]GUERRA[/COLOR]</name>   
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>    
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qnEeVPM8Yn5dIVC4k4yyjrUXeR.jpg</thumbnail>    
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/GUERRA</externallink>    
 <fanart>https://image.tmdb.org/t/p/original/pNHv41t8Im8wlwgdzMK9I8WpuBZ.jpg</fanart>   
 <info>
@@ -153,7 +153,7 @@
 <channels>
 <channel>
 <name>[COLOR red]FAROESTE[/COLOR]</name>  
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEthjkLxhKY64GJOI4KUqWfmLou.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FAROESTE</externallink>                  
 <fanart>https://image.tmdb.org/t/p/original/eZdjRtPKPd4XLWy5aUovh4QVL5u.jpg</fanart>     
 <info>
