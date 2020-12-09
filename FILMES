@@ -122,7 +122,7 @@
 <name>[COLOR red]GUERRA[/COLOR]</name>   
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>    
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/GUERRA</externallink>    
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>   
+<fanart>https://image.tmdb.org/t/p/original/pNHv41t8Im8wlwgdzMK9I8WpuBZ.jpg</fanart>   
 <info>
 
 
@@ -155,7 +155,7 @@
 <name>[COLOR red]FAROESTE[/COLOR]</name>  
 <thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FAROESTE</externallink>                  
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>     
+<fanart>https://image.tmdb.org/t/p/original/eZdjRtPKPd4XLWy5aUovh4QVL5u.jpg</fanart>     
 <info>
 
 
@@ -165,51 +165,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
-<channels>
-<channel>
-<name>[COLOR red]COLETANIA [/COLOR]</name> 
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>      
-<externallink></externallink>  
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>     
-<info>
 
 
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>  
-</channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-<channels> 
-<channel>
-<name>[COLOR red]GRANDES SUCESSOS [/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
-<externallink></externallink> 
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
-<info> 
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels>
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES%20LINKS%20DIRETO
-
-<channels> 
-<channel>
-<name>[COLOR red]FILMES LINKS DIRETOS  [/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/fanart.jpg</thumbnail>
-<externallink></externallink> 
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
-<info> 
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>  
-</channel>
-</channels>
 
 
