@@ -1,6 +1,36 @@
- 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <item> 
+1   <title>[B][COLOR blue] A Lagoa Azul - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F44DDA565384E57B10017A5EE64413B04AA2360C$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:88A808A1C838EDCAC4AF7DE9A9C88ACABD6F4DF5$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3K7QnFEtu1s6HLXFuep2wvhWT.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/wD0xjsLz3ajh3mdiRhcJQTY5Q7B.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no "lado proibido" da ilha.[/COLOR][/B]</info>	
+  </item>  
+  
 
- 
+    <item> 
+1   <title>[B][COLOR blue] De Volta à Lagoa Azul  - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f73210ece6dd0552c291b395f738a37b527a887d</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sL8RrDFvA4NZKT7qJuzH8lR750.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/7vg96g8prJ8m1K4OjUflT4E6GVc.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em virtude da cólera, Sarah, uma viúva, é deixada em um barco com um marinheiro e dois bebês: Lilli, sua filha, e Richard, filho de Emmeline, que tinha sido resgatado há poucos dias de um barco à deriva, onde seus pais foram encontrados mortos. Depois de vários dias o marinheiro pensa em matar os bebês para economizar água, mas Sarah não aceita tal atitude e mata o marujo. Depois de muitos dias ela chega com os bebês em uma bela ilha. Ela educa as crianças e quando elas têm quase 8 anos, ela morre. Quando Lilli e Richard se tornam jovens, se apaixonam e se "casam". Quando um navio chega na ilha alguns problemas acontecem, mas o principal é que um dos marujos tenta estuprar Lilli. O casal então questiona se quer ou não voltar para a civilização.[/COLOR][/B]</info>	
+  </item>  
+  
  
     <item> 
 1   <title>[B][COLOR blue] Viagem 2: A Ilha Misteriosa  - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
