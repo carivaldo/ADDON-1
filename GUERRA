@@ -1,8 +1,125 @@
+  
+   <item> 
+1   <title>[B][COLOR blue] O Homem Mais Procurado do Mundo - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9579d108f050384bc0c55ce1d3d714b23eb1396a</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhqK6fAizFwCqTS6wGFL8Bg8ww8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qZGnTb3RX6hMPtFO0v9aYmuEwdm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs. Em operação no Paquistão, eles estão em busca das pistas que enfim vão levar o governo dos EUA ao seu maior inimigo: trata-se do terrorista Osama Bin-Laden, o homem mais procurado do planeta.[/COLOR][/B]</info>	
+  </item> 
+  
+    
+   <item> 
+1   <title>[B][COLOR blue] Esquadrão 303 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5b6053a879ee6161f9e29ee5503662bbfe450b47</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkL6T8XmcvGaWe2T0InhkxeHblg.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/wHKtsGzue3InPl58e1H8tVpv1m3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Esta é a história do esquadrão de caça conceituado, no qual serviu principalmente aviadores da Polônia, na história do combate aéreo e na defesa heroica da Inglaterra durante a Segunda Guerra Mundial, a Batalha da Grã-Bretanha contra ataques nazistas. O Esquadrão 303 disparou três vezes mais aviões da Luftwaffe do que qualquer outro esquadrão aliado.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] KV1 – Almas de Ferro - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:72f41f4d44ceed8b4824c8a67c47c35ac52a0d0e</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEnKbYMSp3u5QoqaPo1uH4LVPN.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/alP8Qg3YRw1OlvaR0qsMpzqhM7K.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O filme inspirado em fatos reais conta a história da ação heróica da tripulação do tanque do KV-1. Tendo uma luta perdida, a tripulação de Semyon Konovalov destruiu 16 tanques inimigos, 2 veículos blindados e 8 veículos com o pessoal inimigo perto da fazenda Nizhnemityakin no distrito de Tarasovskoye na região de Rostov. Esta é a história de não os heróis dos cartazes, mas os caras quebrados, alegres e muito diversos que apenas queriam viver. No momento decisivo, eles conseguiram fazer a única coisa certa e realizaram a ação digna da lenda.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] Balkan Line - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:fcabf344f36c1471af83da2705041978cad91190</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DhIJ1WuXHNFBxlB1jWfMytU22v.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jssXqFICGPVCqxaYm767PNw2BvE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]1999. A Sérvia é bombardeada e a região de Kosovo é deixada para bandidos sob o comando do senhor da guerra albanês, Smuk. A remoção dos órgãos humanos ocorre dentro dos territórios que os bandidos tomaram, os roubos, assassinatos em massa e genocídio. O oficial da inteligência russa Bek Ethoev e o ex pára-quedista transformaram o mercenário Andrey Shatalov em chefe de um pequeno destacamento encarregado da missão perigosa de parar o terrorismo, recapturar o aeródromo usado pelos bandidos e resgatar o interesse amoroso de Shatalov.[/COLOR][/B]</info>	
+  </item> 
 
 
+  
+   <item> 
+1   <title>[B][COLOR blue] Assembléia - Sangue e Honra - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6bb00ca9d9d87c2bd9b201cfe7615f2bc2ed16a0</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCIl76uNtWi0bJq8K8GXeawefmK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/cSR493LjJxDmRy3hPpk9YCPHfZn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O primeiro filme de guerra do diretor chinês Feng Xiaogang, ASSEMBLÉIA, conta a história do alto ponto da sangrenta Guerra Civil Chinesa de 1948, um líder de uma companhia do Exército da Libertação (Liberation Army), do lado comunista, foi ordenado a comandar 47 de seus homens para defender uma posição por pelo menos quatro horas. Eles poderiam sair em retirada uma vez que ouvissem a chamada da assembléia. A chamada nunca veio e todos, menos o líder da companhia, morreram. Alguns anos depois, lutando em outra Guerra na Coréia, ele ainda procura pela explicação por nunca terem ouvido a chamada da assembléia e tenta provar que todos os seus homens morreram como verdadeiros heróis.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] 1968: Tunnel Rats - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9A80DE43E6DCCF925E790611DA922D5C03206F7D</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmC64dAiyNXg1cxsaI8GOjqda4u.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mr7RYg69jt5KcC7G218Bxp68kzN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Durante a Guerra do Vietnã, uma brava unidade de combate especial americana é enviada para caçar e matar vietnamitas em combates corpo a corpo, nos inúmeros e compridos túneis subterrâneos abertos pelo exército local, que formavam um labirinto de caminhos mortais cheios de armadilhas e surpresas nada agradáveis. Aqueles homens sem medo formaram um esquadrão suicida muito especial. Medo é uma palavra que eles não conheciam.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] Cartas de Iwo Jima - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CBDE91877464E51A528A57E0B0068B75BB7FF5D8</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9mGjRjqSXstNhucZgtXnlF41F0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2qbyV84PBjYL5PNjBgaHOl5T4LV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do exército imperial japonês, chega na ilha de Iwo Jima. Muito respeitado por ser um hábil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o exército ocidental e sua capacidade tecnológica. Por isso o Japão colocou em suas mãos o destino de Iwo Jima, considerada a última linha defesa do país. Ao contrário dos outros comandantes Kuribayashi moderniza o modo de agir, alterando a estratégia que era usada. Ele supervisiona a construção de uma fortaleza subterrânea, feita de túneis que davam para as suas tropas a estratégia ideal contra as forças americanas, que começam a desembarcar na ilha em 19 de fevereiro de 1945.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] Stalingrado: A Batalha Final  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5CC20A239D4A7B2BD34C323E154CFC838F61EC23</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/keH4XxTRino7aW1guCcOSOf9WRm.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/knzKNSnFV61kLMTiuYdxCqRi4X1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O enredo é baseado numa dramática história de amor, e tem como pano de fundo, a grande batalha de Stalingrado. A ação acontece em 1942, quando as tropas alemães chegam até o rio Volga, mas não conseguem passar desse ponto. Numa contraofensiva do exército soviético, estes precisam recuar. No entanto, alguns soldados ainda permanecem do ao lado do inimigo. Eles permanecem escondidos em uma casa, e lá encontram uma garota. Os alemães haviam ocupado sua casa, e ela não tinha tido tempo para fugir. Tendo como cenário a mais sangrenta batalha da história, estes soldados precisam ficar e proteger essa garota a todo custo.[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] Além da Linha Vermelha - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eLYQdn91L3GRyanPDWT9iSgEie.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/3lPSsW3VzgUnIkJg2keFDVy5PPW.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciará fortemente o avanço japonês no Pacífico. Assim, um grupo de jovens soldados é enviado para lá, trazendo alívio para as esgotadas unidades da marinha. Lá os recém-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes laços de amor e amizad[/COLOR][/B]</info>	
+  </item> 
+
+  
+   <item> 
+1   <title>[B][COLOR blue] O Fotógrafo de Mauthausen - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:84e63af1090fff83ff945a5c4125e19269541cf0</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/r11O1YcuGGhlGrNLDcWjGQGDMhg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]As dificuldades do fotógrafo catalão Francesc Boix, preso no campo de concentração de Mauthausen no inverno de 1942, quando ele tinha 22 anos, ao lado de seu pai e 1.500 republicanos espanhóis, foram aprisionados pelo exército alemão durante seu exílio na França depois A Guerra Civil Espanhola.[/COLOR][/B]</info>	
+  </item> 
 
 
-
+  
+   <item> 
+1   <title>[B][COLOR blue] Memphis Belle - A Fortaleza Voadora - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:82A05722B121A46C5874565EAB4A2AFF5C63C654</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tCF6JBY0AFihnMMEdQnhv7JDHr.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/8KWoRH1PMmZLNJk0z0jr8X3JOfH.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um grupo de jovens tripulantes da segunda guerra mundial, liderados por Matthew Modine e Eric Stoltz, saiu ileso de 24 perigosas missões num avião B-17, também conhecido como "Memphis Belle". Mas ainda falta uma última e quase suicida missão para eles voltarem como verdadeiros heróis: Bombardear Dresden, uma cidade fortemente defendida que invariavelmente causa muitas baixas, na Alemanha de Hitler, em plena luz do dia. É este emocionante episódio verídico que inspirou David Puttnam e Catherine Wyler a realizarem este filme, mostrando as dúvidas, incertezas e determinação de jovens que resolveram desafiar o perigo dos céus[/COLOR][/B]</info>	
+  </item> 
 
 
 
