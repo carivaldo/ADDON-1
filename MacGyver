@@ -1,0 +1,132 @@
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] MacGyver  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/v2moumGovVAmDASYkjakIl2WrOM.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]A nova série de MacGyver contará as origens do personagem vivido originalmente por Richard Dean Anderson, mostrando ele no início de seus 20 anos, como o novo recruta de uma organização clandestina, e aperfeiçoando suas habilidades a fim de evitar um desastre.
+
+Na série original, MacGyver é um agente secreto que consegue se virar com poucos recursos, usando apenas seus conhecimentos científicos e um canivete suíço que sempre carrega, nas mais difíceis situações.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] MacGyver - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3b247f97b8d03fdc8b65523899e22808d2a47704$$lsname=[COLOR lime]720P EP01E02[/COLOR] - DUBLADO</maglink>>
+1   <maglink>magnet:?xt=urn:btih:87E28541F6FDB19A6DA2D970265A21707CC12AF7$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C7F1505E20118E2BEF58F5D138EC3B03FE40996F$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0E21186E88836EF609CDC830CF5468C6ECF9875D$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:D62FD5AA04E403C14D1888BF8DC17309E92B2E83$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:17BF61816C3556C0EE9DB7B0B560EC1D3A4425EC$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:068AE09AE353309BA6FC15008D62EB695376E557$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:DF8E4BD8F61E8B65081D6BF4EEC706E684F052A0$$lsname=[COLOR lime]720P EP09A11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:814025C0E83E1059D02E3EDB37E3058330AAA2ED$$lsname=[COLOR lime]720P EP12A17[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9A8941F905CD314638F994658D5C55F347DA6058$$lsname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:05C54DAA098CF3613B91689FDB984BE002029B9B$$lsname=[COLOR lime]720P EP19E20[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4665AAA75225DFF1E5CCBE99A5B0944D273CEA4B$$lsname=[COLOR lime]1080P EP21[/COLOR] - DUBLADO</maglink>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg</thumbnail>
+1	<fanart>https://image.tmdb.org/t/p/original/v2moumGovVAmDASYkjakIl2WrOM.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]A nova série de MacGyver contará as origens do personagem vivido originalmente por Richard Dean Anderson, mostrando ele no início de seus 20 anos, como o novo recruta de uma organização clandestina, e aperfeiçoando suas habilidades a fim de evitar um desastre.
+
+Na série original, MacGyver é um agente secreto que consegue se virar com poucos recursos, usando apenas seus conhecimentos científicos e um canivete suíço que sempre carrega, nas mais difíceis situações.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] MacGyver  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/vgpv838FuMI4DGqjwgXn83VL3na.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLzrL2LzlNgXSZtEVWsunXv2wDo.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada completa e dublada da série MacGyber. Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] MacGyver - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6A87C3E15C039430EE83B98BE0C6B1A38691A9F1$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8320650992699d0ba9e448bb5e87f6396aab6bea$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a6bebcfe4583dcf09e8842d4f08b18a52ccd9f85$$lsname=[COLOR lime]720P EP03E04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f0942f1212ec30a3a75d3061e424bd349b0032da$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ca30197949acbaf32075b91945f4107779e54751$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9DFA527EA8A2274B21B8EAB1373F0B19F94CA41E$$lsname=[COLOR lime]720P EP07A08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:dac6c92de90139bded27e6cea99c858741c0845c$$lsname=[COLOR lime]720P EP09A10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3EC153307AC3C0E055BD92D4BA61138AF00BD801$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:02F6D4EB2CC7BA7A0D278E4E3FFDF9652915F816$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A4CADFF9E4EF0740299C89394774BB6E946AF3D1$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9AF5C55EA9D7290AEED66DA4DFBEE0F299E07448$$lsname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8E1EC74007CF1EA7146ED0903CF0AF403D78E763$$lsname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4D1C13EEF08940EDBFF0870F0A6C2B1AF4F6249F$$lsname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f19b885d62e4771974775361cb5675a364fe0642$$lsname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f92abe50d84dbff4fd38163afc849a8fd0140388$$lsname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a7c33cce163469733434fde70928b14186ee9095$$lsname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:67a91a4eabd484f3273c39a000a752d3103127ad$$lsname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3d55b9311b040fbd11bffd1769c7a540454fb041$$lsname=[COLOR lime]1080P EP21[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BD6B42D35D18604BA329B721D68A60A74BEB80E9$$lsname=[COLOR lime]1080P EP22[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLzrL2LzlNgXSZtEVWsunXv2wDo.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/vgpv838FuMI4DGqjwgXn83VL3na.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada completa e dublada da série MacGyber. Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] MacGyver  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/Lmjqvq1hhBxGF449GCgNqN7Lp7.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7NDlmYJtR9HNlcijiDoObY0V86.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] Terceira temporada completa dublada, dual áudio e legendada da série MacGyver. Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas. Novos episódios são lançados toda semana conforme são exibidos na televisão.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] MacGyver - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2c9d0dcb9d4cfbac30c7347e21354d577f3c8ee1$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:fe0a612cb9954759ffc6f8d76f78a171325dca7b$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f409834295868cc84a08b1e3ef7c120e9407c092$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:abff8717bd7050604531c2a0cf0d62787b484265$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:38c61de11dc4ff1019f0049485c548d2da825bad$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:93fa72063087d7ff0549f12c9610703a68557c01$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:74313a72462bc9c5bf43e4f3d65ea94f47438ea1$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:f12d387b105489934fe43cd5b9b59e3374ce9191$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:55a29ce841a284f4f4cabf37eaa64a4af3c40807$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a436540ba5ba37a9605043be9d251c8bf7268cf7$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:6db8df0837e3133db835637cf6d694df18832b5c$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:089d95bbdba6d1a3c764176bd8b7ddb25633a7b8$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:93249c0f48981a1878d518afb0dde8f3ffa6ace9$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:51f0c53745d50dd8270ac12bede6eb0c23cab861$$lsname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:824b7786344154e4bb2df7131c11b6a58b832c7c$$lsname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3ffe38f96a0e9224b58de316a6eea627ed9bc778$$lsname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:05f930d7dfab0180db33d6346b93c79ea8965b7c$$lsname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:68ceb45420fef091e96b0f50fb046913900bc172$$lsname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:F99D7686493BB3E9D5D43CE1A4769F4E6D8E051A$$lsname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4d4a1130c40ae2624d012ad1f8073ec353dc5e59$$lsname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:22d4aead2b808fca2db57dded240aefdb3879cad$$lsname=[COLOR lime]1080P EP21[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2292395904d97275659160bb989bbc71d999936f$$lsname=[COLOR lime]1080P EP22[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7NDlmYJtR9HNlcijiDoObY0V86.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/Lmjqvq1hhBxGF449GCgNqN7Lp7.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red] Terceira temporada completa dublada, dual áudio e legendada da série MacGyver. Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas. Novos episódios são lançados toda semana conforme são exibidos na televisão.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+
