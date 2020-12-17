@@ -140,11 +140,13 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue][/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]MacGyver[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOmsztiEeBOYaUsFoERqbQ4VWpd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/MacGyver</externallink>
+<fanart>https://image.tmdb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart>
+<info>A nova série de MacGyver contará as origens do personagem vivido originalmente por Richard Dean Anderson, mostrando ele no início de seus 20 anos, como o novo recruta de uma organização clandestina, e aperfeiçoando suas habilidades a fim de evitar um desastre.
+
+Na série original, MacGyver é um agente secreto que consegue se virar com poucos recursos, usando apenas seus conhecimentos científicos e um canivete suíço que sempre carrega, nas mais difíceis situações.<info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
