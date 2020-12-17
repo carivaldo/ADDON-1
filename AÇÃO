@@ -1,9 +1,19 @@
-magnet:?xt=urn:btih:29F7B244769A7F81025CDEF71B55452E3BF01E93
 
 
 
 
 
+<item> 
+1   <title>[B][COLOR blue] Mulher-Maravilha - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6F1FC5B68352C06127BC3217950FDB07D03BB270$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:B0F966EA30F74EE5E62E001FBC0856E7DB37A813$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:5FBBCB7DEEE7FFE7B7CAC830070F582D0E1517A7$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/mY3qdtTMSuUDkSPA50bqZPJdbPu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.[/COLOR][/B]</info>	
+  </item>
   
    <item> 
 1   <title>[B][COLOR blue] Sahara - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
