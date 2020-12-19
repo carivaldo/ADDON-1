@@ -1,4 +1,44 @@
   
+     <item> 
+1   <title>[B][COLOR blue] Rogue Warfare 3: A Morte de uma Nação - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f0502dc13426de9b4b617f70168f122478fddf21</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhHuc5iEsgrDynkM9qxuATHG9x.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uuucPmr0s97rhCXZq73Or7LWjQ4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A Organização máscara negra coordena uma trama distorcida que vai devastar o mundo nas próximas 36 horas. A EQUIPE é imediatamente despachada novamente para o que será, esperançosamente, a última posição contra o 'Líder Supremo'. À medida que o relógio marca, a bomba também e eles precisam contra-atacar o núcleo do grupo terrorista. A equipe deve jogar suas vidas em risco, pois é a única maneira de desativar as armas perigosas que estão prestes a explodir em todo o mundo ao mesmo tempo. Cada soldado deve encontrar sua força interior e habilidade para desarmar este grupo terrorista de uma vez por todas.[/COLOR][/B]</info>	
+  </item>  
+  
+     <item> 
+1   <title>[B][COLOR blue] Mosul  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:342f579b876de17816c14c71ca2e249c4d3590cf</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkcWVz2qOaOmEfcRpei2MmnCSfP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/73UWtVn84Sm9Ps8EmLrKfcT6En6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Baseado na verdadeira história de uma unidade de polícia de elite composta quase inteiramente de filhos de Mosul que lutaram para libertar a cidade iraquiana de seis mil terroristas do Estado Islâmico.[/COLOR][/B]</info>	
+  </item>  
+  
+    <item> 
+1   <title>[B][COLOR blue] 300 - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5E7F2E000081154693D8E06D2F9EA12939F3B49E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/96JpmNej77jFcQtghVFYh0gUbhE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/74qDn8iCOKpAhvZahYqWG3Nyce1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]300 é um relato sangrento da Batalha das Termópilas, da Antigüidade, na qual o Rei Leônidas (Gerard Butler) e mais 299 espartanos (300, no total) lutaram contra Xerxes (Rodrigo Santoro) e seu numeroso exército persa. Enfrentando dificuldades insuperáveis, o sacrifí­cio desses homens levou toda a Grécia a se unir contra o inimigo persa, traçando um marco no caminho para a democracia. Inspirada pela obra de Frank Miller, criador da graphic novel Sin City, o filme é uma aventura épica que fala de paixão, coragem, liberdade e sacrifí­cio, incorporados pelos guerreiros espartanos que lutaram em uma das maiores batalhas da história.[/COLOR][/B]</info>	
+  </item>   
+  
+     <item> 
+1   <title>[B][COLOR blue] 300: A Ascensão do Império - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A5BC8E42AF17C37FBD97E5CCBFD0AF7CF12B7787</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/lWpvB6j7fjM39gYSo7cRGk51bmo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.[/COLOR][/B]</info>	
+  </item>  
+  
    <item> 
 1   <title>[B][COLOR blue] O Homem Mais Procurado do Mundo - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
