@@ -95,6 +95,7 @@
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:B0640A1F7757554D0833CE8944C4E751A07BE1D0$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:25304F2324A4157526B206317247A264CC68EB6D$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:1608fff4fd261334f1a5f6d3e6febbd8b91b5176$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/eJciNVeMWekmBAeT7HrDP4DWmFb.jpg</fanart> 
