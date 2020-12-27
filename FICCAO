@@ -1,5 +1,70 @@
 
 
+
+   <item> 
+1   <title>[B][COLOR blue] O Exterminador do Futuro - [COLOR red]ADDON BXL [COLOR red](1984) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:98D42994283DB329F2AA9C53152083BED2DBEB1B</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ahUaAgnkFu7QlBh5h4LCNeaSurV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Filme remasterizado para a qualidade de bluray 1080p dublado e legendado. Num futuro próximo, a guerra entre humanos e máquinas foi deflagrada. Com a tecnologia a seu dispor, um plano inusitado é arquitetado pelas máquinas ao enviar para o passado um androide com a missão de matar a mãe daquele que viria a se transformar num líder e seu pior inimigo. Contudo, os humanos também conseguem enviar um representante para proteger a mulher e tentar garantir o futuro da humanidade. O filme tem 4 áudios, incluindo a dublagem clássica dos anos 90 e a dublagem atual dos anos 2000.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue]O Exterminador do Futuro 2: O Dia do Julgamento  - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F6D93BBE1763C15789CA4AE4F1A9BDD47E79139E$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:D12C1481EE8B282F95AAC4D15D6DD3F2B6977A8E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/i5megxGRBadEZEUeej5ADFnYLlB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Versão 4K Ultra HD que é a versão full hd remasterizada que foi exibida nos cinemas. Uma criança destinada a ser líder (Edward Furlong) já nasceu, mas é infeliz por viver com pais adotivos, pois foi privado da companhia da mãe (Linda Hamilton), que foi considerada louca quando falou de um exterminador vindo do futuro. Neste contexto, um andróide (Arnold Schwarzenegger) vem do futuro, mais exatamente um modelo T-800 igual ao filme original, para proteger o garoto, mas existe um problema: o mais avançado androide existente no futuro, um modelo T-1000 (Robert Patrick), que é feito de "metal líquido", não pode ter nenhum dano permanente e pode assumir a forma que desejar, também veio para o passado com a missão de matar o menino.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] O Exterminador do Futuro 3 - A Rebelião das Máquinas - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:95C951C3D9AB4B78BBEAEF6EA8FCFE79A4270083</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/nbCz69F91SOTcXzgnQJVtzyEgWA.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A primeira batalha entre os humanos e a inteligência artificial da empresa SkyNet está prestes a ocorrer. Na intenção de eliminar John Connor (Nick Stahl), um dos líderes dos humanos, as máquinas enviam um novo ciborgue exterminador em seu encalço: T-X (Kristanna Loken). Para protegê-lo mais uma vez o ciborgue T-800 (Arnold Schwarzenegger) volta à cena. Versão IMAX Open Matte significa que o filme aproveita toda a tela da sua tv ou monitor.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] O Exterminador do Futuro 4: A Salvação - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:12A88692A98ED651D786CBD45138FB50FACC53FC</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/yoMyCisHafQ9EzMNrBhapMMwqIO.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um estranho chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte, Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo que pode aniquilar a humanidade.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] O Exterminador do Futuro 5: Gênesis - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:F1DC9EBA5842D9878D10F7CA7D86D63BC8EC008E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2ZbnHeSwwwejcOa5DkSienBFLA8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 2029, a resistência humana contra as máquinas é comandada por John Connor (Jason Clarke). Ao saber que a Skynet enviou um exterminador ao passado com o objetivo de matar sua mãe, Sarah Connor (Emilia Clarke), antes de seu nascimento, John envia o sargento Kyle Reese (Jai Courtney) de volta ao ano de 1984, na intenção de garantir a segurança dela. Entretanto, ao chegar Reese é surpreendido pelo fato de que Sarah tem como protetor outro exterminador T-800 (Arnold Schwarzenegger), enviado para protegê-la quando ainda era criança.[/COLOR][/B]</info>	
+  </item> 
+  
+  <item> 
+1   <title>[B][COLOR blue] O Exterminador do Futuro: Destino Sombrio - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:84140618E0C0D509F687140FCB2EE364330870BA$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2D8DCA04BC1AD0365D1E00E51EB02CBC7A74B725$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A2F3B07683C55E0AA50DD4DC308315366D39F3A6$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/cFOzJLsUX2rybMIElvNscMscGYe.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A guerreira Sarah Connor se une a Grace, um híbrido entre ciborgue e humano, e ao T-800 para proteger a jovem Dani Ramos de um novo tipo de exterminador que chega do futuro à Cidade do México.[/COLOR][/B]</info>	
+  </item>
+  
+
    <item> 
 1   <title>[B][COLOR blue] Transformers  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
