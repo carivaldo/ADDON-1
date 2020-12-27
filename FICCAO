@@ -1,6 +1,66 @@
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] Transformers  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:29f888c18bff09e53e5185b87cc4df0928491c9b</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eehp9I54syN3x753XMqjKz8M3F.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/1mBRoDVPPJ4T7bDleBBaYvGUYUc.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Durante anos os Autobots e os Decepticons, duas raças alienígenas robóticas, duelaram em Cybertron, seu planeta natal. Esta guerra fez com que o planeta fosse destruído, resultando que os robôs se espalhassem pelo universo. Megatron, o líder dos Decepticons, vem à Terra em busca da Allspark, um cubo de Cybertron que possibilita que qualquer aparelho eletrônico seja transformado num robô com inteligência própria. Megatron encontra a Allspark, mas fica congelado no Ártico. Décadas depois outros Decepticons chegam à Terra, numa tentativa de encontrar a Allspark. Seu surgimento logo alerta os principais países, em especial os Estados Unidos, que tem uma base militar no Qatar atacada. Enquanto o Secretário de Defesa John Keller (Jon Voight) tenta descobrir o que está havendo, reunindo todas as forças e informações possíveis, o jovem Sam Witwicky (Shia LaBeouf) tem preocupações mais simples: conseguir uma boa nota no colégio, o que lhe garantirá seu 1º carro. Mas o que ele não esperava era que o veículo escolhido, um Camaro antigo, tinha vida própria.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] Transformers 2 - A Vingança dos Derrotados - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A1DE73A5059C091BC20AE7D8187FB17A14FD4AAD</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AaiftqKuLJQu0cUrfpiPanR6l.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/6bCbeby0e1yzYbsKIvwP0Z71GdC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Sam (Shia LaBeouf) e Mikaela (Megan Fox) voltam a ficar na mira dos Decepticons, que desta vez precisam do rapaz vivo, já que ele detém conhecimentos valiosos sobre as origens dos Transformers e como aconteceu a história dos robôs neste planeta. Em paralelo, os militares americanos e uma força internacional unem-se aos bons Autobots para enfrentar os vilões.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] Transformers 3 - O Lado Oculto da Lua - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8E92B494DC41D5F79D48F11F023BB7D9DE5AB408</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks8rCjVBG7clohwHVu0TIpEB4Q.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/c9SDd0yIb5gyqiOw9iTB87LEfP7.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Liderados por Optimus Prime, os Autobots Bumblebee, Ratchet, Ironhide e Sideswipe estão de volta à ação, enfrentando os malignos Decepticons, que estão determinados a vingar sua derrota. Agora, Autobots e Decepticons envolvem-se em uma perigosa corrida espacial entre os EUA e a Rússia, e mais uma vez o humano Sam Witwicky sairá em auxílio de seus amigos robôs. Novos personagens incluem Shockwave, o regente de Cybertron, que acompanha o embate das facções robóticas na Terra.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] Transformers 4 - A Era da Extinção  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:E5475BB82287EC632F81B1B8606C2946CC62C7CD</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEoefzCucns2lKgw5eH35EW3kjL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bqjYacBg6InMW1wPwyWR63cMLZN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Enquanto a humanidade se reconstroi, após a conclusão de Transformers: O Lado Oculto da Lua, Autobots e Decepticons têm desaparecido da face do planeta. No entanto, um grupo de empresários e cientistas poderosos e engenhosos, tentam aprender com as invasões passadas dos Transformers e ultrapassam os limites da tecnologia para além do que eles podem controlar – tudo isso enquanto uma antiga poderosa ameaça Transformer define a Terra como sua mira. A aventura épica e a batalha entre o bem e o mal, a liberdade e a escravidão começa.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] Transformers 5 - O Último Cavaleiro - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1997E1BC2660E77E6B43EB9883B50916618997D1</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kJQz1BeqfBPaZytHjG1KtecEFMO.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.[/COLOR][/B]</info>	
+  </item> 
+  
+     <item> 
+1   <title>[B][COLOR blue] Bumblebee - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:724188621F3E1C7F7A6142E1AFDE7C7C7EF505F3$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:750F2E4D5E5B0C8F60EED5C01B994A2DC333DFD5$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:0E0AD94D41FF90D7EF28855DA5C7C7283C56FCFD$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Versão em BluRay, dublada, dual áudio e legendada em Ultra HD. No ano de 1987, Bumblebee encontra refúgio em um ferro-velho de uma pequena cidade praiana da Califórnia. Charlie (Hailee Steinfeld), prestes a fazer 18 anos e buscando seu lugar no mundo, encontra Bumblebee machucado e sem condições de uso. Quando o revive, Charlie logo percebe que este não é qualquer fusca amarelo.[/COLOR][/B]</info>	
+  </item> 
 
 <item> 
 1   <title>[B][COLOR blue]Avatar - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
