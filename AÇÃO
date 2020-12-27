@@ -116,7 +116,9 @@
 <item> 
 1   <title>[B][COLOR blue] Velozes e Furiosos 5: Operação Rio - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5D606B02261EE919492C45C899FBBD3BF2088F0B</maglink>
+1   <maglink>magnet:?xt=urn:btih:5D606B02261EE919492C45C899FBBD3BF2088F0B$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:2a61ca417303816a62e57c85731665c1bf87d84f$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:e3c5c1340ca440129ef6ab26fef2cce88c25516b$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qwDk1mnnlmRJdNV4D7Dnp8leaVM.jpg</fanart>
