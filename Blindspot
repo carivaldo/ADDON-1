@@ -23,7 +23,7 @@
 <item> 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Piloto[COLOR red] (2015) [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C&dn=Blindsport%202016%201%c2%aa%20%5b1080p%5d%20%5bWEB-DL%5d%20Temporada%20Completa&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+1   <maglink>magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
@@ -89,7 +89,7 @@
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Voltar para a Grind - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5C4F93AD6E66419056AB92A629B645B42D73A44</maglink>
+1   <maglink>magnet:?xt=urn:btih:5C4F93AD6E66419056AB92A629B645B42D73A44A</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/q2xEXxqXrWPh5yhBAwpFWwcfiNJ.jpg</fanart>
