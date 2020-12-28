@@ -1,4 +1,24 @@
+
+
+
+
+
+
+
+
+
+
    <item> 
+1   <title>[B][COLOR blue] Abraham Lincoln: Caçador de Vampiros - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:dcab292a7e47baf8db8299060b33a4b5d5b1be0a</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv8deK0ZmutAuEpejruQKApIy6r.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2BjhjDQ2ozoEwSL0Jrmj3pRX3zx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nancy Lincoln (Robin McLeavy) é a mãe do presidente Abraham Lincoln (Benjamin Walker) e foi assassinada por uma criatura sobrenatural. Incorfomado com o fato, ele declara uma guerra sem piedade contra os seres das trevas e começa a destruir todos os vampiros e os escravos que os ajudam. Dirigido por Timur Bekmambetov (O Procurado) e estrelado por Benjamin Walker, Dominic Cooper e Mary Elizabeth Winstead.[/COLOR][/B]</info>	
+  </item>  
+
+<item> 
 1   <title>[B][COLOR blue] Adoradores Do Diabo - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:015b7a4af75338000d7e5f128afed766ade35201</maglink>
