@@ -1,13 +1,28 @@
+
+
+
+
 ***************************************************************************************************************************************
+
+
+
+
+
+
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot (2015) [COLOR red] - [COLOR red][1ª Temporada][/COLOR][/B]</name>
-<genre>[B][COLOR firebrick](ADDON BXL),Drama,Crime,</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após a tragédia numa escola abalar um rico subúrbio de Estocolmo, uma garota aparentemente normal vai a julgamento por assassinato. (ADDON BXL).Faca Sua Doacao *ADDON BXL*!!![/COLOR][/B]</info>
+<name>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/n3IPx2uZOPGeQwcWMojb8ten1Y.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
+<item>
+
 ***************************************************************************************************************************************
 <item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Piloto[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Piloto[COLOR red] (2015) [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C&dn=Blindsport%202016%201%c2%aa%20%5b1080p%5d%20%5bWEB-DL%5d%20Temporada%20Completa&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
@@ -17,58 +32,125 @@
 </item>
 
 ***************************************************************************************************************************************
+
+
+
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot (2015) [COLOR red] - [COLOR red][2ª Temporada][/COLOR][/B]</name>
-<genre>[B][COLOR firebrick](ADDON BXL),Drama,Crime,</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após a tragédia numa escola abalar um rico subúrbio de Estocolmo, uma garota aparentemente normal vai a julgamento por assassinato. (ADDON BXL).Faca Sua Doacao *ADDON BXL*!!![/COLOR][/B]</info>
-***************************************************************************************************************************************
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] A noite da traidora resgatada[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/i39UJytZtWchxs6IQkFHPbyCL5n.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Jane é recapturada pelo FBI, e eles pedem que ela se torne uma agente tripla, trazendo informações e espionando o seu antigo grupo terrorista. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
+<name>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/i39UJytZtWchxs6IQkFHPbyCL5n.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Jane é recapturada pelo FBI, e eles pedem que ela se torne uma agente tripla, trazendo informações e espionando o seu antigo grupo terrorista.[/COLOR][/B]</info>		
+<item>
 
 ***************************************************************************************************************************************
+
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A noite da traidora resgatada - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79E234B4AE455030D30F2CAEDC20FCA4B05E4D51$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A5CB98D585034C234162C99ED9867CF9498CA709$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4BED4CEF93884E633115A306816F04D48AE7A42B$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BD872528BC015ABA2A3201EEC2DE1CEEFCEB2C13$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:733ACF6C025477510E50085BF616B1DF1E59A875$$lsname=[COLOR lime]720P EP06AO07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E96C0E5C01868521E736603363FEF3EEC3DCE588$$lsname=[COLOR lime]720P EP08AO09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0B3390BBC00BB353915E5009B99D512CDE2D14C6$$lsname=[COLOR lime]720P EP10AO12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E10997D7C9C3BD1EEBB97856D898EC8B1383757A$$lsname=[COLOR lime]720P EP13AO15[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:342C9298390AA4207101D770C5DF0F4C80C64E17$$lsname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7C9D621EDDFCF54597EA1B7D1DE9FB773AA03D18$$lsname=[COLOR lime]720P EP17AO18[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:875B7B97C53B553062EE7D2D53C35DC01BFA1A20$$lsname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4985A40BFE78B9A9B6D855B2E4F978F5835EAB56$$lsname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:FF8FB06C8662360AC3B554C7F9200554BD34B7D4$$lsname=[COLOR lime]720P EP21[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:6DAABBABAE111D18B591ACD4583D273D1287E311$$lsname=[COLOR lime]720P EP22[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/i39UJytZtWchxs6IQkFHPbyCL5n.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]A segunda temporada de Blindspot (Ponto Cego no Brasil) continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?[/COLOR][/B]</info>	
+</item>	
+
+***************************************************************************************************************************************
+
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot (2015) [COLOR red] - [COLOR red][3ª Temporada][/COLOR][/B]</name>
-<genre>[B][COLOR firebrick](ADDON BXL),Drama,Crime,</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após a tragédia numa escola abalar um rico subúrbio de Estocolmo, uma garota aparentemente normal vai a julgamento por assassinato. (ADDON BXL).Faca Sua Doacao *ADDON BXL*!!![/COLOR][/B]</info>
+<name>[B][COLOR red]• [COLOR blue] Blindspot [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/egYMUk0miQnVT6DBh8oQN4LOukI.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?(ADDON BXL)[/COLOR][/B]</info>		
+<item>
+
 ***************************************************************************************************************************************
 <item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Voltar para a Grind[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C4F93AD6E66419056AB92A629B645B42D73A44A&dn=Blindspot%202018%203%C2%AA%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Voltar para a Grind - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5C4F93AD6E66419056AB92A629B645B42D73A44</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/egYMUk0miQnVT6DBh8oQN4LOukI.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A equipe do FBI é reunida por uma nova crise, depois de ter se separado em circunstâncias misteriosas, 18 meses antes (ADDON BXL)[/COLOR][/B]</info>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?[/COLOR][/B]</info>	
 </item>
 
 ***************************************************************************************************************************************
+
+
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot [Legendado](2015) [COLOR red] - [COLOR red][4ª Temporada][/COLOR][/B]</name>
-<genre>[B][COLOR firebrick](ADDON BXL),Drama,Crime,</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após a tragédia numa escola abalar um rico subúrbio de Estocolmo, uma garota aparentemente normal vai a julgamento por assassinato. (ADDON BXL).Faca Sua Doacao *ADDON BXL*!!![/COLOR][/B]</info>
+<name>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
+<item>
+
+
+
 ***************************************************************************************************************************************
 <item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Hella Duplicitous[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562&dn=LAPUMiA.Org%20-%20Ponto%20Cego%202019%20-%20S04%20(720p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Hella Duplicitous[COLOR red](2020) [COLOR firebrick] Séries !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Crime,Drama,</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/pOIwovxu63Ok54E0F0EesZip1ly.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A equipe do FBI caça um inimigo perigoso, e um novo adversário surge. (ADDON BXL)[/COLOR][/B]</info>
+1   <fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>	
 </item>
 
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+ <name>[B][COLOR red]• [COLOR blue] BLINDSPOT  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
+1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/zz7CpOzpqRpbb53UYrJeJQaadFq.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
+<item>
 
 
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BLINDSPOT  - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:411fd13a9bd01b6601773313edb634d8ec930905$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9f6c570dcfd4a2771cc08f2070315f7265e5d497$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:551aa1d39f8d863a34889cc6fb37842a0b9abe73$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:d9759c150554530d281b4b5596ceb328cea17ee0$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:c6b254fcaaeadab861e4d2b7c830c530e86271be$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4da1d65d722f85c2b1c49080efe3ef85f14ff5a1$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0ed79f3816752f56bdeb624996a0f10189f3c53f$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8f8fd044cdea73b0c3e4d7a854102c925194c51d$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3f143b683b63973809c269aa9301da131ef492d1$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:eaa2b7ff2aa57b7dd62aa468234665549f876d63$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/zz7CpOzpqRpbb53UYrJeJQaadFq.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>	
+</item>	
