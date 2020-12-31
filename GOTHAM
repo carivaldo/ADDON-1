@@ -17,8 +17,7 @@
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:0F798C2582A589C9EC32BB4B810FA08186666AFD$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <maglink>magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a$$lsname=[COLOR lime]21AO22  [/COLOR] - DUBLADO</maglink>  
+1   <maglink>magnet:?xt=urn:btih:FD4013A545409CD57E8AE2BC75BEEE52BBA13558</maglink>    
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -66,7 +65,8 @@
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1  <maglink>magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a</maglink>
+1   <maglink>magnet:?xt=urn:btih:0F798C2582A589C9EC32BB4B810FA08186666AFD$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <maglink>magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a$$lsname=[COLOR lime]21AO22  [/COLOR] - DUBLADO</maglink> 
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
