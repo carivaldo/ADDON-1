@@ -1,11 +1,128 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Um Ato de Coragem - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9CD72A5303C3804E808061D93D7A8C6C94DEB9AB$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:8D6E9397F9BA23ED0CE09F378EE5844A9563FDD5$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/q9ma9nSHcsNhfhOIwnCMHrbbGsJ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]John Q. Archibald é um homem comum, que trabalha em uma fábrica e vive feliz com sua esposa Denise e seu filho Michael. Até que Michael fica gravemente doente, necessitando com urgência de um transplante de coração para sobreviver. Sem ter condições de pagar pela operação e com o plano de saúde de sua família não cobrindo tais gastos, John Q. se vê então numa luta contra o tempo pela sobrevivência de seu filho. Em uma atitude desesperada, ele então decide tomar como refém todo o setor de emergência de um hospital, passando a discutir uma solução para o caso com um negociador da polícia e com um impaciente chefe de polícia, que deseja encerrar o caso o mais rapidamente possível.[/COLOR][/B]</info>	
+  </item>
 
+   <item> 
+1   <title>[B][COLOR blue] Nova York Sitiada - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:32F5AA8718A9B695EBDA500012B1DF9CD8226E3E</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAa2MmmJsdZsEN3Upgqykn9GUfz.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/auMRmsj63VOnCoFyVT9g0rmaJTF.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após o sequestro de um líder religioso islâmico, a cidade Nova York vira o lavo de ataques terroristas. O agente do FBI Anthony Hubbard (Denzel Washington), a oficial da CIA Elise Kraft (Annette Bening) e o general William Devereaux (Bruce Willis) unem forças para capturar um perigoso grupo de terroristas que plantam bombas em diversos lugares de Nova York, levando a cidade ao caos.[/COLOR][/B]</info>	
+  </item>
 
+<item> 
+1   <title>[B][COLOR blue] Possuídos - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8F5159E86712EE16E87818C9B4E0A4BD7AA89085$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:29781824EB2280D514F4553883575D33E7E164A9$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:58ECA317DF6C95C199AD0290CB7DE753F0013C0F$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfzlDHojkX8NuTRMBeZG9FjEhOV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oFWAae68u6R34mFVaPR4n5FtO1W.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após a execução de um serial killer, John Hobbes (Denzel Washington), um detetive, acredita que parte dos seus problemas terminaram, mas logo repara que pessoas na rua cantam a mesma melodia que o criminoso cantou na câmara de gás. Gradativamente o policial conclui que todos estavam possuídos por Azazel, um anjo amaldiçoado que não tem forma mas que com um simples toque consegue penetrar em quase todas as pessoas. Quando Hobbes é forçado a matar um professor, que estava possuído por Azazel, fica claro que ele precisa proteger as pessoas desta entidade demoníaca.[/COLOR][/B]</info>	
+  </item>   
+  
+    <item> 
+1   <title>[B][COLOR blue] Dose Dupla - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f652aff7096f745cb5de24e0b3a7e2933b0f4624</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bS9jQ4cXgCvC37mKWB5FaM2KNJj.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bobby e Stig são dois agentes à paisana escalados para roubar um banco que serve de fachada para Máfia. O detalhe é que um não sabe da real identidade do outro. Quando eles descobrem, o mandande da tarefa demite ambos, deixando a dupla a mercê dos bandidos.[/COLOR][/B]</info>	
+  </item>  
+  
+     <item> 
+1   <title>[B][COLOR blue] O Sequestro do Metrô 1 2 3- [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1b7f90e6ed40b4bed6f9587c9c79f1196cd040f4</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/clUQ0osCTWrxkUwLwwa2MQtgANH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/deDTK6Y7Ye1tW74E9BpgazflolC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Walter Garber (Denzel Washington) é um executivo da companhia de metrô da cidade de Nova York que, devido a uma suspeita de suborno, foi rebaixado para a função de coordenador de tráfego. Quando um dos trens do metrô, o Pelham 1 2 3, é sequestrado por um misterioso grupo, é ele quem mantém contato com Ryder (John Travolta), líder dos sequestradores. Ryder exige que a prefeitura lhe pague US$ 10 milhões em uma hora, caso contrário matará um refém a cada minuto extra. A polícia envia à sede do metrô o negociador Camonetti (John Turturro), mas Ryder exige que Garber continue na função.[/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] Protegendo o Inimigo - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1f25dc1cbf77d0d52f8399ce462fce3624717021</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmxz31mxKZO0rreBcXbZNG11v5f.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/236UVdmhNmhEt6SJZA8EFt2dOi1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tobin Frost (Denzel Washington) é um ex-agente da CIA procurado pela agência como traidor da pátria. Ele está na Cidade do Cabo, na África do Sul, onde tenta negociar um importante dispositivo eletrônico. Caçado pelas ruas da cidade, ele decide se entregar no consulado americano para escapar da perseguição. Os agentes o levam para um abrigo da CIA, onde Frost é torturado para revelar o que sabe. Entretanto, logo o local é invadido pelo grupo que deseja matar Frost. Sua única chance é Matt Weston (Ryan Reynolds), o oficial responsável pelo abrigo, que precisa proteger seu hóspede a todo custo.[/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] O Plano Perfeito - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:VPCN4HJZXMEY3FBTJ5ULSU23ZYBOOQMX</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/76z8q24vMul7IPguc0QUODF3THk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2h3QKx9mXCT39iBNfrL5zVIbziP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quatro pessoas vestidas com uniformes de pintor entram no movimentado banco Manhattan Trust. Em poucos minutos elas controlam o local, para a realização de um assalto planejado em detalhes. Após a notícia do assalto ser divulgada chegam ao local os detetives Keith Frazier (Denzel Washington) e Bill Mitchell (Chiwetel Ejiofor), que têm a missão de fazer contato com o líder dos bandidos, Dalton Russell (Clive Owen). Os detetives trabalham com o auxílio do capitão John Darius (Willem Dafoe) e esperam que a situação seja resolvida rapidamente. Porém eles não contavam com a frieza e inteligência de Russell, que parece estar sempre um passo à frente das ações da polícia. Quando a capacidade de Frazier começa a ser posta em dúvida surge Madeline White (Jodie Foster), uma poderosa jogadora que solicita um encontro particular com Russell.[/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] Chamas da Vingança - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:e7007cf96ee4982e29637bec7b4d0457230927f2</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/bSgTHcZgM37h2G7D8goliQYXfP8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Gângster - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:60610955167fc31260fca9f8271805ce4e9f5f29</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj2K8qTWQ2pTnTNCt3feBllvPxp.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qYx2AB7J3JsHA3xPfSMdLHRwDnc.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ambientado na Nova York da década de 1970, o longa mostra a trajetória de Frank Lucas (Denzel Washington), o maior gângster que já existiu na cidade. À frente dos negócios de seu ex-chefe, conhecido como "Bumpy" (Clarence Williams III), ele vai até o Vietnã, em plena guerra contra os EUA, atrás de matéria-prima para vender a heróina mais pura e barata encontrada no mercado norte-americano, concorrendo diretamente com a máfia italiana. Baseado em sólidos valores éticos e sempre contando com o apoio de sua família, Lucas começa a demonstrar sua incrível capacidade de coordenar e alterar as regras do universo da máfia local. Paralelamente a isso, o policial Richie Roberts (Russell Crowe), que há tempos vem sofrendo na polícia de Nova York no combate ao crime organizado, por ser um policial honesto dentro de um departamento totalmente corrupto, começa a se dar conta de que algo está mudando no dia-a-dia das ruas da cidade. O encontro inevitável entre os dois fará com que inesperadamente unam forças para limpar a cidade dos malfeitores, sejam eles bandidos ou policiais.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Déjà Vu - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:13e022f7e925fc98f1ebdb59c54f2afdbe2da658</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/siODmMjyejgygzGWNK3rzROCeBL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/sRQmHdpvXeemCJiTdYw5KvTyQwU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Doug Carlin (Denzel Washington) trabalha para a Agência do Tabaco, Álcool e Armas de Fogo. Chamado para recuperar provas após a explosão de uma bomba em uma balsa localizada em Nova Orleans, Carlin descobre que aquilo que a maioria das pessoas acredita estar apenas em sua mente é bem mais poderoso do que se imagina. Ele descobre então um meio de viajar no tempo, o que possibilita que evite que a explosão ocorra.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Por um Triz - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:31c35f772aaf46d82417c9d98b3da311f3283342</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4FI4ROtSovWoz17RJZvJUrEDaU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/adnZPm5HFmrtT1DwC82p512Vmqx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Matt Whitlock (Denzel Washington) é o honesto delegado de uma pequena cidade da Flórida, que se vê em apuros após usar dinheiro do tráfico de drogas para pagar o caro tratamento médico de sua amante, Ann Marai (Sanaa Lathan), que está doente. Porém um incêndio criminoso mata Ann e seu marido, colocando Matt como principal suspeito do crime. A responsável pela investigação do caso é Alex Diaz (Eva Mendes), ex-esposa de Matt, que passa a desconfiar cada vez mais dele a cada nova pista descoberta. Com a investigação em andamento, Matt precisa correr contra o tempo para descobrir o autor dos assassinatos, antes que ele próprio vá parar na cadeia.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue]8 Mile: Rua das Ilusões - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:185ec3540625deb5184fe3c5a801e7d2ae0ccefb</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/uVUfJCqGmDPc8Sjam6GVKmUpxqE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jimmy Rabbit (Eminem) é um rapaz branco que mora numa vizinhança negra separada do resto da cidade de Detroit pela estrada 8 Mile, que dá nome ao filme. Seu maior sonho é conquistar um lugar no mundo do rap, território dominado pelos chamados "afro-americanos". Uma luta que não será nada fácil. Como também nada é fácil na sua própria vida. Sua mãe Stephanie (Kim Basinger), prefere viver à sombra de outros homens - sempre fracassados - que prestar atenção ao filho. E ainda há uma irmã menor que precisa ser protegida e cuidada. Os problemas são muito grandes para o pequeno trailler onde a família mora. Certo dia, durante uma disputa de rappers - onde sobem ao palco dois candidatos de cada vez, que têm de improvisar longas letras diante de uma platéia frenética. Jimmy "trava" totalmente e não consegue exibir seu talento. Fica marcado na comunidade como covarde. Sua única saída agora é tentar uma revanche, ajudado pelos amigos, Future (Mekhi Phifer), DJ Iz (De´Angelo Wilson), Sol (Omar Benson Miller) e Cheddar Bob (Ewan Jones).[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue]Os Reis da Rua - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
