@@ -115,11 +115,11 @@ Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
 
 <channels>
 <channel>
-<name>[COLOR blue]NOME[/COLOR]</name> 
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info><info>
+<name>[COLOR blue]Os Simpsons[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20SIMPSON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+<info>A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.<info>
 [COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
