@@ -1,0 +1,24 @@
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] ThunderCats  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/rHHSBsitu1BV0E8HsvWbZ57OfCn.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]ThunderCats conta as aventuras de um grupo de felinos sobreviventes do planeta Thundera. O primeiro episódio da série começa com a destruição de Thundera, forçando os ThunderCats (uma espécie de nobreza Thunderiana) a fugir de seu planeta natal. A frota é atacada pelos inimigos dos Thunderianos, os mutantes de Plun-Darr, que destruíram todas as naves da frota Thunderiana, exceto a nave-mãe, na esperança de capturar a lendária Espada Justiceira (Sword of Omens, no original) que eles acreditam estar a bordo desta. A espada possui o Olho Místico de Thundera, a fonte do poder dos ThunderCats, encrustado na empunhadura. Embora os Mutantes tenham causado danos à nave-mãe, o velho guardião de Lion-O, Jaga, se oferece para pilotar a nave e levá-los em segurança ao “Terceiro Mundo”. No entanto, Jaga morre no processo porque a viagem leva várias décadas, apesar da tecnologia avançada da nave interestelar. Entre os personagens principais estão o jovem lorde dos ThunderCats, Lion-O, e os ThunderCats Cheetara, Panthro, Tygra, WilyKit, WilyKat e Snarf .[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] ThunderCats - [COLOR blue] [COLOR red](1985) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:8e13113654524fce700753b0d8ddc98abf2204c2</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/rHHSBsitu1BV0E8HsvWbZ57OfCn.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]ThunderCats conta as aventuras de um grupo de felinos sobreviventes do planeta Thundera. O primeiro episódio da série começa com a destruição de Thundera, forçando os ThunderCats (uma espécie de nobreza Thunderiana) a fugir de seu planeta natal. A frota é atacada pelos inimigos dos Thunderianos, os mutantes de Plun-Darr, que destruíram todas as naves da frota Thunderiana, exceto a nave-mãe, na esperança de capturar a lendária Espada Justiceira (Sword of Omens, no original) que eles acreditam estar a bordo desta. A espada possui o Olho Místico de Thundera, a fonte do poder dos ThunderCats, encrustado na empunhadura. Embora os Mutantes tenham causado danos à nave-mãe, o velho guardião de Lion-O, Jaga, se oferece para pilotar a nave e levá-los em segurança ao “Terceiro Mundo”. No entanto, Jaga morre no processo porque a viagem leva várias décadas, apesar da tecnologia avançada da nave interestelar. Entre os personagens principais estão o jovem lorde dos ThunderCats, Lion-O, e os ThunderCats Cheetara, Panthro, Tygra, WilyKit, WilyKat e Snarf .[/COLOR][/B]</info>	
+</item>	
