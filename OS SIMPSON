@@ -1,3 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] Os Simpsons  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Os Simpsons - [COLOR blue] [COLOR red](1989) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6f07be367d83b004d0974e2af7036faf7a25681c$$lsname=[COLOR lime]720P TEMP 01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:21f8bf89c90f4e67ae575d6f84b692e734d3f345$$lsname=[COLOR lime]720P TEMP 02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:71c8c2367b189ecb32157d0a669713249b92707b$$lsname=[COLOR lime]720P TEMP 03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0e4ce3aaacec1c35f6b7e97f2a95897cff84227c$$lsname=[COLOR lime]720P TEMP 04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:33d2b603f93521221b6449e53ab2e898feb91784$$lsname=[COLOR lime]720P TEMP 05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ae53bd6f4029d66ccb7d17ae54264793c7831c1a$$lsname=[COLOR lime]720P TEMP 06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:df5adbef290281a1616e66873e61d595114c5587$$lsname=[COLOR lime]720P TEMP 07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7921cc23df200ee068de6d8ed55592a84860035f$$lsname=[COLOR lime]720P TEMP 08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ee051e84653bf42ff698e9e876448dc8f00a79eb$$lsname=[COLOR lime]720P TEMP 09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:5085956ba067098dc2cd138447450cc287c6dad7$$lsname=[COLOR lime]720P TEMP 10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ec9adac2e8d8d53e91930bf00ee34b7889dc86c4$$lsname=[COLOR lime]720P TEMP 11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:18482968817705d75aa6de19cb0e006546415d49$$lsname=[COLOR lime]720P TEMP 12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ef674abbd16d1af7f1b4d89b9b0173805e43c702$$lsname=[COLOR lime]720P TEMP 13[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:5e795997235cdf5f446a8d63416b398f170420e9$$lsname=[COLOR lime]720P TEMP 14[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:fd9f1902d19a19f4eac90db7503dc98e4bb47359$$lsname=[COLOR lime]720P TEMP 15[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:138c11aceca4a87e303b35c8fbc91df8a42f7e82$$lsname=[COLOR lime]720P TEMP 16[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a6084a32a747c027a37c725ea5ba098301f47148$$lsname=[COLOR lime]720P TEMP 17[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:98c33c5b31016771ba3bf96353238e683be81297$$lsname=[COLOR lime]720P TEMP 18[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:b7da49b4e1bbd3c5833ffa36ed4017f5ee592ac8$$lsname=[COLOR lime]720P TEMP 19[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:a53950ab1e7db57e5fb144fe311b370684729843$$lsname=[COLOR lime]720P TEMP 20[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:bd55a9f45cf3103181eebd0d1f63a2d1025add41$$lsname=[COLOR lime]720P TEMP 21[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:961c75855ced3bc9681f70f27b45639f8315ec47$$lsname=[COLOR lime]720P TEMP 22[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:e5fc4f0ec1042e6715c6f494471659a5cbd9364e$$lsname=[COLOR lime]720P TEMP 23[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:c36af52a5b77fbd2e5b1c2576bc7087a7870df80$$lsname=[COLOR lime]720P TEMP 24[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:deb2a1f04475c3e4980b7c065fb8b59c21578f6a$$lsname=[COLOR lime]720P TEMP 25[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9d694aff2bbd9223fdc154499b0221e0697643fc$$lsname=[COLOR lime]720P TEMP 26[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:654AA4177515EAC86181801FAF29060E26680FC1$$lsname=[COLOR lime]720P TEMP 27[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.[/COLOR][/B]</info>	
+</item>	
+
+
+
 <channels>
 </channels><channel>  
  
