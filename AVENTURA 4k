@@ -5,9 +5,27 @@
   
   
   
+   <item> 
+1   <title>[B][COLOR blue] A Lenda do Tesouro Perdido - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:e6862f840979e016d91855a3dae491f1e9a1a3fe</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TAQBqvokRt2qHEgi7ipeX1Bif9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2U5qfNbqT2xVSKoLjp0YXU2zJBC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Benjamin Franklin Gates (Nicolas Cage) é um caçador de tesouros, função que já está na 3ª geração em sua família. Durante toda sua vida Benjamin procurou um tesouro que ninguém acredita existir, tendo sido acumulado durante séculos e transportado por vários continentes para evitar que fosse roubado. As investigações de Benjamin sobre a localização deste tesouro fazem com que ele descubra que existe um mapa codificado escondido na Declaração de Independência dos Estados Unidos. Só que para conseguir lê-lo Benjamin terá que enganar o FBI e roubar um dos documentos mais vigiados do país.[/COLOR][/B]</info>	
+  </item>  
+    
   
-  
-  
+    <item> 
+1   <title>[B][COLOR blue] A Lenda do Tesouro Perdido: Livro dos Segredos - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1fe9e079e92f3d9acc5d57ab5a6c386bbd60a439</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/aqGVdM065tIcVmaMIeozk80lLf6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Quando uma página perdida do diário de John Wilkes Booth (Christian Camargo) reaparece, o bisavô de Ben Gates (Nicolas Cage) torna-se o principal conspirador do assassinato de Abraham Lincoln. Querendo provar a inocência do parente, Ben reúne mais uma vez sua equipe e segue uma série de pistas, que os levam de Paris a Londres antes de retornarem aos Estados Unidos.[/COLOR][/B]</info>	
+  </item>  
+   
   
   <item> 
 1   <title>[B][COLOR blue] A Lagoa Azul - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
