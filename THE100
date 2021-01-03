@@ -748,141 +748,67 @@
 [COLOR red]Clarke e seus amigos devem arriscar tudo para lutar uma última batalha pela sobrevivência, apenas para descobrir uma ameaça ainda mais sombria ao último vale vivo na Terra. (bxl)[/COLOR][/B]</info>    [COLOR red]Clarke e seus amigos devem arriscar tudo para lutar uma última batalha pela sobrevivência, apenas para descobrir uma ameaça ainda mais sombria ao último vale vivo na Terra. (bxl)[/COLOR][/B]</info>
 </item>
 ***************************************************************************************************************************************
+
 <channels>
 </channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The 100 (2014) [COLOR red] - [COLOR red][6ª Temporada][/COLOR][/B]</name>
-<genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Noventa e Sete anos antes, um apocalipse nuclear dizimou o planeta Terra e destruiu a civilização. Os únicos sobreviventes foram os 400 habitantes de 12 estações espaciais que estavam em órbita durante o acontecimento. Depois de tantos anos, a população das aeronaves aumentou e os recursos estão quase acabando, o que pode significar o fim dos seres humanos. Por isso, os comandantes enviam para a Terra cem jovens prisioneiros, na tentativa de testar a situação no nosso planeta e descobrir se existe a possibilidade de retorno ao local. Além de lidarem com as próprias diferenças, o grupo precisa se unir para enfrentar os perigos que os aguardam por causa da radiação. Para complicar, tudo indica que eles não estão sozinhos.(bxl).Faca Sua Doacao *http://bit.ly/doar*!!![/COLOR][/B]</info>
+<name>[B][COLOR red]• [COLOR blue] The 100   [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</name>
+1 <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Noventa e Sete anos antes, um apocalipse nuclear dizimou o planeta Terra e destruiu a civilização. Os únicos sobreviventes foram os 400 habitantes de 12 estações espaciais que estavam em órbita durante o acontecimento. Depois de tantos anos, a população das aeronaves aumentou e os recursos estão quase acabando, o que pode significar o fim dos seres humanos. Por isso, os comandantes enviam para a Terra cem jovens prisioneiros, na tentativa de testar a situação no nosso planeta e descobrir se existe a possibilidade de retorno ao local. Além de lidarem com as próprias diferenças, o grupo precisa se unir para enfrentar os perigos que os aguardam por causa da radiação. Para complicar, tudo indica que eles não estão sozinhos.[/COLOR][/B]</info>		
+<item>
+
+
+
 ***************************************************************************************************************************************
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The 100 - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1 <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1 <maglink>magnet:?xt=urn:btih:A90CFDE781F1A1F4CB104F586C48321391460530</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Ainda se recuperando depois de receber a mensagem de Monty, um pequeno grupo desce para explorar o misterioso novo planeta. De volta à nave mãe, vários membros de Wonkru enfrentam as consequências de suas decisões.[/COLOR][/B]</info>	
+</item>	
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A90CFDE781F1A1F4CB104F586C48321391460530&dn=The%20100%202019%20-%206%c2%aa%20Temporada%20Completa%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce</link>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1intXN8KppcgwWmpKENWJmBrYm8A9eMC-/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ainda se recuperando depois de receber a mensagem de Monty, um pequeno grupo desce para explorar o misterioso novo planeta. De volta à nave mãe, vários membros de Wonkru enfrentam as consequências de suas decisões. (bxl)[/COLOR][/B]</info>
-</item>
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] The 100  [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://image.tmdb.org/t/p/original/o5f9cu34o8mYMmujCYoCvJjV3MC.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWIIoXg3MZYotAP4bSaGKTUe08.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] Após os eventos da sexta temporada, o Povo do Céu e os Terrestres precisarão tentar encontrar uma maneira de viverem juntos e em paz.[/COLOR][/B]</info>		
+<item>
 
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] O Santuário[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1intXN8KppcgwWmpKENWJmBrYm8A9eMC-/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ainda se recuperando depois de receber a mensagem de Monty, um pequeno grupo desce para explorar o misterioso novo planeta. De volta à nave mãe, vários membros de Wonkru enfrentam as consequências de suas decisões. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Sol Vermelho Nascente[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1l6Q-YDbcj--radoj9c4sF0VYbsguhuZV/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A equipe em terra voa para sobreviver à ameaça que enfrenta no novo planeta. Enquanto isso, Raven deve unir forças com um improvável aliado para salvar todos a bordo da Nave Mãe. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Os Filhos de Gabriel[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1yYwbzF54x1QculInFZKxinaUhz2ERP3y/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Clarke tenta conquistar os líderes do Sanctum para deixar seu povo ficar. Enquanto isso, Bellamy, Echo e Octavia descobrem uma nova ameaça enquanto em uma missão para recuperar a nave de transporte. (bxl)[/COLOR][/B]</info>  
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] A Face Por Trás do Vidro[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Db8kbQAmVVCb3wjppO8Zldkon9RmYll2/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Clarke abraça as tradições de Sanctum e tenta consertar suas ações passadas. (bxl)[/COLOR][/B]</info>   [COLOR red]Clarke abraça as tradições de Sanctum e tenta consertar suas ações passadas. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] O Evangélio de Josephine[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1yBcSGm3FpK5OmM4EdbEkooU_VFu-N6a3/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Jordan investiga o Sanctum. Enquanto isso, Octavia e Diyoza descobrem as ameaças do novo planeta em primeira mão. Por fim, Bellamy e Clarke discordam. (bxl)[/COLOR][/B]</info>    [COLOR red]Jordan investiga o Sanctum. Enquanto isso, Octavia e Diyoza descobrem as ameaças do novo planeta em primeira mão. Por fim, Bellamy e Clarke discordam. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Momento Mori[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/18rBeLue4uAjX-N9g_inn9FE4EaTYFD-2/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Diyoza aprende mais sobre os misteriosos Filhos de Gabriel, enquanto Abby continua procurando uma maneira de salvar Kane. (bxl)[/COLOR][/B]</info>   [COLOR red]Diyoza aprende mais sobre os misteriosos Filhos de Gabriel, enquanto Abby continua procurando uma maneira de salvar Kane. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Esquece[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1t4tcR5e_HqOSmcspNqTi_GnC_krKNwhU/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O passado de Clarke a alcança. (bxl)[/COLOR][/B]</info> [COLOR red]O passado de Clarke a alcança. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] O Velho e a Anomalia[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1g_GXnOaCRooyFixGKvLxeaVG49xg2Uba/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Octavia e Diyoza abrem caminho para a misteriosa anomalia em busca do Velho. Enquanto isso, Murphy tem uma oferta para Emori. (bxl)[/COLOR][/B]</info>   [COLOR red]Octavia e Diyoza abrem caminho para a misteriosa anomalia em busca do Velho. Enquanto isso, Murphy tem uma oferta para Emori. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] O Que Se Leva Com Você[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1cOUufxXJf63J_0HXKqak--SL_yIT59fF/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Bellamy deve se aventurar em território inimigo, e ao lado de uma companhia improvável; Octavia é forçada a confrontar seu passado. (bxl)[/COLOR][/B]</info> [COLOR red]Bellamy deve se aventurar em território inimigo, e ao lado de uma companhia improvável; Octavia é forçada a confrontar seu passado. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Matrioska: Boneca Russa[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1EiY87uQrjtfMvCEkv7nbOEq5_zzqrWfs/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Russell clama por justiça; Gabriel precisa tomar uma difícil decisão; os irmãos Blake se reúnem. (bxl)[/COLOR][/B]</info>   [COLOR red]Russell clama por justiça; Gabriel precisa tomar uma difícil decisão; os irmãos Blake se reúnem. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Da Cinza às Cinzas[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1eAu-z9PyhnbLf5FLo0SWDSSJ6ESX2td7/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Echo deve enfrentar seu passado; Bellamy e Octavia trabalham juntas para salvar seus amigos. (bxl)[/COLOR][/B]</info>    [COLOR red]Echo deve enfrentar seu passado; Bellamy e Octavia trabalham juntas para salvar seus amigos. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Protocolo de Ajuste[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1YuC_96OccL73zZSMj95Aw5egoy9bVR-Z/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O "Dia da Nomeação" especial muda tudo no Santuário; Gabriel encontra um velho amigo. (bxl)[/COLOR][/B]</info>    [COLOR red]O "Dia da Nomeação" especial muda tudo no Santuário; Gabriel encontra um velho amigo. (bxl)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] O Sangue de Sanctum[COLOR red]  [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/10xEq-ZQiVY1YCu0vOGh0psbi4VnQs5VH/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](bxl),Sci-Fi & Fantasia,Drama,Ação,Aventura,[http://bit.ly/doar][/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/q5bnAuBAFncvnKH2qSx1szqodSh.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Sanctum se torna um campo de batalha entre devotos e descrentes. (bxl)[/COLOR][/B]</info>    [COLOR red]Sanctum se torna um campo de batalha entre devotos e descrentes. (bxl)[/COLOR][/B]</info>
-</item>
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The 100 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:25c17e2cb1804f75c7cc96cd13f9b19c7e15586e$$lsname=[COLOR lime]1080P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:21629662b47cfd28f4cbddcf091642dff33abaa0$$lsname=[COLOR lime]1080P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:b6988138425c3dd8616ab37d70ccd3913a50c989$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:c8abb5be1b30b8dc2e06aa2daa15a1a6b92e2626$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:cdbf40a9e724e3d47a0a25aee89775aa0d83f05b$$lsname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:d4c8d4aa9eb4db44262750c6227e056886e27e6d$$lsname=[COLOR lime]1080P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0f92b0245fd884e81599a460a423bdd17996c5b8$$lsname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:e2797cdce6d16549bf74861c9623a00bb438fa0b$$lsname=[COLOR lime]1080P EP08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9565e99afe1e3535a798de3a2526fe05f18a5c7a$$lsname=[COLOR lime]1080P EP09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0444088a4b7c43ee03ee0e8c7151e70b4f2b5e12$$lsname=[COLOR lime]1080P EP10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:21725b0fadfd673edd68f9862543897aacc87670$$lsname=[COLOR lime]1080P EP11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:262b7777b336d0f73e241cb1dd9871855e5c7060$$lsname=[COLOR lime]1080P EP12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:df41c6f50eee9e8dd80cdab963856cc2246eb9c7$$lsname=[COLOR lime]1080P EP13[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:065a918a0480bb011fe6d63f1b8557d7c00c2d8c$$lsname=[COLOR lime]1080P EP14[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWIIoXg3MZYotAP4bSaGKTUe08.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/o5f9cu34o8mYMmujCYoCvJjV3MC.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red] Após os eventos da sexta temporada, o Povo do Céu e os Terrestres precisarão tentar encontrar uma maneira de viverem juntos e em paz.[/COLOR][/B]</info>	
+</item>	
+
+****************************************************************************************************
+<
+
