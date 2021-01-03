@@ -178,7 +178,7 @@
    <item> 
 1   <title>[B][COLOR blue] 60 Segundos - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9fe644bd17c247f8506e31ae364757e45e3980c4</maglink>
+1   <maglink>magnet:?xt=urn:btih:f1de6eb04c9741f294c3dd7c1d5940dcc0afeddc</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F9AlinnP2OhgnsK8xjksK94Oh1.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/fR4XguI5Bp8YhH6aBVMNY3hCm0s.jpg</fanart>
