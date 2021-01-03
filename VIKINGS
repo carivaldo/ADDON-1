@@ -525,3 +525,18 @@ A mensagem [/B][/COLOR]</title>
 4   <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma. (ADDON BXL)...Faca sua Doacao...[COLOR blue][ ADDON BXL ] !!![/COLOR][/B]</info> [COLOR red]Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma. (ADDON BXL)...Faca sua Doacao...[COLOR blue][ ADDON BXL ] !!![/COLOR][/B]</info>
 </item>
+
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]11AO20[COLOR blue] Episódio 11AO20[COLOR blue] [COLOR red]ADDON BXL[COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:c75a6673c6e3b96f52148fa1b194595d2a64ca3d</maglink>
+1	<thumbnail>https://image.tmdb.org/t/p/original/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Sexta temporada com todos os episódios lançados da série que foi renovada pelo canal History. O drama retorna com sua sexta e última temporada. Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses. As lendas contam que ele descende diretamente de Odin, o deus da guerra.[/COLOR][/B]</info>	
+</item>	
+
+
+
+
+
