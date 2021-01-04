@@ -1,6 +1,31 @@
 
 
 
+
+
+
+<item> 
+1   <title>[B][COLOR blue] O Dia Depois de Amanhã - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5AD84844D988B5D4523BC4805A14C9F416420A69$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2AC636C2FA84F39BCA60376A43FC03D5A57E638D$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fXJhA3pjLMDkHPgZ2GVhRDXA5M3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Agora com qualidade de bluray O dia Depois de Amanhã vem com qualidade excelente e resoluções 1080p e 720p em dual áudio 5.1. A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall (Dennis Quaid) segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam (Jake Gyllenhaal) ainda está vivo.[/COLOR][/B]</info>	
+  </item>
+
+   <item> 
+1   <title>[B][COLOR blue] O Procurado - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5E2BC1CFFB841696819F524F71F1A09750F23A9D$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:9D31C028065964A5369C5059692878895FCEAAAA$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/333wOuNUXcxIFDGZogj8nuyXoBH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/fd4myHO09mPyLIJsILFbuMW5zTV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Wesley Gibson é um jovem que não vê mais sentido na vida após o misterioso assassinato de seu pai. Tudo muda quando ele conhece Fox, uma mulher enigmática que o convida a fazer parte de uma sociedade secreta de assassinos chamada de Fraternidade. Wesley descobre novas habilidades e vê uma oportunidade de vingar a morte do pai. No entanto, percebe que o perigo está mais perto do que imaginava.[/COLOR][/B]</info>	
+  </item>  
+
    <item> 
 1   <title>[B][COLOR blue] Missão: Impossível  - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
