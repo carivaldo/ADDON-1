@@ -1,4 +1,43 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] True Lies - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c2c43ad82871ffc03518af4febf3493e4d17cc71</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pweFTnzzTfGK68woSVkiTgjLzWm.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/sMf27DIFNRnh8eond8PAgszNdRX.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Agente de governo (Arnold Schwarzenegger), especialista em combate ao terrorismo, está casado há quinze anos, sendo que durante todo este tempo faz sua mulher (Jamie Lee Curtis) acreditar que apenas vende material de informática. A esposa por sua vez acha sua vida insossa e, coincidentemente, se envolve com um pretenso espião (Bill Paxton), no intento de trazer alguma emoção ao seu dia-a-dia. Ao investigar o "caso" da mulher, o agente descobre que o tal "espião" na verdade é um simples vendedor de carros, que inventa histórias mirabolantes para tentar conquistar mulheres emocionalmente carentes, e que sua mulher não o está traindo. Mas resolve dar um "susto" nela e, sem querer, acaba envolvendo a mulher e a filha (Elisa Dushku) em um caso de terrorismo no qual está trabalhando.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Efeito Colateral  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:D02B77A457892B002191B97CDE953868D4E40F40$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:0507EEA01169700E347FACFBC9EA5BC97EF5C84D$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOwkMzHXDIzZi7CqKzgMf9UxH7p.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/yc3LpzPcksNwNfKVXOwzTQracj1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Gordon Brewer (Arnold Schwarzenegger) é um bombeiro que perde sua esposa e filho em um atentado terrorista organizado por Claudio "The Wolf" Perrini (Cliff Curtis). Como as investigações oficiais do governo americano parecem não chegar a lugar algum, Brewer decide então perseguir o próprio "The Wolf", se envolvendo em um complicado jogo que o leva até a Colômbia.[/COLOR][/B]</info>	
+  </item>  
+  
+
    <item> 
 1   <title>[B][COLOR blue] A Última Ameaça - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
