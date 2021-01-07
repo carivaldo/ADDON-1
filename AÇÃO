@@ -7,13 +7,45 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Anaconda - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d5e23ff37db7da42bd0f4bb1d6091821ed26a9b5</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/huhasXFLrKfPHEqbz4ALadOnXZZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eHRTu92PB8L4LbXRsCrCjOm1LEn.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma equipe de filmagem chega à Amazônia para fazer um documentário sobre a tribo shirishama. Guiados pelo misterioso Paul Sarone, o grupo descobre que está envolvido em uma perigosa caçada à serpente rara e gigantesca conhecida como Anaconda. O jogo vira quando o grupo percebe que o animal é inteligente e tem um plano bem elaborado para devorar um a um.[/COLOR][/B]</info>	
+  </item>  
 
+   <item> 
+1   <title>[B][COLOR blue] Anaconda 2 - A Caçada pela Orquídea Sangrenta - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5ba8743c6724829dae909622188e9d748eb9b911</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yi3KRmJlEtRV090wgeEPiFQ6cxm.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/kfoV2SouW0cTYGwQA1QgWjiuxKU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Na selva de Borneo fica uma rara orquídea vermelha, que desabrocha apenas uma vez a cada 7 anos. Considerada a chave para a produção de um soro da juventude, um grupo de cientistas decide embarcar numa viagem para encontrá-la. Eles acreditam que o soro irá render muito prestígio e dinheiro para suas carreiras, valendo a pena correr os riscos da expedição. Porém logo eles percebem que, além do mau tempo e a densa vegetação, algo mais pretende impedi-los de alcançar a orquídea: um predador mortal que a protege.[/COLOR][/B]</info>	
+  </item>  
 
+   <item> 
+1   <title>[B][COLOR blue] Anaconda 3 - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2E91BE11C7373D0E17E14F3961A2EC4998FEDB11</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gaDcpcw14XdVk4EjJhNzLtmXeDI.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/ct1bWWE03L1AbLO7HMW6P163g4j.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Em um laboratório de pesquisas secretas no interior da Europa, duas cobras rei e rainha (macho e fêmea) gigantescas são submetidas a testes por um brilhante cientista. Mas o gerente de finanças abusa da experiência, e as serpentes escapam, então uma equipe é contratada para matar a cobra, juntamente com Amanda, que ajudou a criar as cobras, após um momento de terror e sangue, chega mais um para completar a equipe, é Hammett,um caçador.[/COLOR][/B]</info>	
+  </item>  
 
-
-
-
-
+   <item> 
+1   <title>[B][COLOR blue] Anaconda 4 - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8FC4515CA9E8205C7157084AA65EA6D241102B20</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCp9VYqvBphiETtC86fGZFSXc63.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Murdoch (John Rhys-Davies) está convencido a alcançar a imortalidade pelos poderes regenerativos de uma rara espécie de orquídea. Para comprovar sua teoria, testa um soro experimental em um filhote de cobra. O que ele não sabe é que a inofensiva serpente sofre uma mutação que a faz crescer muito e a deixa praticamente invencível, já que quando cortada ao meio, ela se regenera, criando duas cobras gigantes e agressivas. A herpetologista Amanda (Crystal Allen) e sua equipe devem investigar o caso e impedir que esta nova espécie se prolifere.[/COLOR][/B]</info>	
+  </item>  
 
    <item> 
 1   <title>[B][COLOR blue] True Lies - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
