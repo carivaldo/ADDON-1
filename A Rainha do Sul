@@ -1,0 +1,87 @@
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] A Rainha do Sul  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]A trama gira em torno de Tereza Mendoza (Braga), uma mexicana que precisa fugir do país quando seu namorado, um traficante, é assassinado. Morando nos EUA, ela coloca em prática um plano para acabar com o cartel de drogas que a persegue, mas durante esse meio tempo, ela se torna a nova líder do cartel.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:B8D7F85C36D534109E9771CD54E3091B7FC34DAE</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]A trama gira em torno de Tereza Mendoza (Braga), uma mexicana que precisa fugir do país quando seu namorado, um traficante, é assassinado. Morando nos EUA, ela coloca em prática um plano para acabar com o cartel de drogas que a persegue, mas durante esse meio tempo, ela se torna a nova líder do cartel.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] A Rainha do Sul  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/yEYjKe5mTtBN85pptUYFwlTQvAT.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4O7aYNwHpo1x7yYGyKTHrR9B7L.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Baseada no best-seller La Reina Del Sur, de Arturo Pérez-Reverte, 'A Rainha do Sul' conta a poderosa história de Teresa Mendoza (Alice Braga), uma mulher que é forçada a correr e procurar refúgio na América depois que seu namorado, um traficante de drogas é inesperadamente assassinado no México.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:BDFEC0F25DBAE3D8218E0EBF285E5501E4E21971</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4O7aYNwHpo1x7yYGyKTHrR9B7L.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/yEYjKe5mTtBN85pptUYFwlTQvAT.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Baseada no best-seller La Reina Del Sur, de Arturo Pérez-Reverte, 'A Rainha do Sul' conta a poderosa história de Teresa Mendoza (Alice Braga), uma mulher que é forçada a correr e procurar refúgio na América depois que seu namorado, um traficante de drogas é inesperadamente assassinado no México.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] A Rainha do Sul  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/eteHn4OMqVtLkoXL6NTdsMU9cLx.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1e4uNtPltLRiEgpJh0UTdz7Jjgg.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] A Rainha do Sul (Queen of The South) terceira temporada completa dublada e legendada, com todos os episódios já lançados. Nascida e criada no México, Teresa teve de aprender a se cuidar sozinha desde pequena, aprendendo rapidamente como se virar na vida, inclusive financeiramente. Esperta, perspicaz e observadora, ela irá sempre atrás do melhor para sua vida, baseada em sua própria conduta moral. Então, quando seu namorado traficante é assassinado, ela partirá como refugiada para os Estados Unidos, mas determinada a vencer ao seu modo – ainda que ela tenha de formar novas alianças, desbancar um criminoso influente e, assim, assumir a chefia de um poderoso cartel de drogas.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:df80146623064dd8d3334fbe71542ce0a2081b4e$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8354120a5614b3937d2f2a55af9ca9e314a06f1d$$lsname=[COLOR lime]720P EP02AO04[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:016832da026fa3e26f23997ee9adc60fd5d0a102$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8a5f80876a77cf31741fcf2081807c5ac9c93eba$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:cd42d6ecde0ac4bc7973a14bae543f69b8a6e06c$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:49c676fe029125a64fa01f7d5062378e3538e269$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:369f1935f5a8c8eeed49e48614bcf6eb556b88de$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:147cefb57a42e613760e507cdef5b8767f45eacc$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:73e71461461a085fe01d52f872bfa5a896f4476d$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1e4uNtPltLRiEgpJh0UTdz7Jjgg.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/eteHn4OMqVtLkoXL6NTdsMU9cLx.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red] A Rainha do Sul (Queen of The South) terceira temporada completa dublada e legendada, com todos os episódios já lançados. Nascida e criada no México, Teresa teve de aprender a se cuidar sozinha desde pequena, aprendendo rapidamente como se virar na vida, inclusive financeiramente. Esperta, perspicaz e observadora, ela irá sempre atrás do melhor para sua vida, baseada em sua própria conduta moral. Então, quando seu namorado traficante é assassinado, ela partirá como refugiada para os Estados Unidos, mas determinada a vencer ao seu modo – ainda que ela tenha de formar novas alianças, desbancar um criminoso influente e, assim, assumir a chefia de um poderoso cartel de drogas.[/COLOR][/B]</info>	
+</item>	
+
+
+****************************************************************************************************************************
+<
