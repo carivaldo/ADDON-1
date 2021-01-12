@@ -15,7 +15,7 @@
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Exterminador do Futuro - Crônicas de Sarah Connor - [COLOR blue] [COLOR red](2008) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1    <maglink>magnet:?xt=urn:btih:aa465bf193bb3d8065929cad328ae55f2d5a7248</maglink>
+1    <maglink>magnet:?xt=urn:btih:321117E7FC2C260D48EBB5FE4D9393AAB8005A71</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOvsrnZCJV39MtOwheL0X5tUR5S.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/2vGpJbJalYZAtvEWqceeFP9zV19.jpg</fanart>
