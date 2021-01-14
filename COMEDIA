@@ -1,9 +1,25 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Jogos Entre Amigos - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0409a694f333d7b3163470a168920f3a55fb524d</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qrFr8NVI5EuHbCn5dDpO2fNPhSg.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/bOZJ1qTOG9OaGkF6Wpfxcro1Pzu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um grupo de amigos se reencontra para jogar o Buddy Game. Essa é uma variedade selvagem de desafios físicos e mentais absurdos. No processo, eles curam feridas antigas e logo após os erros descobrem o verdadeiro significado da amizade ou morrem tentando.[/COLOR][/B]</info>	
+  </item> 
 
-
-
+   <item> 
+1   <title>[B][COLOR blue] Bill & Ted - Dois Loucos no Tempo - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7C69601D73F6BB10148D7EA25F3326C9EDA833F1</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fuB3B4pfoTgYCKfmoQSg83BaVgE.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/y5lidfqb4KCrPEwrq8fVmfaB5ul.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]San Dimas, Califórnia, 2691. De Nomolos (Joss Ackland), um gênio do mal, decide que como parte do seu plano de instituir uma nova ordem precisa destruir Bill (Alex Winter) e Ted (Keanu Reeves), dois roqueiros debilóides do século XX., que acabam sendo mortos e substituídos por dois robôs sósias, que foram mandados por este maquiavélico homem. Mas os verdadeiros Bill e Ted conseguem vencer a Morte, conhecem Deus e retornam ao mundo dos vivos, para tentar salvar as namoradas e vencer um concurso de bandas, mas para isto precisam também derrotar os robôs-sósias.[/COLOR][/B]</info>	
+  </item> 
 
 <item> 
 1   <title>[B][COLOR blue] American Pie - Coleção - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
