@@ -6,7 +6,16 @@
 
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] Bill & Ted: Encare a Música - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c5d6f34ec470156e8bcb658a16db8b18df737fc1$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:1d7409c8cfa48377924b08c6a3bebbe623dd6e35$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgjMLke8LXPbcbZQ5s1LNow9D0d.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oazPqs1z78LcIOFslbKtJLGlueo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ted e Bill atingiram a meia idade, suas preocupações voltaram-se para as suas famílias e outras responsabilidades da vida adulta. Depois de anos lidando com a frustração de ainda não terem escrito a melhor música de todos os tempos, eles recebem a visita de um homem do futuro e descobrem que apenas uma música criada por eles pode salvar o mundo[/COLOR][/B]</info>	
+  </item>  
 
    <item> 
 1   <title>[B][COLOR blue] Submissão - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
