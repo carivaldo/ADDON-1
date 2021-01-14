@@ -1,5 +1,45 @@
 
 
+   <item> 
+1   <title>[B][COLOR blue] Nico - Acima da Lei - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:N3DKQV5O2NCC4TYOK5QTEHL6LNUNCKER</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20bD11jTM2fbVGkDnkCpfriUW4y.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/vb8eBQ8PpMFEiBVRpfrKBlRBUUS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nico (Steven Seagal) é um soldado altamente treinado com passagem pela Guerra do Vietnã. Trabalhando nas ruas de Chicago como policial, ele descobre um grande esquema envolvendo o tráfico de drogas local. Tão logo o cerco começa a fechar, Nico é forçado a abandonar o caso e acaba vendo seus prisioneiros serem libertados. Contrariado e fora da polícia, ele resolve mostrar que a lei é para ser sempre cumprida, mesmo que seja usando a força.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] A Força em Alerta - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:FFOFSDVQIRO4OO45TFT4Q6HXWLDG3R3H</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRp7U3N21lsM0Ubwk52eFieJiug.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/lQl7a65Cb1EIahMMxirC1cbFg12.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um poderoso navio de guerra que está sendo desativado é vítima de terroristas, que planejam assumir o controle da embarcação. Porém, eles não contavam com a presença de um super agente que está a bordo, disfarçado de cozinheiro.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Momento Crítico - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8C9F76940D1E57514FDAF4FB931A3E8A0EC2B5C7</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4hUKj436n6ROAmFhlkGMXvBvyv.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/4TkhiUIGIFc0r1Yt2Xd9xjRfWa2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um grupo de terroristas islâmicos sequestra um avião 747 e exige a libertação do seu líder para libertar os passageiros, mas um especialista no assunto acredita que isto não passa de um motivo para distrair a atenção e destruir Washington. Assim, um comando é preparado para abordar a aeronave quando ela ainda não estiver no espaço aéreo norte-americano[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Escuridão Mortal - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4eed3231070c258a8ef8d0c048b0c58531e76232</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4toWMBnPNvKtEb8cgodIKqS8Rh.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/tM9KF0HBEUkXPWMgAND0Th5hsF2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tagart, hábil mestre da katana, comanda uma tropa de operações especiais em uma missão sangrenta. Seu alvo: vampiros. Em um mundo apocalíptico, alguns poucos sobreviventes ficam presos em um hospital infectado. Tagart é a única esperança desses sobreviventes. Mas, ele sabe que a única cura é o extermínio...[/COLOR][/B]</info>	
+  </item> 
+
 
    <item> 
 1   <title>[B][COLOR blue] Um Ato de Coragem - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
