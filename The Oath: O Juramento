@@ -1,0 +1,23 @@
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] The Oath: O Juramento  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/wIoLcxlk5lh8na0P8kdbLIBWd9D.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8xo9fB9D0VATvwZ0R7DC7RsmVU.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Dispostos a tudo para alcançar seus objetivos, um grupo de policiais liderado por Steve (Ryan Kwanten) forma uma gangue justamente entre aqueles que deveriam trabalhar para fazer com que a lei seja cumprida. Mas nesse mundo secreto repleto de perigos, arriscar tudo tem seus riscos, e esses policiais estão cientes disso.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Oath: O Juramento - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A209129218EA8803FB06506DBBF7C22AC7AC1A36</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8xo9fB9D0VATvwZ0R7DC7RsmVU.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/wIoLcxlk5lh8na0P8kdbLIBWd9D.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Dispostos a tudo para alcançar seus objetivos, um grupo de policiais liderado por Steve (Ryan Kwanten) forma uma gangue justamente entre aqueles que deveriam trabalhar para fazer com que a lei seja cumprida. Mas nesse mundo secreto repleto de perigos, arriscar tudo tem seus riscos, e esses policiais estão cientes disso.[/COLOR][/B]</info>	
+</item>	
