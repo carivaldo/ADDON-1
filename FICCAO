@@ -1,5 +1,20 @@
 
 
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Tropas Estelares - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8F13118E505FDCC2DAD74BF516EEC1C4D9EBEA3A$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4FC6F50721FC80715E3047BAA252D4B261DBD260$$lsname=[COLOR lime]1080P 1,2 E 3[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0oVrDAh05pdHwnV6mRQzL1QHYk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zgMTIsWeF4VSitPIoUQ7WjNlgm4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.[/COLOR][/B]</info>	
+  </item>
+
 <item>
 1   <title>[B][COLOR blue] Elysium - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
