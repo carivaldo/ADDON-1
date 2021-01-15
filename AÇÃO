@@ -3,9 +3,95 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Duplo Impacto - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f13493225e6e9fea78a08372df470852f340087a</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2fDJ3qa1yv3Sfo9IvIQddCvO8QM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/sAbP0xIjPCbf3OdqzdD3BnlHJ3x.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Van Damme desdobra-se no papel duplo dos gêmeos Chad e Alex Wagner, que foram separados após o violento assassinato dos seus pais. Passados vários anos os dois não podem ser mais diferentes: Chad é um astuto instrutor de fitness em Beverly Hill enquanto que Alex é um duro contrabandista nas ruas sujas de Hong Kong. Mas quando o destino os volta a juntar, Chad e Alex descobrem que têm uma coisa em comum: são ambos máquinas lutadores! Decididos a vingar a morte dos seus pais, estes peritos em artes marciais abrem caminho usando a sua força até o ultimo e eletrizante combate a bordo de um gigantesco cargueiro no porto de Hong Kong.[/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] Street Fighter: A Última Batalha - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:59E2E4216C5882397E9386AFC524533FA7BF3968</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7DOPUhlGLxRowC4VFY9n0wQTup.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/1Ow1IfvMkp3f7UQ2C5hIeEwBJG2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Street Fighter - A Última Batalha dublado e com qualidade de blu-ray, no filme você pode escolher entre a dublagem clássica dos anos 90 e a nova dublagem. Em Shadaloo, uma cidade localizada no sudeste da Ásia, uma guerra civil é orquestrada pelo General M. Bison (Raul Julia). O conflito ganha importância mundial após Bison sequestrar 63 delegados das Nações Unidas, exigindo por eles um resgate de US$ 20 bilhões. Para libertar os reféns é designado o Coronel Guile (Jean-Claude Van Damme), que conta com a ajuda de Cammy (Kylie Minogue), uma oficial da Inteligência Britânica, e ainda dois heróis casuais em sua tentativa de invadir a fortaleza de Bison. Mas o plano de Guile pode ir por água abaixo devido a uma repórter de TV (Ming-Na) que quer aproveitar o momento conturbado para realizar uma vingança pessoal.[/COLOR][/B]</info>	
+  </item> 
+  
+   <item> 
+1   <title>[B][COLOR blue] Desafio Mortal - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0027a02e4a78886914945bee09cfd6f7ca561fdb</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2h9hVOfC0gNNGpFFbcJKInQpFXk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/cncuckBn8pqImh2NEPTjq46XVbv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Christopher Dubois (Van Damme) é um artista de rua em Nova York que se dedica a proteger um grupo de crianças pobres que sobrevivem cometendo pequenos delitos. Mas ao roubarem uma maleta de dinheiro, Dubois fica em maus lençóis e tem de fugir. Acaba caindo num navio que está zarpando para o Oriente. Em alto mar, saqueados pelo vigarista Lorde Dobbs (Roger Moore), Dubois é vendido para Khao, um mestre de luta livre. numa terra desconhecida, Dubois transforma--se em exímio lutador. Seu grande objetivo: vencer o Ghang-gheng, um campeonato secreto que reúne os maiores lutadores do mundo. Agora é uma questão de honra e Dubois está disposto a tudo![/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] Kickboxer - O Desafio do Dragão - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2637888ca143e6e503f4c12793a34038aeaefbcd</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/4OcTKqNMbePJ1hjFUUiu4mfVoGD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Acompanhado por seu irmão Kurt (Van Damme) o campeão de Kickbox americano, Eric Sloane (Dennis Alexio), chega à Tailândia para enfrentar os lutadores orientais em seu próprio esporte. Seu oponente: o cruel campeão de Thai, Tong Po. Tong não só derrota Eric, como tambem o paraliza para sempre. Enlouquecido pelo ódio, Kurt clama por vingança. Depois de um difícil treinamento nas antigas técnicas de kickbox com o mestre tailandês Xian Chow, Kurt desafia Tong. Sua luta final, nascida de lexúria, poder e vingança, deixará apenas um homem de pé.[/COLOR][/B]</info>	
+  </item> 
 
+   <item> 
+1   <title>[B][COLOR blue] Legionário - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:GM4O64774664P7B7DX7MACCXNGHNP6Q7</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTmf7SWVhv2wtN5Po478KnsZan2.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/sMqW0uHP82e1p6d6S2KBClDZsO0.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]França, 1924. Famoso, carismático e sempre com belas mulheres à tiracolo, o lutador Alain Le Freve (Van Damme) recebe de um chefão do crime organizado a proposta mais indecente de sua carreira: entregar uma luta. Mais que uma proposta, perder o combate é uma imposição da máfia local. Porém, o sangue quente e o instinto vencedor de LeFreve falam mais alto, e ele arrasa seu adversário logo nos primeiros Rounds . Jurado de morte e perseguido pelos mafiosos mais perigosos da Europa, ele só vê uma saída: alistar-se na Legião Estrangeira e fugir para o Norte da África. Lá chegando, porém, ele logo percebe que a aridez do deserto e a violência dos homens, podem ser mais avassaladoras que o mundo de crimes que ele deixou para trás.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Leão Branco - O Lutador Sem Lei - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rXq65r0WSnMZZmloKl2Nc3tlFeZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Lyon Gaultier abandona a Legião Estrangeira no Norte da África quando recebe a notícia da morte de seu irmão em Los Angeles. Depois de conseguir escapar de dois legionários enviados para trazê-lo de volta, Lyon está determinado a encontrar o assassino de seu irmão. Para isso, ele mergulha no submundo do circuito das lutas de rua para conseguir dinheiro e ajudar a família de seu irmão.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Alvo - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oSA2dPUhF3y1rlTG9CDgaqN0vYQ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Chance Bondreaux (Jean-Claude Van Damme) é um estivador que trabalha no cais de Nova Orleans e que ajuda Natasha Binder (Yancy Butler), uma advogada, a encontrar seu pai desaparecido. Em sua investigação Chance descobre uma quadrilha que negocia pessoas, caçando mendigos e ex-combatentes em um safari mortal. É quando ele decide combater Emil Fouchon (Lance Henriksen), o chefe do negócio, e seus capangas.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Grande Dragão Branco - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y9Qp6ngGWc0lxhwNfzrLEtAUE0z.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/hG3FB0QinW9Lrj2HNC49N7C36cy.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O soldado americano Frank Dux vai a Hong Kong para ser aceito no Kumite, uma competição de artes marciais altamente secreta e extremamente violenta. Enquanto tenta ganhar acesso ao mundo subterrâneo dos combatentes clandestinos, ele também tem que fugir dos oficiais militares que o consideram um desertor. Depois de suportar um treinamento difícil e começar um romance com a jornalista Janice Kent, é dada a Frank a oportunidade de lutar.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Vencer ou Morrer - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:f9b1d0d1280fb6feed5d1b228d4dcaee620ad941</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fDqNxiFdVZv1zSdhdjdAqK1rO7v.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um prisioneiro foragido, Sam (Jean-Claude Van Damme), tem o azar de estar sempre na hora certa no lugar errado. Arriscando sua liberdade tão duramente conquistada, ele ajuda uma bela viúva (Rosana Arquette), contra um inescrupuloso construtor que quer sua terra. Caçado pela polícia e pelos assassinos contratados pelo empresário, Sam tem que se defender a qualquer custo para sobreviver.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] Anaconda - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
