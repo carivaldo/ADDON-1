@@ -18,7 +18,8 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] MacGyver - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:3b247f97b8d03fdc8b65523899e22808d2a47704$$lsname=[COLOR lime]720P EP01E02[/COLOR] - DUBLADO</maglink>>
+1   <maglink>magnet:?xt=urn:btih:a87ca07cbd0f7accc6b7122ec36ee96c2d097a78$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:18fcb0f9014c5863d0de03449f5957d9f1d7d06f$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink> 
 1   <maglink>magnet:?xt=urn:btih:87E28541F6FDB19A6DA2D970265A21707CC12AF7$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:C7F1505E20118E2BEF58F5D138EC3B03FE40996F$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:0E21186E88836EF609CDC830CF5468C6ECF9875D$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
