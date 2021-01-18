@@ -1420,21 +1420,21 @@
 <info>Explore a casa misteriosa e perigosa do rei dos macacos enquanto uma equipe de exploradores se aventura no fundo da ilha traiçoeira e primordial.</info>
 </item>
 
-
-
-<item>
-<title>[B][COLOR blue]HULK - [COLOR red](2003)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E&dn=hulk+2003+brrip+1080p+dual+audio+1046&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KLF8WwMHdPcF7cChJ__TgRE3nHh5oi6H/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogCQV6mnLtCJuiiHtMB83jvSRfY.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/biED5BtLphULJdY8deefHOEnVAK.jpg</fanart>
-<info>Bruce Banner, um pesquisador de genética com um passado trágico, sofre uma exposição massiva à radiação em seu laboratório, que o leva a se transformar em um monstro verde furioso quando fica com raiva.</info>
-</item>
+   <item> 
+1   <title>[B][COLOR blue] HULK - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fqQyJjfpnR9RRjFMcIBuJt8IoL8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais[/COLOR][/B]</info>	
+  </item>  
+  
 
 <item>
 <title>[B][COLOR blue] planeta dos Macacos origem - [COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6d56ab5ae66539fb1f1eab22570a812c49aa21&dn=Planeta+Dos+Macacos-A+Origem-720p-HD-Dublado.210GJI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L28a2U3krkFLCVtR3XXpt4ytR4d184jz/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j87XPCcAnJUnjQ0gvZoWS6XQpfh.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4ZyVdTzUSnxWFl8r4rjHPLVr0Dg.jpg</fanart>
 <info>O cientista Will Rodman está determinado a encontrar uma cura para a doença de Alzheimer, a doença que lentamente consumiu seu pai. Will tem certeza de que está próximo de um avanço e testa seu soro mais recente em macacos, notando aumentos dramáticos na inteligência e na atividade cerebral nos indivíduos primatas - especialmente Caesar, seu chimpanzé de estimação.</info>
