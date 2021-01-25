@@ -2,7 +2,16 @@
 
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] A Invasão - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:323C26AE31FAAD43A9628FEDE854577383590A0E</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVEtyz4vz73znb3MaBYGJDumOBM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oJ597dVjLMICx56clM7iy3AUUsA.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Zane Ziminski (Charlie Sheen), um astrônomo, capta sinais do espaço sideral. Como acredita que estejam sendo enviados por uma vida inteligente reporta ao seu superior, Phil Gordian (Ron Silver), que alega uma desculpa e o demite, destruindo em seguida a gravação dos sons. Mas Zane decide investigar os sinais por conta própria e capta sinais semelhantes vindos do México. Ele deduz então que estes sinais possam ser uma "conversa" com alienígenas escondidos na Terra e já em uma aldeia mexicana se une a Ilana Green (Lindsay Crouse), uma cientista que tem suspeitas de algo estranho após testemunhar uma aceleração do efeito estufa.[/COLOR][/B]</info>	
+  </item>  
+  
 
 <item> 
 1   <title>[B][COLOR blue] Tropas Estelares - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
