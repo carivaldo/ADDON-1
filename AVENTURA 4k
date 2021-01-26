@@ -1,5 +1,94 @@
   
+   <item> 
+1   <title>[B][COLOR blue] A Máscara do Zorro - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:71bcf7a5a9406b437dd42b442ca9b558809a40b7</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkHYspXHYZHdrkXxtgb7hXZUg2I.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/aHGKoO7hltEdjH9o4pTaKVftqZT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois que sua esposa é assassinada e sua filha levada por seu maior inimigo, Don Diego (Anthony Hopkins) passa mais de 20 anos na prisão. Quando consegue fugir, toma o ladrão Alejandro Murrieta (Antonio Banderas) como pupilo a fim de transformá-lo em um novo Zorro e, com isso, vingar-se de seu antigo desafeto.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] A Lenda do Zorro - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:e56044f23f1cd08cef0d9c9ccc4af4cb28aa0f66$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:ba5f627ecceeeced778099ac1e52f46f32e70b26$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eCebbqmTsIiKJDSsjkr1BjgWDot.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Don Alejandro de la Vega divide seu tempo agindo como o lendário justiceiro Zorro e cuidando da mulher e do filho. Dessa vez, o espadachim mascarado precisa enfrentar um conde europeu que está intimidando os moradores da Califórnia.[/COLOR][/B]</info>	
+  </item>  
   
+
+   <item> 
+1   <title>[B][COLOR blue] Robin Hood: A Origem - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:58F65238D3E28A117F7819ADE9F45261961CF9CF$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3BF944694B69FB7A528587C8C54EF5C1C659BAC8$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:649729908B71B670A000D7024277B04E225E1621$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A origem da famosa lenda sobre o ladrão que rouba dos ricos para dar aos pobres é contada a partir de quando Robin Hood (Taron Egerton) volta das Cruzadas e surpreende-se ao encontrar a Floresta Sherwood infestada de criminosos. Ele não deixará que as coisas permaneçam desse jeito e contará com a ajuda de John (Jamie Foxx) e Marian (Eve Hewson) para trazer justiça à cidade.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Robin Hood - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0ed9dedc9a3b78b45d6443b4b7a675b1eb22b305</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/p3eGNIfWnNp31i4NeJNMPnc1BoY.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Robin Longstride (Russell Crowe) integra o exército do rei Ricardo Coração de Leão (Danny Huston), que está em plenas cruzadas. Após a morte do rei, ele consegue escapar juntamente com alguns companheiros. Em sua tentativa de fuga eles encontram Sir Robert Loxley (Douglas Hodge), que tinha por missão levar a coroa do rei a Londres. Loxley foi atacado por Godfrey (Mark Strong), um inglês que serve secretamente aos interesses do rei Filipe, da França. À beira da morte, Loxley pede a Robin que entregue a seu pai uma espada tradicional da família. Ele aceita a missão e, vestido como se fosse um cavaleiro real, parte para Londres. Após entregar a coroa ao príncipe João (Oscar Isaac), que é nomeado rei, Robin parte para Nottingham. Lá conhece Sir Walter (Max von Sydow) e Marion (Cate Blanchett), respectivamente pai e esposa de Loxley.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Robin Hood - O Príncipe dos Ladrões - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2SXCC6A2EGGN3OY5LL4NLDB32NJAD4I7</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/original/3IutrlqLAOySvpiQQquXNkdn8g1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vuh2PRV3Zn429nHAL6mDCJh4yzT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após voltar de uma Cruzada Robin de Locksley (Kevin Costner), um jovem cavaleiro, descobre que seu pai, Lorde de Locksley (Brian Blessed), foi morto pelos seguidores do xerife de Nottingham (Alan Rickman), que por sua vez é partidário do Príncipe João, que tudo fará pra que Ricardo Coração de Leão (Sean Connery) não volte ao poder. Robin é visado pelos usurpadores e foge, mas sempre acompanhado por Azeem (Morgan Freeman), um mouro que lhe deve a vida. Eles vão parar na Floresta de Sherwood, onde são atacados por camponeses que, para sobreviver, atacam os asseclas do xerife. Logo Robin e Azeem se unem ao bando e planejam trazer Ricardo de volta ao poder. Em meio à sua luta, Robin é ajudado por Marian (Mary Elizabeth Mastrantonio), uma bela donzela por quem se apaixona.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Os Três Mosqueteiros  - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a9f88de9947ece5f3b14f75a2fdb105c7cce1df5</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJy0zURpPTi1TLC1PQOmLlTwDiH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/lD2Ff54uT4jVdJ1bzQCluinBOoO.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]D'Artagnan (Logan Lerman) é um jovem do interior treinado pelo pai para se tornar um mosqueteiro. Ele segue para Paris para realizar o sonho, mas logo enfrenta problemas devido ao seu pavio curto. Após esbarrar com Athos (Matthew Macfadyen), Aramis (Luke Evans) e Porthos (Ray Stevenson), D'Artagnan agenda duelos com eles para o mesmo dia. O quarteto acaba lutando junto contra os guardas do cardeal Richelieu (Christoph Waltz), o que faz com que o jovem se aproxime do trio de amigos. Athos, Portos e Aramis atualmente estão desanimados e sem função definida, após serem traídos pela Milady (Milla Jovovich) em uma missão em Veneza. Eles voltam à ativa ao lado de D'Artagnan quando Richelieu e Milady tramam contra a rainha Anne (Juno Temple), tentando forjar um romance entre ela e o Duque de Buckingham (Orlando Bloom). O objetivo é que a situação faça com que o povo perceba a fragilidade do rei Louis (Freddie Fox) e queira um monarca de mais força, sendo a chance sonhada para que Richelieu assuma o poder.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] O Homem da Máscara de Ferro - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:D315F2D0D830DF5CDCC65D675D28F9284A26CCD6</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k9urO3enqeMgSjb6br1iSUj4Wq7.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/uhhtglfXNaTavkKtjer38qHLfVi.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No século XVII, o cruel Luís XIV (Leonardo DiCaprio) manda clandestinamente para a masmorra o irmão gêmeo que ninguém sabe existir, para tomar o poder. Mas o mosqueteiro Aramis (Jeremy Irons) descobre o segredo e convence seus companheiros a salvar o prisioneiro.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Os Três Mosqueteiros - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:c969470ad01e3c43c3791444623663f545189c3c</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/36oQSvihSmp3xznpwyC3M0z9l3t.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fCjDKLoaUpl4FJp7bqUHovHRNnW.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ignorando que os Mosqueteiros do Rei, em virtude de uma manobra política que visa obter o trono da França, não mais existem, o jovem D'Artagnan (Chris O'Donnell) planeja tornar-se um mosqueteiro. Em sua aventura conhece Athos (Kiefer Sutherland), Aramis (Charlie Sheen) e Porthos (Oliver Platt), leais ao monarca, e juntos acabam descobrindo um plano do cardeal Richelieu (Tim Curry) para matar a realeza francesa.[/COLOR][/B]</info>	
+  </item>  
+  
+
     <item> 
 1   <title>[B][COLOR blue] A Múmia - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
