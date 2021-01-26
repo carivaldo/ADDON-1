@@ -41,6 +41,29 @@
 
 
 
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] Carcereiros  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/2ijXdHRXcgOvFrAeDoQVE0I7Y9E.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n1LXU1s2DY13rWkqtGZsZrmgev.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] Série em 12 episódios baseada na obra do escritor Dráuzio Varella de mesmo nome, que vai contar histórias de dentro dos presídios sob a perspectiva dos carcereiros. O projeto pretende mesclar dramaturgia com documentário, trazendo depoimentos reais de carcereiros e também mostrando a vida pessoal e a rotina desses profissionais. O protagonista é Adriano (Rodrigo Lombardi), de 40 anos, que, apesar de ser formado em história, decide seguir a carreira do pai e vira carcereiro. Esse personagem seria interpretado inicialmente por Domingos Montagner.A direção é de José Eduardo Belmonte (Alemão), produção de Fernando Grostein Andrade (Quebrando o Tabu), Caio e Fabiano Gullane; e o roteiro de Marçal Aquino (O Cheiro do Ralo, Supermax) e Fernando Bonassi (Carandiru, Cazuza: O Tempo Não Pára, Supermax).As gravações estão previstas para outubro de 2016 e a estreia da série na Rede Globo para janeiro de 2017.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Carcereiros - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:27b18eec2ab77fddcecfbfdc2e24b3d076e24337</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n1LXU1s2DY13rWkqtGZsZrmgev.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/2ijXdHRXcgOvFrAeDoQVE0I7Y9E.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red] Série em 12 episódios baseada na obra do escritor Dráuzio Varella de mesmo nome, que vai contar histórias de dentro dos presídios sob a perspectiva dos carcereiros. O projeto pretende mesclar dramaturgia com documentário, trazendo depoimentos reais de carcereiros e também mostrando a vida pessoal e a rotina desses profissionais. O protagonista é Adriano (Rodrigo Lombardi), de 40 anos, que, apesar de ser formado em história, decide seguir a carreira do pai e vira carcereiro. Esse personagem seria interpretado inicialmente por Domingos Montagner.A direção é de José Eduardo Belmonte (Alemão), produção de Fernando Grostein Andrade (Quebrando o Tabu), Caio e Fabiano Gullane; e o roteiro de Marçal Aquino (O Cheiro do Ralo, Supermax) e Fernando Bonassi (Carandiru, Cazuza: O Tempo Não Pára, Supermax).As gravações estão previstas para outubro de 2016 e a estreia da série na Rede Globo para janeiro de 2017.[/COLOR][/B]</info>	
+</item>	
 
 
 
