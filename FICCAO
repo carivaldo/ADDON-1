@@ -1,6 +1,14 @@
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] O Núcleo - Missão ao Centro da Terra - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:DA824CC4A365B112C810D1456576785A5A287DD5</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8fgCPqrF94rfXw4cSJjexxcGL8l.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oEQo8dU4u9SkWnRfzqH6ewgjxyP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Repentinamente a Terra parou de realizar seu movimento de rotação, devido a uma força ainda desconhecida que está agindo sobre o planeta. A paralização traz consequências desastrosas para o planeta, já que proporciona a deterioração do magnetismo da Terra e, consequentemente, também de sua atmosfera. Para tentar descobrir o que está havendo e resolver a crise o geofísico Josh Keyes (Aaron Eckhart) escala uma equipe com alguns dos mais brilhantes cientistas do planeta, que tem por missão ir até o núcleo da Terra para reativar a rotação do planeta.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] A Invasão - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
