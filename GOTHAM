@@ -80,7 +80,7 @@
 <name>[B][COLOR red]• [COLOR blue] GOTHAM  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail> 
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/COLOR][/B]</info>		
 <item>
