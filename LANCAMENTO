@@ -1,5 +1,43 @@
 
 
+
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Apanhador de Pesadelos - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:E8BDCCBE3BF98E2477E56E7861CBA4157001AB9C$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:ED6E08FA164172D0ABDC170F71BB5AEF22BCD9E6$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEPlsJ8Tko01i1LLBSehVYJcWWU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wRreALASTO4nXsrJKTwqTLyNjal.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Neste aterrorizante thriller de terror, Gail (Radha Mitchell, Silent Hill) é forçada a entrar em acordo com Josh, seu novo enteado, em uma remota casa de campo. Depois de roubar um talismã maligno de um vizinho misterioso, Josh tem sonhos sinistros de sua mãe morta – que ordena que Josh assassine Gail. Quando o pai de Josh (Henry Thomas, “A Assombração da Casa da Colina”) retorna, ele e Gail suspeitam que seu filho tenha sido possuído por um espírito antigo e sedento de sangue. É tarde demais para salvar a vida de Josh – ou a deles?[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] O Caçador de Recompensas  - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:00b5d4f095d4b69ee6e61852a2f3ca4be1119021</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/td0uLMhr67ateeoUZRQZYIqzp2B.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wVNAjyRdbZgGMOdXrBMDH7L1pEG.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Assombrado pelas memórias e horrores da Guerra Civil, um ex-soldado vive como caçador de recompensas. Quando duas crianças pedem sua ajuda para encontrar a mãe desaparecida, o cowboy deve enfrentar seu passado e capturar um antigo inimigo.[/COLOR][/B]</info>	
+  </item>  
+  
+
+   <item> 
+1   <title>[B][COLOR blue] Posto de Combate - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ac485f2dd05ec1120be16302db28dd198fec58c8$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:6a2f3b2df4e66b41f9746788a600872588153f39$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/iU8nuYSdxhDRBh2WPGK7UmXQtEs.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Baseado em fatos verídicos, narra a história de 54 soldados dos EUA enviados para um posto avançado de combate numa localização remota no Afeganistão. Contra todos os obstáculos, a unidade de soldados terá de enfrentar o ataque das forças Talibans, no mais sangrento combate americano da Guerra do Afeganistão. A Batalha de Kamdesh foi o único ato de bravura da Guerra do Afeganistão galardoado com a mais alta patente de valentia militar, numa guerra que já tem 18 anos de duração.[/COLOR][/B]</info>	
+  </item>  
+  
+
    <item> 
 1   <title>[B][COLOR blue] Mulher-Maravilha 1984 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
