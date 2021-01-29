@@ -1,6 +1,41 @@
 
 
 
+
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Os Deuses Devem Estar Loucos - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:415EFAD41277624805E1B20CEDA896719A9E3EB4</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDcEF2jTOj5Enooa1flPyAVpCSb.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/nUbWdUmVxln18ZWi8spqInbTQ0J.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Uma garrafa de Coca-Cola, jogada de um avião faz os nativos acreditarem que é um presente dos deuses, mas como isto gera uma série de brigas, eles decidem devolvê-la aos deuses, escolhendo um dos nativos para fazer a devolução.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Os Deuses Devem Estar Loucos 2 - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:fbf81a6109b39d6fba1b73c334457521f1a12044</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g1VqUvtd2Cli7Rfd6sHiQrD8Gt9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rdwuqtcDBq5501wHjvcVikgmox6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Os dois filhos de um nativo caem dentro de um caminhão-tanque cheio de água, que pertence a caçadores ilegais que matam elefantes para ficarem com o marfim. Assim, seu pai vai procurá-los e acaba encontrado uma advogada de Nova York e um zoólogo, que ficaram perdidos quando o pequeno avião no qual estavam sofreu uma pane sobre a selva africana. Além disto, dois soldados que lutam o tempo todo para capturar um ao outro surgem no caminho deles. No meio desta confusão, o choque cultural entre os "civilizados" e os "selvagens" se faz presente.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Os Deuses Devem Estar Loucos 3 trilogia - [COLOR red]ADDON BXL [COLOR red](1980-1989-1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:562F89DFA22BAC30DF21ACD1FFC13D49BC15D0C6</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eV50NCjkJpoX5rkrDZTpF5ByRxI.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/otq0Et6zuiA5uyuduNSqkiVfwp3.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O ator aborígine africano N!xau é convidado para participar de corrida na Muralha da China. E acaba encontrando e fazendo amizade com divertido urso panda que é caçado pelos organizadores do evento.[/COLOR][/B]</info>	
+  </item> 
+
    <item> 
 1   <title>[B][COLOR blue] Um Amor à Altura - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
