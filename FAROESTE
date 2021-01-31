@@ -9,7 +9,16 @@
 
 
 
-
+  
+   <item> 
+1   <title>[B][COLOR blue] Billy The Kid: O Fora da Lei - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a91391a307d41b74bc331439d9424ac34374f081</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8zWFMU70cFbKZ45QWQnsfxV1RPz.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/x7fTahEtTQbbmy4M6XQMrXfLKr6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No Velho Oeste, Rio Cutler é um jovem garoto que mata o pai para proteger a mãe da violência dentro de casa. Quando seu tio Grant descobre, ele inicia uma violenta caçada pelo menino que foge com a irmã Sara. Logo, a dupla se vê em meio a um embate memorável entre o fora da lei Billy 'The Kid' e o xerife Pat Garrett, deixando tudo ainda mais caótico.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] Wyatt Earp - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
