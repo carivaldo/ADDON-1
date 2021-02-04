@@ -3,6 +3,48 @@
 
 
 
+
+   <item> 
+1   <title>[B][COLOR blue] O Corcel Negro - [COLOR red]ADDON BXL [COLOR red](1979) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4780955148d82c614f7aeacb694774f8fb227855</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1v9aB9b5j1kkoedcJhTyjdkdVZs.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/t2HUHc1BReIoQG0GlLwMisvOvYt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ao viajar com seu pai, o jovem Alec fica fascinado por um misterioso garanhão árabe que é trazido para bordo e empatado no navio em que ele está navegando. Quando afunda tragicamente, ele e o cavalo sobrevivem apenas para ficarem presos em uma ilha deserta. Ele faz amizade com ele, então quando finalmente resgatados, ambos retornam para sua casa, onde logo encontram Henry Dailey, um treinador que já foi um sucesso. Juntos, eles começam a treinar o cavalo para correr contra os mais rápidos do mundo.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Bruce Lee - O Dragão Chines - [COLOR red]ADDON BXL [COLOR red](1972) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7F65D22B7B8D7AFABBB11E4E24DD405351DC9AF2</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gvUfEe3maCIO6ECQM14OKt9mH7u.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/b4GbXv9ziSC3Q1eSAgn4dP5ynhB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Levado por seu tio a Bancoc para viver com os primos, o jovem Cheng passa a trabalhar na fábrica de gelo local, cujo proprietário está envolvido com tráfico de drogas e prostituição. Com a escalada da violência, Cheng revela-se profundo conhecedor das artes marciais e enfrenta a quadrilha inteira.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Vôo do Dragão - [COLOR red]ADDON BXL [COLOR red](1972) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:AAKDC23BLO2NKZZBIONA5JQQBKOOTJJ3</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/PoO9Wbu6w5suAZT3COipyUgKfk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/et9G1ftzPo3KDolLEnOEbxA44oP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tang Lung viaja até a Itália para proteger sua amiga e dona de restaurante Cheng Ching Hua, que está sofrendo a extorsão de uma quadrilha para vender o local. Quando o chefe do bando vê o jovem lutador vencert todos os seus capangas, manda vir dos EUA um respeitado campeão mundial de karatê, Colt, para uma violenta luta final em pleno Coliseu.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Bruce Lee - Coleção com Todos os Filmes - [COLOR red]ADDON BXL [COLOR red](1972) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:50A7CE4C9247C99706E27FF4585FFA40EB3B5A70$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:50A7CE4C9247C99706E27FF4585FFA40EB3B5A70$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/original/zQygvJ0hsU5xvIttNlZU3aKgMQt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7AIITQ624sfldI4SsX4htXPH1f.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Coleção com todos os filmes do ator Bruce Lee. Testemunhe os filmes de um homem que se tornaria uma lenda … um ícone … Bruce Lee Esta coleção inclui seis dos filmes que faria dele um dos mais importantes artistas marciais nunca para enfeitar a tela. Os filmes desta coleção são: O Dragão Chines, A Furia Do Dragão, O Vôo Do Dragão, Operação Dragão, O Jogo Da Morte e o Jogo da Morte 2.[/COLOR][/B]</info>	
+  </item> 
+
    <item> 
 1   <title>[B][COLOR blue] Duplo Impacto - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
