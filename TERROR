@@ -1,8 +1,25 @@
 
 
+   <item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:be3d828b0bd8fbbbeb3c22a311f07ecaf969dea1</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4sz49mBrnUKovDWvnfzNl2buOsQ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/qJxSCLGqkSdlvDBIbPqCnCnvV70.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Michael Kovak (Colin O’Donoghue) é um seminarista cético e decidido a abandonar seu caminho na igreja, mas seu superior o orienta a passar um período no Vaticano para estudar rituais de exorcismo. Uma vez lá, suas dúvidas e questionamentos só aumentam na medida em que seu contato com o padre Lucas (Anthony Hopkins), um famoso jesuíta exorcista, o apresenta ao lado mais obscuro da igreja. Ao conhecer a jornalista Angeline (Alice Braga), que investiga as atividades do religioso, suas reflexões sobre a crença no diabo e em Deus não param de crescer.[/COLOR][/B]</info>	
+  </item> 
 
-
-
+   <item> 
+1   <title>[B][COLOR blue] Legião - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7FA21EC940C72D8C6EDE4D394AAC8E90D00825E7$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:F21F35CFDEFDBA55B6F7A1EF66B5BC191317D847$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4w83G68shLcuFcHaWfdPxPu1pUA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/5739NMdQF4HObAywXCNzPar7HTt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Deus perdeu a fé na humanidade e enviou o anjo Michael (Paul Bettany), juntamente com uma legião de anjos, para dar início ao apocalipse. Entretanto, ao chegar Michael resolve se opor às ordens recebidas e proteger os humanos. O palco da batalha será no interior dos Estados Unidos, onde fica uma lanchonete gerenciada por Bob Hanson (Dennis Quaid) e seu filho Jeep (Lucas Black). Juntamente com Charlie (Adrianne Palicki), uma garçonete grávida, e Percy Walker (Charles S. Dutton), eles precisam encontrar um meio para sobreviver aos anjos que desejam exterminá-los a todo custo.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] Um Lugar Silencioso - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
