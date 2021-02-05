@@ -1,4 +1,33 @@
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <item> 
+1   <title>[B][COLOR blue] O Chamado - Duologia  - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:99ACDCFA6400669926CDCF289AE8EEC483E16541</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xMW78a0E0dNJ6V0dFuI2vj2uQc5.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7lBcccy3VbGMwU0MpU186IoV1Xv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Rachel Keller (Naomi Watts) é uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relação da morte dela e de várias outras mortes com um estranho vídeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a história, ela agora precisa descobrir um meio que impeça que a profecia se realize, já que ela e seu filho assistiram ao vídeo.[/COLOR][/B]</info>	
+  </item>
+  
+     <item> 
+1   <title>[B][COLOR blue] O Chamado 3 - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:76AC5FE4A60F2D25F965C76EA4A19F4BC6537381</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wLpxG6hhhXcPHOoklsNDKnJtsAK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Julia (Matilda Anna Ingrid Lutz) fica preocupada quando seu namorado, Holt (Alex Roe), começa a explorar a lenda urbana sobre um vídeo misterioso. Lenda esta que diz que quem assiste morre depois de sete dias. Ela se sacrifica para salvar seu namorado e acaba fazendo uma descoberta terrível: há um "filme dentro do filme" que ninguém nunca viu antes.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] O Ritual - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
