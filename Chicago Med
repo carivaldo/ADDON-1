@@ -858,3 +858,28 @@
 20	<info>[B][COLOR blue] SINOPSE:
 [COLOR red]A convicted murderer’s escape hits close to home when several members of the team find themselves in danger. Dr. Charles and Dr. Halstead continue to clash over patient treatment plans. Dr. Choi and April discover the truth about a patient’s scam. Maggie finally receives some good news. (ADDON BXL)[/COLOR][/B]</info>	[COLOR red]A convicted murderer’s escape hits close to home when several members of the team find themselves in danger. Dr. Charles and Dr. Halstead continue to clash over patient treatment plans. Dr. Choi and April discover the truth about a patient’s scam. Maggie finally receives some good news. (ADDON BXL)[/COLOR][/B]</info>
 </item>
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] Chicago Med [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</name>
+1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1  <fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
+1  <thumbnail>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Chicago Med - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:SH7FB75QZVWUFOGB33AKDX6BN3J47FNQ$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:OTR4IOSV3CMWUTYSRGWOHUTOLYPY7IRS$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.[/COLOR][/B]</info>	
+</item>
