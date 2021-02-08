@@ -136,16 +136,7 @@
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BLINDSPOT  - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:411fd13a9bd01b6601773313edb634d8ec930905$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9f6c570dcfd4a2771cc08f2070315f7265e5d497$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:551aa1d39f8d863a34889cc6fb37842a0b9abe73$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:d9759c150554530d281b4b5596ceb328cea17ee0$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:c6b254fcaaeadab861e4d2b7c830c530e86271be$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:4da1d65d722f85c2b1c49080efe3ef85f14ff5a1$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:0ed79f3816752f56bdeb624996a0f10189f3c53f$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:8f8fd044cdea73b0c3e4d7a854102c925194c51d$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:3f143b683b63973809c269aa9301da131ef492d1$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:eaa2b7ff2aa57b7dd62aa468234665549f876d63$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/zz7CpOzpqRpbb53UYrJeJQaadFq.jpg</fanart>
