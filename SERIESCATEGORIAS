@@ -122,7 +122,20 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
+channels>
+<channel>
+<name>[COLOR blue]FBI: Os Mais Procurados[/COLOR]</name> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%20%20Most%20Wanted</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info>Uma equipe do FBI se dedica a rastrear e capturar criminosos que estão no topo da lista de foragidos da organização.<info>
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 
 channels>
@@ -157,12 +170,6 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-
 channels>
 <channel>
 <name>[COLOR blue]Expresso do Amanhã [/COLOR]</name> 
@@ -178,10 +185,6 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-
-
-
-
 channels>
 <channel>
 <name>[COLOR blue]SEAL Team[/COLOR]</name> 
@@ -190,6 +193,11 @@ channels>
 <fanart>https://www.themoviedb.org/t/p/original/iCBMJZFsdXALgpS121qu4CAe2Sa.jpg</fanart>
 <info>O SEAL Team é responsável pelas missões mais perigosas dos EUA. Acompanhe as trajetórias dos agentes desta equipe da Marinha americana.<info>
 
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 channels>
 <channel>
@@ -222,22 +230,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
  
-
-
-channels>
-<channel>
-<name>[COLOR blue]FBI: Os Mais Procurados[/COLOR]</name> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%20%20Most%20Wanted</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
-<info>Uma equipe do FBI se dedica a rastrear e capturar criminosos que estão no topo da lista de foragidos da organização.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+ 
 
 channels>
 <channel>
