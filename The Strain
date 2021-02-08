@@ -1,0 +1,79 @@
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] The Strain  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/A7iCxAatOrHLy7orsEOqhRmI2QQ.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BWErT9QcADpf2G4BZ769eSnFTP.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Strain - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:7ADADCB9AB4AE9ED7076919CE7D7E53FEF74FB0F</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BWErT9QcADpf2G4BZ769eSnFTP.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/A7iCxAatOrHLy7orsEOqhRmI2QQ.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] The Strain  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/6yv0lMuiB4hwCnTsLu3ltduKa60.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GSIv2wa5CM16QccujCYTr4WYye.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada completa e dublada The Strain. Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Strain - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1    <maglink>magnet:?xt=urn:btih:26A7ABF5F334440E1D26BE9D608AED4185F18A10</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GSIv2wa5CM16QccujCYTr4WYye.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/6yv0lMuiB4hwCnTsLu3ltduKa60.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada completa e dublada The Strain. Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+<channels>
+</channels><channel>
+<name>[B][COLOR red]• [COLOR blue] The Strain  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1	<fanart>https://www.themoviedb.org/t/p/original/o44mYQGRqZv1HGAJSV2SklGk7vD.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mheTNnmbwJjbgXP6ov5DNRiA1la.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Quarta temporada completa e dublada da série The Strain Noite Absoluta. Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>		
+<item>
+
+
+
+****************************************************************************************************
+<item>	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Strain - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:AE2BE3F9F477261145EDE4CAE732355236456D3F$$lsname=[COLOR lime]720P EP01ao 05[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ABA31386FE474A6150C568AE85D8709EFD486167$$lsname=[COLOR lime]720P EP06AO10[/COLOR] - DUBLADO</maglink>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mheTNnmbwJjbgXP6ov5DNRiA1la.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/o44mYQGRqZv1HGAJSV2SklGk7vD.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Quarta temporada completa e dublada da série The Strain Noite Absoluta. Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar.[/COLOR][/B]</info>	
+</item>
+
+
+
+
+
+
+
