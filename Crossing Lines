@@ -29,7 +29,7 @@
 <name>[B][COLOR red]• [COLOR blue] Crossing Lines   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/8yqeBu7XCSP4JywFetMp52HQq3O.jpg</fanart>
-1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
+1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail> 
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Crossing Lines todas as temporadas completas e dubladas da série. Criada por Ed Bernero (Criminal Minds) e Rola Bauer, a série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break).[/COLOR][/B]</info>		
 <item>
