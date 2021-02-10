@@ -95,7 +95,7 @@
 1   <title>[B][COLOR blue] Stargate - A Chave para o Futuro da Humanidade  - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:34F847AAA78E88EE3442096E3152D18230D07663</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyTqTETiXncfESLyKfkgEs7qg7d.jpg</thumbnail>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyTqTETiXncfESLyKfkgEs7qg7d.jpg</thumbnail> 
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/34wSdldOfJ43JXXraD4GxkdX0j1.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um egiptólogo (James Spader) não-reconhecido por suas teorias é convidado a trabalhar em uma base secreta e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele descobre a chave para se chegar a um novo mundo, pois aquele anel é um portão estelar e, junto com uma pequena tropa de elite, atravessa o portão e se vê diante de uma experiência e uma aventura inimaginável.[/COLOR][/B]</info>	
