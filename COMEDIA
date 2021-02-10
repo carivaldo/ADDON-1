@@ -2,9 +2,25 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Mudança de Hábito - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A7ACE63BC95E57C8A695C5688E735D431D54A09B</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUOX7ATkXq1R5QpmIXZ5rXT9NOX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/kD7xULCfRdWwK2psyYNPJsQeR9c.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em Reno, Nevada, Deloris Van Cartier (Whoopi Goldberg) é uma cantora que acidentalmente testemunha um brutal assassinato cometido pelo seu namorado, Vince LaRocca (Harvey Keitel), um gângster. Enquanto tentam capturar Vince, um detetive, Eddie Souther (Bill Nunn), é encarregado de protegê-la. Deloris é colocada no programa de proteção às testemunhas e é mandada para um convento em São Francisco disfarçada de freira, usando o nome de irmã Mary Clarence.Mas seu jeito extrovertido, que não é aprovado pela Madre Superiora (Maggie Smith), acaba fazendo ela dar uma nova vida ao coral, chamando a atenção das pessoas e de Vince.[/COLOR][/B]</info>	
+  </item>
 
-
-
+   <item> 
+1   <title>[B][COLOR blue] Mudança de Hábito 2: Mais Loucuras no Convento - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5AD72C66FF85AB5CA2B9977A33E0A44451868BB0</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Zl3wQzgqG4lnA4TfFRU7W7bpMA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/vgVzQyOVU5QDSbEPkilPVg8IS41.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Deloris Van Cartier (Whoopi Goldberg) agora é uma cantora famosa e retorna a São Francisco para ajudar suas amigas freiras. Sua missão é dar aulas de música para adolescentes rebeldes que estudam em um colégio barra-pesada da vizinhança. Para piorar, o local corre o risco de ser fechado.[/COLOR][/B]</info>	
+  </item>
 
    <item> 
 1   <title>[B][COLOR blue] Os Deuses Devem Estar Loucos - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
