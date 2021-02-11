@@ -1,5 +1,18 @@
 
 
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] Relatos do Mundo - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2f78916b59e0bfd34c87f286ffb0b56af22a9449</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fJyHzq0ZWmXj2HJZWqSxEu4rh3v.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No ano de 1870, o Capitão Jefferson Kyle Kidd, um viúvo que já lutou em duas guerras, viaja através do Texas oferecendo notícias do mundo para as pessoas, apesar dos jornais estarem se tornando cada vez mais acessíveis. Ele aceita uma proposta para levar uma menina de 10 anos, Johanna, até seus familiares. Criada pela tribo Kiowa, ela não conhece sua família e tem um comportamento hostil com as pessoas ao seu redor, mas acaba criando um vínculo com Kidd, forçando os dois a lidarem com as difíceis escolhas sobre o futuro.[/COLOR][/B]</info>	
+  </item> 
   
    <item> 
 1   <title>[B][COLOR blue] Abaixo de Zero - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
