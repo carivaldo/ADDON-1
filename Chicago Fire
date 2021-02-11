@@ -1690,6 +1690,7 @@
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:FVBGDNCSND2SPZAJRRF4QMMTC7X36MT6$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:FA6QXJPI2GNBJXYCLGO5LJ6BWS6HJVO5$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:37a1fef71f42ce283fb57f165636f95bf3c2f070$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/W5geO8tq68ng4TsXyZ81phcPiz.jpg</fanart>
