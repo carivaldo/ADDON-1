@@ -4,7 +4,15 @@
 
 
 
-
+   <item> 
+1   <title>[B][COLOR blue] Sahara - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4a6c8f2ebd342ea66220e13c242896fd79ea7453</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/32JjbBgpUj0AkhUMHNZAB56r4NM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/1bfoOW39at0CpYf4dyRUGETueDK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após encontrar uma moeda mitólógica, o explorador Dirk Pitt (Matthew McConaughey) parte em uma caça ao tesouro em uma das regiões mais perigosas do oeste africano. Dirk está em busca do que os nativos chamam de "navio da morte", um navio de batalha da época da Guerra Civil que está perdido há séculos e que pode ter carregado consigo uma carga secreta. Dirk recebe a ajuda de Al Giordino (Steve Zahn), seu parceiro de expedições. A dupla conhece a bela Dra. Eva Rojas (Penélope Cruz), uma pesquisadora que acredita que o navio possa estar ligado a um problema bem maior. Juntos eles tentam desvendar o mistério e encontrar o navio perdido.[/COLOR][/B]</info>	
+  </item
 
    <item> 
 1   <title>[B][COLOR blue] Malévola - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
