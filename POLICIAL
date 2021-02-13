@@ -4,15 +4,16 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] A FORTALEZA SEQUESTRADOS - [COLOR red]ADDON BXL [COLOR red](1985) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7f3b301988087fd000619908186ee22437c92a42&dn=A%20Fortaleza%20%20%20Sequestrados%20%28Fortress,%201985%29%20HD%20%20%20Dublado.rar.torrent&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Gun7X4CbfdzsLDhc0jFPO61gFt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/3zNStYTtc2JnkWY5huXnYyDEizM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A Fortaleza é um telefilme australiano, rodado no ano de 1985 e que conta a história de um grupo de crianças moradoras de uma aldeia, que tem sua escola invadida e junto com sua professora, são sequestradas por um grupo de mascarados, e presos numa caverna no meio da mata.[/COLOR][/B]</info>	
+  </item> 
 
-
-<item>
-<title>[B][COLOR blue][/COLOR] A FORTALEZA SEQUESTRADOS [/B][B]- [COLOR red]1985[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://www.googleapis.com/drive/v3/files/view1859MNlAHtGhMVvncVfHHCeSeMI99TfM3?usp=AIzaSyAweM7aLtdzugAWJ9U-JlcV6zl8e0FN7jE</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Gun7X4CbfdzsLDhc0jFPO61gFt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3zNStYTtc2JnkWY5huXnYyDEizM.jpg</fanart>
-<info>A Fortaleza é um telefilme australiano, rodado no ano de 1985 e que conta a história de um grupo de crianças moradoras de uma aldeia, que tem sua escola invadida e junto com sua professora, são sequestradas por um grupo de mascarados, e presos numa caverna no meio da mata.</info>
-</item>
 
    <item> 
 1   <title>[B][COLOR blue] Mentes Perigosas - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
