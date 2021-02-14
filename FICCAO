@@ -295,32 +295,6 @@
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Circulo de Fogo 2 (Pacific Rim: Uprising) dublado qualidade de Blu-Ray. Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.[/COLOR][/B]</info>	
   </item>  
   
-
-   <item> 
-1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglinkmagnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e>$$lsname=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/kvbbK2rLGSJh9rf6gg1i1iVLYQS.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando o mais terrível e narcisista vilão de Gotham, Roman Sionis (Ewan McGregor), e seu braço direito, Zsasz (Chris Messina), começam a caçar a jovem Cass (Ella Jay Basco), a cidade é virada de cabeça para baixo em busca da garota. Os caminhos de Arlequina (Margot Robbie), Caçadora (Mary Elizabeth Winstead), Canário Negro (Jurnee Smollett-Bell) e Renée Montoya (Rosie Perez) se encontram e o quarteto improvável não tem escolha a não ser um para derrubar Roman.[/COLOR][/B]</info>	
-  </item> 
-  
-   <item> 
-1   <title>[B][COLOR blue] Esquadrão Suicida  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ipeXnga37Y9TX697AKRqx8h7Yw.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/6Ljm3aMh07OrY11h51XrGr694oi.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?[/COLOR][/B]</info>	
-  </item>  
-  
-  
    <item> 
 1   <title>[B][COLOR blue] Eclipse Mortal - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
@@ -353,102 +327,6 @@
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Riddick, o homem mais procurado da galáxia, foi abandonado à própria morte em um planeta habitado apenas por animais selvagens. Ele deseja retornar ao seu planeta natal, mas como não tem uma nave precisa encontrar um jeito de sobreviver neste ambiente inóspito. A situação muda quando dois grupos de mercenários chegam ao planeta separadamente, ambos com o objetivo de capturar Riddick. Conhecendo muito bem os perigos do local, Riddick passa a usá-los a seu favor na tentativa de conseguir uma das naves para si.[/COLOR][/B]</info>	
   </item>  
   
-
-  <item> 
-1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.[/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] Superman II: A Aventura Continua  - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOpi5evcEfw5w9hn09Re1VWvI8.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/qz5WdxU1HryZnIlXh0kMBxSsKtL.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Involuntariamente três criminosos do Planeta Kypton (Terence Stamp, Sarah Douglas e Jack O'Halloran) com super-poderes fogem da prisão da Zona Fantasma com planos para escravizar o Planeta Terra – bem na hora em que o Superman (Christopher Reeve) decide investir em seu romance com Lois Lane (Margot Kidder).[/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] Superman III - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/jrVIVvgN37MeccHSfxqZlKE5hyK.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Superman (Christopher Reeve) enfrenta agora um computador diabólico, programado por um gênio da informática que pretende dominar o mundo.[/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] Superman IV: Em Busca da Paz  - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUBLocsfASNbVC2RueRGp1IPrmO.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/spFSZBt83uruCwedMN8HR2uFklI.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Para tornar o mundo um lugar seguro para os contrabandistas de armas nucleares, Lex Luthor (Gene Hackman) cria um novo tipo de desafio para o Homem-de-Aço: um vilão carregado de radiação e conhecido como Homem Nuclear (Mark Pillow). Esses dois seres superpoderosos se enfrentarão em um combate explosivo, que obriga Superman a salvar a Estátua da Liberdade, a impedir que o Monte Etna entre em erupção e a reconstruir a Grande Muralha da China.[/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] Superman - O Retorno - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITZTyXh88ylGFEePoLfz8iex8e.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/ed58Qrsde3osDoZStd9p2y0cq2i.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após alguns anos de um misterioso desaparecimento, Superman (Brandon Routh) retorna ao planeta Terra. Porém a situação em Metrópolis está bastante mudada desde que o Homem de Aço deixou o planeta, pois a cidade se acostumou a viver sem ele. Além disto Lois Lane (Kate Bosworth), sua grande paixão, seguiu sua vida após o sumiço do herói. Ao mesmo tempo em que precisa se adaptar à nova realidade, Superman precisa enfrentar um antigo inimigo, que planeja um meio de acabar com ele de uma vez por todas.[/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] O Homem de Aço - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red] Há anos enviado de Krypton, um avançado planeta alienígena, à Terra, Clark sofre com a derradeira questão: Por que estou aqui? Moldado pelos valores de seus pais adotivos, Martha e Jonathan Kent, Clark logo descobre que ter super-habilidades significa tomar decisões muito difíceis. Mas quando o mundo mais precisa de estabilidade, ele é atacado. E agora, suas habilidades serão usadas para manter a paz ou partir para um tudo ou nada?[/COLOR][/B]</info>	
-  </item>
-  
-
-<item> 
-1   <title>[B][COLOR blue] Batman vs Superman: A Origem da Justiça - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:9B3F85B8FCAA58561969DE6950C1508DE0A37075$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:91F6A046783EA2E0DBDC379B3BD86C7CFE999DD8$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj3CX2GT2A5MR6WnBWs4F4r7k6n.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/dasEWdFNSobYvY8xWcfz3z02kTu.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
-  </item>
-  
-
-  <item> 
-1   <title>[B][COLOR blue] Liga da Justiça - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5IpGz6M2QiH4MMWsVj4rfO6iyF.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.[/COLOR][/B]</info>	
-  </item>
-  
-
   <item> 
 1   <title>[B][COLOR blue] A Experiência - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
@@ -678,16 +556,6 @@
   </item>
    
  
-<item> 
-1   <title>[B][COLOR blue] Aquaman - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <maglink>magnet:?xt=urn:btih:8228067F427301C5EE2DEA5BF876C052C889F824&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%281080p%20-%20FULL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
-1    <maglink>magnet:?xt=urn:btih:35fc6484c100b2d55b1a351ccfe640089e78e162&dn=%7bWWW.BLUDV.TV%7d%20Aquaman%202019%20(720p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
-1    <maglink>magnet:?xt=urn:btih:DF6BEC12D1D67C1E058026099D8BCA8B396BCEF4&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%284K%20-%20HDR%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/zAnyDRoVoQcW7hQoJ7xDcAiCioE.jpg</fanart>
-1   <info>[B][COLOR red]SINOPSE:A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.[/COLOR red]</info>
-  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Matrix trilogia  - [COLOR red](1999) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
@@ -800,43 +668,6 @@ Após enfrentar os sentinelas no mundo real, Neo (Keanu Reeves) tem sua mente pr
 
 
 
-<item>
-<title>[B][COLOR blue] Guardiões da galáxia  - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.1%204K%202160p%20Tri%20Audio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Fan572ToqM-Hh1p33PPY8DyRam40Hmy/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kHex2XdOmGtazk1VfJjp4bl7BIc.jpg</fanart>
-<info>Anos-luz da Terra, 26 anos depois de ser seqüestrado, Peter Quill se vê o principal alvo de uma caçada humana depois de descobrir um orbe desejado por Ronan, o Acusador.</info>
-</item>
-
-<item> 
-1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red](2017) - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.%202%202017%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/co0LAS5Ml4CSzzXD5IN1pgpr1ei.jpg</fanart>
-1   <info>[B][COLOR red]SINOPSE:Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.
-[/COLOR red]</info>  
-</item>
-
-
-<item>
-<title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b&dn=Motoqueiro+Fantasma+%282007%29+720p+HD+Dublado+%2F+Dual+Audio+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+(2007)+720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4bHKA3jtDN1wYkOSbnehpS4HqKo.jpg</fanart>
-<info>Para salvar seu pai moribundo, o jovem ciclista de dublês Johnny Blaze vende sua alma a Mefistófeles e, infelizmente, parte da pura Roxanne Simpson, o amor de sua vida. Anos mais tarde, o caminho de Johnny se cruza novamente com Roxanne, agora uma repórter, e também com Mephistopheles, que se oferece para liberar a alma de Johnny se Johnny se tornar o lendário e ardente 'Ghost Rider'.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789&dn=Motoqueiro%20Fantasma%20-%20Esp%c3%adrito%20de%20Vingan%c3%a7a%202011%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce</link>
-<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+-+Esp%C3%ADrito+de+Vingan%C3%A7a+(2011)+720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/syRLG2ryrCeP16wuxiODJooy69.jpg</fanart>
-<info>Quando o diabo ressurge com o objetivo de dominar o mundo em forma humana, Johnny Blaze relutantemente sai do esconderijo para se transformar no herói sobrenatural que lança chamas Ghost Rider - e resgata um garoto de 10 anos de um final desagradável.</info>
-</item>
 
 
 <item> 
