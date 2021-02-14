@@ -16,6 +16,28 @@
 <info>
 
 
+
+
+
+
+
+
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red] MARVEL X DC [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/MARVEL%20X%20DC</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/jg3RBd4E1l3lE4mwJ9mMBd8N9d1.jpg</fanart>   
+<info>
+
 [COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>   
 </channel>
 </channels>
@@ -90,7 +112,7 @@
 <channels>
 <channel>
 <name>[COLOR red]FICÇÃO[/COLOR]</name> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NVDW2LnHt2ko3m8ACxFo8E21f.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FICCAO</externallink>    
 <fanart>https://image.tmdb.org/t/p/original/mteMiVu3PPyWf6zmzYtENAK4SIn.jpg</fanart>  
 <info>
