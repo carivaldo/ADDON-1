@@ -67,17 +67,7 @@
 1   <fanart>https://www.themoviedb.org/t/p/original/iU8nuYSdxhDRBh2WPGK7UmXQtEs.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Baseado em fatos verídicos, narra a história de 54 soldados dos EUA enviados para um posto avançado de combate numa localização remota no Afeganistão. Contra todos os obstáculos, a unidade de soldados terá de enfrentar o ataque das forças Talibans, no mais sangrento combate americano da Guerra do Afeganistão. A Batalha de Kamdesh foi o único ato de bravura da Guerra do Afeganistão galardoado com a mais alta patente de valentia militar, numa guerra que já tem 18 anos de duração.[/COLOR][/B]</info>	
   </item>  
-  
-
-   <item> 
-1   <title>[B][COLOR blue] Mulher-Maravilha 1984 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:VFV6KNWRD7ZJRACQTFL3SWKOC3PEPKLK&dn</maglink>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.[/COLOR][/B]</info>	
-  </item>
+ 
 
    <item> 
 1   <title>[B][COLOR blue] Destruição Final: O Último Refúgio - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
@@ -862,26 +852,6 @@
 <info>Spenser, um ex-policial e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada a morte de dois oficiais de Boston.</info>
 </item>
 
-<item> 
-1   <title>[B][COLOR blue][COLOR red]- [COLOR blue] Malévola: Dona do Mal (2019)[COLOR red] (4K)- [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri='magnet:?xt=urn:btih:A01FBD10BB754D479A710887D6F9B3AAE993D714&dn=%5bWWW.BLUDV.TV%5d%20Mal%c3%a9vola%20-%20Dona%20do%20Mal%202020%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>  
-1   <thumbnail>https://image.tmdb.org/t/p/original/bYHXQhIdqDW8I0cg3aX7LRFniMX.jpg</thumbnail>
-1   "<genre></genre>"
-1   <fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:
-[COLOR red]Uma aventura que se passa vários anos depois de "Malévola" - em que o público aprendeu sobre os eventos que endureceram o coração da vilã mais famosa da Disney e a levou a amaldiçoar a pequena princesa Aurora, "Malévola II" continua a explorar a relação complexa entre a fada de chifres e a quase rainha, ao formarem novas alianças e enfrentarem novos adversários em sua luta para proteger os mouros e as criaturas mágicas. (MrADDON BXL)...Faca sua Doacao...[COLOR red][ http://bit.ly/doarADDON BXL ] !!![/COLOR][/B]</info>   
-</item>
-
-
-
-<item><title>[B][COLOR blue]Capitã Marvel - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Capita%20Marvel%202019%20%5b4K%5d%20%5b2160p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sLUXCcVmbQf92RYkvPSF32Qs1vL4Eqc4/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
-<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR red][B]utoriais[/B][/COLOR] - [COLOR blue][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
-</item>
-
 <item>
 <title>[B][COLOR blue]22.Milhas.2018- [COLOR red][/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7DA43C2C4FBAE002F19541801BEBEA92E2EBDDD8&dn=%7bWWW.BLUDV.TV%7d%2022%20Milhas%20%281080p%20-%20FULL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
@@ -929,34 +899,6 @@
 </item>
 
 <item>
-1   <title>[B][COLOR blue] O Exterminador do Futuro - Destino Sombrio  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:84140618E0C0D509F687140FCB2EE364330870BA$$lsname=[COLOR lime]4K[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:2D8DCA04BC1AD0365D1E00E51EB02CBC7A74B725$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:A2F3B07683C55E0AA50DD4DC308315366D39F3A6$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gvy2QCMuXBI3naKx4D5zTKStPNx.jpg</fanart>
-<info>Mais de duas décadas após os eventos de "O Julgamento Final", Sarah Connor (Linda Hamilton) precisa proteger uma jovem chamada Dani Ramos (Natalia Reyes) e seus amigos de um Exterminador (Gabriel Luna) enviado do futuro para aniquilá-las.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Velozes & Furiosos: Hobbs & Shaw- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DBE9B48C38EB8893F8FDADC441A3C0FE36A85F0&dn=%5bWWW.BLUDV.TV%5d%20Velozes%20%26%20Furiosos%20-%20Hobbs%20%26%20Shaw%202019%20%282160p%204K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MLfedLVtoK_tqG-XP3lJ0R6XbNFontxg/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg</fanart>
-<info>Desde que se conheceram, em "Velozes & Furiosos 7", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Hellboy 2019- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF&dn=%5bWWW.BLUDV.TV%5d%20Hellboy%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDZuziwzavShfWMkBIPgNVMfDK7.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg</fanart>
-<info>Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
-</item>
-
-<item>
 <title>[B][COLOR blue]A MULA- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4825E1981503AA927A17AC5D3AFF22D67146FD9C&&dn=%5bWWW.BLUDV.TV%5d%20A%20Mula%202019%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y6qoX_YFK9xxztg5NpT8ChiJnx85Fy2F/view</link>
@@ -974,14 +916,6 @@
 <info>Por trás da beleza marcante de Anna Poliatova há um segredo que irá expor sua indestrutível força e habilidade para se tornar uma das assassinas mais temidas do mundo. Uma eletrizante e emocionante viagem repleta de energia, reviravoltas surpreendentes e ação de tirar o fôlego. ANNA apresenta Sasha Luss na personagem que dá nome ao filme e traz um elenco com várias estrelas, incluindo a vencedora do Oscar Helen Mirren, Cillian Murphy e Luke Evans.</info>
 </item>
 
-<item>
-<title>[B][COLOR blue]falcão negro em perigo- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri='magnet:?xt=urn:btih:a402d422892029d2ad6d70d4d4585ce4c95ba8a0&dn=Black.Hawk.Down.2001.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2750</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n-16Z8P1kB1Hhd1jNht1pQYkpTNlsu2t/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUzQ4r3q1Dy0bUAkMvUIwf0rPpR.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6zggRenI1WCEKWQQ6mZYX925wMt.jpg</fanart>
-<info>Quando os US Rangers e uma equipe de elite da Delta Force tentam sequestrar dois subordinados de um senhor da guerra da Somália, seus helicópteros Black Hawk são abatidos e os americanos sofrem baixas pesadas, enfrentando intensos combates da milícia no terreno.</info>
-</item>
 
 <item>
 <title>[B][COLOR blue]Shaft (2019)- [COLOR red][/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
@@ -1017,24 +951,6 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/a9fRqsl6P27qxbDSb4pBXNv9Fwl.jpg</fanart>
 <info>Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]VENOM- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B&dn=%7bWWW.BLUDV.TV%7d%20Venom%202018%20%284K%29%20PROPER%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IGM6T_6jpV7tZC8MFkVHznmdEIOUDu_w/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
-<info>Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]John Wick 3: Parabellum- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:844E212E0E48CCA59470FCCFD9F07E98A1C96EFD&dn=%5bWWW.BLUDV.TV%5d%20John%20Wick%203%20-%20Parabellum%20%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UZ3LP6u15qnLloglEOIoK5YgbwGASvVM/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg</fanart>
-<info>Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de US$ 14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.</info>
 </item>
 
 <item>
@@ -1095,108 +1011,12 @@
 
 
 <item>
-<title>[B][COLOR blue]Batman Begins - [COLOR red](2005)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408&dn=COMANDO.TO%20-%20Batman%20Begins%202005%20%5b2160p-4K%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zkXQPm8xPrDkdqQUxvXwhQfiMpjnp_GJ/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/65JWXDCAfwHhJKnDwRnEgVB411X.jpg</fanart>
-<info>Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Batman: O Cavaleiro das Trevas - [COLOR red](2008)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923&dn=Batman+O+Cavaleiro+Das+Trevas+%282008%29+720p+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCF3RtQFhA7qMizMgOlcaPc5vC9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gxOAE2cjz1LPfIZAUBmkyEUwZeJ.jpg</fanart>
-<info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]O Exterminador do Futuro: A Salvação - [COLOR red] (2009)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12A88692A98ED651D786CBD45138FB50FACC53FC&dn=O.Exterminador.do.Futuro.4.A.Salva%C3%A7%C3%A3o.2009.THEATRICAL.OPEN.MATTE.IMAX.1080p.WEB-DL.H264.AC3.5.1.DUAL-MLD-ACESSE COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-rA-toGMV54urUxQ9eCHZ3qbpVVjf3rN/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/60WXDHfCuE1ziLKco5iGKOIkoxY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wUdsw5jvnsGRsuA9e4MMSP3TD2B.jpg</fanart>
-<info>John Connor (Christian Bale) é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Um dia surge Marcus Wright (Sam Worthington), cuja última memória que possui é de estar no corredor da morte. Connor precisa descobrir se Wright foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Deadpool- [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202016%20%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_0ScCUzDqgkIjbR03cLXnPTNxGqfuttl/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
-<info>Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Deadpool 2 [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rtxDv4jTM0TK80TcCNuFwiKSGyjhD1YN/view</link>
-"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lR83v2CtCtNwdZ7InEzVGjcqf4c.jpg</fanart>
-<info>O mercenário pirata Deadpool luta contra o mal e poderoso Cable e outros bandidos para salvar a vida de um garoto.</info>
-</item>
-
-
-<item>
-<title>[B][COLOR blue]Capitão América: O Primeiro Vingador - [COLOR red](2011)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1&dn=Captain.America.The.First.Avenger.2011.2160p.UHD.BluRay.REMUX.HD&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<link>https://www1602.o0-4.com/token=0BLhVblO1sZTOMmCz4yppA/1583956314/83.134.0.0/66/a/aa/25659cde5324f6474fed6ef2ae053aaa-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg</fanart>
-<info>Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no supersoldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha - o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Capitão América 2: O Soldado Invernal - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DD8C44C46E2E4A64D7FDEA9BF56E0FFB889C7CE&dn=Capit%c3%a3o%20Am%c3%a9rica%20O%20Soldado%20Invernal%202014%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uOHtJgNiXuAsZoZbHm5OjSbOh5a.jpg</fanart>
-<info>Depois dos eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, vive em Washington, DC, tentando se adaptar ao mundo moderno. Mas quando um colega da S.H.I.E.L.D. é atacado, Steve se envolve em uma rede de intrigas que ameaça colocar o mundo em risco. Juntando forças com a Viúva Negra, o Capitão América luta para expor a conspiração cada vez maior, enquanto luta contra os assassinos profissionais enviados para silenciá-lo em cada turno. Quando o escopo completo da trama vilã é revelada, o Capitão América e a Viúva Negra pedem a ajuda de um novo aliado, o Falcão. No entanto, eles logo se deparam com um inimigo inesperado e formidável - o Soldado Invernal.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Capitão América: Guerra Civil - [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0FC8BC85ED04701BAE02F37278E04423AC2E4FD&dn=Capit%c3%a3o%20Am%c3%a9rica%20Guerra%20Civil%202016%204K%20Dual%20%c3%81udio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
-<info>Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro.</info>
-</item>
-
-<item>
 <title>[B][COLOR blue]A Grande Muralha - [COLOR red](2016)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F8E4996BCD1E58AF357C8D6EB5EBE185CA5B3F7&dn=A%20Grande%20Muralha%202017%20%281080p%29%20FULL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FbxwroPpYbu3e8xnC0QVQJJcCKQLaamN/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rym1ecQJVj1NhZnigRePtiusorF.jpg</fanart>
 <info>No século XV, William (Matt Damon) e Tovar (Pedro Pascal) são dois mercenários em busca de “pó negro” (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha. Lá, eles acabam aprisionados pelos guerreiros chineses, que estão na iminência de sofrerem um ataque. Reza a lenda que, a cada 60 anos, uma horda de monstros tenta transpassar a barreira, para se abluentar dos humanos que vivem do outro lado.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]João e Maria: Caçadores de Bruxas - [COLOR red](2013)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:199e4fb7657b979f2612030e49f051fdfe90cf29&dn=Joao+e+Maria+Cacadores+de+Bruxas+%282013%29+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1ywrdMCbmwfHucuqy2HfB6iMa.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4wieJ74tXkZDMiiwJ6yMr7LgSpR.jpg</fanart>
-<info>Os jovens João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Mas o que parecia ser o fim acabou se tornando o começo de uma vida cheia de aventuras, uma vez que eles eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos (Jeremy Renner e Gemma Arterton) são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra (Famke Janssen), pronta para destruir não só a reputação de excelentes caçadores de bruxas, mas também as suas vidas.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Vingadores: Ultimato - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97&dn=%5bWWW.BLUDV.TV%5d%20Vingadores%20-%20Ultimato%202019%20%284K%20-%20HDR%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uC_hkOW_paTUDIWlVB1dAf-X4AVzFq_R/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
-<info>Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Vingadores: Guerra Infinita - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183&dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</fanart>
-<info>Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaças grandes demais para qualquer herói, uma nova ameaça emergiu das sombras cósmicas: Thanos. Um déspota de infâmia intergalática, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou até este momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
 </item>
 
 
@@ -1210,15 +1030,6 @@
 <info>O principal guarda-costas do mundo (Ryan Reynolds) possui um novo cliente: um assassino de aluguel (Samuel L. Jackson) que precisa testemunhar na Corte Internacional de Justiça. Por anos eles estavam em lados opostos de um tiro, mas agora eles estão presos juntos. Eles precisam colocar as diferenças de lado para chegarem ao julgamento a tempo.</info>
 <item>
 
-
-<item>
-<title>[B][COLOR blue]Star Wars - A Ascensão Skywalker  - [COLOR red](2020)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e25e85a95fc2ed93395a03a894fa07d93318f6&dn=LAPUMiA.Org - Star%20Wars%20-%20A%20Ascens%c3%a3o%20Skywalker%202020%205.1%204K%20(2160p-UHD)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QFqG1eZaivx1m_YzQsfz9QMIEaQiBo-1/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg</fanart>
-<info>Lucasfilm e o diretor J.J. Abrams juntam forças mais uma vez para levar os espectadores a uma jornada épica em uma galáxia muito, muito distante em Star Wars: A Ascensão Skywalker, a fascinante conclusão da saga Skywalker, na qual novas lendas nascerão e a batalha final pela liberdade ainda está por vir.</info>
-</item>
 
 <item>
 <title>[B][COLOR blue]Horizonte em águas profundas - [COLOR red](2016)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
@@ -1277,15 +1088,6 @@
 </item>
 
 
-
-<item>
-<title>[B][COLOR blue]Homem Formiga - [COLOR red](2015)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7&dn=Homem%20Formiga%202015%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6zTqO9vnNqt399aGE8KKQJFgqKX.jpg</fanart>
-<info>Armado com a surpreendente capacidade de diminuir em escala, mas aumentar em força, o ladrão mestre Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Doutor Hank Pym, a proteger o segredo por trás de seu espetacular traje Homem-Formiga de uma nova geração de ameaças imponentes. . Contra obstáculos aparentemente intransponíveis, Pym e Lang devem planejar e realizar um assalto que salvará o mundo.</info>
-</item>
-
 <item>
 <title>[B][COLOR blue]QUEIMA DE ARQUIVO- [COLOR red](1996)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16AA5E8EBC6AB50F931B68D3C270C5E0BA37C419&dn=Queima%20de%20Arquivo%20%e2%80%93%201996%20%e2%80%93%20Trial%20%c3%81udio%20%e2%80%93%20Bluray%201080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
@@ -1305,26 +1107,6 @@
 </item>
 
 
-
-<item>
-<title>[B][COLOR blue]Pantera negra - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17&dn=Pantera%20Negra%202018%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xF0p5jOLuLfH5xUA2FJVpg9kNcPphZZn/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg</fanart>
-<info>O rei T'Challa retorna da América para a nação africana reclusa e tecnologicamente avançada de Wakanda para servir como o novo líder de seu país. No entanto, T'Challa logo descobre que ele é desafiado pelo trono por facções dentro e fora de seu país. Usando poderes reservados aos reis Wakandan, T'Challa assume a cornija da Pantera Negra para se juntar à namorada Nakia, a rainha-mãe, sua irmã princesa-irmã, membros da Dora Milaje (as 'forças especiais' Wakandan) e um agente secreto americano , para impedir que Wakanda seja arrastado para uma guerra mundial.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Homem-Formiga e a Vespa - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111&dn=Homem%20Formiga%20e%20a%20Vespa%202018%204K%202160p%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
-<info>Quando seu tempo em prisão domiciliar está prestes a terminar, Scott Lang coloca novamente sua liberdade em risco para ajudar Hope van Dyne e o Dr. Hank Pym a mergulhar no reino quântico e tentar realizar, contra o tempo e qualquer chance de sucesso, um missão de resgate muito perigosa.</info>
-</item>
-
-
-
 <item>
 <title>[B][COLOR blue]Forrest Gump – O Contador de Histórias - [COLOR red](1994)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d75ad617a31cb6e15c766f8d694524502f47f43e&dn=Forrest.Gump.1994.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>  
@@ -1333,32 +1115,6 @@
 <info>Um homem com um QI baixo realizou grandes coisas em sua vida e esteve presente durante eventos históricos significativos - em cada caso, excedendo em muito o que qualquer um imaginava que ele pudesse fazer. Mas, apesar de tudo o que conseguiu, seu único amor verdadeiro o escapa.</info>
 </item>
 
-
-<item>
-<title>[B][COLOR blue]Transformers: A Vingança dos Derrotados - [COLOR red](2009)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri='magnet:?xt=urn:btih:A1DE73A5059C091BC20AE7D8187FB17A14FD4AAD&dn=Transformers.2.A.Vingan%c3%a7a.dos.Derrotados.2009.1080p.IMAX.BluRay.H264.AC3.5.1.DUAL-MLD&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961%2fannounce&tr=udp%3a%2f%2fopen.demonii.si%3a1337%2fannounce&tr=udp%3a%2f%2ftracker01.loveapp.com%3a6789%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2fzephir.monocul.us%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.xyz%3a443%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.filemail.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2fcarapax.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969%2fannounce&tr=udp%3a%2f%2fbigfoot1942.sektori.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=https%3a%2f%2ftracker.fastdownload.xyz%3a443%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.files.fm%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=http%3a%2f%2fbt1.xxxxbt.cc%3a6969%2fannounce&tr=http%3a%2f%2ftracker2.itzmx.com%3a6961%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fretracker.baikal-telecom.net%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.supertracker.net%3a1337%2fannounce&tr=udp%3a%2f%2fretracker.hotplug.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.lelux.fi%3a6969%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVISXAXDYhjQCfu50QZeCCzzbPv.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/tg7UGXaUROpzY5ppPh7dnvy4l7P.jpg</fanart>
-<info>Sam Witwicky deixa os Autobots para trás por uma vida normal. Mas quando sua mente está cheia de símbolos enigmáticos, os Decepticons o atacam e ele é arrastado de volta à guerra dos Transformers.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Batman – TRILOGIA  - [COLOR red](2012)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E0DFA99BA80CB28A23B97CB72482D4BDA0C84E5&dn=Triologia%20Batman%20o%20Cavaleiro%20das%20Trevas%204k%20Dual%20%C3%81udio%20WWW.BLUDV.COM</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PAJz2mhA7D-eEKfGn5Yj5KlIMudpcqAZ/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oBdJ4hRF6oUrMCG0G7kd7ZXG24Z.jpg</fanart>
-<info>Após a morte do promotor Harvey Dent, Batman assume a responsabilidade pelos crimes de Dent para proteger a reputação do advogado e é posteriormente caçado pelo Departamento de Polícia de Gotham City. Oito anos depois, Batman encontra a misteriosa Selina Kyle e o vilão Bane, um novo líder terrorista que supera os melhores de Gotham. O Cavaleiro das Trevas ressurge para proteger uma cidade que o marcou como inimigo.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]coringa - [COLOR red] (2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236F0860E2CB91236B64109F061B2E1B80C35812&dn=%5bWWW.BLUDV.TV%5d%20Coringa%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dyYptCh2vvMorleG3XKk7iHfcZ5OYsk3/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
-<info>Durante a década de 1980, um comediante de stand-up fracassado é levado à loucura e se transforma em uma vida de crime e caos em Gotham City enquanto se torna uma figura infame do crime psicopata.</info>
-</item>
 
 <item>
 <title>[B][COLOR blue]O PAGAMENTO - [COLOR red] (2003)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
@@ -1462,24 +1218,6 @@
 </item>
 
 
-
-<item>
-<title>[B][COLOR blue]O espetacular Homem Aranha - [COLOR red](2012)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f&dn=The.Amazing.Spider.Man.2012.BluRay.UHD.Remux.2160p.h265.TrueHD.7&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMtZKHTYqrsLYaz1bSuCrZxoaufXc9QV/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2vpQo3WZ8Z8okk8ZG1gSHHM9JfJ.jpg</fanart>
-<info>Peter Parker é um colegial abandonado por seus pais quando menino, deixando-o para ser criado por seu tio Ben e tia May. Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Quando Peter descobre uma misteriosa maleta que pertencia a seu pai, ele começa uma busca para entender o desaparecimento de seus pais - levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors, ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c63&dn=The.Amazing.Spider.Man.2.2014.BluRay.UHD.Remux.2160p.h265&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg</fanart>
-<info>Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.</info>
-</item>
-
 <item>
 <title>[B][COLOR blue]no olho do furacão- [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD287EC6125BAAD1E40EB69AEA194C55939DFCE6&dn=%7bWWW.BLUDV.COM%7d%20No%20Olho%20do%20Furac%C3%A3o%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
@@ -1498,16 +1236,7 @@
 <info>Explore a casa misteriosa e perigosa do rei dos macacos enquanto uma equipe de exploradores se aventura no fundo da ilha traiçoeira e primordial.</info>
 </item>
 
-   <item> 
-1   <title>[B][COLOR blue] HULK - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/fqQyJjfpnR9RRjFMcIBuJt8IoL8.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais[/COLOR][/B]</info>	
-  </item>  
+ 
   
 
 <item>
