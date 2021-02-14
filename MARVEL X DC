@@ -1,0 +1,537 @@
+
+<item>
+<title>[B][COLOR blue]Capitão América: O Primeiro Vingador - [COLOR red](2011)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1&dn=Captain.America.The.First.Avenger.2011.2160p.UHD.BluRay.REMUX.HD&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
+<link>https://www1602.o0-4.com/token=0BLhVblO1sZTOMmCz4yppA/1583956314/83.134.0.0/66/a/aa/25659cde5324f6474fed6ef2ae053aaa-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no supersoldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha - o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Capitão América 2: O Soldado Invernal - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DD8C44C46E2E4A64D7FDEA9BF56E0FFB889C7CE&dn=Capit%c3%a3o%20Am%c3%a9rica%20O%20Soldado%20Invernal%202014%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uOHtJgNiXuAsZoZbHm5OjSbOh5a.jpg</fanart>
+<info>Depois dos eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, vive em Washington, DC, tentando se adaptar ao mundo moderno. Mas quando um colega da S.H.I.E.L.D. é atacado, Steve se envolve em uma rede de intrigas que ameaça colocar o mundo em risco. Juntando forças com a Viúva Negra, o Capitão América luta para expor a conspiração cada vez maior, enquanto luta contra os assassinos profissionais enviados para silenciá-lo em cada turno. Quando o escopo completo da trama vilã é revelada, o Capitão América e a Viúva Negra pedem a ajuda de um novo aliado, o Falcão. No entanto, eles logo se deparam com um inimigo inesperado e formidável - o Soldado Invernal.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Capitão América: Guerra Civil - [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0FC8BC85ED04701BAE02F37278E04423AC2E4FD&dn=Capit%c3%a3o%20Am%c3%a9rica%20Guerra%20Civil%202016%204K%20Dual%20%c3%81udio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
+<info>Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro.</info>
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] Homem de Ferro - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:25917DD104E7B4704B27A83770139C6652A61FF1$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C8C439DE64E1C97FBEABB896C2EC3F907CFCCAEA$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:CF076B8A8D781DCF46C9B42990F3A6EE39A304CA$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem de Ferro 2  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:EC5165E878DAA611BC8383DD41000EE13FD1A2BF$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7CFCF41160E5B9427FF668B926C52612E4A6E1DB$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2F7940E402727BB8A4969691E9D2C7C20A4A1CC1$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eQvRm0YWZHYcmrTxNy6FOxjuvQD.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Homem de Ferro 2 (Iron Man 2) dublado e com qualidade de Blu-Ray. Após confessar ao mundo ser o Homem de Ferro, Tony Stark (Robert Downey Jr.) passa a ser alvo do governo dos Estados Unidos, que deseja que ele entregue seu poderoso traje. Com a negativa, o governo passa a desenvolver um novo traje com o maior rival de Stark, Justin Hammer (Sam Rockwell). Jim Rhodes (Don Cheadle), o braço direito de Tony, é colocado no centro deste conflito, o que faz com que assuma a identidade de Máquina de Combate. Paralelamente, Ivan Vanko (Mickey Rourke) cria o alter-ego de Whiplash para se vingar dos atos da família Stark no passado. Para combater Whiplash e a perseguição do governo, Stark conta com o apoio de sua nova assistente, Natasha Romanoff (Scarlett Johansson), e de Nick Fury (Samuel L. Jackson), o diretor da S.H.I.E.L.D.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem de Ferro 3 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C7B44AB7C64D5DA7D0FF91B6F48DECD7F86FF33A$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C97A57AB8F0040B9B015887B4CFBB63A602A5F32$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C5DD09712AC0F0B0E844CC191E97CD7A80BF4AB6$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/tKa1gmGKAUVYnflYcadipeL3d9h.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Homem de Ferro 3 coloca o o impetuoso, porém brilhante, industrial Tony Stark/Homem de Ferro contra um vilão cujo alcance não conhece limites. Quando Stark vê o seu mundo pessoal destruído pelas mãos de seu inimigo, ele embarca em uma caçada para encontrar os responsáveis. Essa jornada, a cada curva, irá testar os seus valores. Encurralado, Stark é obrigado a sobreviver às custas de seus próprios equipamentos, confiando em seus instintos e ingenuidade para proteger aqueles que são próximos a ele. Enquanto luta para se reerguer, Stark descobre a resposta da pergunta que secretamente o perseguia: será que é o hábito que faz o monge, ou o monge que faz o hábito?[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Thor - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6e8e7dfdee85160b4d28b0375c9b9b3ec9824ee5$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yI6jOYR9xDpxXPKAO17YuIBfROd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/3XyaYiOHldsNhwnXKDRYOpFc1nB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Thor: O Mundo Sombrio - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:2D4109F38CFBEFA8FABAB750091F08C5DD4C18B3$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4B5A77441385E0BBC2498DE6AA356D534A3E4BF2$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:628B9921E369D94DC14B446FFCE136BB4B7BB811$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/5o88bbqcV5STn56jqOeovaaWbAE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Thor 2 - O Mundo Sombrio (Thor: The Dark World) com qualidade de blu-ray e dublado. Thor (Chris Hemsworth), o Poderoso Vingador, luta para salvar a Terra e os Nove Reinos de um inimigo sombrio, mas uma antiga raça liderada pelo vingativo Malekith (Christopher Eccleston) retorna para levar o universo de volta às trevas. Enfrentando um inimigo que nem mesmo Odin (Anthony Hopkins) e Asgard são capazes de derrotar, Thor embarcará em sua jornada mais perigosa e pessoal que o reunirá a Jane Foster (Natalie Portman) e o forçará a sacrificar tudo para salvar a humanidade.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Thor: Ragnarok - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:85BDE684F53B390BEB7C0105DD1C3D43E80EFCC6$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9738CA13E26EE81007403EB1CDE2DA2577B27BDB$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:6E34645B59CBEB89C150289161059CC155AFFA32$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Thor 3 Ragnarok dublado com qualidade de blu-ray. Thor (Chris Hemsworth) está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar o Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela (Cate Blanchett). Em sua jornada até Asgard ele e seu irmão Loki (Tom Hiddleston) vão parar em um planeta desconhecido onde Thor encontra e enfrenta o poderoso Hulk (Mark Ruffalo).[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Os Vingadores: The Avengers - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:92D001E2AF389EA651CACDB6A2E225C6B22F3511$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:1526dd829688f315c4db8241fe658055128fb1af$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:d430c1bf03ccec2375e7950853dffabdf53c366b$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/jg3RBd4E1l3lE4mwJ9mMBd8N9d1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.[/COLOR][/B]</info>	
+  </item>
+  
+ <item> 
+1   <title>[B][COLOR blue] Vingadores: Era de Ultron - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7927CB715CBE2109C5DC9A349139EF38B11DD481$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:FF516D9E30FA15C1384677014DCA96B1A592C122$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccmHe1heP8ztvynd1mFRE8FqjME.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/pJpdx8H0Z8uCPffrPMoA3pa6BeO.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando Tony Stark tenta reiniciar um programa de manutenção de paz, as coisas não dão certo e os super-heróis mais poderosos da Terra, incluindo Homem de Ferro, Capitão América, Thor, Hulk, Viúva Negra e Gavião Arqueiro, terão que passar no teste definitivo para salvar o planeta. Com o aparecimento do vilão Ultron, a equipe dos Vingadores tem a missão de neutralizar seus terríveis planos.[/COLOR][/B]</info>	
+  </item> 
+
+<item>
+<title>[B][COLOR blue]Vingadores: Ultimato - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97&dn=%5bWWW.BLUDV.TV%5d%20Vingadores%20-%20Ultimato%202019%20%284K%20-%20HDR%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uC_hkOW_paTUDIWlVB1dAf-X4AVzFq_R/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
+<info>Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Vingadores: Guerra Infinita - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183&dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</fanart>
+<info>Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaças grandes demais para qualquer herói, uma nova ameaça emergiu das sombras cósmicas: Thanos. Um déspota de infâmia intergalática, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou até este momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] HULK - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/fqQyJjfpnR9RRjFMcIBuJt8IoL8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais[/COLOR][/B]</info>	
+  </item>  
+  
+  
+  <item> 
+1   <title>[B][COLOR blue] O Incrível Hulk  - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:01692F21A562407C3C6A3333F5D369BB8D06EF6F$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C35AE7BF3A6D932E2AD7E30162E176F364D48F88$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:9C69571713E214D5C749D4A18BCB6253A4B9AB40$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/q6TTw5x6s0sM0tLGwFkYSd0gFjr.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem-Aranha  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0FE3862BB88CEEC43F03008E3663BFB1319666D7$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:CD55BBD9BE57BCD52B57A5654EC97E4FA4873ECF$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Orfão desde criança, Peter Parker vive em Nova York com sua querida tia May e seu estimado Tio Ben. Peter leva a vida normal de qualquer jovem estudante, trabalhando como fotógrafo no jornal Clarim Diário, sob a tutela do editor J. Jonah Jameson, correndo atrás da atraente Mary Jane e divertindo-se com seu amigo Harry Osborn. Durante uma excursão da escola, onde Peter e seus colegas assistem a demonstrações científicas com aranhas, Peter é mordido por uma aranha geneticamente modificada. Pouco depois, ele descobre que adquiriu poderes incríveis: ele vê-se dotado com força e agilidade de aranhas, bem como uma aguçada percepção extrasensorial "aracnídea". Como Homem Aranha, Peter entende as palavras do tio e decide usar seus extraordinários poderes na luta contra o crime. Enquanto isso, o empresário megalomaníaco Norman Osborn, pai de seu amigo Harry, também anda passando por transformações. Um teste com uma fórmula experimental aumenta sua força e inteligência, mas também o leva? insanidade. Agora, ele é o Duende Verde, que irá desafiar a determinação do jovem Peter Parker de combater o crime e ajudar inocentes.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem-Aranha 2 - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:DF5BBD590334D11C19FEDA8D15C424A02B73F388$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/ouMBIALAOq0rpoB8b2RydUevRu1.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após derrotar o Duende Verde a vida de Peter Parker (Tobey Maguire) muda por completo. Temendo que Mary Jane (Kirsten Dunst) sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry (James Franco), seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem-Aranha 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/srATZkiFYImhc0LHVXo080B4Yeq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Peter Parker (Tobey Maguire) finalmente conseguiu encontrar o equilíbrio entre sua devoção a Mary Jane (Kirsten Dunst) e suas obrigações de super-herói. Mas uma tempestade se aproxima de seu horizonte. Quando a sua roupa de Homem-Aranha repentinamente se transforma, tornando- se negra e aumentando seus poderes, ela também transforma Peter. Sob a influência dessa nova roupa, Peter se torna convencido e arrogante, passando ainda a negligenciar as pessoas que mais ama. Enquanto dois dos mais temidos vilões já vistos, Homem-Areia (Thomas Harden Church) e Venom (Topher Grace) se unem para arquitetar uma incrível vingança contra o Homem-Aranha, a maior batalha de Peter é consigo mesmo. O Homem-Aranha vai ter que redescobrir a compaixão que o faz ser quem realmente é: um herói.[/COLOR][/B]</info>	
+  </item>
+  
+  <item>
+<title>[B][COLOR blue]O espetacular Homem Aranha - [COLOR red](2012)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f&dn=The.Amazing.Spider.Man.2012.BluRay.UHD.Remux.2160p.h265.TrueHD.7&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMtZKHTYqrsLYaz1bSuCrZxoaufXc9QV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2vpQo3WZ8Z8okk8ZG1gSHHM9JfJ.jpg</fanart>
+<info>Peter Parker é um colegial abandonado por seus pais quando menino, deixando-o para ser criado por seu tio Ben e tia May. Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Quando Peter descobre uma misteriosa maleta que pertencia a seu pai, ele começa uma busca para entender o desaparecimento de seus pais - levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors, ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c63&dn=The.Amazing.Spider.Man.2.2014.BluRay.UHD.Remux.2160p.h265&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg</fanart>
+<info>Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.</info>
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Homem-Aranha: De Volta ao Lar - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d868e9bc1304d1b0bd2a0da31745c1b6e13691c5$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A87D6671E521B1302915D002CFA85D3B1764C8B7$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:1EF9496417246492AAAE95F8950AF5D9771DC1DF$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Homem-Aranha: Longe de Casa - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CED02A945F3EE4562605AC2D89E7E92C0DD1BD7A$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2A40F4B5A7D3D6067A29C1F9C18892A8FC1BCCC7$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:BB84D75D6B7A186980FE573072D15FD399B20F65$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Peter Parker (Tom Holland) e seus amigos vão fazer uma viagem de férias de verão para a Europa. No entanto, eles dificilmente serão capazes de descansar - Peter terá que concordar em ajudar Nick Fury (Samuel L. Jackson) a descobrir o mistério das criaturas que causam desastres naturais e destruição em todo o continente. Para isso, ele se juntará ao Mysterio (Jake Gyllenhaal)- que pode não ser quem parece.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Doutor Estranho - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:1ECF7532B77DA78C699414D6FF28855CA7197A0E$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:416076BB7B77E84DB4A8BF097AB60445D6949A68$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C978416628ACD45A6CD078DD40C0CF20B7C359AC$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7qI7HPrw3hD2toqYQ62vOdkLx3I.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.[/COLOR][/B]</info>	
+  </item>
+
+
+<item>
+<title>[B][COLOR blue]Homem Formiga - [COLOR red](2015)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7&dn=Homem%20Formiga%202015%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6zTqO9vnNqt399aGE8KKQJFgqKX.jpg</fanart>
+<info>Armado com a surpreendente capacidade de diminuir em escala, mas aumentar em força, o ladrão mestre Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Doutor Hank Pym, a proteger o segredo por trás de seu espetacular traje Homem-Formiga de uma nova geração de ameaças imponentes. . Contra obstáculos aparentemente intransponíveis, Pym e Lang devem planejar e realizar um assalto que salvará o mundo.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Homem-Formiga e a Vespa - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111&dn=Homem%20Formiga%20e%20a%20Vespa%202018%204K%202160p%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
+<info>Quando seu tempo em prisão domiciliar está prestes a terminar, Scott Lang coloca novamente sua liberdade em risco para ajudar Hope van Dyne e o Dr. Hank Pym a mergulhar no reino quântico e tentar realizar, contra o tempo e qualquer chance de sucesso, um missão de resgate muito perigosa.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Pantera negra - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17&dn=Pantera%20Negra%202018%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xF0p5jOLuLfH5xUA2FJVpg9kNcPphZZn/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg</fanart>
+<info>O rei T'Challa retorna da América para a nação africana reclusa e tecnologicamente avançada de Wakanda para servir como o novo líder de seu país. No entanto, T'Challa logo descobre que ele é desafiado pelo trono por facções dentro e fora de seu país. Usando poderes reservados aos reis Wakandan, T'Challa assume a cornija da Pantera Negra para se juntar à namorada Nakia, a rainha-mãe, sua irmã princesa-irmã, membros da Dora Milaje (as 'forças especiais' Wakandan) e um agente secreto americano , para impedir que Wakanda seja arrastado para uma guerra mundial.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Deadpool- [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202016%20%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_0ScCUzDqgkIjbR03cLXnPTNxGqfuttl/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+<info>Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Deadpool 2 [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rtxDv4jTM0TK80TcCNuFwiKSGyjhD1YN/view</link>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lR83v2CtCtNwdZ7InEzVGjcqf4c.jpg</fanart>
+<info>O mercenário pirata Deadpool luta contra o mal e poderoso Cable e outros bandidos para salvar a vida de um garoto.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]VENOM- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B&dn=%7bWWW.BLUDV.TV%7d%20Venom%202018%20%284K%29%20PROPER%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IGM6T_6jpV7tZC8MFkVHznmdEIOUDu_w/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
+<info>Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
+</item>
+
+<item><title>[B][COLOR blue]Capitã Marvel - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Capita%20Marvel%202019%20%5b4K%5d%20%5b2160p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sLUXCcVmbQf92RYkvPSF32Qs1vL4Eqc4/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
+<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR red][B]utoriais[/B][/COLOR] - [COLOR blue][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
+</item>
+
+<item>
+<title>[B][COLOR blue] Guardiões da galáxia  - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.1%204K%202160p%20Tri%20Audio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Fan572ToqM-Hh1p33PPY8DyRam40Hmy/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kHex2XdOmGtazk1VfJjp4bl7BIc.jpg</fanart>
+<info>Anos-luz da Terra, 26 anos depois de ser seqüestrado, Peter Quill se vê o principal alvo de uma caçada humana depois de descobrir um orbe desejado por Ronan, o Acusador.</info>
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red](2017) - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.%202%202017%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/co0LAS5Ml4CSzzXD5IN1pgpr1ei.jpg</fanart>
+1   <info>[B][COLOR red]SINOPSE:Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.
+[/COLOR red]</info>  
+</item>
+
+<item>
+<title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b&dn=Motoqueiro+Fantasma+%282007%29+720p+HD+Dublado+%2F+Dual+Audio+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+(2007)+720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4bHKA3jtDN1wYkOSbnehpS4HqKo.jpg</fanart>
+<info>Para salvar seu pai moribundo, o jovem ciclista de dublês Johnny Blaze vende sua alma a Mefistófeles e, infelizmente, parte da pura Roxanne Simpson, o amor de sua vida. Anos mais tarde, o caminho de Johnny se cruza novamente com Roxanne, agora uma repórter, e também com Mephistopheles, que se oferece para liberar a alma de Johnny se Johnny se tornar o lendário e ardente 'Ghost Rider'.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789&dn=Motoqueiro%20Fantasma%20-%20Esp%c3%adrito%20de%20Vingan%c3%a7a%202011%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce</link>
+<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+-+Esp%C3%ADrito+de+Vingan%C3%A7a+(2011)+720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/syRLG2ryrCeP16wuxiODJooy69.jpg</fanart>
+<info>Quando o diabo ressurge com o objetivo de dominar o mundo em forma humana, Johnny Blaze relutantemente sai do esconderijo para se transformar no herói sobrenatural que lança chamas Ghost Rider - e resgata um garoto de 10 anos de um final desagradável.</info>
+</item>
+
+
+  <item> 
+1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman II: A Aventura Continua  - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOpi5evcEfw5w9hn09Re1VWvI8.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/qz5WdxU1HryZnIlXh0kMBxSsKtL.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Involuntariamente três criminosos do Planeta Kypton (Terence Stamp, Sarah Douglas e Jack O'Halloran) com super-poderes fogem da prisão da Zona Fantasma com planos para escravizar o Planeta Terra – bem na hora em que o Superman (Christopher Reeve) decide investir em seu romance com Lois Lane (Margot Kidder).[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman III - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jrVIVvgN37MeccHSfxqZlKE5hyK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Superman (Christopher Reeve) enfrenta agora um computador diabólico, programado por um gênio da informática que pretende dominar o mundo.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman IV: Em Busca da Paz  - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUBLocsfASNbVC2RueRGp1IPrmO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/spFSZBt83uruCwedMN8HR2uFklI.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Para tornar o mundo um lugar seguro para os contrabandistas de armas nucleares, Lex Luthor (Gene Hackman) cria um novo tipo de desafio para o Homem-de-Aço: um vilão carregado de radiação e conhecido como Homem Nuclear (Mark Pillow). Esses dois seres superpoderosos se enfrentarão em um combate explosivo, que obriga Superman a salvar a Estátua da Liberdade, a impedir que o Monte Etna entre em erupção e a reconstruir a Grande Muralha da China.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Superman - O Retorno - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITZTyXh88ylGFEePoLfz8iex8e.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/ed58Qrsde3osDoZStd9p2y0cq2i.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após alguns anos de um misterioso desaparecimento, Superman (Brandon Routh) retorna ao planeta Terra. Porém a situação em Metrópolis está bastante mudada desde que o Homem de Aço deixou o planeta, pois a cidade se acostumou a viver sem ele. Além disto Lois Lane (Kate Bosworth), sua grande paixão, seguiu sua vida após o sumiço do herói. Ao mesmo tempo em que precisa se adaptar à nova realidade, Superman precisa enfrentar um antigo inimigo, que planeja um meio de acabar com ele de uma vez por todas.[/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] O Homem de Aço - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Há anos enviado de Krypton, um avançado planeta alienígena, à Terra, Clark sofre com a derradeira questão: Por que estou aqui? Moldado pelos valores de seus pais adotivos, Martha e Jonathan Kent, Clark logo descobre que ter super-habilidades significa tomar decisões muito difíceis. Mas quando o mundo mais precisa de estabilidade, ele é atacado. E agora, suas habilidades serão usadas para manter a paz ou partir para um tudo ou nada?[/COLOR][/B]</info>	
+  </item>
+  
+
+<item> 
+1   <title>[B][COLOR blue] Batman vs Superman: A Origem da Justiça - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:9B3F85B8FCAA58561969DE6950C1508DE0A37075$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:91F6A046783EA2E0DBDC379B3BD86C7CFE999DD8$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj3CX2GT2A5MR6WnBWs4F4r7k6n.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/dasEWdFNSobYvY8xWcfz3z02kTu.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item>
+  
+
+  <item> 
+1   <title>[B][COLOR blue] Liga da Justiça - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5IpGz6M2QiH4MMWsVj4rfO6iyF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.[/COLOR][/B]</info>	
+  </item>
+
+
+   <item> 
+1   <title>[B][COLOR blue] Mulher-Maravilha 1984 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:VFV6KNWRD7ZJRACQTFL3SWKOC3PEPKLK&dn</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Aquaman - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1    <maglink>magnet:?xt=urn:btih:8228067F427301C5EE2DEA5BF876C052C889F824&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%281080p%20-%20FULL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
+1    <maglink>magnet:?xt=urn:btih:35fc6484c100b2d55b1a351ccfe640089e78e162&dn=%7bWWW.BLUDV.TV%7d%20Aquaman%202019%20(720p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
+1    <maglink>magnet:?xt=urn:btih:DF6BEC12D1D67C1E058026099D8BCA8B396BCEF4&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%284K%20-%20HDR%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</maglink>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/zAnyDRoVoQcW7hQoJ7xDcAiCioE.jpg</fanart>
+1   <info>[B][COLOR red]SINOPSE:A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.[/COLOR red]</info>
+  </item>
+
+
+<item>
+<title>[B][COLOR blue]Batman – TRILOGIA  - [COLOR red](2012)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E0DFA99BA80CB28A23B97CB72482D4BDA0C84E5&dn=Triologia%20Batman%20o%20Cavaleiro%20das%20Trevas%204k%20Dual%20%C3%81udio%20WWW.BLUDV.COM</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PAJz2mhA7D-eEKfGn5Yj5KlIMudpcqAZ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBdJ4hRF6oUrMCG0G7kd7ZXG24Z.jpg</fanart>
+<info>Após a morte do promotor Harvey Dent, Batman assume a responsabilidade pelos crimes de Dent para proteger a reputação do advogado e é posteriormente caçado pelo Departamento de Polícia de Gotham City. Oito anos depois, Batman encontra a misteriosa Selina Kyle e o vilão Bane, um novo líder terrorista que supera os melhores de Gotham. O Cavaleiro das Trevas ressurge para proteger uma cidade que o marcou como inimigo.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Batman Begins - [COLOR red](2005)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408&dn=COMANDO.TO%20-%20Batman%20Begins%202005%20%5b2160p-4K%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zkXQPm8xPrDkdqQUxvXwhQfiMpjnp_GJ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/65JWXDCAfwHhJKnDwRnEgVB411X.jpg</fanart>
+<info>Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]Batman: O Cavaleiro das Trevas - [COLOR red](2008)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923&dn=Batman+O+Cavaleiro+Das+Trevas+%282008%29+720p+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCF3RtQFhA7qMizMgOlcaPc5vC9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gxOAE2cjz1LPfIZAUBmkyEUwZeJ.jpg</fanart>
+<info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR blue]coringa - [COLOR red] (2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236F0860E2CB91236B64109F061B2E1B80C35812&dn=%5bWWW.BLUDV.TV%5d%20Coringa%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dyYptCh2vvMorleG3XKk7iHfcZ5OYsk3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
+<info>Durante a década de 1980, um comediante de stand-up fracassado é levado à loucura e se transforma em uma vida de crime e caos em Gotham City enquanto se torna uma figura infame do crime psicopata.</info>
+</item>
+
+   <item> 
+1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglinkmagnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e>$$lsname=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/kvbbK2rLGSJh9rf6gg1i1iVLYQS.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando o mais terrível e narcisista vilão de Gotham, Roman Sionis (Ewan McGregor), e seu braço direito, Zsasz (Chris Messina), começam a caçar a jovem Cass (Ella Jay Basco), a cidade é virada de cabeça para baixo em busca da garota. Os caminhos de Arlequina (Margot Robbie), Caçadora (Mary Elizabeth Winstead), Canário Negro (Jurnee Smollett-Bell) e Renée Montoya (Rosie Perez) se encontram e o quarteto improvável não tem escolha a não ser um para derrubar Roman.[/COLOR][/B]</info>	
+  </item> 
+  
+   <item> 
+1   <title>[B][COLOR blue] Esquadrão Suicida  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ipeXnga37Y9TX697AKRqx8h7Yw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/6Ljm3aMh07OrY11h51XrGr694oi.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?[/COLOR][/B]</info>	
+  </item>  
+
+
+
+<item>
+<title>[B][COLOR blue]Hellboy 2019- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF&dn=%5bWWW.BLUDV.TV%5d%20Hellboy%202019%20%284K%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDZuziwzavShfWMkBIPgNVMfDK7.jpg<thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg</fanart>
+<info>Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
+</item>
+
+
