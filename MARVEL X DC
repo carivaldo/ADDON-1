@@ -1,26 +1,155 @@
-
+  
+  
+  
+  
+  
+  
+  
+ <item> 
+1   <title>[B][COLOR blue] X-Men: O Filme - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C3FD427C17428115A45A7FC944023D85C0691325$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:10495b6786691d9cdd22db1574f6aed2f13a0be7$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.[/COLOR][/B]</info>	
+  </item> 
+  
+ <item> 
+1   <title>[B][COLOR blue] X-Men 2 - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:DF07D2237E6318A31A41FDF021FA05C98E909EFE$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:d3d2a6ae104e18e84a7bcd718d58b7bd0b4d26a0$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/s8ftvFvafWWEhApISamHx32bx6h.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.[/COLOR][/B]</info>	
+  </item> 
+  
+ <item> 
+1   <title>[B][COLOR blue] X-Men: O Confronto Final - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:03C99D01F44EBB421ACD770A785B7381331E18C9$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ae9cadc60cd57936f1503000af6d6f8f5a11004f$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qdWxPZ1LWNJKSGTegI3q4RYhIHb.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/caS9mIkYfbQRzXKY0b0do3KCZ8k.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.[/COLOR][/B]</info>	
+  </item> 
+  
+<item> 
+1   <title>[B][COLOR blue] X-Men Origens - Wolverine - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:91be4bca8226e1305664c19d2a3a6bc16647b460$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wvqdJLVh0mSblly7UnYFPEk04Wd.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.[/COLOR][/B]</info>	
+  </item>  
+  
+<item> 
+1   <title>[B][COLOR blue] X-Men - Primeira Classe - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:3f20640c5c8578e45e251817ddd2a7ca31873857$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:c7d932014d77b5cfbf367312a63dc928e6c6dc98$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4cZWMQUCAYaQk5CzUI6zRLhcWI2.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/bEXyMxRxZoaFrfKZ59v8J6j8yvT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Veja como tudo começou neste emocionante primeiro capítulo da saga dos X-Men. Antes de Charles Xavier e Eric Lehnsherr passarem a ser conhecidos como professor X e Magneto, eles eram dois rapazes que ainda descobriam seus poderes. Antes de eles serem inimigos, eles eram amigos íntimos e reuniram uma elite de mutantes para formar os X-Men numa tentativa de impedir a 3° Guerra Mundial![/COLOR][/B]</info>	
+  </item>  
+  
+  <item> 
+1   <title>[B][COLOR blue] Wolverine: Imortal - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6609ceb6277733579c7a37b64d143f9c6d27ee85$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7D2PgX369YYePs4m44IQvROWM42.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.[/COLOR][/B]</info>	
+  </item>
+  
+  
+  <item> 
+1   <title>[B][COLOR blue] X-Men: Dias de um Futuro Esquecido - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:8417023f655741b223aaf552f731db6214762c04$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C1D2534C8B0B4A593E03F0018D8CA3397D7335BE$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No futuro, os mutantes são caçados impiedosamente pelos Sentinelas, gigantescos robôs criados por Bolívar Trask (Peter Dinklage). Os poucos sobreviventes precisam viver escondidos, caso contrário serão também mortos. Entre eles estão o professor Charles Xavier (Patrick Stewart), Magneto (Ian McKellen), Tempestade (Halle Berry), Kitty Pryde (Ellen Page) e Wolverine (Hugh Jackman), que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado é enviar a consciência de Wolverine em uma viagem no tempo, rumo aos anos 1970. Lá ela ocupa o corpo do Wolverine da época, que procura os ainda jovens Xavier (James McAvoy) e Magneto (Michael Fassbender) para que, juntos, impeçam que este futuro trágico para os mutantes se torne realidade.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] X-Men: Apocalipse - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7DA5276C2D4A3A19B718541F8F3A4E8DE3907E80$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:7D24520B1D979A7764BCDEE55C11E4964C68A4F7$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Também conhecido como Apocalipse, En Sabah Nur (Oscar Isaac) é o mutante original. Após milhares da anos, ele volta a vida disposto a garantir sua supremacia e acabar com a humanidade. Ele seleciona quatro Cavaleiros nas figuras de Magneto (Michael Fassbender), Psylocke (Olivia Munn), Anjo (Ben Hardy) e Tempestade (Alexandra Shipp). Do outro lado, o professor Charles Xavier (James McAvoy) conta com uma série de novos alunos, como Jean Grey (Sophie Turner), Ciclope (Tye Sheridan) e Noturno (Kodi Smit-McPhee), além de caras conhecidas como Mística (Jennifer Lawrence), Fera (Nicholas Hoult) e Mercúrio (Evan Peters), para tentar impedir o vilão.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Logan - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:75ED280685DAE37E866324E38A3FC4E5644492DE$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3DAE85C871AB053058AB532AEC51A40001FBA93D$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:E04AD75E541F9FCAEE88096A15384E479BA5DE4A$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/qTdCfGyDisY9e8BLycszlyTsPWx.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce, interessado na menina.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] X-Men: Fênix Negra  - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:02d60b5e48ea4621c83e9ca59c199b9a2c29cecd$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:6E8D7E4DB72226E7FF7653C8DAE8408417AC0167$$lsname=[COLOR lime]1080P REMUX[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:77F7CC19DA0658CF557D38E64C50CDD9E88CBE5$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:EBF4DA2F4DBCAA8B07769F44D16C2185CEF2F8E8$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/phxiKFDvPeQj4AbkvJLmuZEieDU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.[/COLOR][/B]</info>	
+  </item>
+  
 <item>
-<title>[B][COLOR blue]Capitão América: O Primeiro Vingador - [COLOR red](2011)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1&dn=Captain.America.The.First.Avenger.2011.2160p.UHD.BluRay.REMUX.HD&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<link>https://www1602.o0-4.com/token=0BLhVblO1sZTOMmCz4yppA/1583956314/83.134.0.0/66/a/aa/25659cde5324f6474fed6ef2ae053aaa-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg</fanart>
-<info>Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no supersoldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha - o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.</info>
+1   <title>[B][COLOR blue] Capitão América: O Primeiro Vingador - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:98336E3D13510A3A930F648CCB7259307008ACD4$$lsname=[COLOR lime]1080P IMAX [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C0EBA52AB6EEE873BD0FEFFCD414078DCC6EED97$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0284B6529B87C4FF014F541911339F7D352457AA$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg</fanart>
+1   <info>Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no supersoldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha - o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue]Capitão América 2: O Soldado Invernal - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DD8C44C46E2E4A64D7FDEA9BF56E0FFB889C7CE&dn=Capit%c3%a3o%20Am%c3%a9rica%20O%20Soldado%20Invernal%202014%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uOHtJgNiXuAsZoZbHm5OjSbOh5a.jpg</fanart>
+1   <title>[B][COLOR blue] Capitão América 2: O Soldado Invernal - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:9c0db398a1044ebc3fc47a87ee57ced1be4cb43e$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:fa9a4e4bc4a995ac649b8efa2387643f47d296fc$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:d0cf510e22d420ab8c9722fe8b16699f82ec4a05$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rtlYevvm1ySAKT5XLFOHpRfCE4K.jpg</fanart>
 <info>Depois dos eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, vive em Washington, DC, tentando se adaptar ao mundo moderno. Mas quando um colega da S.H.I.E.L.D. é atacado, Steve se envolve em uma rede de intrigas que ameaça colocar o mundo em risco. Juntando forças com a Viúva Negra, o Capitão América luta para expor a conspiração cada vez maior, enquanto luta contra os assassinos profissionais enviados para silenciá-lo em cada turno. Quando o escopo completo da trama vilã é revelada, o Capitão América e a Viúva Negra pedem a ajuda de um novo aliado, o Falcão. No entanto, eles logo se deparam com um inimigo inesperado e formidável - o Soldado Invernal.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue]Capitão América: Guerra Civil - [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0FC8BC85ED04701BAE02F37278E04423AC2E4FD&dn=Capit%c3%a3o%20Am%c3%a9rica%20Guerra%20Civil%202016%204K%20Dual%20%c3%81udio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
+1   <title>[B][COLOR blue] Capitão América: Guerra Civil  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:A0FC8BC85ED04701BAE02F37278E04423AC2E4FD$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:17895FCFDE4CE0B063A30BB6EC06E92A556920CF$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:DA9989B71DCCC1EBA4626C3BB7E852E93830B448$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+1   <fanart>https://www.themoviedb.org/t/p/original/7FWlcZq3r6525LWOcvO9kNWurN1.jpg</fanart>
 <info>Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro.</info>
 </item>
 
@@ -119,20 +248,27 @@
   </item> 
 
 <item>
-<title>[B][COLOR blue]Vingadores: Ultimato - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97&dn=%5bWWW.BLUDV.TV%5d%20Vingadores%20-%20Ultimato%202019%20%284K%20-%20HDR%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uC_hkOW_paTUDIWlVB1dAf-X4AVzFq_R/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
-<info>Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
+1   <title>[B][COLOR blue] Vingadores: Ultimato - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:C108CC5A6802AA96F11D898225CD02AB9EDA65B0$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:68AF364B594381C6FDF93A5A798DE74C3FC5E8E9$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/r0jfRKIIKl34kZCeTxInYu5bVPf.jpg</fanart>
+1   <info>Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue]Vingadores: Guerra Infinita - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183&dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</fanart>
-<info>Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaças grandes demais para qualquer herói, uma nova ameaça emergiu das sombras cósmicas: Thanos. Um déspota de infâmia intergalática, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou até este momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
+1   <title>[B][COLOR blue] Vingadores: Guerra Infinita - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:CD9430CA129BA62B75C42A1F6C34D1A4D1002D36$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:22c0c86dd1630a2eae2f0feeee29568e8aa714b1$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/sRyhy6ajoIRGGUVAxLKtsiNbMs8.jpg</fanart>
+1   <info>Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaças grandes demais para qualquer herói, uma nova ameaça emergiu das sombras cósmicas: Thanos. Um déspota de infâmia intergalática, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou até este momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
 </item>
 
 
@@ -194,19 +330,26 @@
   </item>
   
   <item>
-<title>[B][COLOR blue]O espetacular Homem Aranha - [COLOR red](2012)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f&dn=The.Amazing.Spider.Man.2012.BluRay.UHD.Remux.2160p.h265.TrueHD.7&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMtZKHTYqrsLYaz1bSuCrZxoaufXc9QV/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2vpQo3WZ8Z8okk8ZG1gSHHM9JfJ.jpg</fanart>
+1   <title>[B][COLOR blue] O espetacular Homem Aranha - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:c86eda0dbb6e9b52838021ce854ab8397843e163$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:b6956d55618fe4750fe2a5b01e7b52b4e8579ae1$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/yXrEdngT7XTcO9sTE5qBALnS4Na.jpg</fanart>
 <info>Peter Parker é um colegial abandonado por seus pais quando menino, deixando-o para ser criado por seu tio Ben e tia May. Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Quando Peter descobre uma misteriosa maleta que pertencia a seu pai, ele começa uma busca para entender o desaparecimento de seus pais - levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors, ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue]O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c63&dn=The.Amazing.Spider.Man.2.2014.BluRay.UHD.Remux.2160p.h265&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg</fanart>
+1   <title>[B][COLOR blue] O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c63$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:D9DD2AEEEFF2ECB64F69AEFEB6EB587D04990C87$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4A09F63C5F4CE0A11B182274EE79C0D68ABA260B$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lDbcaBs1IdBZccCM1R417XmPxKF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg</fanart>
 <info>Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.</info>
 </item>
 
@@ -247,85 +390,113 @@
   </item>
 
 
-<item>
-<title>[B][COLOR blue]Homem Formiga - [COLOR red](2015)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7&dn=Homem%20Formiga%202015%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6zTqO9vnNqt399aGE8KKQJFgqKX.jpg</fanart>
-<info>Armado com a surpreendente capacidade de diminuir em escala, mas aumentar em força, o ladrão mestre Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Doutor Hank Pym, a proteger o segredo por trás de seu espetacular traje Homem-Formiga de uma nova geração de ameaças imponentes. . Contra obstáculos aparentemente intransponíveis, Pym e Lang devem planejar e realizar um assalto que salvará o mundo.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Homem-Formiga e a Vespa - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111&dn=Homem%20Formiga%20e%20a%20Vespa%202018%204K%202160p%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
-<info>Quando seu tempo em prisão domiciliar está prestes a terminar, Scott Lang coloca novamente sua liberdade em risco para ajudar Hope van Dyne e o Dr. Hank Pym a mergulhar no reino quântico e tentar realizar, contra o tempo e qualquer chance de sucesso, um missão de resgate muito perigosa.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Pantera negra - [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17&dn=Pantera%20Negra%202018%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xF0p5jOLuLfH5xUA2FJVpg9kNcPphZZn/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg</fanart>
-<info>O rei T'Challa retorna da América para a nação africana reclusa e tecnologicamente avançada de Wakanda para servir como o novo líder de seu país. No entanto, T'Challa logo descobre que ele é desafiado pelo trono por facções dentro e fora de seu país. Usando poderes reservados aos reis Wakandan, T'Challa assume a cornija da Pantera Negra para se juntar à namorada Nakia, a rainha-mãe, sua irmã princesa-irmã, membros da Dora Milaje (as 'forças especiais' Wakandan) e um agente secreto americano , para impedir que Wakanda seja arrastado para uma guerra mundial.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Deadpool- [COLOR red](2016)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202016%20%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_0ScCUzDqgkIjbR03cLXnPTNxGqfuttl/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
-<info>Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]Deadpool 2 [COLOR red](2018)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rtxDv4jTM0TK80TcCNuFwiKSGyjhD1YN/view</link>
-"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lR83v2CtCtNwdZ7InEzVGjcqf4c.jpg</fanart>
-<info>O mercenário pirata Deadpool luta contra o mal e poderoso Cable e outros bandidos para salvar a vida de um garoto.</info>
-</item>
-
-<item>
-<title>[B][COLOR blue]VENOM- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B&dn=%7bWWW.BLUDV.TV%7d%20Venom%202018%20%284K%29%20PROPER%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IGM6T_6jpV7tZC8MFkVHznmdEIOUDu_w/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
-<info>Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
-</item>
-
-<item><title>[B][COLOR blue]Capitã Marvel - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Capita%20Marvel%202019%20%5b4K%5d%20%5b2160p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>  
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sLUXCcVmbQf92RYkvPSF32Qs1vL4Eqc4/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
-<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR red][B]utoriais[/B][/COLOR] - [COLOR blue][B]Sinopse:[/B][/COLOR]A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel..</info>
-</item>
-
-<item>
-<title>[B][COLOR blue] Guardiões da galáxia  - [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.1%204K%202160p%20Tri%20Audio%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Fan572ToqM-Hh1p33PPY8DyRam40Hmy/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg<thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kHex2XdOmGtazk1VfJjp4bl7BIc.jpg</fanart>
-<info>Anos-luz da Terra, 26 anos depois de ser seqüestrado, Peter Quill se vê o principal alvo de uma caçada humana depois de descobrir um orbe desejado por Ronan, o Acusador.</info>
-</item>
+<item> 
+1   <title>[B][COLOR blue] Homem-Formiga - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:B051A41F8D19F72D5231B09DE791801E16E3D73E$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:91285D960CCAFA338037284CCCCE818E7E7D1C9F$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eDzUGAPSf6vv1J29MJM0jlCiDJL.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.[/COLOR][/B]</info>	
+  </item>
 
 <item> 
-1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red](2017) - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB&dn=Guardi%c3%b5es%20da%20Gal%c3%a1xia%20Vol.%202%202017%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
+1   <title>[B][COLOR blue] Homem-Formiga e a Vespa - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:95652DAE27069B651AA9076ABAA77E72DEB3E07F$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/co0LAS5Ml4CSzzXD5IN1pgpr1ei.jpg</fanart>
-1   <info>[B][COLOR red]SINOPSE:Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.
-[/COLOR red]</info>  
-</item>
+1   <fanart>https://www.themoviedb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Após os acontecimentos de Capitão América: Guerra Civil, Scott Lang tenta equilibrar sua vida familiar como pai com suas responsabilidades como Homem-Formiga, quando Hope Van Dyne e Hank Pym apresentam-lhe uma nova missão para trazer à luz segredos do passado, exigindo que ele se junte com Van Dyne como a nova Vespa.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Pantera Negra - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A8C8F60CBF5E80F494A53BF7255EA7B754169377$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:4515AD684A356350320DD9E1B8E1C20A87079927$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Pantera Negra (Black Panther) indicado em diversas categorias ao Oscar 2019, dublado, dual áudio e legendado. Após a morte do rei TChaka (John Kani), o príncipe TChalla (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. TChalla logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmã Shuri (Letitia Wright), que coordena a área tecnológica do reino, e também de Nakia (Lupita Nyong'o), a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrás.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Deadpool - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3D55E6F225BB1F3713DA1D2EA227BB475454E624$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/n28I7FNYIT934OoHhKZn4IIDsrQ.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Deadpool 2  - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7gwIbnB2j45wSC3esSzkRzfwcws.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Venom - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:3F8A22D765E65F46A580940A7D298C93D03FB38E$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:DAC25090D78F7AAEF9F04157470D6B8D84B0BE19$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/h3EG2tfaCukETiibpLhQeTk1lwR.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]San Francisco, Estados Unidos. Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue] Capitã Marvel - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:948e47db7d44baaa63c740ba855ec8b8549b2da3$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:14269ab8d40c2c4da66009cc33acb0c6fdf9074c$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/I72sPfAdGbLJN1YawBbSkhw9vg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.[/COLOR][/B]</info>	
+  </item>
+
+<item> 
+1   <title>[B][COLOR blue]Guardiões da Galáxia - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:F3E682FE3A7327F7CC16E86A38AE6BA9734B5D43$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:A35566E33EF5C8039AD405F67708A1EC075C4DD7$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/i34ijHY5hr52uYcKZ48wq7K6yUs.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] O impetuoso aventureiro Peter Quill se vê como objeto de uma caçada implacável após roubar uma misteriosa esfera cobiçada por Ronan, um vilão poderoso com ambição que ameaça todo o universo. Para fugir do determinado Ronan, Quill é forçado a fazer uma complicada aliança com um quarteto de desajustados - Rocket, um guaxinim atirador, Groot, uma árvore mutante humanoide, a mortal e enigmática Gamora e o vingador Drax, o Destruidor. Mas quando Quill descobre o verdadeiro poder da esfera e o perigo que ela representa para o cosmo, ele deve fazer seu melhor para reunir seu grupo desorganizado para uma última e desesperada resistência - com o destino da galáxia em jogo.[/COLOR][/B]</info>	
+  </item>
+  
+  <item> 
+1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:F83EDF031FE1D7969D1999522E0D7F4FBF7C170E$$lsname=[COLOR lime]1080P[/COLOR] - DUBLADO</maglink>
+1   <maglink>magnet:?xt=urn:btih:816BD96103A9F5E9961A4F6513B47D248F397AE7$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/xpFIaHL7Rm5kKLcEPDEMpjh4Xq6.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.[/COLOR][/B]</info>	
+  </item>
 
 <item>
 <title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
