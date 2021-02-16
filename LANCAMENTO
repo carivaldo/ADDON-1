@@ -2,7 +2,15 @@
 
 
 
-
+<item> 
+1   <title>[B][COLOR blue] Cidade Sob Ameaça - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:fc865cfd271f033fd047790529de29b43eb0f6e4</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sebTZMngFdZQJB1Sk7F19RxLlDZ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/3uQDfV1EEoK57WjxIDRNOZw09fM.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um marechal de cidade pequena que não carrega uma arma desde que deixou o Texas Rangers após um trágico tiroteio deve pegá-la novamente para lutar com uma gangue de motoqueiros foragidos que invadiram a cidade para realizar um assalto violento e descarado.[/COLOR][/B]</info>	
+  </item>
 
    <item> 
 1   <title>[B][COLOR blue] Relatos do Mundo - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
