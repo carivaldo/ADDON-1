@@ -3,6 +3,77 @@
 
 
 
+   <item> 
+1   <title>[B][COLOR blue] Jogo Bruto - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:606A6C231AB6D1870C2A9DE849E698C22D0692A3</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1s5yAP5Se4FKO2tvNzgo0gCgJ7P.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/kWVife15HSaCVvUPnBjg2tABXky.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Mark Kaminsky (Arnold Schwarzenegger) é o xerife de uma pequena cidade, que na verdade se tornou um exílio para ele. Amy (Blanche Baker), sua esposa, não suporta o lugar, onde vivem já há 5 anos. Isto aconteceu pelo fato de Kaminsky ter quebrado vários ossos de um suspeito que raptou, molestou, mutilou e matou uma menina de 11 anos, com o promotor público Baxter (Joe Regalbuto) tendo enc com sua carreira. Agora Baxter quer prender Luigi Petrovita (Sam Wanamaker), chefe das famílias fortes de Chicago. Baxter também quer condenar Paulo Rocca (Paul Schenar), o braço direito de Petrovita, mas para isto precisa do depoimento de várias testemunhas. Vários agentes do F.B.I. morreram tentando proteger uma testemunha, sendo que um dos policiais mortos, Blair (Steve Holt), era filho de Harry Shannon (Darren McGavin), um chefe de polícia. Shannon pede para que Kaminsky se infiltre na organização para descobrir o traidor, que foi o responsável pela morte de Blair. Se tiver sucesso Shannon diz que Mark voltará possivelmente ao F.B.I., que tenta por um ano infiltrar alguém na organização mas sempre fracassa, por haver um vazamento interno de informações. Por esta razão só Harry saberá que Kaminsky está envolvido na missão, mas para operar[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] S.W.A.T.: Comando Especial - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:658c8d634fe7423257f15856667861c64804bb91$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
+1   <maglink>magnet:?xt=urn:btih:ed1c364e71950e5e8c9640772a9d0d7f4d8290e0$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmhNSdqp9guZwmDktqvfJZ5DVjt.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/37jfQsSnHcdXrYBe6EQxTVyZofd.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um importante traficante de drogas precisa ser transferido de Los Angeles para outra cidade, onde ficará em uma prisão federal. Uma divisão da S.W.A.T. é encarregada de realizar o transporte, porém a situação se complica quando a oferta do traficante de pagar US$ 100 milhões a quem libertá-lo se torna pública.[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] nome - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink></maglink>
+1   <thumbnail></thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart></fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Velocidade Máxima - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5sxq4vDAc00s6bl4MZFJgutChhk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/uAhR6XBZvQPri0ACAXi7veHJCWq.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Howard Payne é um psicopata que está ameaçando Los Angeles com explosivos. Jack Traven é o agente que está perto de capturá-lo. Quando Payne instala bombas em um ônibus, Jack precisa evacuar os passageiros sem reduzir a velocidade do veículo para menos de 80 km por hora. Para complicar, a motorista, Annie, nunca dirigiu um ônibus antes[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] Velocidade Máxima 2 - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHjI7JfgK42Rl1ZsZWguqUQhQC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rmyKZppyjbTUS10DvnbBxgKSvTX.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O cruzeiro que Annie (Sandra Bullock) faz ao Caribe com Alex Shaw (Jason Patric), seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger (Willem Dafoe), um gênio em informática, sequestra a embarcação. Alex precisa rapidamente anular os planos de Giger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado?[/COLOR][/B]</info>	
+  </item> 
+
+   <item> 
+1   <title>[B][COLOR blue] O Especialista - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:785904e7f57a8b9c73ac04216f72d2a16cf8f993</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AdbxjEDKeAVSdlcLsFcdGSSO0Yc.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/bq9yF8akeQRFZhhOSbuNzWmTYEP.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ray Quick (Sylvester Stallone) é um perito em explosivos que trabalhava para a C.I.A. e se aposentou, indo viver em Miami, Flórida, após o horrível fracasso de uma operação contra um grande traficante de drogas latino-americano, que teve como trágica conseqüência a morte de uma criança. Ray é persuadido a sair da sua aposentadoria quando a obcecada May Munro (Sharon Stone) lhe pede ajuda para conseguir se vingar de uma poderosa família do crime organizado, que é chefiada por Joe Leon (Rod Steiger) e seu filho Tomas Leon (Eric Roberts), que há alguns anos atrás, quando era jovem, foram os responsáveis pela morte dos pais dela. Paralelamente, Ned Trent (James Woods), o ex-parceiro de Ray que após a fracassada operação se tornou seu inimigo, está na folha de pagamento da família Leon. Ned busca uma vingança pessoal contra Ray, que gradativamente está executando os capangas de Leon.[/COLOR][/B]</info>	
+  </item> 
+ 
+
+   <item> 
+1   <title>[B][COLOR blue] O Fugitivo - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:95117a3eb292db13ce0c34da5d32239236f0c4ed</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wtnJT8erud18YdokcXKMwDelPn0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eRTdOVzD8joV8UD0uvO1DB6lhyX.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Richard Kimble (Harrison Ford), um eminente cirurgião, é condenado à morte injustamente pelo assassinato de Helen Kimble (Sela Ward), sua esposa, mas consegue escapar devido a um acidente quando rumava para o presídio, onde ficaria até ser executado. Mas é implacavelmente perseguido por Samuel Gerard (Tommy Lee Jones), um dos agentes que tentam recapturá-lo, forçando-o a não ter nenhum contato com amigos. No entanto, Kimble está determinado a encontrar provas que determinem sua inocência.[/COLOR][/B]</info>	
+  </item> 
 
    <item> 
 1   <title>[B][COLOR blue] A FORTALEZA SEQUESTRADOS - [COLOR red]ADDON BXL [COLOR red](1985) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
