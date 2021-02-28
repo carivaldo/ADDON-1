@@ -58,7 +58,7 @@
   </item> 
   
     <item> 
-1   <title>[B][COLOR blue] nomeCéu em Chamas - Skyfire - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>[B][COLOR blue] Céu em Chamas - Skyfire - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1   <maglink>magnet:?xt=urn:btih:020a49178ae72d38f48a75b4764b5d8d5f0f787c$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
 1   <maglink>magnet:?xt=urn:btih:7cbde942ed554d28e31cbe6679083f4bfd721ec3$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
@@ -76,6 +76,16 @@
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.[/COLOR][/B]</info>	
+  </item>
+  
+     <item> 
+1   <title>[B][COLOR blue] O Inferno de Dante  - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>magnet:?xt=urn:btih:09D79D1FB65A486005833EF8A5087637B40490F0</maglink>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cXUuR4KhrmNsux41ju31rQ3EBmh.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/mnXOfgasuAldIwmTRB0wQKJSsz4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Harry Dalton (Pierce Brosnan), um vulcanologista (perito em fenômenos vulcânicos), e Rachel Wando (Linda Hamilton), a prefeita de Dante, uma pequena cidade, tentam convencer o conselho dos cidadãos e outros geólogos a declarar estado de alerta, pois um vulcão muito próximo, que está inativo há vários séculos, entrará em erupção. Mas interesses econômicos são contrariados com a notícia, que pode afastar um grande empresário que pretende fazer investimentos que iram gerar 800 empregos diretos na cidade.[/COLOR][/B]</info>	
   </item>
   
 
