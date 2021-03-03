@@ -2,7 +2,7 @@
   <channels>
 </channels><channel>
 <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
 1	<fanart>https://image.tmdb.org/t/p/original/hX6QxeJUSmc1UTdrlolEZqzeBI.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -12,31 +12,6 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A LISTA NEGRA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</title>
-1	<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-1	"<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
-1	<fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	
-</item>
-
-
-
-****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] A LISTA NEGRA  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1	<fanart>https://image.tmdb.org/t/p/original/hX6QxeJUSmc1UTdrlolEZqzeBI.jpg</fanart>
-1	<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-<info>[B][COLOR red] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.[/COLOR][/B]</info>		
-<item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 <item>	
