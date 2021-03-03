@@ -5,12 +5,12 @@
   <item> 
      <title>[B][COLOR blue] Massacre no Bairro Japonês - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
      <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-     <link>plugin://plugin.video.elementum/play?uri=urn:btih:219700db755043371129ddeb7762b062b7fbd4cd</link>
+     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:219700db755043371129ddeb7762b062b7fbd4cd</link>
      <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wMCwGfjm0Z4YR0UCrjTvFt3TVo6.jpg</thumbnail>
      <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
      <fanart>https://www.themoviedb.org/t/p/original/yqTfUkNwRh9Hi5gvdalvJyIXKxQ.jpg</fanart>
      <info>[B][COLOR red] SINOPSE:[COLOR red]O americano de educação japonesa Chris Kenner é um policial responsável por Little Tóquio, um bairro de Los Angeles. Kenner faz parceria com Johnny Murata, um nipo-americano que não tem contato com suas raízes. Apesar de suas diferenças, os dois se sobressaem por suas habilidades em artes marciais quando lutam contra Yoshida, um traficante de drogas vingativo da máfia japonesa, que tem laços com o passado de Kenner.[/COLOR][/B]</info>	
-  </item>
+  </item> 
 
 
         <item>
