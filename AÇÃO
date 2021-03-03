@@ -3,8 +3,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Monster Hunter - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <magnet>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <magnet>magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44</maglink>
+1   <magnet>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</magnet>
+1   <magnet>magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44</magnet>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2QhhILPAv7MKFd1q57ssQeEV2su.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/g3I9UxIdhzpibmPXQBtnFz8N29y.jpg</fanart>
@@ -14,9 +14,9 @@
 
    <item> 
 1   <title>[B][COLOR blue] O Sequestro de Eden - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <magnet>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <magnet>magnet:?xt=urn:btih:66d7fa20dc33bcdece1642985e22338de6618167$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <magnet>magnet:?xt=urn:btih:1e39db404f7ef62d35f32ac42bc809154e27dce3$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
+1   <magnet>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</magnet>
+1   <magnet>magnet:?xt=urn:btih:66d7fa20dc33bcdece1642985e22338de6618167$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</magnet> 
+1   <magnet>magnet:?xt=urn:btih:1e39db404f7ef62d35f32ac42bc809154e27dce3$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</magnet>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2BurR1duynNPt3Dt7KUgQvhEHW.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/lJvvKKaddY1Y4bxkFQSG0an5EEB.jpg</fanart>
