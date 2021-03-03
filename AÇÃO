@@ -1,4 +1,12 @@
-
+   <item> 
+1   <title>[B][COLOR blue] Anaconda 4 - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FC4515CA9E8205C7157084AA65EA6D241102B20</>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCp9VYqvBphiETtC86fGZFSXc63.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Murdoch (John Rhys-Davies) está convencido a alcançar a imortalidade pelos poderes regenerativos de uma rara espécie de orquídea. Para comprovar sua teoria, testa um soro experimental em um filhote de cobra. O que ele não sabe é que a inofensiva serpente sofre uma mutação que a faz crescer muito e a deixa praticamente invencível, já que quando cortada ao meio, ela se regenera, criando duas cobras gigantes e agressivas. A herpetologista Amanda (Crystal Allen) e sua equipe devem investigar o caso e impedir que esta nova espécie se prolifere.[/COLOR][/B]</info>	
+  </item> 
 
 <item> 
 1   <title>[B][COLOR blue] Monster Hunter - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
