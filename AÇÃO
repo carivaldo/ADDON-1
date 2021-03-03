@@ -13,8 +13,8 @@
    <item> 
 1   <title>[B][COLOR blue] O Sequestro de Eden - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>magnet:?xt=urn:btih:66d7fa20dc33bcdece1642985e22338de6618167$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>magnet:?xt=urn:btih:1e39db404f7ef62d35f32ac42bc809154e27dce3$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:66d7fa20dc33bcdece1642985e22338de6618167$$l</link> 
+1   <link>magnet:?xt=urn:btih:1e39db404f7ef62d35f32ac42bc809154e27dce3$$l</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2BurR1duynNPt3Dt7KUgQvhEHW.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/lJvvKKaddY1Y4bxkFQSG0an5EEB.jpg</fanart>
@@ -25,13 +25,13 @@
    <item> 
 1   <title>[B][COLOR blue] Busca Explosiva - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A0467DE59AACE98D7E03248BBD1B1A78A37BBF$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FEAA49C705B1B0E94838399A6901F598979E766$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A0467DE59AACE98D7E03248BBD1B1A78A37BBF</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FEAA49C705B1B0E94838399A6901F598979E766</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngRBNPSSeQ3aga7I51B2gN6jUaJ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/uCVrjMLyngtmVrFn5FMpx9xucwn.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo![/COLOR][/B]</info>	
-  </item>  
+  </item>
    
     <item> 
 1   <title>[B][COLOR blue] Massacre no Bairro Japonês - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
