@@ -1,8 +1,8 @@
   
-     <item> 
+      <item> 
 1   <title>[B][COLOR blue] Rogue Warfare 3: A Morte de uma Nação - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:f0502dc13426de9b4b617f70168f122478fddf21</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:f0502dc13426de9b4b617f70168f122478fddf21</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhHuc5iEsgrDynkM9qxuATHG9x.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/uuucPmr0s97rhCXZq73Or7LWjQ4.jpg</fanart>
@@ -11,8 +11,8 @@
   
      <item> 
 1   <title>[B][COLOR blue] Mosul  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:342f579b876de17816c14c71ca2e249c4d3590cf</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:342f579b876de17816c14c71ca2e249c4d3590cf</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkcWVz2qOaOmEfcRpei2MmnCSfP.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/73UWtVn84Sm9Ps8EmLrKfcT6En6.jpg</fanart>
@@ -21,8 +21,8 @@
   
     <item> 
 1   <title>[B][COLOR blue] 300 - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5E7F2E000081154693D8E06D2F9EA12939F3B49E</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:5E7F2E000081154693D8E06D2F9EA12939F3B49E</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/96JpmNej77jFcQtghVFYh0gUbhE.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/74qDn8iCOKpAhvZahYqWG3Nyce1.jpg</fanart>
@@ -31,8 +31,8 @@
   
      <item> 
 1   <title>[B][COLOR blue] 300: A Ascensão do Império - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:A5BC8E42AF17C37FBD97E5CCBFD0AF7CF12B7787</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:A5BC8E42AF17C37FBD97E5CCBFD0AF7CF12B7787</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/lWpvB6j7fjM39gYSo7cRGk51bmo.jpg</fanart>
@@ -41,8 +41,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] O Homem Mais Procurado do Mundo - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9579d108f050384bc0c55ce1d3d714b23eb1396a</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:9579d108f050384bc0c55ce1d3d714b23eb1396a</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhqK6fAizFwCqTS6wGFL8Bg8ww8.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qZGnTb3RX6hMPtFO0v9aYmuEwdm.jpg</fanart>
@@ -52,8 +52,8 @@
     
    <item> 
 1   <title>[B][COLOR blue] Esquadrão 303 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5b6053a879ee6161f9e29ee5503662bbfe450b47</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:5b6053a879ee6161f9e29ee5503662bbfe450b47</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkL6T8XmcvGaWe2T0InhkxeHblg.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/wHKtsGzue3InPl58e1H8tVpv1m3.jpg</fanart>
@@ -63,8 +63,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] KV1 – Almas de Ferro - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:72f41f4d44ceed8b4824c8a67c47c35ac52a0d0e</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:72f41f4d44ceed8b4824c8a67c47c35ac52a0d0e</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEnKbYMSp3u5QoqaPo1uH4LVPN.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/alP8Qg3YRw1OlvaR0qsMpzqhM7K.jpg</fanart>
@@ -74,8 +74,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Balkan Line - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:fcabf344f36c1471af83da2705041978cad91190</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:fcabf344f36c1471af83da2705041978cad91190</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DhIJ1WuXHNFBxlB1jWfMytU22v.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/jssXqFICGPVCqxaYm767PNw2BvE.jpg</fanart>
@@ -86,8 +86,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Assembléia - Sangue e Honra - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:6bb00ca9d9d87c2bd9b201cfe7615f2bc2ed16a0</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:6bb00ca9d9d87c2bd9b201cfe7615f2bc2ed16a0</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCIl76uNtWi0bJq8K8GXeawefmK.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/cSR493LjJxDmRy3hPpk9YCPHfZn.jpg</fanart>
@@ -97,8 +97,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] 1968: Tunnel Rats - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9A80DE43E6DCCF925E790611DA922D5C03206F7D</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:9A80DE43E6DCCF925E790611DA922D5C03206F7D</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmC64dAiyNXg1cxsaI8GOjqda4u.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/mr7RYg69jt5KcC7G218Bxp68kzN.jpg</fanart>
@@ -108,8 +108,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Cartas de Iwo Jima - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:CBDE91877464E51A528A57E0B0068B75BB7FF5D8</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:CBDE91877464E51A528A57E0B0068B75BB7FF5D8</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9mGjRjqSXstNhucZgtXnlF41F0.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/2qbyV84PBjYL5PNjBgaHOl5T4LV.jpg</fanart>
@@ -119,8 +119,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Stalingrado: A Batalha Final  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:5CC20A239D4A7B2BD34C323E154CFC838F61EC23</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:5CC20A239D4A7B2BD34C323E154CFC838F61EC23</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/keH4XxTRino7aW1guCcOSOf9WRm.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/knzKNSnFV61kLMTiuYdxCqRi4X1.jpg</fanart>
@@ -130,8 +130,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Além da Linha Vermelha - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eLYQdn91L3GRyanPDWT9iSgEie.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/3lPSsW3VzgUnIkJg2keFDVy5PPW.jpg</fanart>
@@ -141,8 +141,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] O Fotógrafo de Mauthausen - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:84e63af1090fff83ff945a5c4125e19269541cf0</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:84e63af1090fff83ff945a5c4125e19269541cf0</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/r11O1YcuGGhlGrNLDcWjGQGDMhg.jpg</fanart>
@@ -153,8 +153,8 @@
   
    <item> 
 1   <title>[B][COLOR blue] Memphis Belle - A Fortaleza Voadora - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:82A05722B121A46C5874565EAB4A2AFF5C63C654</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:82A05722B121A46C5874565EAB4A2AFF5C63C654</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tCF6JBY0AFihnMMEdQnhv7JDHr.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/8KWoRH1PMmZLNJk0z0jr8X3JOfH.jpg</fanart>
@@ -169,8 +169,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Castelo de Areia - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:4E9F41497DA8908794FB92B59A63647B5ACF348F</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:4E9F41497DA8908794FB92B59A63647B5ACF348F</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPgg1VB852FyMSMblBXSVg22t1y.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/eM9MZ1dhDCbRzwQg0FWpWWtLPMn.jpg</fanart>
@@ -180,8 +180,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Companhia de Heróis - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:00cdf5ad9cc1f35b40c8413778c79701cdef2f2d</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:00cdf5ad9cc1f35b40c8413778c79701cdef2f2d</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y99mqIU4t9u5DhmLE2epET4P6L.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/rGmQf2EPIVjkvXliQPc7VCF9CAK.jpg</fanart>
@@ -191,8 +191,8 @@
 
 <item> 
 1   <title>[B][COLOR blue] Zona Verde - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:75DDDB91512597F895D07544C5AB993A5F62AD4C</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:75DDDB91512597F895D07544C5AB993A5F62AD4C</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xsN1CidLgq2H1wN5FnU3P6FIAo.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/mDcLNgCgTLh5iO8DbY8uaa0sNE2.jpg</fanart>
@@ -202,8 +202,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] O Exército do Pai - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:116169A913BC3D2E2FEA5BEE2C50B7DE6622DA18</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:116169A913BC3D2E2FEA5BEE2C50B7DE6622DA18</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MnhydfF3L97zJ0GlukE58kOByo.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/vGbHVVJsCmE3DE4iTMYnpcUKQU2.jpg</fanart>
@@ -213,8 +213,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Bom Dia, Vietnã - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9754b61b02b17239cd5e8e15294ba7d4be806345</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:9754b61b02b17239cd5e8e15294ba7d4be806345</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BNwDEow9MVFquxxmdNjVre0TFy.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/wGNClnyVGfom0t5n1sH1pXfDG6w.jpg</fanart>
@@ -223,10 +223,10 @@
 
    <item> 
 1   <title>[B][COLOR blue] Missão de Honra - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:7d8acc07bbad1a755f23811b1d5e2bbccabeea15$$lsname=[COLOR lime]1080FULLHD[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9a9a478ca9d0a72961cf33999b9cb73e13719d05$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:3038686517de092f1ae982acc04afd4da291583a$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:7d8acc07bbad1a755f23811b1d5e2bbccabeea15$$lsname=[COLOR lime]1080FULLHD[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:9a9a478ca9d0a72961cf33999b9cb73e13719d05$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:3038686517de092f1ae982acc04afd4da291583a$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lQAAu6WZ7l0Cn4KW3igVGIMPXl.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/jiLDlDgNMaUjyKcBQEOeFMPj3Z3.jpg</fanart>
@@ -235,8 +235,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] The Post: A Guerra Secreta - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:EFC8A2ACA351CF4F89E5AAFA36F1551944EBB66E$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:EFC8A2ACA351CF4F89E5AAFA36F1551944EBB66E$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOq5Pus5W2IwVcTdveu9tO6yYFB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/h6Qisa5HxxyeIpswIpqaJzN9puT.jpg</fanart>
@@ -245,8 +245,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Pássaros Amarelos - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:9343424B0250B6ED3B50549893998BAEF197306F</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:9343424B0250B6ED3B50549893998BAEF197306F</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL2nskRGOk8Igin0bMI24LYNyU5.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/3TU2qPRRrNmZkVAF12kWJBSkOPq.jpg</fanart>
@@ -255,8 +255,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Círculo de Fogo - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:2e1e92beebf242af3dc69e5b457a552771d877fd</maglink>
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:2e1e92beebf242af3dc69e5b457a552771d877fd</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PcX5sFE83QhKqDuiz0EXnR8LPX.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/atpnR1yFUmk29fe17B8MzgGK22r.jpg</fanart>
@@ -265,10 +265,10 @@
 
    <item> 
 1   <title>[B][COLOR blue] 13 Horas: Os Soldados Secretos de Benghazi - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:79D5C798A7A5473F558578D6D318C91D453F8A4E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</maglink> 
-1   <maglink>magnet:?xt=urn:btih:A9221FC4968E74B4E5455241261C354EAD3A6A7A$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:79D5C798A7A5473F558578D6D318C91D453F8A4E$$lsname=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=urn:btih:A9221FC4968E74B4E5455241261C354EAD3A6A7A$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/1kBiJA4IUr8ek8jO0hw8v0JGqhE.jpg</fanart>
@@ -277,7 +277,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Reino - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <maglink>magnet:?xt=urn:btih:b3278a45eb0337edbbdfb04a800afe4d2e1a1c51&dn=O+Reino+%282007%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=urn:btih:b3278a45eb0337edbbdfb04a800afe4d2e1a1c51&dn=O+Reino+%282007%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSrIGkCd8NRD34NoF3kXJ9QTN6i.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/sAj6pHDKXl4uQz9X9gDDApFM2po.jpg</fanart>
@@ -286,7 +286,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Stealth: Ameaça Invisível  - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <maglink>magnet:?xt=urn:btih:496BC1154C43A05906A6534C50D087DF90BB3313&dn=Stealth%20-%20Amea%c3%a7a%20Invisivel%20%282005%29%20BluRay%20720p%20Dublado%20%5bGeekFilmes.com%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2730%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=urn:btih:496BC1154C43A05906A6534C50D087DF90BB3313&dn=Stealth%20-%20Amea%c3%a7a%20Invisivel%20%282005%29%20BluRay%20720p%20Dublado%20%5bGeekFilmes.com%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2730%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm2kHMfODmlSeWr8WfZQitwjPrq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/60sYICEqfCJBddU1JLjHPNrKzjC.jpg</fanart>
@@ -296,7 +296,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Top Gun - Ases Indomáveis - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <maglink>magnet:?xt=urn:btih:64bbd7bf79daed43cbb452c18eb661fc4c9a9321&dn=Top+Gun+1986+1080p.BRRip.x264.DUAL-MTV&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=urn:btih:64bbd7bf79daed43cbb452c18eb661fc4c9a9321&dn=Top+Gun+1986+1080p.BRRip.x264.DUAL-MTV&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/w4FKM809y8fLrm1DvHLGazIjElv.jpg</fanart>
@@ -305,7 +305,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Atrás das Linhas Inimigas - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <maglink>magnet:?xt=urn:btih:4448edd42592e54583d01de256c8e6b7465a43ae&dn=Behind.Enemy.Lines.2001.1080p.BluRay.x264-WPi.Dual_Mg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=urn:btih:4448edd42592e54583d01de256c8e6b7465a43ae&dn=Behind.Enemy.Lines.2001.1080p.BluRay.x264-WPi.Dual_Mg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrNKyIKsmyHpa4ttqCJj7YI5wDR.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/yRRJPhpgs45EMbhZ2DBptV1TdbZ.jpg</fanart>
@@ -315,7 +315,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Segredos Oficiais - [COLOR red](2020) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76a254f811eaf2dc606c2d0d881bbc92a2edcc10&dn=Segredos%20Oficiais%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bDUAL%5d%20COMANDO.TO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:76a254f811eaf2dc606c2d0d881bbc92a2edcc10&dn=Segredos%20Oficiais%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bDUAL%5d%20COMANDO.TO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oir3fmegKofO0VoADz5jDIYdYk4.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/4bddPlIop3fslmrNYgwdWPMuzZB.jpg</fanart>
@@ -326,7 +326,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Grande Herói  - [COLOR red](2013) - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1696ed65809efebd0a67a13618649de2015d071a&dn=Lone.Survivor.2014.2160p.4K.BluRay.10bits.x265-DUAL-ARTPCP&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:1696ed65809efebd0a67a13618649de2015d071a&dn=Lone.Survivor.2014.2160p.4K.BluRay.10bits.x265-DUAL-ARTPCP&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kW1LjUUBXc8293HHfcdu1Fexb7Qcljtj/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xcir0rOyYydPhGRYgG0Ctt1sqf.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -337,7 +337,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Nascido Para Matar - [COLOR red](1987) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ae634194c515ea191b3c45307d1a74b3ceee897&dn=Full.Metal.Jacket.1987.1080p.BluRay.dual</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:0ae634194c515ea191b3c45307d1a74b3ceee897&dn=Full.Metal.Jacket.1987.1080p.BluRay.dual</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18kbVaitCWjhnmrXAxWG2xoOn-4MJeCem/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHm54HjL1F6CFVyYOz6Q2HAPTfS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -348,7 +348,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] PLATOON - [COLOR red](1986) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aa5059185ac5b7b7f4046604a7d123fff972c32&dn=Platoon+1986+BRRip+1080p+x264-YIFY+DD+5+1+DUAL-yulie&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:0aa5059185ac5b7b7f4046604a7d123fff972c32&dn=Platoon+1986+BRRip+1080p+x264-YIFY+DD+5+1+DUAL-yulie&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19sOIgJ2mUuFG8D_0FT28O578eD5wxhw3/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SBGK0YgxnY8D1xIVPwpBID0KOq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -360,7 +360,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Lealdade à Prova  - [COLOR red](2020) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ccaee3223d643852609b3f62eaf324206a9a74b&dn=COMANDO.TO - Lealdade%20%c3%a0%20Prova%202020%205.1%20(1080p)DUAL&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:1ccaee3223d643852609b3f62eaf324206a9a74b&dn=COMANDO.TO - Lealdade%20%c3%a0%20Prova%202020%205.1%20(1080p)DUAL&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_WKUuX44LyFAOuV3trze9XGYvEWp4NLs/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZMnmVQxLwKGNlCiUa7NAtCbpk2.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -371,7 +371,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Capacetes Brancos  - [COLOR red](2016) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70AAB2BD9135EF94A807986687E63CAC8A314764&dn=Os%20Capacetes%20Branco%202016%20%5bWEBRip%5d%20%5b1080p%5d%20WWW.BLUDV.COM</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:70AAB2BD9135EF94A807986687E63CAC8A314764&dn=Os%20Capacetes%20Branco%202016%20%5bWEBRip%5d%20%5b1080p%5d%20WWW.BLUDV.COM</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FxIZzA83Y9WnadjtW0tVgSNr_vfJ0Qop/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT8aJyGFBFk6sGYeOGF9stgzXNa.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -382,7 +382,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Heróis de uma Guerra  - [COLOR red](2018) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837642abfc909d3005b5aae2ca28d42592e174a6&dn=COMANDO.TO%20-%20Her%c3%b3is%20de%20uma%20Guerra%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:837642abfc909d3005b5aae2ca28d42592e174a6&dn=COMANDO.TO%20-%20Her%c3%b3is%20de%20uma%20Guerra%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XChoXW-bDI2GLMi_WdGgHiFFzVK18jKW/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -393,7 +393,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Três Reis - [COLOR red](1999) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef64665264ee81d98a54bfc4a4d4f5c1cd8c6f&dn=%5bACESSE%20COMANDO4K.COM%5d%20Tr%c3%aas%20Reis%202000%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:caef64665264ee81d98a54bfc4a4d4f5c1cd8c6f&dn=%5bACESSE%20COMANDO4K.COM%5d%20Tr%c3%aas%20Reis%202000%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mTBCtzZrhRYnN0CRFJOAwkjc4NhAPlVf/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tteAin7WS4kpx250joRsu7kEU0.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -404,7 +404,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Relatos de Guerra  - [COLOR red](2015) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ECCD4356137EBEEF931915AAF3A9BBFEEB3C21BE&dn=Relatos%20de%20Guerra%202016%20%5b1080p%5d%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:ECCD4356137EBEEF931915AAF3A9BBFEEB3C21BE&dn=Relatos%20de%20Guerra%202016%20%5b1080p%5d%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P4PwLJ5j8ctC3DKFt3DVgIKWEUaGprAd/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdn34Jx3rRkhDGsD0qcB0cA1HzB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -415,7 +415,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Menino do Pijama Listrado - [COLOR red](2008) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916D5E4758A74EB6596E59C9F13D6B5CB91E575D&dn=O%20Menino%20do%20Pijama%20Listrado%202008%205.1%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:916D5E4758A74EB6596E59C9F13D6B5CB91E575D&dn=O%20Menino%20do%20Pijama%20Listrado%202008%205.1%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l9Uiez9oe1P9lKdw4b4MFDpuuwzqaOAa/view</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJ3t0xfWzUFSM87tE42rI0ZgSZ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -426,7 +426,7 @@
 
 <item>
 <title>[B][COLOR blue]CORAÇÕES DE FERRO[/COLOR][/B][B] - [COLOR red](2015)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1C9A47F0A54A35DB84D6F792C647418B5976597&dn=Cora%C3%A7%C3%B5es%20de%20Ferro%202015%20%5b4K%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:D1C9A47F0A54A35DB84D6F792C647418B5976597&dn=Cora%C3%A7%C3%B5es%20de%20Ferro%202015%20%5b4K%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Pgq2kAMskMZAYLYj9RwKqbqsr6SmIt9V/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg<thumbnail>
@@ -438,7 +438,7 @@
 
 <item>
 <title>[B][COLOR blue] Lágrimas do Sol - [COLOR red](2003)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3611DABE28302DD57F0BE258268A9081C7588158&dn=%7bWWW.BLUDV.TV%7d%20L%c3%a1grimas%20do%20Sol%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:3611DABE28302DD57F0BE258268A9081C7588158&dn=%7bWWW.BLUDV.TV%7d%20L%c3%a1grimas%20do%20Sol%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CM9bqLjsb_G0Wg_brrazgaPDf-FZmmhk/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rN7hvGDmje6CDAYuIuVB4UhT0c.jpg<thumbnail>
@@ -448,7 +448,7 @@
 
 <item>
 <title>[B][COLOR blue]Rede De Mentiras - [COLOR red](2008)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcad24ba41a2cab5929a60ee5a711750995c7964&dn=Rede+de+Mentiras+%282008%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:dcad24ba41a2cab5929a60ee5a711750995c7964&dn=Rede+de+Mentiras+%282008%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hxtieE5iL7nT4sPSruGMli1ivcmrzSRi/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngQAEKZVpT0SD9i98ApEgsQKC52.jpg<thumbnail>
@@ -461,7 +461,7 @@
 
 <item>
 <title>[B][COLOR blue]operação fronteira - [COLOR red][/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3526b0d319ff3f73aeb19a237fd32e2ef5057db&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Opera%c3%a7%c3%a3o%20Fronteira%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:b3526b0d319ff3f73aeb19a237fd32e2ef5057db&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Opera%c3%a7%c3%a3o%20Fronteira%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
 <link>https://wozws09969qthkl.belugacdn.link/movies/operacaofronteira-dub-720p.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg<thumbnail>
@@ -471,7 +471,7 @@
 
 <item>
 <title>[B][COLOR blue]Ato de Coragem - [COLOR red](2012)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C908031A3D68A30E6C0D8FE7762F9A939C2DC99E&dn=Ato.de.Coragem.BluRay.720p.Dublado%20-%20WWW.TORRENTDOSFILMES.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:C908031A3D68A30E6C0D8FE7762F9A939C2DC99E&dn=Ato.de.Coragem.BluRay.720p.Dublado%20-%20WWW.TORRENTDOSFILMES.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-VgV8paekU3aemAOWerEdY7dt7YLeRPL/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdNzpNdh8p0iIV6zrWVVEKzlnLK.jpg</thumbnail>
@@ -481,7 +481,7 @@
 
 <item>
 <title>[B][COLOR blue]Sniper Americano- [COLOR red](2014)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9147ef552ef8c1b857543c7adb6ca57d2fb23af9&dn=American.Sniper.2014.BDrip.4K.AVC.Dual.Audio.KaitShaw&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:9147ef552ef8c1b857543c7adb6ca57d2fb23af9&dn=American.Sniper.2014.BDrip.4K.AVC.Dual.Audio.KaitShaw&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1li5MWI-wo36_otyW1HF91vAWM37loeVq/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZHkY9qEKpbyRNLcepP6bkNeoiV.jpg</thumbnail>
@@ -491,7 +491,7 @@
 
 <item>
 <title>[B][COLOR blue]Midway - Batalha em Alto Mar - [COLOR red](2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384474102bab411d0d4a1e9d6fb42583f31a1a0a&dn=LAPUMiA.Org%20-%20Midway%20-%20Batalha%20em%20Alto%20Mar%202020%20%5b2160p-4K%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:384474102bab411d0d4a1e9d6fb42583f31a1a0a&dn=LAPUMiA.Org%20-%20Midway%20-%20Batalha%20em%20Alto%20Mar%202020%20%5b2160p-4K%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <link>https://wozws09969qthkl.belugacdn.link/movies/midwaybatalhaemaltomar-dub-720p.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg</thumbnail>
@@ -501,7 +501,7 @@
 
 <item>
 <title>[B][COLOR blue]falcão negro em perigo- [COLOR red][/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a402d422892029d2ad6d70d4d4585ce4c95ba8a0&dn=Black.Hawk.Down.2001.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2750</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:a402d422892029d2ad6d70d4d4585ce4c95ba8a0&dn=Black.Hawk.Down.2001.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2750</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n-16Z8P1kB1Hhd1jNht1pQYkpTNlsu2t/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUzQ4r3q1Dy0bUAkMvUIwf0rPpR.jpg<thumbnail>
@@ -511,7 +511,7 @@
 
 <item>
 <title>[B][COLOR blue] Diamante de Sangue - [COLOR red](2006)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0304E22101B0C05D0771674C677A83FB46F76264&dn=Diamante%20de%20Sangue%20%282006%29%20%5b1080p%5d%20DUAL%205.1%20-%20LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:0304E22101B0C05D0771674C677A83FB46F76264&dn=Diamante%20de%20Sangue%20%282006%29%20%5b1080p%5d%20DUAL%205.1%20-%20LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I4vEx-zbtgRsFzzojHdX4aTqtaNafVuo/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRamTzV6udKaMXrspxqOuo02zk0.jpg<thumbnail>
@@ -521,7 +521,7 @@
 
 <item>
 <title>[B][COLOR blue]Gladiador - [COLOR red](2000)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBEAD284FF6418ACD89989D5D027C5DBDD76529C&dn=Gladiador%202000%204K%20Dual%20%c3%81udio%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:DBEAD284FF6418ACD89989D5D027C5DBDD76529C&dn=Gladiador%202000%204K%20Dual%20%c3%81udio%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IHLMHIB45yJJb54mChlkjlylXEqoU5CN/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg<thumbnail>
@@ -531,7 +531,7 @@
 
 <item>
 <title>[B][COLOR blue]O Resgate do Soldado Ryan - [COLOR red](1998)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5d087decbc19b900fb79416e7626269129ab0c&dn=Saving.Private.Ryan.1998.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:8d5d087decbc19b900fb79416e7626269129ab0c&dn=Saving.Private.Ryan.1998.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OHObFJhNPLlXwG0Dt29gvM7LzxN2de6U/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc7IN6bWNaWXv4vI6cxSmeB7PeO.jpg</thumbnail>
@@ -541,7 +541,7 @@
 
 <item>
 <title>[B][COLOR blue] fomos herois [COLOR red](2002)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4446e7f88ad52ed159b3f98ede857726b99310c1&dn=COMANDO.TO%20-%20Fomos%20Herois%202002%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:4446e7f88ad52ed159b3f98ede857726b99310c1&dn=COMANDO.TO%20-%20Fomos%20Herois%202002%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l-By8hQHzRK66Q_LnQauqw6wDWLCMMIh/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5uupBAORxnFNbkNQ2G0Bi2cpY8.jpg<thumbnail>
@@ -551,7 +551,7 @@
 
 <item>
 <title>[B][COLOR blue]12 Heróis - [COLOR red](2018)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E55B482E86EEA66952B1509FF8E4E6569D658EDB&dn=12%20Her%C3%B3is%202018%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:E55B482E86EEA66952B1509FF8E4E6569D658EDB&dn=12%20Her%C3%B3is%202018%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CVQalTdQ1t2sWNh3lGJQsg2ger2cwQ5I/view</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
@@ -562,7 +562,7 @@
 
 <item>
 <title>[B][COLOR blue] ATE O ULTIMO HOMEM [COLOR red](2017)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15fd454a8ef0e4b742ae7cab2371677e3cc83a61&dn=At%c3%a9%20o%20%c3%9altimo%20Homem%202017%20(4K)&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:15fd454a8ef0e4b742ae7cab2371677e3cc83a61&dn=At%c3%a9%20o%20%c3%9altimo%20Homem%202017%20(4K)&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <link>https://f000.backblazeb2.com/file/filmetube/At%C3%A9+o+%C3%9Altimo+Homem+(2017)+Dublado+1080p+.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVJRemwt0WyqnwLMIAaa2FNZBME.jpg<thumbnail>
@@ -572,7 +572,7 @@
 
 <item>
 <title>[B][COLOR blue] A HORA MAIS ESCURA [COLOR red](2012)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5107798c040ecd999a19a232806a92bb203ec0b&dn=A+Hora+Mais+Escura+%282012%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:a5107798c040ecd999a19a232806a92bb203ec0b&dn=A+Hora+Mais+Escura+%282012%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>https://f000.backblazeb2.com/file/filmetube/A+Hora+Mais+Escura+.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoSE1KBRdrZ2nrfABLlKam34LQh.jpg<thumbnail>
@@ -582,7 +582,7 @@
 
 <item>
 <title>[B][COLOR blue]PEARL HARBOR[COLOR red](2001)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:732b59d49227f91c0e89b81d4908fd977465fb5b&dn=Pearl+Harbor+%282001%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:732b59d49227f91c0e89b81d4908fd977465fb5b&dn=Pearl+Harbor+%282001%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>https://f000.backblazeb2.com/file/filmetube/Pearl+Harbor.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVzdU4SmgUpBh1k5vofpARKgo6h.jpg<thumbnail>
@@ -592,7 +592,7 @@
 
 <item>
 <title>[B][COLOR blue]CAVALO DE GUERRA[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb&dn=Cavalo.De.Guerra.%282011%29.720p.HD.Dublado.PT-BR.210GJI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb&dn=Cavalo.De.Guerra.%282011%29.720p.HD.Dublado.PT-BR.210GJI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>https://f000.backblazeb2.com/file/filmetube/Cavalo_De_Guerra_2011_720p_.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdkphnrXmqOvh0mEwYN9xrWGI3w.jpg<thumbnail>
@@ -602,7 +602,7 @@
 
 <item>
 <title>[B][COLOR blue]GUERRA AO TERROR[COLOR red](2008)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd88c072a25a134513404289cbeb4235f37158e7&dn=Guerra.Ao.Terror.%282008%29.Dublado.720p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:fd88c072a25a134513404289cbeb4235f37158e7&dn=Guerra.Ao.Terror.%282008%29.Dublado.720p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>https://f000.backblazeb2.com/file/filmetube/Guerra+Ao+Terror.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SwjvOchYljr7tSKpNeHjpyPbg5.jpg<thumbnail>
@@ -612,7 +612,7 @@
 
 <item>
 <title>[B][COLOR blue]Lista de Schindler[COLOR red](1993)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6209f8d8a6bc3035df5e4b635f72f81ccc4ffbf6&dn=A+Lista+de+Schindler+%281993%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:6209f8d8a6bc3035df5e4b635f72f81ccc4ffbf6&dn=A+Lista+de+Schindler+%281993%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>https://f000.backblazeb2.com/file/filmetube/A+Lista+de+Schindler+.mp4</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKePA1655YWWOTSkyQuu8e84xi0.jpg<thumbnail>
@@ -622,7 +622,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Patriota - [COLOR red](2000) - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B329B16FE8D5740C1B4888F4843B5EB030F662E&dn=O%20Patriota%202000%20Vers%c3%a3o%20Estendida%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:8B329B16FE8D5740C1B4888F4843B5EB030F662E&dn=O%20Patriota%202000%20Vers%c3%a3o%20Estendida%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
@@ -632,7 +632,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] CORAÇÃO VALENTE - [COLOR red](1995) - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3459ae5a3079828c6822b295873ee644a27b0575&dn=Braveheart.1995.2160p.REMUX.HEVC.TrueHD.7.1.Atmos-BT&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:3459ae5a3079828c6822b295873ee644a27b0575&dn=Braveheart.1995.2160p.REMUX.HEVC.TrueHD.7.1.Atmos-BT&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/bZLbzF5LaiJc3y0rZ26sTFPfXCH.jpg</fanart>
@@ -642,7 +642,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Tróia - [COLOR red](2004) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91DAA0F3BCB380AC92D776EBFC6044F9DD706FD4&dn=Troia.Vers%c3%a3o.Diretor.2004.BluRay.1080p.Dual.Audio.D4V1.WWW.BLUDV.COM</link>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=urn:btih:91DAA0F3BCB380AC92D776EBFC6044F9DD706FD4&dn=Troia.Vers%c3%a3o.Diretor.2004.BluRay.1080p.Dual.Audio.D4V1.WWW.BLUDV.COM</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/om0wXlt8ANcHWE0EJlYjxaUD5Ga.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qZitv5zrSXfJafGThxmvbvTsuu5.jpg</fanart>
