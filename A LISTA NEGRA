@@ -1,16 +1,8 @@
-<item>
-<title>[COLOR blue]A lista negra 1ªTEMPORADA (2013)[COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink> 
-<fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
-"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-<info>Raymond "Red" Reddington, um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI.<info>
-</item>
+
 
 
 <item>
-<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb7bdcf9b8fbb86bd95e4e4beee5c6e961dbd6d5</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -18,16 +10,123 @@
 <info> um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI.</info>
 </item>
 
-
-
-
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A LISTA NEGRA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:6844722422c296b52b224bc90a4bf3fde7240208</maglink>
-1<thumbnail>https://image.tmdb.org/t/p/original/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
-1"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/zXpSJLcczUt6EfbdULZanguzy87.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um assassino misterioso coloca em perigo a vida da ex-mulher de Reddington. Liz precisa lidar com os efeitos do seu encontro com Tom, e Cooper retorna à força-tarefa. [COLOR blue][] !!![/COLOR][/B]</info>	      
+<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A LISTA NEGRA - [COLOR blue] [COLOR red]2ªTEMPORADA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6844722422c296b52b224bc90a4bf3fde7240208</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<fanart>https://image.tmdb.org/t/p/original/zXpSJLcczUt6EfbdULZanguzy87.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:[COLOR red]Um assassino misterioso coloca em perigo a vida da ex-mulher de Reddington. Liz precisa lidar com os efeitos do seu encontro com Tom, e Cooper retorna à força-tarefa. [COLOR blue][] !!![/COLOR][/B]</info>	      
 </item>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B09F91D35EB1B0ABB2C3B1C9B9353069BE6D5A4D</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vVIqgAq3dXMjuZN9jEjkkyB7Jl8.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>>
+<fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
+</item>
+
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03237AF8DF71B542EF0A3889D1F8E4518A8DF1BF$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:116D003863FA1892E165BD6DF9D1B497022EC4E9$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22920B560E815CE66AD7E82A74E76399CDE2DA68$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AED09B148145CFFDA3EED3405C5D867111D18FE$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B83ABEB83F40A7DAF18B2FD53F2436FA4288C6CB$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F167F870CF2155D9C0F16CB7F9F92B4403486EE7$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CCE139E240523945A5FEFA7337A38FDBB924A13$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C972FC6113C56B46A159BDCDACE897E445F7008$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DE1195A33D5DFAF4D7F087E37AD3791F1B8CBF$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2E055E4EDC6FAD857F4D947E1F9A04A50A577B4$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA2EB6D2E3BFBCDF471FF7557D4787AA4C818424$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903F137FF541DE59C16EBBFCB171DC520B8682DB$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78BA8486B4542BF17BF6AD654CB9079674C0AA1$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4138510F4D5191A9D73DF29EBD0CB473C411CBCD$$lsname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84F205DD4D767916B053383742EB1ADC0C3337FA$$lsname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7$$lsname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7$$lsname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a724f4b8a9fbe3dc5f8058e381a7964cc052f5d$$lsname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb7fc3fa656bdc6d7c4317fb2577ddcb720853f$$lsname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c$$lsname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a094bd99fe9eed0107cbb4fc16d9ad480d095f0b$$lsname=[COLOR lime]720P EP21[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38de343c476ea11f95d168de1ce93901394c6404$$lsname=[COLOR lime]720P EP22[/COLOR] - DUBLADO</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1jYatNKpDb0jAbfZGpIS0wZOAl6.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<fanart>https://image.tmdb.org/t/p/original/5YXyiuTVy0RZqpX8GP1tSHf1hqN.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
+</item>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:2A7C7440F76CDDF8CD13BF7AC5308C0D2DF72153$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:CD74857353031A87B1F9C0C400C2011DADFF2F71$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:C5CB0CD730961C7BF260F8F4938B3897868B4272$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:B124937BF8EB7AFEFD573F56407D02C97F1B09C6$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:8E3EE07BCC007E650D5C63DB535C17EA8BE266F1$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:E12521F3E5EE5AF7D81C3B75E23819F958B9D78D$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:BF58B60ECBA8C1CCB6CFEA4E75F8697DB91A02E1$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:272C6F3FCFF6D82A59387D3862858F38D57554DA$$lsname=[COLOR lime]720P EP12AO13[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:78c517038dff8de224cf4e57a756525b8277a910$$lsname=[COLOR lime]720P EP14AO18[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:bb8eafd4861ec086587e457f1fc7f0a471378767$$lsname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:5479DCD752FDD60402AB61E6056922EF43175E80$$lsname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:e7d8a14a5e0984ff8c1a18c0a6fa1d56f70721b3$$lsname=[COLOR lime]720P EP21[/COLOR] - DUBLADO</link>
+   <linkmagnet:?xt=urn:btih:A1BA05F84BF09C85EE3EFAD28C31868DDC42E0B3>$$lsname=[COLOR lime]720P EP22[/COLOR] - DUBLADO</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+	<fanart>https://image.tmdb.org/t/p/original/u8em1mtH1XujSWTfPwEpI4iSxiu.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
+</item>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:7d8cf919d9205b64bd189b299703fdfb71c1ee6f$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:885aad81cfa8ea18387d9ff04b81e8ace8801c59$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:856701525d074a056d382804bf132a4484fda9f6$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:228b6ec7e230dca6d56789a1f42fe43096c1dd6a$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:d8dd11bd39d0275e53ea8b23f723f04ca2a125a6$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:69f3b32c1b048ac01bc92b264a63532450a532e0$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:f0e691b4994e5c8d7b6b287528dc2340efb36e86$$lsname=[COLOR lime]720P EP10AO11[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:7e2b712e1d0fef4e38eaaa8746d37120b18469ad$$lsname=[COLOR lime]720P EP12AO15[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:d34ebd22343dfa79ecae94449c7b3ba87f60d15f$$lsname=[COLOR lime]720P EP16AO18[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:6dcbd46e9309ad18335a2e676efefb099c179380$$lsname=[COLOR lime]720P EP19AO22[/COLOR] - DUBLADO</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dVrujyJBp6htAfKQcbscGiB0DdZ.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+	<fanart>https://image.tmdb.org/t/p/original/lyLHrn20Ovoj2bOkshaCYe3UeCo.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:
+[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
+</item>
+
+<item>
+  <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</title>	
+	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] NOME - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+   <link>plugin://plugin.video.elementum/play?uri$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:9ad87123eec7ed6fca107e6d5989f70a092edeaa$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:d715eae19a7884ded9381fc2d653e2d8f531d778$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:4ec16c67c2d981c6c8497900f338b831dfa3803d$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:a1091988bf687bf1bf597e0b12b88c42326c9e50$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:282c1c8e6ce23194ced52e1dd8fd218cc2d3ba61$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:DA294DE58876675169ED6A55A57FFC3240A87B56$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:9ca052aa8575394ea11597802c112b57d54cdeeb$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:2a7c94e55a33197d3e9ead6eb8a06f99bd57ba66$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:afd23bb9658f8a9dec5e31c1df86b5225147f0e7$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:511fad822989d0fbb599179d82190963fda71bbb$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:350fed2758e6ece4e0214c813b285f2e86f6b30f$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:ab3bc635e935b88602bb514dd865424c5a6b05ca$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:15126b4095e4b4e6ebd6bf094784813557422260$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
+   <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:3587ef58282228df2a344f83e758411b5e873497$$lsname=[COLOR lime]720P EP14AO19[/COLOR] - DUBLADO</link>
+   <thumbnail>https://image.tmdb.org/t/p/original/zBnDzqCYOcvl8OmC53Hzd7W5hiZ.jpg</thumbnail>
+ "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+	<fanart>https://image.tmdb.org/t/p/original/8HrBGVo7CxV4cmDyOW6iHfZf2J4.jpg</fanart>
+<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
+</item>
+
+
+
+
+
+
+
+
