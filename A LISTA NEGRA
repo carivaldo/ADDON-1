@@ -1,12 +1,3 @@
-<channels>
-     <channel>
-      <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA  [COLOR red] - [COLOR red][][/COLOR][/B]</title>
-	 <fanart>https://image.tmdb.org/t/p/original/hX6QxeJUSmc1UTdrlolEZqzeBI.jpg</fanart>
-	 <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-      "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-     <info>[B][COLOR red] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.[/COLOR][/B]</info>		
-
-
 <subchannel>	
        <name>[B][COLOR red]• [COLOR red]1 [COLOR blue] [1ªTEMPORADA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</name>
 	    <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
@@ -20,7 +11,33 @@
 				</subitem>
 			</subitems>	
 		</subchannel>
+	   <
+         	
+           </subchannel>
+	</channel>
+<channels>
+
+
+<channels>
+	<channel>
+			<name>[B]A LISTA NEGRA [/B]</name>
+			<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/hX6QxeJUSmc1UTdrlolEZqzeBI.jpg</fanart>
+			 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+            <info>[B][COLOR red] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.[/COLOR][/B]</info>		
 			
+		    <subchannel>
+				<name>[B]1ª TEMPORADA[/B]</name>
+				<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
+					<subitems>
+						<subitem>
+						<title>[B]T1 TODOS OS ESPISÓDIOS[/B]</title>
+						<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
+						<fanarthttps://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg></fanart>
+						</subitem>
+					</subitems>	
+			</subchannel>
 
 
 
