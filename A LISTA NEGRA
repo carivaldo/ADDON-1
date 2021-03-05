@@ -1,55 +1,20 @@
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>  
-</channel>
-</channels>
 
 
-
-
-<channels>
-<channel>
-<name>[COLOR blue]A lista negra (2013)[/COLOR]</name>
+<item>
+<title>[COLOR blue]A lista negra (2013)[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
 <info>Raymond "Red" Reddington, um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI.<info>
-
-
-<channels>
-<channel>
-<name>[B][COLOR red]• [COLOR red]1 [COLOR blue] 1ªTEMPORADA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</name>
-	    <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
-	   "<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
-	   <fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
-	   <subitems>
-			
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels>
-
-
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
-1	<fanart>https://image.tmdb.org/t/p/original/zXpSJLcczUt6EfbdULZanguzy87.jpg</fanart>
-1"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>"<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre><info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
 </item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A LISTA NEGRA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6844722422c296b52b224bc90a4bf3fde7240208</link>
-1<thumbnail>https://image.tmdb.org/t/p/original/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
-1"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/zXpSJLcczUt6EfbdULZanguzy87.jpg</fanart>
-1	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um assassino misterioso coloca em perigo a vida da ex-mulher de Reddington. Liz precisa lidar com os efeitos do seu encontro com Tom, e Cooper retorna à força-tarefa. [COLOR blue][] !!![/COLOR][/B]</info>	      
-</item>
+<item> 
+<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 1ªTEMPORADA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
+"<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
+ <fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
+ </item>
 
 
 <item> 
