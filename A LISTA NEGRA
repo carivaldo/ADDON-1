@@ -1,29 +1,23 @@
 <item>
-<title>[COLOR blue]A lista negra (2013)[/COLOR]</title>
+<title>[COLOR blue]A lista negra 1ªTEMPORADA (2013)[COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>Raymond "Red" Reddington, um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI.<info>
 </item>
 
 
 <item>
-<title>[COLOR blue][B]1 temporada  [/B][/COLOR]</title>
+<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb7bdcf9b8fbb86bd95e4e4beee5c6e961dbd6d5</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/w342/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</fanart>
 <info> um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI.</info>
 </item>
 
-
-<item>
-<title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
-1	<fanart>https://image.tmdb.org/t/p/original/zXpSJLcczUt6EfbdULZanguzy87.jpg</fanart>
-1"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>"<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre><info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
-</item>
 
 
 
