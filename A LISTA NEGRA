@@ -13,14 +13,10 @@
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
 	   "<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
 	   <fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
-	   <subitems>
-			<subitem>
-			<title>[B]T1 TODOS OS ESPISÓDIOS[/B]</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
-			<fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
-		      </subitem>
-		     </subitems>	
-	         </subchannel>
+	    </subitem>
+       </subitems>	
+   </subchannel>
+			
 
 					
 			
