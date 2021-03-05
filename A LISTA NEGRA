@@ -1,55 +1,25 @@
-<item>
+<channels>
+     <channel>
       <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
       <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 	 <fanart>https://image.tmdb.org/t/p/original/hX6QxeJUSmc1UTdrlolEZqzeBI.jpg</fanart>
 	 <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
       "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
      <info>[B][COLOR red] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.[/COLOR][/B]</info>		
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+</subchannel>
 
 <channels>	
        <name>[B][COLOR red]• [COLOR red]1 [COLOR blue] A LISTA NEGRA - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</name>
         <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
          <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
-	 <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-	 "<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
-	 <fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
-	 <info>[B][COLOR blue] SINOPSE:
+	    <thumbnail>https://image.tmdb.org/t/p/original/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
+	   "<genre>[B][COLOR firebrick](ADDON BXL).[COLOR red][COLOR blue][COLOR firebrick]DRAMA CRIME MISTÉRIO[/COLOR][/B]</genre>"
+	   <fanart>https://image.tmdb.org/t/p/original/rmgMuwS4DOQzfc90CHVdVlyxFa0.jpg</fanart>
+	   <info>[B][COLOR blue] SINOPSE:
          [COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	
-</subchannel>
-
-
-
-<channels>	
-       <name>[B][COLOR red]• [COLOR red]1 [COLOR blue] NOME - [COLOR blue] [COLOR red](0000) [COLOR firebrick] SERIES !!![/B][/COLOR]</name>
-       <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-       <link>plugin://plugin.video.elementum/play?uri=</link>
-       <thumbnail></thumbnail>
-	   "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-	   <fanart></fanart>
-	   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
-</subchannel>
-
+           </subchannel>
+	</channel>
 <channels>
-	<channel>
-			<name>[B]NOME[/B]</name>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-			<info></info>
-			
-		    <subchannel>
-				<name>[B]1ª TEMPORADA[/B]</name>
-				<thumbnail></thumbnail>
-				<fanart></fanart>
-					<subitems>
-						<subitem>
-						<title>[B]T1 TODOS OS ESPISÓDIOS[/B]</title>
-						<link>plugin://plugin.video.elementum/play?uri=</link>
-						<fanart></fanart>
-						</subitem>
-					</subitems>	
-			</subchannel>
 			
 
 
