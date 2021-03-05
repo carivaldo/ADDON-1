@@ -399,7 +399,7 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 
-</channels><channel>
+channels><channel>
 <name>[COLOR blue]A lista negra (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA</externallink> 
