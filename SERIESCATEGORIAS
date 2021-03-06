@@ -21,27 +21,25 @@ channels>
 
 
 
-channels>
-<channel>
- <name>[COLOR blue]Boardwalk Empire - O Império do Contrabando [/COLOR]</name> 
+<item>
+ <title>[COLOR blue]Boardwalk Empire - O Império do Contrabando [/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x75dbQ6wG5uH1EuLWMpSa2GTR5P.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/mrh44wUE2QsDt0DPDRd4njpT9b0.jpg</fanart>
 <info>Estados Unidos nos anos 1920: depois do fim da Primeira Guerra, parecia que só havia bons tempos pela frente, com a economia em alta, o avanço de novas tecnologias e a efervescência das operações ilegais que satisfaziam os desejos de todas as classes sociais, principalmente quando se tratava de contrabando de bebidas em tempos de Lei Seca. Nesse contexto, acompanhamos a trajetória de Enoch "Nucky" Thompson, o tesoureiro de Atlantic City e grande chefe do crime organizado. Parte político, parte gângster, Nucky se sente confortável nas duas posições e nada o impedirá de expandir o seu império - até que um de seus seguidores comete atos impensados para obter mais poder, o que pode colocar tudo a perder. Steve Buscemi, astro de Cães de Aluguel, Fargo, Con Air e outros, é o protagonista da nova série de época da HBO. Por trás das câmeras monstros do cinema e da televisão comandam a nova série: os premiados Martin Scorsese e Terence Winter, roteirista de A Família Soprano.<info>
-
+</item>
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
-channels>
-<channel>
-<name>[COLOR blue]Coroner[/COLOR]</name> 
+<item>
+<title>[COLOR blue]Coroner[/COLOR]</title> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Coroner</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/i46T9MnizqIYuRHINZfr8enXsot.jpg</fanart>
 <info>Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.<info>
-
+</item>
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
