@@ -21,8 +21,9 @@ channels>
 
 
 
-<item>
- <title>[COLOR blue]Boardwalk Empire - O Império do Contrabando [/COLOR]</title> 
+channels>
+<channel>
+ <name>[COLOR blue]Boardwalk Empire - O Império do Contrabando [/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x75dbQ6wG5uH1EuLWMpSa2GTR5P.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/mrh44wUE2QsDt0DPDRd4njpT9b0.jpg</fanart>
@@ -33,8 +34,9 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
-<item>
-<title>[COLOR blue]Coroner[/COLOR]</title> 
+channels>
+<channel>
+<name>[COLOR blue]Coroner[/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Coroner</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/i46T9MnizqIYuRHINZfr8enXsot.jpg</fanart>
