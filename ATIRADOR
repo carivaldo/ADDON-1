@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>>
+<title>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/dyysEEonr5tPcgItlfHItfx5ZCY.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4QGjhHUYh2wqHgD8Y6OWEkaRVI.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -21,9 +20,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/lUU0XbmjkIiXnQVtem3uUZR7Jhk.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -48,9 +46,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+<title>[B][COLOR red]• [COLOR blue] O Atirador   [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/j7CjAiB9fYNwWElQsfl9QZNQnJG.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3LxwmOrSFdir7DGFBpYpBRsErg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -61,7 +58,7 @@
 
 ****************************************************************************************************
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Atirador  - [COLOR blue] [COLOR red](0000) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Atirador  - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1	<maglink>magnet:?xt=urn:btih:5731B6B5889DC3432E6F6F792789D0E14DF01937</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3LxwmOrSFdir7DGFBpYpBRsErg.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
