@@ -1,18 +1,55 @@
-
-<item> 
-1   <title>[B][COLOR blue] A lista negra (2013) 1ªTEMPORADA - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>lugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69a3f364b7ead295268115f322a2201efd0db0</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgbQCW4fE9b6wSOSC6Fb4FfVzsW.jpg</thumbnail>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    <item> 
+1   <title>[B][COLOR blue] Archive - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a02e92fc6bcf22889987209fc5009fd1edfe66c</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/8b4X7cFOagllHuERcefvDpECwDz.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]um dos fugitivos mais procurados do FBI, se rende pessoalmente na sede do FBI em Washington, DC. Ele afirma que ele e o FBI têm os mesmos interesses: derrubar criminosos e terroristas perigosos. Nas últimas duas décadas, ele fez uma lista de criminosos e terroristas que mais importam, mas o FBI não consegue encontrar porque não sabe que eles existem. Reddington chama isso de "A lista negra". Reddington vai cooperar, mas insiste que ele falará apenas com Elizabeth Keen, uma especialista em perfil do FBI[/COLOR][/B]</info>	
-  </item> 
+1   <fanart>https://www.themoviedb.org/t/p/original/zK8PcIr4237opCIMy43JCzEbf1E.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.[/COLOR][/B]</info>	
+  </item>  
+  
+ 
+    <item> 
+1   <title>[B][COLOR blue] Um Príncipe em Nova York 2 - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83dab3a81af82e3f7141ed9404c4b384ef8c46cf</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rMzyFmScqk9DAWJskJh4wel1NMs.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Situado no luxuoso país da realeza Zamunda, o recém coroado Rei Akeem e seu confidente Semmi embarcam em uma nova aventura que os levará ao redor do mundo: de sua grande nação Africana ao Queens, bairro de Nova York – onde tudo começou![/COLOR][/B]</info>	
+  </item>  
+  
+ 
+   <item> 
+1   <title>[B][COLOR blue] Legado Explosivo - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba0d05c0645da49c261c91b8bc7d97b971376428</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/twYROzuKox3JfvB9JagOXCr8UIQ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/6yrqL5VMW18GEOXUj71yNtDXj7C.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Tom (Liam Neeson) é conhecido como uma lenda entre os criminosos, mas tudo muda quando ele se apaixona por Annie (Kate Walsh) e decide deixar seu legado no crime para trás. Disposto a mudar de vida, Tom aceita se entregar para a polícia em troca de uma sentença reduzida, mas ele não imaginava que seria enganado por agentes corruptos do FBI que o obrigarão a fazer justiça com as próprias mãos.
 
-
-
-
-
-
+[/COLOR][/B]</info>	
+  </item>  
+   
+ 
+ <item> 
+1   <title>[B][COLOR blue] A Sentinela - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I42C4YBTFUW5HVHCTBZP7T6NQV72FIHF</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/eTgQlyIQH0nA5BsmYpvCzSPAorg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Klara é intérprete no exército francês. Depois de conhecer os horrores da guerra na Síria é transferida para Nice, dentro da Operação Sentinela. Lá, com sua mãe e irmã tenta, se reconstruir.Mas uma noite, depois de sair para uma boate, sua irmã é encontrada meio morta na praia. Ela foi estuprada e espancada. Klara fará tudo para encontrar os agressores e vingar sua irmã. Essa caçada implacável a levará aos passos de Yvan Kadnikov, filho de um poderoso oligarca russo da Côte d'Azur.[/COLOR][/B]</info>	
+  </item>  
+  
 
 <item> 
 1   <title>[B][COLOR blue] Cidade Sob Ameaça - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
