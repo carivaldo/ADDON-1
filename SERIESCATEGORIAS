@@ -606,9 +606,8 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
-channels>
-<channel>
-<name>[COLOR blue] BUSCA IMPLACAVEL[/COLOR]</name> 
+<item>
+<title>[COLOR blue] BUSCA IMPLACAVEL[/COLOR]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfAGotvZUVOBLHwoHNmWo8nEL7q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BUSCA%20IMPLACAVEL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/f3kPFcnHNFFIb0fVZpbiJHX5GYb.jpg</fanart>
