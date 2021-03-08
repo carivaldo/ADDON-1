@@ -9,9 +9,8 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item> 
+1   <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
@@ -22,7 +21,7 @@
 ***************************************************************************************************************************************
 <item> 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Piloto[COLOR red] (2015) [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <maglink>magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
@@ -33,11 +32,9 @@
 ***************************************************************************************************************************************
 
 
-
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -47,13 +44,41 @@
 ***************************************************************************************************************************************
 
 <item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A noite da traidora resgatada - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:79E234B4AE455030D30F2CAEDC20FCA4B05E4D51$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:A5CB98D585034C234162C99ED9867CF9498CA709$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:4BED4CEF93884E633115A306816F04D48AE7A42B$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:BD872528BC015ABA2A3201EEC2DE1CEEFCEB2C13$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 720P EP01- [COLOR blue] [COLOR red](2017)[/B][/COLOR]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>magnet:?xt=urn:btih:79E234B4AE455030D30F2CAEDC20FCA4B05E4D51</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][720P EP02][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][720P EP03][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:A5CB98D585034C234162C99ED9867CF9498CA709</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][720P EP04][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:4BED4CEF93884E633115A306816F04D48AE7A42B</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][720P EP05][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:BD872528BC015ABA2A3201EEC2DE1CEEFCEB2C13</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+
+
+
 1   <maglink>magnet:?xt=urn:btih:733ACF6C025477510E50085BF616B1DF1E59A875$$lsname=[COLOR lime]720P EP06AO07[/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:E96C0E5C01868521E736603363FEF3EEC3DCE588$$lsname=[COLOR lime]720P EP08AO09[/COLOR] - DUBLADO</maglink>
 1   <maglink>magnet:?xt=urn:btih:0B3390BBC00BB353915E5009B99D512CDE2D14C6$$lsname=[COLOR lime]720P EP10AO12[/COLOR] - DUBLADO</maglink>
@@ -72,10 +97,9 @@
 
 ***************************************************************************************************************************************
 
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Blindspot [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Blindspot [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/q2xEXxqXrWPh5yhBAwpFWwcfiNJ.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -87,7 +111,7 @@
 
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Voltar para a Grind - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <maglink>magnet:?xt=urn:btih:5C4F93AD6E66419056AB92A629B645B42D73A44A</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/q2xEXxqXrWPh5yhBAwpFWwcfiNJ.jpg</fanart>
@@ -97,10 +121,9 @@
 ***************************************************************************************************************************************
 
 
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -112,7 +135,7 @@
 ***************************************************************************************************************************************
 <item> 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Hella Duplicitous[COLOR red](2020) [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <maglink>magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
@@ -120,10 +143,9 @@
 </item>
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
- <name>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+ <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
+1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/zz7CpOzpqRpbb53UYrJeJQaadFq.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -135,7 +157,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <maglink>magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</maglink>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
