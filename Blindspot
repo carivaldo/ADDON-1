@@ -4,25 +4,23 @@
 
 <item> 
   <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
 	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
 	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
-<item>
-<item>
-
-
-  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-     <link>plugin://plugin.video.elementum/play?uri=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
-	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
-"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-<info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
-<item>
+</item>
 
 ***************************************************************************************************************************************
+<item>
+  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][(2015)][/COLOR][/B]</title>
+     <link>magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
+	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
+	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
+</item>
 
+***************************************************************************************************************************************
 
 <item>
 <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
@@ -43,7 +41,7 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?(ADDON BXL)[/COLOR][/B]</info>		
-<item>
+</item>
 
 
 
@@ -55,35 +53,32 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
-<item>
+</item>
 
 <item>
-<title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
-   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-    <link>plugin://plugin.video.elementum/play?uri=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
+<title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][2018][/COLOR][/B]</title>
+    <maglink>magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</maglink>
 	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
 	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
-<item>
+</item>
 
 
 ****************************************************************************************************************************
 <item>
  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
-<maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
-<item>
+</item>
 
 
 <item>
- <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
-<maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-  <link>plugin://plugin.video.elementum/play?uri=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</link>
+ <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2019][/COLOR][/B]</title>
+  <maglink>magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</maglink>
 	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
-<item>
+</item>
 
