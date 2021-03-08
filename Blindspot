@@ -10,6 +10,16 @@
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
 <item>
+<item>
+
+
+  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+     <link>plugin://plugin.video.elementum/play?uri=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
+	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
+	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
+<item>
 
 ***************************************************************************************************************************************
 
@@ -41,6 +51,15 @@
 <item>
 <title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
    <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
+<item>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
+   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
     <link>plugin://plugin.video.elementum/play?uri=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
 	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
 	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
@@ -49,8 +68,16 @@
 <item>
 
 
-
 ****************************************************************************************************************************
+<item>
+ <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
+<maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
+<item>
+
+
 <item>
  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
 <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
@@ -59,5 +86,4 @@
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
 <item>
-
 
