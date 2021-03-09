@@ -1,7 +1,6 @@
 ******************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 1ªTEMPORADA ]  [/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 1ªTEMPORADA ]  [/B][/COLOR]</title>
 <genre>[COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR]</genre>
 <info>[COLOR blue]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR]</info>
 <item>
@@ -97,9 +96,8 @@
 [COLOR red]A pedido do rei Horik, Ragnar monta uma pequena festa para viajar a Gotaland (atual Suécia) para resolver uma disputa de terras com o líder da região, Jarl Borg.[/COLOR][/B]</info>
 </item>
 ******************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 2ªTEMPORADA ]  [/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 2ªTEMPORADA ]  [/B][/COLOR]</title>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
@@ -205,9 +203,8 @@ imperdoável [/B][/COLOR]</title>
 [COLOR red]Ragnar returns to Kattegat after the defeat in Wessex and places his trust in those who have stayed by his side all this time.[/COLOR][/B]</info>
 </item>
 ******************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 3ªTEMPORADA ]  [/B][/COLOR]</name>
+<item>
+<title>>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 3ªTEMPORADA ]  [/B][/COLOR]</name>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
@@ -222,9 +219,8 @@ imperdoável [/B][/COLOR]</title>
 </item>
 
 ******************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 4ªTEMPORADA ] (PARTE1) [/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 4ªTEMPORADA ] (PARTE1) [/B][/COLOR]</name>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
@@ -239,9 +235,8 @@ imperdoável [/B][/COLOR]</title>
 </item>
 
 ******************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 4ªTEMPORADA ] (PARTE2) [/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 4ªTEMPORADA ] (PARTE2) [/B][/COLOR]</title>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
@@ -256,9 +251,8 @@ imperdoável [/B][/COLOR]</title>
 </item>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 ******************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 5ªTEMPORADA ]  [/B][/COLOR]</name>
+<item>
+<title>>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 5ªTEMPORADA ]  [/B][/COLOR]</name>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
@@ -438,10 +432,8 @@ A mensagem [/B][/COLOR]</title>
 </item>
 **************************************************************************************************************************
 
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<channels>
-</channels><channel>
-<name>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 6ªTEMPORADA ]  [/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]•  VIKINGS  [COLOR red] [ 6ªTEMPORADA ]  [/B][/COLOR]</title>
 <genre>[B][COLOR firebrick]ADDON BXL, guerra, ação, sangue, morte[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Vikings é uma série de televisão de drama histórico escrita e criada por Michael Hirst para a emissora History. ... Vikings é inspirada nas sagas do Viking Ragnar Lothbrok, um dos mais conhecidos heróis nórdicos lendários e chamado de flagelo da Inglaterra e da França.[/COLOR][/B]</info>
