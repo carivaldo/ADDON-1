@@ -1,8 +1,7 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jgt1T8D7ng50rTGyvjNBQw7e5A.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -14,7 +13,6 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Boardwalk Empire - O Império do Contrabando - [COLOR blue] [COLOR red](2010) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1    <maglink>magnet:?xt=urn:btih:d02fc4a3a18fca27815bfe1f404463258f279b0f</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jgt1T8D7ng50rTGyvjNBQw7e5A.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -23,10 +21,9 @@
 </item>
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/mrh44wUE2QsDt0DPDRd4njpT9b0.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -38,7 +35,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Boardwalk Empire - O Império do Contrabando - [COLOR blue] [COLOR red](2011) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <maglink>magnet:?xt=urn:btih:EAED7683A0812436E21FC9E25D86CCFFD6E02ED6</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -50,10 +47,9 @@
 
 ****************************************************************************************************
 
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>	
+1	<title>>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/4MKk8ulUYBHo2tpBdPDglqstQgh.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x75dbQ6wG5uH1EuLWMpSa2GTR5P.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -65,7 +61,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Boardwalk Empire - O Império do Contrabando - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <maglink>magnet:?xt=urn:btih:10CA2FE66C8D3A0A6CAD2E139C6BBEEB1F9357D7</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x75dbQ6wG5uH1EuLWMpSa2GTR5P.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -74,10 +70,9 @@
 </item>
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cR7cXxT5mSP4NOjzTU14sTmRh7U.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -89,7 +84,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Boardwalk Empire - O Império do Contrabando - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <maglink>magnet:?xt=urn:btih:06BC63CEA5A879AC8316C4A3000DA4BC9B3308E0</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cR7cXxT5mSP4NOjzTU14sTmRh7U.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -98,10 +93,9 @@
 </item>
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>	
+1	<title>>[B][COLOR red]• [COLOR blue] Boardwalk Empire - O Império do Contrabando  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q53OhDCwva9uequApi3RmUjAHP.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -113,7 +107,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Boardwalk Empire - O Império do Contrabando - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <maglink>magnet:?xt=urn:btih:0A6140C38CA51F3FCFEF5D54822D14098C4396D9</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q53OhDCwva9uequApi3RmUjAHP.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
