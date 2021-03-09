@@ -1712,7 +1712,7 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue]the Walking Dead [/COLOR]</name>
+<name>[COLOR blue]the Walking Dead [/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20Walking%20Dead</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7r4FieFH6Eh6S55hi8c9LOiFENg.jpg</fanart>
