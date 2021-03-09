@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Designated Survivor    [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue]Designated Survivor    [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R125JAIh1N38pzHp2dRsBpOVNY.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original/8UVzqlBMG3azowsi7f8lqZwhcBZ.jpg</fanart>
@@ -238,9 +237,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Designated Survivor    [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue]Designated Survivor    [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R125JAIh1N38pzHp2dRsBpOVNY.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original/8UVzqlBMG3azowsi7f8lqZwhcBZ.jpg</fanart>
@@ -481,9 +479,8 @@
 </item>
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Designated Survivor  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue]Designated Survivor  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R125JAIh1N38pzHp2dRsBpOVNY.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original/8UVzqlBMG3azowsi7f8lqZwhcBZ.jpg</fanart>
