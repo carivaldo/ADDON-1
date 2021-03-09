@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
 1	<fanart>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpu2oA0FIuti0C27hbnWfOCpprf.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -21,9 +20,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Inferno Sobre Rodas  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue]Inferno Sobre Rodas  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/amHllmPEZ26IwDJvPXw67cXLnAV.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -42,9 +40,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name> 
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title> 
 1	<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3FlpJ6q7JA3syczWRp6xWjZzPY.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -64,9 +61,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/crHMFNQhYXxjPlU2URNYagsx5BB.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -95,9 +91,8 @@
 1	<info>[B][COLOR red] SINOPSE:[COLOR red]Na quarta temporada, a história introduzirá o ator Jake Weber (Medium), que interpreta John Campbell, um homem que acredita que ninguém está acima da lei, com exceção dele e de seus homens. Enviado a Cheyenne pelo Presidente Grant, Campbell se torna o governador provisório de Wyoming. Logo ele passa a medir forças com Durant (Colm Meaney) pelo controle da cidade e da ferrovia. Além de Weber, a temporada também introduzirá a atriz e cantora MacKenzie Porter, que interpretará Naomi, ex-mórmon que se casa com Cullen, com quem tem um filho.[/COLOR][/B]</info>	
 </item>	
 ****************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name> 
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Inferno Sobre Rodas [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name> 
 1	<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3FlpJ6q7JA3syczWRp6xWjZzPY.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/zkwO726aAsVVoDqjoH669HO0VO2.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
