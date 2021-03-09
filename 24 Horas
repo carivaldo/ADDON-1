@@ -12,7 +12,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas  - [COLOR blue] [COLOR red](2001) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1 <maglink>magnet:?xt=urn:btih:43009E168F52CB811297EC47F12533D86EFAC1F5</maglink>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43009E168F52CB811297EC47F12533D86EFAC1F5</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
@@ -34,7 +34,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2002) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1 <maglink>magnet:?xt=urn:btih:B35BB8DA6C048A5CBB4A0187A88076D75975BEC9</maglink>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B35BB8DA6C048A5CBB4A0187A88076D75975BEC9</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkQ2HUfAaOSsQBrdDCOTv09Lp2J.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/u1nLaddBiOQkWcGYFCtGxzHh1dw.jpg</fanart>
@@ -56,8 +56,8 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2003) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>magnet:?xt=urn:btih:BAA66F6FDDEB9E5858320911F040ABCB60E35FB2$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:D436040A2C501E194FBF200140C856D6F2FA76DF$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BAA66F6FDDEB9E5858320911F040ABCB60E35FB2$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <linkplugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:D436040A2C501E194FBF200140C856D6F2FA76DF</link> 
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj1qyMRhKZRBs2mLhIf8zxJMVAU.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>" 
 1	<fanart>https://image.tmdb.org/t/p/original/mzcl4IOe5kb7SIKYzqgfjIcumfW.jpg</fanart>
@@ -79,7 +79,7 @@
 **************************************************************************************************** 
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2004) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1    <maglink>magnet:?xt=urn:btih:703D083D0D95FFF5FD4CA11D702040DB982E3446</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:703D083D0D95FFF5FD4CA11D702040DB982E3446</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXf7me24JYgw0s4RX37FHAf7Fhd.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/8fbD3QTPLr2HKgjPWGvvKzs0or3.jpg</fanart>
@@ -101,7 +101,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2005) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1    <maglink>magnet:?xt=urn:btih:921bf606d6ab34dd1b81171ec1beed8605c7ac74</maglink>
+1    <maglink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:921bf606d6ab34dd1b81171ec1beed8605c7ac74</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLaBUnK1mptPFSitXxZDfblMXeU.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/k2S7MOufL1jEXYe7LClo01uFrC2.jpg</fanart>
@@ -123,7 +123,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2006) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1    <maglink>magnet:?xt=urn:btih:42b93986ba71d9e5bdec29004de679834efb87c1</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42b93986ba71d9e5bdec29004de679834efb87c1</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/npfX8vEOddH0Y0NJSwNfY0PXK1P.jpg</fanart>
@@ -145,7 +145,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2007) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1 <maglink>magnet:?xt=urn:btih:662ee6aee8bf1d0a8337f75d101d6850089291e3</maglink>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:662ee6aee8bf1d0a8337f75d101d6850089291e3</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3Zu1hpsCblt8R2PVNL0PSJEXpU.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/1nWPgJ3UYdU2VJdd43HK3LuY1qP.jpg</fanart>
@@ -167,7 +167,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2008) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1 <maglink>magnet:?xt=urn:btih:9e82d70d8f0af9155eed922f35e2748712d005cb</maglink>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e82d70d8f0af9155eed922f35e2748712d005cb</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/71OcHSi5dV0VYHsczS5gdUeWNW6.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/bTPkxFj4M7kQ9TvO7c4x0KXTnA6.jpg</fanart>
@@ -188,7 +188,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 24 Horas - [COLOR blue] [COLOR red](2009) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1 <maglink>magnet:?xt=urn:btih:7f23e5bd80047eacdd3576839565724fb353c837</maglink>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f23e5bd80047eacdd3576839565724fb353c837</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA7EerYmAKol6RUUjlQEiziAePw.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/vRCCCDWGZiGNO8jPS5QLqFfGN4n.jpg</fanart>
