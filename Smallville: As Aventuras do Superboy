@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/qfiB0VDNEXP9IZDrOhNakwPZ0Tc.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -21,10 +20,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy   [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8g9mF0b23Qflwk9VdagnmU5jYI.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/kuOt3LxmHW8k39SK2tyg6qSWhop.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -45,9 +42,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/aNNvscbbmzr3s9lS54b5N6s45DF.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -67,9 +63,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/3BPf9wQr6OInyg8vhvb33gBKjxy.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -89,9 +84,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/8A2IYYRLM5rR0hYwbWJr9KLPnUu.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB8VKkafyGzTNJuxueKQNKuWxn5.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -111,9 +105,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/8zSPooK3Xz4mpB0wcSjyZTtOtju.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rv2Ok7fPjTwdz8V8A9OUtE1hOv.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -133,9 +126,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/bBP3TQkcyv12qkDirnkqA9FWZLt.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BcPslccbs5symFx89BhupWbAwn.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -155,9 +147,8 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][8ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][8ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/gn9MHlVYz7JXaA22njXu8YKnDO1.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXMx60hLie6LEWjpfl5Hs1jhJSD.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -177,9 +168,8 @@
 </item>	
 
 ****************************************************************************************************************************
-   <channels>
-  </channels><channel>
-  <name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][9ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][9ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/5DwkQEMIavEuPafosNnO7suX3FH.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/96lY7JTaPdxHUvNLsYPsDbvL9qO.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -201,9 +191,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][10ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Smallville - As Aventuras do Superboy  [COLOR red] - [COLOR red][10ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/zaReiMEX0acmmdBZygIJmWk0chc.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/u9yZHsBm0i3yFy0uvi2Cl5U7GiL.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
