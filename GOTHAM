@@ -8,15 +8,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Os fãs de Jim Gordon, Bruce Wayne e companhia podem ficar aliviados, pois a Fox acaba de renovar Gotham para sua terceira temporada. A confirmação veio do astro Ben McKenzie em seu Twitter. A história é focada no passado de Bruce Wayne, logo após que seus pais são mortos, e como está a situação de Gotham no momento. Ao mesmo tempo, somos apresentados ao detetive James Gordon e suas incansáveis tentativas de extinguir o crime da cidade.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <maglink>magnet:?xt=urn:btih:FD4013A545409CD57E8AE2BC75BEEE52BBA13558</maglink>    
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD4013A545409CD57E8AE2BC75BEEE52BBA13558</link>    
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -32,13 +27,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/COLOR][/B]</info>		
-<item>
 
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1  <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1  <maglink>magnet:?xt=urn:btih:E008D3A54314F157110BE0D833307D4CFBE18E91</maglink>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E008D3A54314F157110BE0D833307D4CFBE18E91</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -54,16 +46,11 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1  <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <maglink>magnet:?xt=urn:btih:0F798C2582A589C9EC32BB4B810FA08186666AFD$$lsname=[COLOR lime]720P  [/COLOR] - DUBLADO</maglink>  
-1   <maglink>magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a$$lsname=[COLOR lime]21AO22  [/COLOR] - DUBLADO</maglink> 
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F798C2582A589C9EC32BB4B810FA08186666AFD</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -79,12 +66,7 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail> 
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <maglink>magnet:?xt=urn:btih:224C7CD0AE1CD9BBAEC09B80262F05725508899F$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
@@ -124,15 +106,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1    <maglink>magnet:?xt=urn:btih:C1AA131BC63DCFA289A42F9A8616D1463DD6CB3B</maglink>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1AA131BC63DCFA289A42F9A8616D1463DD6CB3B</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
