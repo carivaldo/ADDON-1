@@ -1,9 +1,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -26,9 +25,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -51,9 +49,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] DEMOLIDOR  [COLOR blue] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QWbPaDxiB6LW2LjASknzYBvjMj.jpg</thumbnail>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:
