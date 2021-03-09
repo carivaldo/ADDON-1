@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Altered Carbon (2018) [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Altered Carbon (2018) [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/bebFVt9OqrvYxVIZHlzPG1A0Hjx.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/fjRAYxHPKN7fknSc8PwgXLccLyq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -22,9 +21,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Altered Carbon (2020)  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>	
+1	<title>[B][COLOR red]• [COLOR blue] Altered Carbon (2020)  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/xETbCo8l06poxFUgbtaUeKmLadz.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
