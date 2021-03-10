@@ -51,30 +51,30 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htX1x0gq8Y5bN9vtGzERf9nbOTK.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]911 é o número de telefone discado em casos de emergência e, por meio deles, diversas vítimas conseguem ser salvas. Agora, os operadores por trás deste número revelam seu dia a dia, mostrando as histórias mais marcantes e emocionantes que eles já viveram durante o expediente de trabalho.[/COLOR][/B]</info>		
 	
-	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
- <item>                                                                                                                       
+<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<item>
+<title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][EP 01AO 02][/COLOR][/B]</title>                                                                                                                      
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27af3ceb404f560611162edff36fbe76e991fa67</link>
 </item>
 
- <item>
+ <title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][EP 01AO 02][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a44ca4f28baf431431bf6aa312fbccd25561e3</link>
  </item>
  
-   <item>
+<title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][EP 01AO 02][/COLOR][/B]</title> 
  <link>plugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:40a0fa393a29ed748483a4e2b324af656ef5356b</link>
  </item>
 
-   <item>
+  <title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][EP 01AO 02][/COLOR][/B]</title> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00500754b8018afc398414fc705ebbf1efe10497</link>
 </item>	
 
-  <item>                                                                                                                     
+ <title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][EP 01AO 02][/COLOR][/B]</title>                                                                                                                     
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c61a04ab97e6c7912f45b1f14934513f2b2aaf60</link>
 </item>	
 
