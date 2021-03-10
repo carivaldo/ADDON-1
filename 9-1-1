@@ -63,47 +63,34 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1  <item>                                                                                                                       
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27af3ceb404f560611162edff36fbe76e991fa67</link>
-</item>	                                                                                                                    
-
-
-
-
-<item>
+	                                                                                                                
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a44ca4f28baf431431bf6aa312fbccd25561e3</link>
-</item>	
-
- <item>                                                                                                                        
+                                                                                                                       
  <link>plugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:40a0fa393a29ed748483a4e2b324af656ef5356b</link>
-</item>	
-
-
-
-1   <item>                                                                                                                       
+                                                                                                                      
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00500754b8018afc398414fc705ebbf1efe10497</link>
 </item>	
 
 
 
-1   <item>                                                                                                                     
+  <item>                                                                                                                     
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c61a04ab97e6c7912f45b1f14934513f2b2aaf60</link>
 </item>	
 
 
-1  <item>                                                                                                                      
+  <item>                                                                                                                      
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45cf06512f71d08059b29728517dffdf84487c8c</link>
 </item>	
-
-1  <item>                                                                                                                      
+  <item>                                                                                                                      
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a79c1177dd09ec208ea855d67d81824101b1868b</link>
 </item>	
 
 
-1  <item>                                                                                                                        
+ <item>                                                                                                                        
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6287c4eb0d615cbcd10c9d3506d2144b81b8cd40</link>
-</item>	                                                                                                                      
+	                                                                                                                      
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htX1x0gq8Y5bN9vtGzERf9nbOTK.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
