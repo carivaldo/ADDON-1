@@ -18,30 +18,30 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] 9-1-1  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://www.themoviedb.org/t/p/original/cECKQLktgSIR2HcdnGV8Ftfyl9p.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLWroK9uZU5tKBf42DbF6U4YAS7.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O segundo ano começa no verão de Los Angeles, onde em um dos dias mais quentes do ano os socorristas sentem a pressão de incidentes angustiantes acontecendo ao redor da cidade. Ainda um grande terremoto atinge Los Angeles, e Bobby (Peter Krause) e sua equipe se apressam em resgatar as vítimas do grande holocausto que destrói grande parte da cidade. Maddie Kendall (Jennifer Love Hewitt) chega a cidade fugindo do marido violento, ela é irmã de Buck (Oliver Stark), e para iniciar uma nova vida se torna atendente do serviço de emergência, ocupando a vaga deixada por Abby (Connie Britton), que deixou a cidade após a morte da mãe. O romance entre Bobby e Athena enfrenta problemas, mesmo com a paixão aflorada entre eles. A chegada do bonitão Eddie Diaz (Ryan Guzman) cria uma breve rivalidade com Buck, mas Eddie enfrenta um problema maior: criar o filho com necessidades especiais. Nossos heróis precisam lidar com seus problemas pessoais enquanto livram a cidade das calamidades mais difíceis possíveis.[/COLOR][/B]</info>		
 	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b11aefecac0be15bf8d5fb9a862b15e496c00aa<link>720P EP01 AO 02</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bccbd0432c14f3023428e500be61d7501526bea4<link>720P EP03</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:159c2bb4fc8e06e45540418c6605fa69eb6a25b5</link>720P EP04</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8826a00f2d0b2c6ff56248e0cd3a6b797afa076$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f6679c6634bbb99bc90709b7ffd2084b56d4067$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca3cde7790047c6d0bb9d846ed8c61cd53415079$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4067d9781d2d220b82b65409f6503236317b5fa1$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6552fe8ba12db45ca0da92be177c0f5508aa14cb$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96494bedf8cbc60982979566adf084420ad60cdd$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed6e769de49cfbbe20d0ec74b679740c09ee8d7b$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c0754af6b159ef51622f4743f8e181c00e3041a$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160fac493ed2486f513fa6bd94eeff795b84ff4c$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ab02f64974ccd668e73a7812459f20bcf7f60da$$lsname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6e726c794bb2767d651bf28d205b80d7e859a0$$lsname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a82186bab7af9c14b6a3fc8ec2a1872666ff8112$$lsname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2ae3da1f591cc91b897a9457d87bd3b24ab8ccc$$lsname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f009c9cd240e8e76f4ffaa334c6d93ff4c6a4c$$lsname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</link>
+1 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b11aefecac0be15bf8d5fb9a862b15e496c00aa<link>
+</item>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bccbd0432c14f3023428e500be61d7501526bea4<link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:159c2bb4fc8e06e45540418c6605fa69eb6a25b5</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8826a00f2d0b2c6ff56248e0cd3a6b797afa076</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f6679c6634bbb99bc90709b7ffd2084b56d4067</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca3cde7790047c6d0bb9d846ed8c61cd53415079</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4067d9781d2d220b82b65409f6503236317b5fa1</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6552fe8ba12db45ca0da92be177c0f5508aa14cb</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96494bedf8cbc60982979566adf084420ad60cdd</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed6e769de49cfbbe20d0ec74b679740c09ee8d7b</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c0754af6b159ef51622f4743f8e181c00e3041a</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160fac493ed2486f513fa6bd94eeff795b84ff4c</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ab02f64974ccd668e73a7812459f20bcf7f60da</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6e726c794bb2767d651bf28d205b80d7e859a0</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a82186bab7af9c14b6a3fc8ec2a1872666ff8112</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2ae3da1f591cc91b897a9457d87bd3b24ab8ccc</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f009c9cd240e8e76f4ffaa334c6d93ff4c6a4c</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLWroK9uZU5tKBf42DbF6U4YAS7.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/cECKQLktgSIR2HcdnGV8Ftfyl9p.jpg</fanart>
