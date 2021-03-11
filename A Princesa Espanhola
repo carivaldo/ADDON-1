@@ -28,12 +28,16 @@
 <info>[B][COLOR red] SINOPSE:[COLOR red]Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.[/COLOR][/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Princesa Espanhola - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>   
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9</link>
+  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>   
+  <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<item>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1$$l</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7$$l</link>
 1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01</link>
+<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+</item>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CcnnDZf2ievdquCa2Jh8yIBtPD.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fanart>
