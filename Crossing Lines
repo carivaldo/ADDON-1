@@ -7,15 +7,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Crossing Lines todas as temporadas completas e dubladas da série. Criada por Ed Bernero (Criminal Minds) e Rola Bauer, a série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break).[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Crossing Lines  - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1  <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1  <maglink>magnet:?xt=urn:btih:49A049B1BF4AC2F56B90BC2D35BFEE550F0A4184</maglink>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49A049B1BF4AC2F56B90BC2D35BFEE550F0A4184</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/46CHPlDDTRNyMuSMQ64FS4nUrtM.jpg</fanart>
@@ -30,15 +25,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail> 
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Crossing Lines todas as temporadas completas e dubladas da série. Criada por Ed Bernero (Criminal Minds) e Rola Bauer, a série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break).[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Crossing Lines  - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:44D0E807D0B23B9DCC704DBA7C6DD6DF6527432B</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44D0E807D0B23B9DCC704DBA7C6DD6DF6527432B</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/8yqeBu7XCSP4JywFetMp52HQq3O.jpg</fanart>
@@ -53,15 +43,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Crossing Lines todas as temporadas completas e dubladas da série. Criada por Ed Bernero (Criminal Minds) e Rola Bauer, a série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break).[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Crossing Lines  - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:E867825438798B6F9773AECA087F9F52E0A3EB69</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E867825438798B6F9773AECA087F9F52E0A3EB69</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZvyHWIKOy9VuJqrwTT81JP5fx.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/8yqeBu7XCSP4JywFetMp52HQq3O.jpg</fanart>
