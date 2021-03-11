@@ -7,22 +7,48 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n6UNHZoiYj81abwmG38HbNjflDx.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Um grupo de pesquisadores cria um experimento capaz de pôr fim à ameaça do aquecimento global, mas seus planos não saem como o planejado e eles acabam eliminando quase toda a vida da Terra, que, por sua vez, transforma-se em um deserto de gelo. Os únicos sobreviventes vagam pelo planeta a bordo de um trem chamado Snowpiercer, mas nem todos estão conformados com a situação. Com isso, uma revolução está prestes a eclodir.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Expresso do Amanhã - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:7e5a4fc5e0d174c23ed4a6294bfeb29a1b380d5$$lsname=[COLOR lime]720P EP01 AO 02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:58e3f7a5855719a99e21020dd820b7275b4ed0fc$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:bcbd2da90b0a31e375891fcbb99465e405de9002$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:803d33926d7644516fd03259d9ec5ff3d0bea5d3$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:86d3cf2836251d0482c56d8be6801224918972de$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:8dc5bc91bffb86ab947b0ee3a83b80b4b3a9f03d$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9d4011699db1f03a37ad036f97277053547d98d5$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:fdc98b2fe237140ca54491fcded9bd385ed6818f$$lsname=[COLOR lime]720P EP09AO10[/COLOR] - DUBLADO</maglink>
+1   
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 01 ao 02][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5a4fc5e0d174c23ed4a6294bfeb29a1b380d5</link>
+</item>	
+1  
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 03][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58e3f7a5855719a99e21020dd820b7275b4ed0fc</link>
+</item>	
+1  
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 04][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcbd2da90b0a31e375891fcbb99465e405de9002</link>
+</item>	
+1   
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 05][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:803d33926d7644516fd03259d9ec5ff3d0bea5d3</link>
+</item>	
+1   
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 06][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d3cf2836251d0482c56d8be6801224918972de</link>
+</item>	
+1   
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 07][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dc5bc91bffb86ab947b0ee3a83b80b4b3a9f03d</link>
+</item>	
+1   
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 08][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d4011699db1f03a37ad036f97277053547d98d5</link>
+</item>	
+1  
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 09][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdc98b2fe237140ca54491fcded9bd385ed6818f</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n6UNHZoiYj81abwmG38HbNjflDx.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/2fhU42I8pPdvEKfrZtuJ8KrzdeF.jpg</fanart>
@@ -38,16 +64,17 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPiIM7waw1FILCan7v32y8weLKB.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Renovada pela TNT antes mesmo da estreia. A série conta a história de um trem que vaga por uma Terra congelada e onde as classes sociais são separadas em vagões distintos, causando conflitos entre os passageiros.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Expresso do Amanhã - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:7V3RIVY6L3RQKF5YXR3LXFYV7VRT5URQ$$lsname=[COLOR lime]1080P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:WZTKHXVH7AWWQXK3I45YGNEVLSZEXRJ3$$lsname=[COLOR lime]1080P EP02[/COLOR] - DUBLADO</maglink>
+<item>  
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 01][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7V3RIVY6L3RQKF5YXR3LXFYV7VRT5URQ</link>
+</item>	 
+<item>
+<title>[B][COLOR red]• [COLOR blue] Expresso do Amanhã[COLOR red] - [COLOR red][EP 02][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WZTKHXVH7AWWQXK3I45YGNEVLSZEXRJ3</link>
+</item>	
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPiIM7waw1FILCan7v32y8weLKB.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/dJBKKbrQIqcQ9EUbdM48dM8mso6.jpg</fanart>
