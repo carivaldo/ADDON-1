@@ -7,15 +7,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR]Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.[/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Princesa Espanhola - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:3C4658AC49CFAF2431C7E96E60AA8AEF10EEA910</maglink>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4658AC49CFAF2431C7E96E60AA8AEF10EEA910</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/atLyBlRj1lEcDnDOvmfoazG9HAA.jpg</fanart>
@@ -31,19 +26,14 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CcnnDZf2ievdquCa2Jh8yIBtPD.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Princesa Espanhola - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <maglink>magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9$$lsname=[COLOR lime]1080P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c$$lsname=[COLOR lime]1080P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01$$lsname=[COLOR lime]1080P EP05E06[/COLOR] - DUBLADO</maglink>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9=[COLOR lime]1080P EP01[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c=[COLOR lime]1080P EP02[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1$$l=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7$$l=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01=[COLOR lime]1080P EP05E06[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CcnnDZf2ievdquCa2Jh8yIBtPD.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fanart>
