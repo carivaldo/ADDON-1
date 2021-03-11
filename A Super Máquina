@@ -6,15 +6,10 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]"A Nova Super Máquina" é uma versão moderna do clássico dos anos 1980 chamada “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Nova Super Máquina  - [COLOR blue] [COLOR red](2008) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:D4D2560C60B384140D83BE91B604933A835E896D</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4D2560C60B384140D83BE91B604933A835E896D</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/mWAywfdARf5uCnapLZg4xSKk595.jpg</fanart>
