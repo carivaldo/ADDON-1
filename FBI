@@ -145,9 +145,9 @@
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] FBI - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FZQPS3KQQ7MCU2NGS4CLIHM662TTB4CL$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EASS5T6FG37CHSOLLKABYEJYRQVC2NIP$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d941ca7d3bbbbeb0ee3e0d93dd84e5f1f9e804$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FZQPS3KQQ7MCU2NGS4CLIHM662TTB4CL&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EASS5T6FG37CHSOLLKABYEJYRQVC2NIP&dn\$sname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d941ca7d3bbbbeb0ee3e0d93dd84e5f1f9e804&dn\$sname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/stD2BtJHwc8xolJVtglrETEjD57.jpg</fanart>
