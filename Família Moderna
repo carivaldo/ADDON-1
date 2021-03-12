@@ -1,19 +1,13 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Família Moderna  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+item<>
+<title>[B][COLOR red]• [COLOR blue]Família Moderna  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGOZeGx3ggP5O9qvswRPN7PRVWn.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/at53I0JpCzY0XOcG5CSIKaFdBoc.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) primeira temporada completa e dublada. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna  - [COLOR blue] [COLOR red](2009) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:8FC04BACDE92D67943447EBCCB937AEC7C2F89E9</maglink>
+1	plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FC04BACDE92D67943447EBCCB937AEC7C2F89E9</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/at53I0JpCzY0XOcG5CSIKaFdBoc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg</fanart>
@@ -21,21 +15,15 @@
 </item>	
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna   [COLOR red] - [COLOR red][02ªTEMPORADA][/COLOR][/B]</name>
+item<>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna   [COLOR red] - [COLOR red][02ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/8rN6XFOKzH5fubhKbP0JbgzFnku.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Cl50C8f1uKl763rq7AejjcJRx4.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) primeira temporada completa e dublada. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2010) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:89FA7D3EAAEECF68AFB298571B3971F542D7982D</maglink>
+1	plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89FA7D3EAAEECF68AFB298571B3971F542D7982D</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Cl50C8f1uKl763rq7AejjcJRx4.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/8rN6XFOKzH5fubhKbP0JbgzFnku.jpg</fanart>
@@ -44,21 +32,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Família Moderna  [COLOR red] - [COLOR red][03ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue]Família Moderna  [COLOR red] - [COLOR red][03ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/lsTRMIsforMjvlDKWAhzw3a7aVe.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO1Z2xC9L7pAAsNF2pdtURmHvmr.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) primeira temporada completa e dublada. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2011) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:9F625FD6C4EC83DF098A71612C986C38BCABB5DF</maglink>
+1	plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F625FD6C4EC83DF098A71612C986C38BCABB5DF</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO1Z2xC9L7pAAsNF2pdtURmHvmr.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/lsTRMIsforMjvlDKWAhzw3a7aVe.jpg</fanart>
@@ -67,21 +49,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
+<item>
 <name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][04ªTEMPORADA][/COLOR][/B]</name>
 1	<fanart>https://image.tmdb.org/t/p/original/eOSBZwzPg6cp1nD7S2psfOQuCXm.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kvEPnb4IkjbwWtzGzo8NbofudO.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) primeira temporada completa e dublada. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2012) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:9dd4dc544ccde9c22dbc2f2978d731f3be194ec3</maglink>
+1	plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dd4dc544ccde9c22dbc2f2978d731f3be194ec3</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kvEPnb4IkjbwWtzGzo8NbofudO.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/eOSBZwzPg6cp1nD7S2psfOQuCXm.jpg</fanart>
@@ -90,21 +66,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][05ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][05ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/sPlUPPV1LtkM8ujLzk9FzD9cir8.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtuPDhBQ0iDUCZPvxPGLAV2VS3L.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) primeira temporada completa e dublada. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:3e96413f5d7b8be5d5b142084cd4766628945a53</maglink>
+1	plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e96413f5d7b8be5d5b142084cd4766628945a53</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtuPDhBQ0iDUCZPvxPGLAV2VS3L.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/sPlUPPV1LtkM8ujLzk9FzD9cir8.jpg</fanart>
@@ -113,21 +83,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][06ªTEMPORADA][/COLOR][/B]</name>
+item>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][06ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/eLg4BI1iozdNod9mVIG5F4WXV69.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/at53I0JpCzY0XOcG5CSIKaFdBoc.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:42ca2125c508921d7a945e6d25b63cf2ce836c1f</maglink>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ca2125c508921d7a945e6d25b63cf2ce836c1f</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/at53I0JpCzY0XOcG5CSIKaFdBoc.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/eLg4BI1iozdNod9mVIG5F4WXV69.jpg</fanart>
@@ -136,9 +100,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][07ªTEMPORADA][/COLOR][/B]</name>
+item>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][07ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/h1CPZ1xBcK4r04zMmRQA5EI9Cb5.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycf1TgsKY1qigxo8z1EcUoVfgL0.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -150,7 +113,7 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglinkmagnet:?xt=urn:btih:727e853a1a6e265a7bbfb62d4c33c55de93eb55b></maglink>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:727e853a1a6e265a7bbfb62d4c33c55de93eb55b></link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycf1TgsKY1qigxo8z1EcUoVfgL0.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/h1CPZ1xBcK4r04zMmRQA5EI9Cb5.jpg</fanart>
@@ -159,21 +122,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][08ªTEMPORADA][/COLOR][/B]</name>
+item>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][08ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/xPJDCwhpL50cDKZty0dr6okwtd6.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxNuQKlZPbpJ9GgG0WUiWvZCKnU.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) sétima temporada completa. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:30f9a3b2448b35cb59c678dd52165ae389451d3a</maglink>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30f9a3b2448b35cb59c678dd52165ae389451d3a</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxNuQKlZPbpJ9GgG0WUiWvZCKnU.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/xPJDCwhpL50cDKZty0dr6okwtd6.jpg</fanart>
@@ -182,30 +139,24 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
+item>
 <name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][09ªTEMPORADA][/COLOR][/B]</name>
 1	<fanart>https://image.tmdb.org/t/p/original/wZM6XZTUxAQB1ITaLTAO2HHvbGg.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZO5PCmvfFrXQedf3e7OUnlOnx2.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Família Moderna (Modern Family) sétima temporada completa. O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke. Já Mitchell vive um relacionamento com Cameron Tucker, que tem como fruto a filha adotiva Lily.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]Família Moderna - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>magnet:?xt=urn:btih:8AF0D427F3F5C31EAB40117F33263DAA2E4C45B8$$lsname=[COLOR lime]1080P EP01E02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9FFFD90E344079A8116C4CB3F450BC093EF35335$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:f0007b8d61ff63a27ac3ac6068dbb45e14a45425$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:7A665B2CA1EA7594CC7118AE8015B2A307C07770$$lsname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:8d347924937cefdc96147274d9a86a91888f121b$$lsname=[COLOR lime]1080P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:ec4ac3878f409d3565a9c16d1e288e31e22326c3$$lsname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:29739d1456c95092c15b38f864bd4d1bf27c621c$$lsname=[COLOR lime]1080P EP08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:4D69B6E9B1277E038229A2BB569AB4EB47014D96$$lsname=[COLOR lime]1080P EP09[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9da4d923efa984c2cb1e8cd89d7cdcfb8ccd9585$$lsname=[COLOR lime]1080P EP10A19[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:79b7bd86a1f92369a30f971973c49c9b3e7641ef$$lsname=[COLOR lime]1080P EP19A22[/COLOR] - DUBLADO</maglink>
+1   <link>magnet:?xt=urn:btih:8AF0D427F3F5C31EAB40117F33263DAA2E4C45B8&dn\$sname=[COLOR lime]1080P EP01E02[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:9FFFD90E344079A8116C4CB3F450BC093EF35335&dn\$sname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:f0007b8d61ff63a27ac3ac6068dbb45e14a45425&dn\$sname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:7A665B2CA1EA7594CC7118AE8015B2A307C07770&dn\$sname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:8d347924937cefdc96147274d9a86a91888f121b&dn\$sname=[COLOR lime]1080P EP06[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:ec4ac3878f409d3565a9c16d1e288e31e22326c3&dn\$sname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:29739d1456c95092c15b38f864bd4d1bf27c621c&dn\$sname=[COLOR lime]1080P EP08[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:4D69B6E9B1277E038229A2BB569AB4EB47014D96&dn\$sname=[COLOR lime]1080P EP09[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:9da4d923efa984c2cb1e8cd89d7cdcfb8ccd9585&dn\$sname=[COLOR lime]1080P EP10A19[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:79b7bd86a1f92369a30f971973c49c9b3e7641ef&dn\$sname=[COLOR lime]1080P EP19A22[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZO5PCmvfFrXQedf3e7OUnlOnx2.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/wZM6XZTUxAQB1ITaLTAO2HHvbGg.jpg</fanart>
@@ -214,9 +165,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][10ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Família Moderna  [COLOR red] - [COLOR red][10ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/2Ub11ZnEFlJwupXUIiZwEfm6VvN.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP2mD9MVwYs2TGCGnmi5GIByBf3.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -228,17 +178,17 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>magnet:?xt=urn:btih:b3a99962be68c94ec00ca024e5acfb3be7b777e5$$lsname=[COLOR lime]1080P EP01A02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:e2cde9048cfdf852766df7ee282c4533de23a026$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:caba0f136683234f2c63d59385504ad1cc6c0478$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:1100974acf88ccfd07b5ccb9c846ca366ed07662$$lsname=[COLOR lime]1080P EP05A06[/COLOR] - DUBLADO</maglink>>
-1   <maglink>magnet:?xt=urn:btih:afdbf86325682601a03ba1ff7d5994dc56782eef$$lsname=[COLOR lime]1080P EP07A08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:0b08c6d3c7b9c35ecdd6e4c5491b6a2a909ef810$$lsname=[COLOR lime]1080P EP09[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:4bd6298b48e642daeb4a61be18a1fd098dc656c1$$lsname=[COLOR lime]1080P EP10A13[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:12d4324d8846d77ec741cb434381caf2731ab32a$$lsname=[COLOR lime]1080P EP14A15[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:d3a974a147b03ac55a3df0228ddd252f950aeea8$$lsname=[COLOR lime]1080P EP16A18[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:c75940c186d515209a927033acca48d0b2ad9519$$lsname=[COLOR lime]1080P EP19A20[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:a665bfad0c92d205b718fe178a5ed625b4bf5ad0$$lsname=[COLOR lime]1080P EP21A22[/COLOR] - DUBLADO</maglink>
+1   <link>magnet:?xt=urn:btih:b3a99962be68c94ec00ca024e5acfb3be7b777e5&dn\$sname=[COLOR lime]1080P EP01A02[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:e2cde9048cfdf852766df7ee282c4533de23a026&dn\$sname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:caba0f136683234f2c63d59385504ad1cc6c0478&dn\$sname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:1100974acf88ccfd07b5ccb9c846ca366ed07662&dn\$sname=[COLOR lime]1080P EP05A06[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:afdbf86325682601a03ba1ff7d5994dc56782eef&dn\$sname=[COLOR lime]1080P EP07A08[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:0b08c6d3c7b9c35ecdd6e4c5491b6a2a909ef810&dn\$sname=[COLOR lime]1080P EP09[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:4bd6298b48e642daeb4a61be18a1fd098dc656c1&dn\$sname=[COLOR lime]1080P EP10A13[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:12d4324d8846d77ec741cb434381caf2731ab32a&dn\$sname=[COLOR lime]1080P EP14A15[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:d3a974a147b03ac55a3df0228ddd252f950aeea8&dn\$sname=[COLOR lime]1080P EP16A18[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:c75940c186d515209a927033acca48d0b2ad9519&dn\$sname=[COLOR lime]1080P EP19A20[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:a665bfad0c92d205b718fe178a5ed625b4bf5ad0&dn\$sname=[COLOR lime]1080P EP21A22[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP2mD9MVwYs2TGCGnmi5GIByBf3.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/2Ub11ZnEFlJwupXUIiZwEfm6VvN.jpg</fanart>
@@ -247,9 +197,8 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]Família Moderna [COLOR red] - [COLOR red][11ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue]Família Moderna [COLOR red] - [COLOR red][11ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/baz06JeHeGjq45auOFEiw1K7zVj.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mmiTVN1EBi3aOfBtrP89m1zsYA.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -261,12 +210,12 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Família Moderna - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>magnet:?xt=urn:btih:8b78a24825b3e43a0afd98d100d6f1eef62fcaa2$$lsname=[COLOR lime]1080P EP01A02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:617a6615415a30eba49aee3e946e23b4b5eb941a$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:4a2961938dbd7270957edf64a28989358c3f2a31$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:9f937240e45a3aed003c4b4209aff5213bc41589$$lsname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:6910be35b1811f1ee99929d3058ef18a24d9c176$$lsname=[COLOR lime]1080P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:5de3c36796385f56388a8c19d86331320f97c7e5$$lsname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</maglink>
+1   <link>magnet:?xt=urn:btih:8b78a24825b3e43a0afd98d100d6f1eef62fcaa2&dn\$sname=[COLOR lime]1080P EP01A02[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:617a6615415a30eba49aee3e946e23b4b5eb941a&dn\$sname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:4a2961938dbd7270957edf64a28989358c3f2a31&dn\$sname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:9f937240e45a3aed003c4b4209aff5213bc41589&dn\$sname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:6910be35b1811f1ee99929d3058ef18a24d9c176&dn\$sname=[COLOR lime]1080P EP06[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:5de3c36796385f56388a8c19d86331320f97c7e5&dn\$sname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mmiTVN1EBi3aOfBtrP89m1zsYA.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/baz06JeHeGjq45auOFEiw1K7zVj.jpg</fanart>
