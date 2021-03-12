@@ -1,4 +1,97 @@
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb29b95b342b449f0f22abf122798a58e278f35</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/r4yFYBEcV247B9VXi1307fIhVqN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando a filha de um diplomata chinês é sequestrada em Los Angeles, o cônsul chama o inspector Lee em Hong Kong para ajudar o FBI com o caso. O FBI não se importa com Lee e o deixa de lado no Departamento de Polícia de Los Angeles, pedindo ao detetive James Carter que o vigie. Apesar de Lee e Carter não se suportarem, eles resolvem trabalhar juntos para resolver o caso por conta própria ao descobrirem que foram abandonados tanto pelo FBI quanto pela polícia.[/COLOR][/B]</info>	
+</item>
 
+
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush 2  - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e71015830aa1e5266fd21867864796f04dd13ec8</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Edv9ROuDKByN08R0JsbQ63p068.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/1Ly6qbbmRDTfv2hkbK7M9QnKztg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois que um atentado a bomba na Embaixada dos Estados Unidos em Hong Kong mata dois agentes que investigavam contrabando de dinheiro, os inspetores Lee e James Carter caçam o autor intelectual do ataque. Mas o criminoso Ricky Tan quer assegurar que os dois não resolvam o caso.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d101cc91b2653eb4f6495f74a83dfe5f550bac2</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rnWSM7qWWdAc2LvNh3lrvsERz7c.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O embaixador Han (Tzi Ma) está em Paris, prestes a revelar evidências sobre o trabalho da Tríade, o mais poderoso e conhecido sindicato do crime do planeta. Ele descobriu a identidade de Shy Shen, o responsável pela organização, e está disposto a revelá-la para o Tribunal Mundial do Crime. Entretanto a Tríade deseja manter esta informação em segredo e para tanto decide usar todas as possibilidades que dispõe. Para ajudar Soo Yung (Jingchu Zhang), a filha do embaixador, o inspetor-chefe Lee (Jackie Chan) e o detetive James Carter (Chris Tucker) viajam até a França. Em Paris, sem conhecer a cidade nem o idioma, eles precisam evitar que uma conspiração mundial aconteça.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] Arrebentando em Nova York  - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:645TCJRP5GWNWNF5NRVKBUBGOV6TBYXQ</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7eBsdeUZTGFYlvhJ38znAgS6UJJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/nTOgXHMLpBEvdowbNGSMQWm5Zjt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Keung (Jackie Chan) é um perito em artes marciais de Hong Kong que viaja para o casamento do seu tio em Nova York. Durante sua estada no Bronx, ele compra briga com motoqueiros e mafiosos, causando um verdadeiro terremoto de pancadaria na cidade. Para piorar, os policiais não conseguem controlar a situação e o lutador vai ter que resolver a situação pelas próprias mãos.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] Bater ou Correr - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4A064557AD82531726450F0DE99B9CFD24D0C9E</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xX6Z3zILvt1811lMVkLmnXCHmNk.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/301KcFm1GL3yaTGOO25I0MeAy0W.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em 1800, uma princesa (Lucy Liu) sequestrada na Cidade Proibida, na China, e levada até o Velho Oeste americano. Na tentativa de salvá-la parte Chon Wang (Jackie Chan), que se depara com uma cultura completamente diferente da sua. Ao ser atacado por cowboys armados, Wang responde com acrobáticos golpes de kung fu que deixam os americanos de cabelo em pé.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] Bater ou Correr em Londres - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE04A2D54466D08DADDA4EE4167C5BED18474F11</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfAEARQ8DIjmGn6XRXhjyXKKpWa.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/dvHDOFXjdn33I4HUnlnMToMIFLy.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]1887. Chon Wang, que já pertenceu à guarda imperial chinesa, é agora xerife em Carson City, Nevada. Seu amigo Roy O'Bannon, está vivendo em Nova York, onde divide seu tempo escrevendo suas supostas aventuras, sendo garçom e se envolvendo com diversas mulheres. Wang, fica sabendo que seu pai, que era guardião do selo imperial, foi assassinado quando o palácio imperial foi invadido, com o selo sendo roubado. Chon Lin, a irmã de Wang, tentou usar em vão sua destreza em artes marciais para salvar o pai e deter os invasores. Apesar dos chineses invadirem o palácio, que fica na Cidade Proibida, foi Nelson Rathbone, um membro da realeza que é o 10º na cadeia sucessória, quem comandou a invasão e assassinou seu pai. Chon Lin, descobre que o assassino fugiu para Londres, então ela viaja para a cidade. Seu irmão, juntamente com Roy, viaja para a Inglaterra para se encontrar com ela. Em pouco tempo os três descobrem uma conspiração para matar a Rainha Vitoria e os outros oito membros da realeza, que estão na frente de Rathbone, na cadeia sucessória. Rathbone, está sendo ajudado por Wu Chan, o filho bastardo do imperador da China, que precisa do selo imperial como parte do seu plano para ganhar o controle da nação.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] O Terno de 2 Bilhões de Dólares - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A17AEF64935A400915BB9727B3C50A5D8306C5D6</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/qrQ0T7e4oApM91kzpeGYrL7P4Uv.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jimmy Tong (Jackie Chan) é o simpático chofer do milionário Clark Devlin (Jason Isaacs), que acaba sofrendo um acidente que o hospitaliza. Tong é enviado para a casa de seu patrão para resolver alguns assuntos quando, sem saber, decide experimentar seu terno. Tal ato não haveria nenhum problema se o terno de Devlin não fosse computadorizado e desse a quem o veste uma série de poderes, fazendo com que Tong se envolva em uma intriga internacional de espionagem que o coloca ao lado de Del Blaine (Jennifer Love Hewitt), sua mais nova parceira.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca  - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=&dn\$nome=magnet:?xt=urn:btih:d5d657e6bc8da3a553009d264ee43673ec928fe7</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/zNAE50gODQAl9zWKD5htyRcGjQf.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Londres, final do século XIX. O inventor Phileas Fogg (Steve Coogan) é visto pela conservadora comunidade científica, liderada por Lorde Kelvin (Jim Broadbent), como um excêntrico, pois acham suas idéias mirabolantes. Fogg está usando um oriental, que diz chamar-se Passepartout (Jackie Chan), como piloto de testes. Na verdade ele é Lau Xing, um chinês que pegou de volta o Buda de Jade, um estatueta que protegia seu povo e tinha sido roubada por uma facção rival e colocada no Banco da Inglaterra. Recuperar a estatueta não é suficiente para Lau, pois ele precisa levá-la de volta para sua aldeia. Assim instiga Fogg a fazer uma aposta com Lorde Kelvin, que não envolvia dinheiro e sim prestígio. Para vencê-la Fogg precisa dar a volta ao mundo em no máximo oitenta dias, algo impensável para a época. Fogg aceita o desafio, que em si já é bem difícil, ainda mais com Lorde Kelvin e seus amigos fazendo todo o tipo de trapaça para Fogg perder a aposta. Logo no 2º dia de viagem, em Paris, Monique La Roche (Cécile de France), uma garçonete que sonha em ser pintora, se une aos dois amigos em uma viagem cheia de aventuras e perigos através do mundo.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] O Medalhão - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <titlek>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d47796824b8dec29d59bc18efe2fd9b2d8ae1cd7</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/e1ijdJNuzGoo4GDR7BSuAJN81O2.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Está escrito que no 4º mês do Ano da Serpente uma criança será escolhida para unir as duas metades do medalhão sagrado em um só e, ao seu toque, o medalhão será dotado de extraordinários poderes sobrenaturais. Isto está prestes a acontecer em Hong Kong. O detetive da polícia Eddie Yang (Jackie Chan) fica sabendo que estrangeiros rumam para o Templo Kwun Yum, assim avisa Arthur Watson (Lee Evans), que comanda uma equipe da Interpol. Por sentir uma certa inveja de Yang, Watson não permite que ele atue na operação. O diabólico Snakehead (Julian Sands) invade o templo e quer pegar o medalhão para si, mas antes precisa esperar que Jai (Alex Bao), o escolhido, complete um ritual. A Interpol entra no templo desordenadamente, o que dá chance de Snakehead e seus capangas de fugirem. Jai só fica ileso pois Yang entrou no templo por contra própria. Watson e Yang não entenderam por qual razão o templo foi invadido por Snakehead, que irritado ordena que seqüestrem Jai e o levem para Dublin, na Irlanda. Yang nem pensa que em Dublin, juntamente com Watson e Nicole James (Claire Forlani), uma agente da Interpol com quem está envolvido, ele viverá a mais fantástica aventura da sua vida.[/COLOR][/B]</info>	
+</item>
   
     <item>
 1   <title>[B][COLOR blue] Monster Hunter - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
