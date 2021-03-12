@@ -14,20 +14,20 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] FBI: Os Mais Procurados - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:18e7474cf36834394e3ca2e4614c1fd344580ae9$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:27233ff0b30aa202e55285c9e4bfa8aa5466ee3d$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:ca5d61d1b76acf30a9027e648f193768c6a0bfe6$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:c182cd9872eee84b2cf6b3562a8b614f28dfc6bd$$lsname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:d61e1bdf3473b80023be8e316ec8c8a39ecf0a61$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:bb97b6fca8493cc1a976af86543d26b7b0e8752d$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:8bf81a1888b077f523cd8c1303acc2718d3da26e$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:b0ff71707f1a24480c2123c356dfa00720a210be$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:152b5c60f85c591deb496fb1f0cf6684910ab586$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:75F781936BD87B93C7A1ECBDE5CFE7C497505843$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:d66eaac2b3d3aa3a9dea3d091bf4e87d196495f9$$lsname=[COLOR lime]720P EP11E12[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:6035c3a072991e7f6d72acf9564eb6ef55ed46f9$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:061f2ee120fa06307b20a3947bdf8000cffbb324$$lsname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</maglink>
+1  <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <link>magnet:?xt=urn:btih:18e7474cf36834394e3ca2e4614c1fd344580ae9&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:27233ff0b30aa202e55285c9e4bfa8aa5466ee3d&dn\$sname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:ca5d61d1b76acf30a9027e648f193768c6a0bfe6&dn\$sname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:c182cd9872eee84b2cf6b3562a8b614f28dfc6bd&dn\$sname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:d61e1bdf3473b80023be8e316ec8c8a39ecf0a61&dn\$sname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:bb97b6fca8493cc1a976af86543d26b7b0e8752d&dn\$sname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:8bf81a1888b077f523cd8c1303acc2718d3da26e&dn\$sname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:b0ff71707f1a24480c2123c356dfa00720a210be&dn\$sname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:152b5c60f85c591deb496fb1f0cf6684910ab586&dn\$sname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:75F781936BD87B93C7A1ECBDE5CFE7C497505843&dn\$sname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:d66eaac2b3d3aa3a9dea3d091bf4e87d196495f9&dn\$sname=[COLOR lime]720P EP11E12[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:6035c3a072991e7f6d72acf9564eb6ef55ed46f9&dn\$sname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:061f2ee120fa06307b20a3947bdf8000cffbb324&dn\$sname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/GcoKHLvun8d535uXzjAbNk8W9F.jpg</fanart>
@@ -38,7 +38,7 @@
 <channels>
 </channels><channel>
 <name>[B][COLOR red]• [COLOR blue] FBI: Os Mais Procurados  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/hrgg8SwWv85wJq3YwThPKi20Yts.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94LXPbofYmGqcblNihHxgJ6kQem.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -50,10 +50,10 @@
 ****************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] FBI: Os Mais Procurados - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:EPIZOEGJHMQ6DL3U4TJ6KKKT63S6L3AV$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:IKAPZ5NM4ZJCTB3VPET4ASJU73LNQNYI$$lsname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:b898e875a1819c39effcb5a048d3cc768ef56649$$lsname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>magnet:?xt=urn:btih:EPIZOEGJHMQ6DL3U4TJ6KKKT63S6L3AV&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:IKAPZ5NM4ZJCTB3VPET4ASJU73LNQNYI&dn\$sname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:b898e875a1819c39effcb5a048d3cc768ef56649&dn\$sname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94LXPbofYmGqcblNihHxgJ6kQem.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/hrgg8SwWv85wJq3YwThPKi20Yts.jpg</fanart>
