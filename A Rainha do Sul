@@ -47,17 +47,17 @@
 	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>magnet:?xt=urn:btih:df80146623064dd8d3334fbe71542ce0a2081b4e$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:8354120a5614b3937d2f2a55af9ca9e314a06f1d$$lsname=[COLOR lime]720P EP02AO04[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:016832da026fa3e26f23997ee9adc60fd5d0a102$$lsname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:8a5f80876a77cf31741fcf2081807c5ac9c93eba$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:cd42d6ecde0ac4bc7973a14bae543f69b8a6e06c$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:49c676fe029125a64fa01f7d5062378e3538e269$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:369f1935f5a8c8eeed49e48614bcf6eb556b88de$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:147cefb57a42e613760e507cdef5b8767f45eacc$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:73e71461461a085fe01d52f872bfa5a896f4476d$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:df80146623064dd8d3334fbe71542ce0a2081b4e&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:8354120a5614b3937d2f2a55af9ca9e314a06f1d&dn\$sname=[COLOR lime]720P EP02AO04[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:016832da026fa3e26f23997ee9adc60fd5d0a102&dn\$sname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad&dn\$sname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:e9a028f0c4f702a25a6b9f63980487e2563353ad&dn\$sname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:8a5f80876a77cf31741fcf2081807c5ac9c93eba&dn\$sname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:cd42d6ecde0ac4bc7973a14bae543f69b8a6e06c&dn\$sname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:49c676fe029125a64fa01f7d5062378e3538e269&dn\$sname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:369f1935f5a8c8eeed49e48614bcf6eb556b88de&dn\$sname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:147cefb57a42e613760e507cdef5b8767f45eacc&dn\$sname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
+1   <link>magnet:?xt=urn:btih:73e71461461a085fe01d52f872bfa5a896f4476d&dn\$sname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1e4uNtPltLRiEgpJh0UTdz7Jjgg.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/eteHn4OMqVtLkoXL6NTdsMU9cLx.jpg</fanart>
