@@ -6,15 +6,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8FppCRUwU0ecL8UT0MB5AdOh6f1.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O que teria acontecido com o mundo se as Forças Aliadas tivessem perdido a Segunda Guerra Mundial? Vinte anos após a derrota, o planeta agora está dividido entre Japão e Alemanha, os maiores Estados Hegemônicos. À medida que a tensão entre essas duas hegemonias cresce, e isso gera consequências drásticas nos Estados Unidos e nos Estados opositores.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Homem do Castelo Alto - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:DDA273E8788AAD8CA41E84EDD969D31A23FDC000</maglink>
+1    <link>magnet:?xt=urn:btih:DDA273E8788AAD8CA41E84EDD969D31A23FDC000</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8FppCRUwU0ecL8UT0MB5AdOh6f1.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/jrfiXTmDCwM0Xb5iavm26cZTLGg.jpg</fanart>
@@ -29,15 +24,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVimt6ElczjaPI5HYYrCy7oeskE.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada completa e dublada da série da Amazon The Man in the High Castle. O que teria acontecido com o mundo se as Forças Aliadas tivessem perdido a Segunda Guerra Mundial? Vinte anos após a derrota, o planeta agora está dividido entre Japão e Alemanha, os maiores Estados Hegemônicos. À medida que a tensão entre essas duas hegemonias cresce, e isso gera consequências drásticas nos Estados Unidos e nos Estados opositores.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Homem do Castelo Alto - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:1EEB70CEB011780285D63B014CEBA1B7DA96EF95</maglink>
+1    <link>magnet:?xt=urn:btih:1EEB70CEB011780285D63B014CEBA1B7DA96EF95</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVimt6ElczjaPI5HYYrCy7oeskE.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/nzgz4yTxQukAqcNL6U60xKjgmMh.jpg</fanart>
@@ -52,15 +42,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2I9XSUpwgPvNKGM6oW1cINQyZYq.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Terceira temporada completa e dublada da série da Amazon The Man in the High Castle. O que teria acontecido com o mundo se as Forças Aliadas tivessem perdido a Segunda Guerra Mundial? Vinte anos após a derrota, o planeta agora está dividido entre Japão e Alemanha, os maiores Estados Hegemônicos. À medida que a tensão entre essas duas hegemonias cresce, e isso gera consequências drásticas nos Estados Unidos e nos Estados opositores.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Homem do Castelo Alto - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:CDEC6B48FFC5932D7B486C3389CFAA0FCB7D098A</maglink>
+1    <link>magnet:?xt=urn:btih:CDEC6B48FFC5932D7B486C3389CFAA0FCB7D098A</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2I9XSUpwgPvNKGM6oW1cINQyZYq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/nzgz4yTxQukAqcNL6U60xKjgmMh.jpg</fanart>
@@ -75,15 +60,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b3WcWjNC7tm5a1saCBNlLgZmDns.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Última temporada! Em uma América distópica dominada pela Alemanha nazista e pelo Japão Imperial, Juliana Crain (Alexa Davalos) e Joe Blake (Luke Kleintank) enfrentam seus destinos ao desvendar os filmes históricos, que são a chave para derrubar os regimes totalitários. - Baseado no livro "The Man in the High Castle", escrito por Philip K. Dick.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Homem do Castelo Alto - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1    <maglink>magnet:?xt=urn:btih:5cb4cefd9b4dba2161dd7cea4972d78ab0861ae8</maglink>
+1    <link>magnet:?xt=urn:btih:5cb4cefd9b4dba2161dd7cea4972d78ab0861ae8</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b3WcWjNC7tm5a1saCBNlLgZmDns.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/ueVtPVNFU68ZFfnCxw0NqAUDGkP.jpg</fanart>
