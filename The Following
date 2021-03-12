@@ -6,14 +6,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tiSvhb2cyPAULTql5atgxceNvpF.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O FBI acredita existir cerca de 300 assassinos em série atuando nos EUA. O grande temor dos agentes é o de que eles possam formar algum tipo de aliança. Joe Carroll (James Purefoy), ex-professor de literatura, que matou quatorze mulheres, mas escapou do corredor da morte, está determinado a fazer justamente isso. Para detê-lo, a agência pede a consultoria de Ryan Hardy (Kevin Bacon), um ex-agente, responsável pela captura de Joe há nove anos. O problema é que Ryan se afastou do trabalho por ter mergulhado demais na mente de Joe, prejudicando-o física e mentalmente.[/COLOR][/B]</info>		
-<item>
 
-
-****************************************************************************************************
-<item>
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Following - [COLOR blue] [COLOR red](2012) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <maglink>magnet:?xt=urn:btih:67E09DF916A19040157D06005507983A98B997F1</maglink>
+1   <link>magnet:?xt=urn:btih:67E09DF916A19040157D06005507983A98B997F1</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tiSvhb2cyPAULTql5atgxceNvpF.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/2HpYUipbaIgYhcO3PkllGF9xy5D.jpg</fanart>
@@ -29,15 +25,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvL84rX9MMBFlpmxAFN4ymOC4Q4.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O FBI acredita existir cerca de 300 assassinos em série atuando nos EUA. O grande temor dos agentes é o de que eles possam formar algum tipo de aliança. Joe Carroll (James Purefoy), ex-professor de literatura, que matou quatorze mulheres, mas escapou do corredor da morte, está determinado a fazer justamente isso. Para detê-lo, a agência pede a consultoria de Ryan Hardy (Kevin Bacon), um ex-agente, responsável pela captura de Joe há nove anos. O problema é que Ryan se afastou do trabalho por ter mergulhado demais na mente de Joe, prejudicando-o física e mentalmente.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Following - [COLOR blue] [COLOR red](2013) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1  <maglink>magnet:?xt=urn:btih:BCF1AFD794FC102F9326D02C5BA12CE2C4BDEBF8</maglink>
+1  <link>magnet:?xt=urn:btih:BCF1AFD794FC102F9326D02C5BA12CE2C4BDEBF8</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvL84rX9MMBFlpmxAFN4ymOC4Q4.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/x9ut4jDfOPoqUEEWO9AoSwrpwSC.jpg</fanart>
@@ -52,15 +43,10 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7PdgruIMKGVv0Drnm2FyVyypQg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O FBI acredita existir cerca de 300 assassinos em série atuando nos EUA. O grande temor dos agentes é o de que eles possam formar algum tipo de aliança. Joe Carroll (James Purefoy), ex-professor de literatura, que matou quatorze mulheres, mas escapou do corredor da morte, está determinado a fazer justamente isso. Para detê-lo, a agência pede a consultoria de Ryan Hardy (Kevin Bacon), um ex-agente, responsável pela captura de Joe há nove anos. O problema é que Ryan se afastou do trabalho por ter mergulhado demais na mente de Joe, prejudicando-o física e mentalmente.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Following - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1  <maglink>magnet:?xt=urn:btih:9F178A03232280BD7268055AEEB832E7FB233DF6</maglink>
+1  <link>magnet:?xt=urn:btih:9F178A03232280BD7268055AEEB832E7FB233DF6</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7PdgruIMKGVv0Drnm2FyVyypQg.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/gBGq0RHmek0VGjuBIPJ1Ku7ULOG.jpg</fanart>
