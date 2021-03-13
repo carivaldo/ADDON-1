@@ -36,7 +36,7 @@
 <info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?(ADDON BXL)[/COLOR][/B]</info>		
 </item>
 
-****************************************************************************************************************************
+**************************************************************************************************************************** 
 <item>
 <title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
    <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
