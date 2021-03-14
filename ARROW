@@ -87,11 +87,11 @@
 1    "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] ARROW [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+
  
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e&dn\$name=EP01</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74&dn\$name=EP02</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626430E9671F694C0DDD91DD424124F2E3B17A7E&dn\$name=EP03</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626430E9671F694C0DDD91DD424124F2E3B17A7E</link>
 1   <link>magnet:?xt=urn:btih:9C42413918B39026D4CFC12906F669BB68B6F917&dn\$name=EP04</link>
 1   <link>magnet:?xt=urn:btih:012EEEA71E687F5F85728AF9D42E9BF17EDAD266&dn\$name=EP05</link>
 1   <link>magnet:?xt=urn:btih:63822778D33B83A92BE7FDB6BF9EF61DB6FA1BC6&dn\$name=EP06</link>
