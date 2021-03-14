@@ -61,36 +61,34 @@
 ****************************************************************************************************************************
 <item>	
 1	<title>[B][COLOR red]• [COLOR blue] GOTHAM  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail> 
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Todo mundo sabe o nome do comissário Gordon. Ele é um dos maiores inimigos do mundo do crime, um homem cuja reputação é sinônimo de lei e ordem. Mas o que se sabe da história de Gordon e sua ascensão do detetive novato ao comissário de polícia? O que foi necessário para navegar pelas múltiplas camadas de corrupção que secretamente governavam Gotham City, o local de desova dos vilões mais emblemáticos do mundo? E que circunstâncias as criaram - as personagens maiores que a vida que se tornariam Mulher-Gato, O Pinguim, O Charada, Duas Caras e O Coringa?[/COLOR][/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] GOTHAM - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>magnet:?xt=urn:btih:224C7CD0AE1CD9BBAEC09B80262F05725508899F&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:520f3ed8383d7219774b64feba5a088ddf4b321f&dn\$sname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:2b89b938b79194d9d3877e5b0f2a9a0cc00a47b0&dn\$sname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:d44afd5251939c431d6f89418f5fbdfb36084e57&dn\$sname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:8E2AFF8F6843D2BE804C4D2E160316948BACE8EA&dn\$sname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:5219AB796B78C716ED4BC9B4F1132E8706100292&dn\$sname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:78CEDB594F7DC200499E8F39D8E7528E97F77811&dn\$sname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:EFB3F494DBBC6B402959B6DCD7F53EBBC270919B&dn\$sname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:d1de71f25b1d6de0abee5a2c0bcb43561660db05&dn\$sname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:7B9C5F08EFE291F2A78510C0AD6495FCF7F392BB&dn\$sname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:154B19FF1E01047315F4900D533C93680AABBFC0&dn\$sname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:02987ACF23298847F4D2EF85861569D1CD2056A7&dn\$sname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:C8433678885D9FD6EB1B162F7D56A0FB0EAB93F6&dn\$sname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link> 
-1   <link>magnet:?xt=urn:btih:D804ED56B0B8FF665537A247ED31A744A7C047E2&dn\$sname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:8FE9177A615928DA7560391F6D224A76565DB049&dn\$sname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:681043748f240624f959ea832fa141512a9d16d5&dn\$sname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:6FAECF211A37134E18B8B156217822D7BF358EC0&dn\$sname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:b175cbbb039b5a74cd77b8029f1ff90f70171980&dn\$sname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:a67a3cbd61746cee58ba964b03cd93f7cc85cf04&dn\$sname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:FE5233B87F0889B54F6036741CCF4EB3AE6F58F5&dn\$sname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:9DCB8C22B93BCC019534F79822A4FC3FD1E3B9D3&dn\$sname=[COLOR lime]720P EP21[/COLOR] - DUBLADO</link>
-1   <link>magnet:?xt=urn:btih:F392274CE99157D4125F10F9A0C38B95EF3CDE77&dn\$sname=[COLOR lime]720P EP22[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:224C7CD0AE1CD9BBAEC09B80262F05725508899F&dn\$sname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520f3ed8383d7219774b64feba5a088ddf4b321f&dn\$sname=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b89b938b79194d9d3877e5b0f2a9a0cc00a47b0&dn\$sname=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d44afd5251939c431d6f89418f5fbdfb36084e57&dn\$sname=[COLOR lime]720P EP04[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E2AFF8F6843D2BE804C4D2E160316948BACE8EA&dn\$sname=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5219AB796B78C716ED4BC9B4F1132E8706100292&dn\$sname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78CEDB594F7DC200499E8F39D8E7528E97F77811&dn\$sname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFB3F494DBBC6B402959B6DCD7F53EBBC270919B&dn\$sname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1de71f25b1d6de0abee5a2c0bcb43561660db05&dn\$sname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B9C5F08EFE291F2A78510C0AD6495FCF7F392BB&dn\$sname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:154B19FF1E01047315F4900D533C93680AABBFC0&dn\$sname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02987ACF23298847F4D2EF85861569D1CD2056A7&dn\$sname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C8433678885D9FD6EB1B162F7D56A0FB0EAB93F6&dn\$sname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D804ED56B0B8FF665537A247ED31A744A7C047E2&dn\$sname=[COLOR lime]720P EP14[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FE9177A615928DA7560391F6D224A76565DB049&dn\$sname=[COLOR lime]720P EP15[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681043748f240624f959ea832fa141512a9d16d5&dn\$sname=[COLOR lime]720P EP16[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FAECF211A37134E18B8B156217822D7BF358EC0&dn\$sname=[COLOR lime]720P EP17[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b175cbbb039b5a74cd77b8029f1ff90f70171980&dn\$sname=[COLOR lime]720P EP18[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a67a3cbd61746cee58ba964b03cd93f7cc85cf04&dn\$sname=[COLOR lime]720P EP19[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE5233B87F0889B54F6036741CCF4EB3AE6F58F5&dn\$sname=[COLOR lime]720P EP20[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DCB8C22B93BCC019534F79822A4FC3FD1E3B9D3&dn\$sname=[COLOR lime]720P EP21[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F392274CE99157D4125F10F9A0C38B95EF3CDE77&dn\$sname=[COLOR lime]720P EP22[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
