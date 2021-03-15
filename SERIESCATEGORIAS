@@ -1375,7 +1375,7 @@ channels>
 
 <channels>
 <channel>
-<name>[COLOR blue]THE 100[/COLOR]</name>
+<name>[COLOR blue]THE 100[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE100</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sIWQkAHMsOfObyGxlgllj8SzMFb.jpg</fanart> 
