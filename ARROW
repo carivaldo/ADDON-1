@@ -124,8 +124,28 @@
  
    
 *****************************************************************************************************
+
+
 <item>
-   <tilte>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>          
+<title>[COLOR gold][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e$nome=[COLOR gold][B]1° Episodio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74$nome=[COLOR gold][B]2° Episodio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR gold][B]3° Episodio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR gold][B]4° Episodio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR gold][B]5° Episodio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR gold][B]6° Episodio[/B][/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>. .</info>
+</item>
+
+<item>
+<title>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</title>
+"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+<info>[B][COLOR blue] SINOPSE:
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
+	
+	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] ARROW [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>          
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e90ea496dbeff68d97b51758b5d33e2dbc087150&dn$name=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04cc6886f917210ac9efeaed5611126539d72d0b&dn$name=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:504b7e8e5993472dbab9c385b84ef7930f9ccfc3&dn$name=[COLOR lime]720P EP03[/COLOR] - DUBLADO</link>
@@ -149,12 +169,11 @@
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:149bb37f552e508fd2dfcc9a1a2f47ed677b50cb&dn$name=[COLOR lime]720P EP021[/COLOR] - DUBLADO</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e440a0e6cf37196ec78d4c77822982c60fadeff8&dn$name=[COLOR lime]720P EP022[/COLOR] - DUBLADO</link>
 "<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-<info>[B][COLOR blue] SINOPSE:COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem. [/COLOR][/B]</info>
-	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
+	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
 	<info>[B][COLOR blue] SINOPSE:
-       [COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
- </item>	
+[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
+</item>	
 
 
 ******************************************************************************************************
