@@ -1,26 +1,45 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/naadQeKaKyX0frlXPsZBvsZ5WNd.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Wanda e Vision estão começando a família perfeita dos anos 50. É claro que a família nuclear perfeita significa fazer todas coisas tipo ter filhos, dar festas e sair com os amigos. Mas aos poucos, eles começam a suspeitar que nem tudo é o que parece.[/COLOR][/B]</info>		
-<item>
 
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][EP 01][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][EP 02][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][EP 03][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:06508e218642ea1fb3e05d3a6b6e5bb2ce1f5916</link>
+</item>
 
-
-****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] WandaVision - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c$$lsname=[COLOR lime]1080P EP01E02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:06508e218642ea1fb3e05d3a6b6e5bb2ce1f5916$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:5ML4ZI4NQFDS42HRE2DSOLSOBSO2YBYD$$lsname=[COLOR lime]1080P EP05 [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:I3C5NGE2M7Z3SPYIVBM3OTS6GRNSEE67$$lsname=[COLOR lime]1080P EP06 [/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:5ML4ZI4NQFDS42HRE2DSOLSOBSO2YBYD$$lsname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</maglink>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][EP 04][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:5ML4ZI4NQFDS42HRE2DSOLSOBSO2YBYD</link>
+</item>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red]EP 05][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:I3C5NGE2M7Z3SPYIVBM3OTS6GRNSEE67</link>
+</item>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red][EP 06][/COLOR][/B]</title>
+1   <link>magnet:?xt=urn:btih:5ML4ZI4NQFDS42HRE2DSOLSOBSO2YBYD</link>
+</item>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red]EP 07][/COLOR][/B]</title>
+</item>
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red]EP 07][/COLOR][/B]</title>
+<title>magnet:?xt=urn:btih:K6PHJ7P3JHU54VHM5TH7766BLUD5EPTN</link>
+</item
+titem>
+<title>[B][COLOR red]• [COLOR blue] WandaVision  [COLOR red] - [COLOR red]EP 07][/COLOR][/B]</title>
+<title>magnet:?xt=urn:btih:KTRLMAPZNEN5RNDGZ274WX7BGO57CJ66</link>
+</item
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/naadQeKaKyX0frlXPsZBvsZ5WNd.jpg</fanart>
