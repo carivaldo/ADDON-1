@@ -85,13 +85,7 @@
  
  
 <item>
-<title>[B][COLOR red]• [COLOR blue] ARROW [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>
-"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>
-
-<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] ARROW [COLOR red] [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-
+    <title>[COLOR red][B]6ª Temporada[/B][/COLOR]</title> 
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e$name=[COLOR ARROW[B]EP01[/B][/COLOR]</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74$name=[COLOR ARROW[B]EP02[/B][/COLOR]</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626430E9671F694C0DDD91DD424124F2E3B17A7E$name=[COLOR ARROW[B]EP03[/B][/COLOR]</link>
@@ -116,11 +110,8 @@
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21e06b2eb677acf54ca884e708c84252c3d37f16$name=[COLOR ARROW[B]EP22[/B][/COLOR]</link>
    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FF288287F22BBED9051405DC42D3F24E6F220E5$name=[COLOR ARROW[B]EP23[/B][/COLOR]</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
-	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
 	<fanart>https://image.tmdb.org/t/p/original/qpU6eFmtdN40Be8fx4MMIZZ4Y9K.jpg</fanart>
-	<info>[B][COLOR blue] SINOPSE:
-[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
-</item>	
+	<info>[B][COLOR blue] SINOPSE:[COLOR red]O bilionário Oliver Queen retorna à sua cidade após passar cinco anos em uma ilha deserta, mas ele não é mais o mesmo homem.[/COLOR][/B]</info>	
   
  
    
