@@ -1837,7 +1837,7 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue]CHERNOBYL[/COLOR]</name>
+<name>[COLOR blue]CHERNOBYL[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/CHERNOBYL</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
