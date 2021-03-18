@@ -48,7 +48,7 @@
 </item>
 <item>
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>magnet:?xt=urn:btih:df80146623064dd8d3334fbe71542ce0a2081b4e=$nome=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
 1   <link>magnet:?xt=urn:btih:8354120a5614b3937d2f2a55af9ca9e314a06f1d=$nome=[COLOR lime]720P EP02AO04[/COLOR] - DUBLADO</link>
 1   <link>magnet:?xt=urn:btih:016832da026fa3e26f23997ee9adc60fd5d0a102=$nome=[COLOR lime]720P EP05[/COLOR] - DUBLADO</link>
