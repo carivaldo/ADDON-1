@@ -1,15 +1,12 @@
 
 
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]	S.W.A.T.[COLOR red] - [COLOR blue][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue]	S.W.A.T.[COLOR red] - [COLOR blue][1ªTEMPORADA][/COLOR][/B]</title>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>		
-<item
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]01 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+   
+3    <title>[B][COLOR red]• [COLOR red]01 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T. [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
      <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02DAF67B4B13DA5478638989D705D00000CB508F&dn=S.W.A.T.%202018%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
 3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
@@ -18,243 +15,14 @@
 [COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
 </item>
 
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]01 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E01 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12412.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]02 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E02 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12413.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]03 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E03 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12415.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]04 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E04 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12416.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]05 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E05 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12417.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]06 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E06 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12418.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]07 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E07 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12419.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]08 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E08 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12420.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]09 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E09 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12421.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E10 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12414.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E11 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12422.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E12 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12423.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E13 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12424.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E14 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12425.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E15 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12428.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E16 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12430.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]17 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E17 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12431.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]18 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E18 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12432.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]19 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E19 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12433.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]20 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E20 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12436.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]21 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E21 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12438.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-<item>    
-3    <title>[B][COLOR red]• [COLOR red]22 [COLOR red]- [COLOR blue][COLOR blue] S.W.A.T.S01 E22 [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-<link>http://server.cinenaweb.us:8080/series/seriesvision/372923/12441.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
-3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
-3    "<genre>[B][COLOR firebrick]ADONN BXL, CRIME DRAMA MISTÉRIO ACTION & ADVENTURE[/COLOR][/B]</genre>"
-3    <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-3    <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>    
-</item>
-
-
-
-
-
-
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]	S.W.A.T.[COLOR red] - [COLOR blue][2ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue]	S.W.A.T.[COLOR red] - [COLOR blue][2ªTEMPORADA][/COLOR][/B]</title>
 "<genre>[B][COLOR firebrick]ADDON BXL,monster based on novel or book magic mutation mutant[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>		
-<item
-<link>plugin://plugin.video.elementum/play?uri=</link>
-
-<item>    
+   
 3    <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue][COLOR blue]"S.W.A.T. torrent EP01A06[COLOR firebrick] SERIES !!![/B][/COLOR]</title>
      <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:517f81c1c1330a72d3c4ed3cef1b8e50e86ede25&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20S.W.A.T%20S02E01-06%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 3    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
