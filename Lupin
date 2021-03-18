@@ -9,7 +9,7 @@
 	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Lupin - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
-1    <link>magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7</maglink>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/surX2URjLlZZ6fmkTFs0EFIUV2H.jpg</fanart>
