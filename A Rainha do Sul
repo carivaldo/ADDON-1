@@ -6,8 +6,7 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]A trama gira em torno de Tereza Mendoza (Braga), uma mexicana que precisa fugir do país quando seu namorado, um traficante, é assassinado. Morando nos EUA, ela coloca em prática um plano para acabar com o cartel de drogas que a persegue, mas durante esse meio tempo, ela se torna a nova líder do cartel.[/COLOR][/B]</info>		
-</item>
-<item>
+
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8D7F85C36D534109E9771CD54E3091B7FC34DAE</link>
@@ -45,8 +44,7 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1e4uNtPltLRiEgpJh0UTdz7Jjgg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] A Rainha do Sul (Queen of The South) terceira temporada completa dublada e legendada, com todos os episódios já lançados. Nascida e criada no México, Teresa teve de aprender a se cuidar sozinha desde pequena, aprendendo rapidamente como se virar na vida, inclusive financeiramente. Esperta, perspicaz e observadora, ela irá sempre atrás do melhor para sua vida, baseada em sua própria conduta moral. Então, quando seu namorado traficante é assassinado, ela partirá como refugiada para os Estados Unidos, mas determinada a vencer ao seu modo – ainda que ela tenha de formar novas alianças, desbancar um criminoso influente e, assim, assumir a chefia de um poderoso cartel de drogas.[/COLOR][/B]</info>		
-</item>
-<item>
+
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>magnet:?xt=urn:btih:df80146623064dd8d3334fbe71542ce0a2081b4e=$nome=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
