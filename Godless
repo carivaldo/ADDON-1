@@ -1,19 +1,13 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Godless   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Godless   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/d5KtYJg1nHLZPCsKOXg3NOSnfJb.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Situada nos anos de 1800, a história gira em torno de Roy Goode, um foragido que, ferido e perseguido pelos membros de sua gangue, chega a La Belle, uma cidade do Novo México, onde a maioria dos homens morreu trabalhando nas minas, o que levou as mulheres a tomarem o controle da cidade. Escondido no rancho de Alice Fletcher, Roy é procurado por Frank Griffin, o líder da gangue que um dia o considerou como a um filho.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Godless  - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:B105A55E93C79D6D855A168DDCDCF6E36DA7AD94</maglink>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B105A55E93C79D6D855A168DDCDCF6E36DA7AD94</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/d5KtYJg1nHLZPCsKOXg3NOSnfJb.jpg</fanart>
