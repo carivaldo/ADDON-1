@@ -22,12 +22,14 @@
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Um condecorado atirador de elite da Marinha americana volta à ativa para desmontar uma conspiração com objetivo de matar o presidente, mas acaba acusado de assassinato.[/COLOR][/B]</info>		
 
+
+
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] O Atirador  - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFB182845E0B9FB73B81B28C34F4D7A48D20E44C$nome=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:062315445478EBA0802DEA8BD4E93FFFD295ABA7$nome=[COLOR lime]720P EP02[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D05715438137A1983565009965038B03DE0CDB6$nome=[COLOR lime]720P EP03A05[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88D144BE7E558BE8AD5ADFE80D0C6661749B04EA$nome=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5200106256748DBA4CFAD66514B412B9DA9DB9C0$nome=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFB182845E0B9FB73B81B28C34F4D7A48D20E44C$nome=[COLOR][B]720P EP01[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:062315445478EBA0802DEA8BD4E93FFFD295ABA7$nome=[COLOR][B]720P EP02[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D05715438137A1983565009965038B03DE0CDB6$nome=[COLOR][B]720P EP03[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88D144BE7E558BE8AD5ADFE80D0C6661749B04EA$nome=[COLOR][B]720P EP04[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5200106256748DBA4CFAD66514B412B9DA9DB9C0$nome=[COLOR][B]720P EP05[/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/lUU0XbmjkIiXnQVtem3uUZR7Jhk.jpg</fanart>
