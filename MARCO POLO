@@ -1,21 +1,13 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Marco Polo  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Marco Polo  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/8pSTbjsWE0ktsWHZR2D2XaK1hdn.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O épico de ação "Marco Polo" segue o caminho do jovem explorador pela Rota da Seda até o palácio do grande Kublai Khan. O jogo de poder, traição e intrigas sexuais do palácio serão o grande desafio de Marco, mesmo como homem de confiança do Khan durante sua violenta campanha para se tornar Imperador do Mundo.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Marco Polo - [COLOR blue] [COLOR red](2014) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1  <maglink>magnet:?xt=urn:btih:F060FD831111BA0790DAA9B95352030018026753</maglink>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F060FD831111BA0790DAA9B95352030018026753</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/8pSTbjsWE0ktsWHZR2D2XaK1hdn.jpg</fanart>
@@ -24,23 +16,15 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Marco Polo  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
-1 <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Marco Polo  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/wIO6wchcimTxBe83ZcFlmq189zm.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eaKvBscATNCMLghU7svcb4RzdcQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Criada por John Fusco e Dave Erikson (Sons of Anarchy, Low Winter Sun), a história acompanha a trajetória do explorador italiano Marco Polo (Lorenzo Richelmy) no Século XIII. Atuando como espião e embaixador de Kublai Khan (Benedict Wong), ele vive várias aventuras em diversos países.Em seu retorno, a série introduzirá novos personagens. Entre eles, o Papa Gregório X, que será interpretado por Gabriel Byrne (In Treatment, Quirke, Vikings); o Príncipe Nayan (Ron Yuan, de Sons of Anarchy), da Manchúria, descendente de Gengis Khan que se converteu cristão; e uma personagem interpretada por Michelle Yeoh (Strike Back) que fará parte do passado de Hundred Eyes (Tom Wu).[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Marco Polo - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1  <maglink>magnet:?xt=urn:btih:2DA7908A55815E4264A509534AECDA2C2A4DF8E7</maglink>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DA7908A55815E4264A509534AECDA2C2A4DF8E7</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eaKvBscATNCMLghU7svcb4RzdcQ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/wIO6wchcimTxBe83ZcFlmq189zm.jpg</fanart>
