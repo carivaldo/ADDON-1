@@ -59,7 +59,7 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7c33cce163469733434fde70928b14186ee9095$nome=[COLOR lime]720P EP19[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67a91a4eabd484f3273c39a000a752d3103127ad$nome=[COLOR lime]720P EP20[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d55b9311b040fbd11bffd1769c7a540454fb041$nome=[COLOR lime]720P EP21[/COLOR]</link>
-1   <linkplugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:BD6B42D35D18604BA329B721D68A60A74BEB80E9$nome=[COLOR lime]720P EP22[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD6B42D35D18604BA329B721D68A60A74BEB80E9$nome=[COLOR lime]720P EP22[/COLOR]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLzrL2LzlNgXSZtEVWsunXv2wDo.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/vgpv838FuMI4DGqjwgXn83VL3na.jpg</fanart>
@@ -68,6 +68,8 @@ Na série original, MacGyver é um agente secreto que consegue se virar com pouc
 
 
 ****************************************************************************************************************************
+
+
 <item>
 <title>[B][COLOR red]• [COLOR blue] MacGyver  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/Lmjqvq1hhBxGF449GCgNqN7Lp7.jpg</fanart>
