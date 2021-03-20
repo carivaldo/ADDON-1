@@ -40,8 +40,11 @@
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Agentes de primeira classe usam todos os seus talentos, intelecto e perícia técnica para investigar tenazmente casos de tremenda magnitude, incluindo terrorismo, crime organizado e contrainteligência, para manter Nova York - e os EUA - em segurança.[/COLOR][/B]</info>		
 
-
-       <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%203%20TEMPORADA</externallink>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e60f96d5087d82a69a69704b41d9ef6a730f04b$nome=[COLOR FBI][B] 720P EP01[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20252ecfc536fe23c9cb5a801c11388c2a2d350f$nome=[COLOR FBI][B] 720P EP02[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d941ca7d3bbbbeb0ee3e0d93dd84e5f1f9e804$nome=[COLOR FBI][B] 720P EP03[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c360f26261356628425d8d7edeecc94e545d9bcc$nome=[COLOR FBI][B] 720P EP04[/COLOR][/B]</link>
+                
        
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
