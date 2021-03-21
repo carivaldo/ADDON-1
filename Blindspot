@@ -3,16 +3,16 @@
 
 
 <item> 
-  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+ <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
 
 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
-	<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA9F5BBBC0DCBEAB9C05787A5A8F9F272F82C65C</link>
+<fanart>https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele.[/COLOR][/B]</info>		
 </item>
@@ -21,17 +21,63 @@
 
 <item>
 <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Blindspot%202%20temporada</externallink>
 <fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:667B87679EA9C3F5FE67BA92888B935B90B2FAB4$nome=[COLOR Blindspot][B]720P EP01[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879$nome=[COLOR Blindspot][B]720P EP02[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5CB98D585034C234162C99ED9867CF9498CA709$nome=[COLOR Blindspot][B]720P EP03[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BED4CEF93884E633115A306816F04D48AE7A42B$nome=[COLOR Blindspot][B]720P EP04[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF98FAD6AAED14A632471D8CC4CA4843C5F8AE2D$nome=[COLOR Blindspot][B]720P EP06AO07[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:733ACF6C025477510E50085BF616B1DF1E59A875$nome=[COLOR Blindspot][B]720P EP06AO07[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E96C0E5C01868521E736603363FEF3EEC3DCE588$nome=[COLOR Blindspot][B]720P EP08AO09[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B3390BBC00BB353915E5009B99D512CDE2D14C6$nome=[COLOR Blindspot][B]720P EP10AO12[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E10997D7C9C3BD1EEBB97856D898EC8B1383757A$nome=[COLOR Blindspot][B]720P EP13AO15[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342C9298390AA4207101D770C5DF0F4C80C64E17EP17AO18$nome=[COLOR Blindspot][B]720P EP16[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C9D621EDDFCF54597EA1B7D1DE9FB773AA03D18$nome=[COLOR Blindspot][B]720P EP17AO18[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875B7B97C53B553062EE7D2D53C35DC01BFA1A20$nome=[COLOR Blindspot][B]720P EP19[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4985A40BFE78B9A9B6D855B2E4F978F5835EAB56$nome=[COLOR Blindspot][B]720P EP20[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF8FB06C8662360AC3B554C7F9200554BD34B7D4$nome=[COLOR Blindspot][B]720P EP21[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DAABBABAE111D18B591ACD4583D273D1287E311$nome=[COLOR Blindspot][B]720P EP22[/COLOR][/B]</link>
+<fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 [COLOR red]O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele. (ADDON BXL)[/COLOR][/B]</info> 
+</item>
+**************************************************************************************************************************** 
 
+
+<item>
 <title>[B][COLOR red]• [COLOR blue] Blindspot [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Blindspot%203%20temporada</externallink>
-   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-	<fanart>https://image.tmdb.org/t/p/original/q2xEXxqXrWPh5yhBAwpFWwcfiNJ.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
+ <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+<fanart>https://image.tmdb.org/t/p/original/q2xEXxqXrWPh5yhBAwpFWwcfiNJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?(ADDON BXL)[/COLOR][/B]</info>		
+<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4C6390CF12ADAFF4533475A02AC0599A586C1EE$nome=[COLOR Blindspot][B]720P EP01[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1204fb14bff546473fdedfe3d7fcc1a2fb46be8$nome=[COLOR Blindspot][B]720P EP02[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0028d406157a7ef975b993e9ee06cdaccf5e753$nome=[COLOR Blindspot][B]720P EP03[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:113EE038D9FF53D67FB12690DF9E00328F053EEF$nome=[COLOR Blindspot][B]720P EP04[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C3C406890E929426895DF68B2708F836254CEDB$nome=[COLOR Blindspot][B]720P EP05[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65df52fcd5be011047544d57ae2c71b5e9b85733$nome=[COLOR Blindspot][B]720P EP06[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65df52fcd5be011047544d57ae2c71b5e9b85733$nome=[COLOR Blindspot][B]720P EP07[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:311A6DB68A8066D86EDD718C4703C8D97D86248C$nome=[COLOR Blindspot][B]720P EP08[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:058D5A6E03A473024526F625E3807B4F379B9377$nome=[COLOR Blindspot][B]720P EP09[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f581fdc1d50cbcab5a34472384ca84584bde0f32$nome=[COLOR Blindspot][B]720P EP10[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BD03CEF130E0C6DC8607DCBD04C0851999A0A07$nome=[COLOR Blindspot][B]720P EP11[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a46e3d04ccc6605bd421c3bd367c87b4661f1ca$nome=[COLOR Blindspot][B]720P EP12[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fae92b47e674dc0dcfecad057fd74e1ee66de2d5$nome=[COLOR Blindspot][B]720P EP13[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b58fc09d52885a8d5b83feeb87cb4b5f6b35234$nome=[COLOR Blindspot][B]720P EP14[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:076a5992618c24efbf06369d4a04046c5d914168$nome=[COLOR Blindspot][B]720P EP15[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE15D2993E69447A0250203168053DF9EE47AE40$nome=[COLOR Blindspot][B]720P EP16[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac8db86373b26f156376e042ed8ae015460760c3$nome=[COLOR Blindspot][B]720P EP17[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63dda59c143984cc3d15419492bdc280aa4c05e1$nome=[COLOR Blindspot][B]720P EP18[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d452d95bad4850c75b378690e2f35c60c974b458$nome=[COLOR Blindspot][B]720P EP19[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5fe35fa22bcbd06041ffa4d7990e347e87391f1$nome=[COLOR Blindspot][B]720P EP20[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454568fb737909b1b23e30b70bc23b5f11d9ea5c$nome=[COLOR Blindspot][B]720P EP21[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9983afbd910348cd9fe713679b7131b55867b8eb$nome=[COLOR Blindspot][B]720P EP22[/COLOR][/B]</link>
+<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Ponto Cego (Blindspot) 3ª temporada com todos os episódios dublados já exibidos. A série continua contando a história de um agente do FBI que, misteriosamente, se vê em meio a uma conspiração. A história começa quando Jane Doe (Jaimie Alexander), completamente sem memória, é encontrada nua no meio da Times Square, em Nova York, com o corpo coberto de tatuagens recentes. E uma dessas tatuagens é o nome do agente do FBI Kurt Weller (Sullivan Stapleton). Agora, ele terá que desvendar os mistérios: Quem é esta mulher e o que significam suas tatuagens?(ADDON BXL)[/COLOR][/B]</info>		
 </item>
@@ -39,16 +85,15 @@
 **************************************************************************************************************************** 
 <item>
 <title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
-   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
+ <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
-
 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
-	<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
-	<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
+<fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
 </item>
@@ -57,13 +102,12 @@
 ****************************************************************************************************************************
 <item>
  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
-	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
-
 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</link>
-	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
 </item>
