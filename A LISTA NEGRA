@@ -34,7 +34,28 @@
 <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/vVIqgAq3dXMjuZN9jEjkkyB7Jl8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/vVIqgAq3dXMjuZN9jEjkkyB7Jl8.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA%204%20TEMPORADA</externallink>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03237AF8DF71B542EF0A3889D1F8E4518A8DF1BF=$nome=[COLOR lime]  A LISTA NEGRA S02E01 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:116D003863FA1892E165BD6DF9D1B497022EC4E9=$nome=[COLOR lime]  A LISTA NEGRA S02E02 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22920B560E815CE66AD7E82A74E76399CDE2DA68=$nome=[COLOR lime]  A LISTA NEGRA S02E03 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AED09B148145CFFDA3EED3405C5D867111D18FE=$nome=[COLOR lime]  A LISTA NEGRA S02E04 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B83ABEB83F40A7DAF18B2FD53F2436FA4288C6CB=$nome=[COLOR lime]  A LISTA NEGRA S02E05 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F167F870CF2155D9C0F16CB7F9F92B4403486EE7=$nome=[COLOR lime]  A LISTA NEGRA S02E06 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CCE139E240523945A5FEFA7337A38FDBB924A13=$nome=[COLOR lime]  A LISTA NEGRA S02E07 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C972FC6113C56B46A159BDCDACE897E445F7008=$nome=[COLOR lime]  A LISTA NEGRA S02E08 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DE1195A33D5DFAF4D7F087E37AD3791F1B8CBF=$nome=[COLOR lime]  A LISTA NEGRA S02E09 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2E055E4EDC6FAD857F4D947E1F9A04A50A577B4=$nome=[COLOR lime]  A LISTA NEGRA S02E010 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA2EB6D2E3BFBCDF471FF7557D4787AA4C818424=$nome=[COLOR lime]  A LISTA NEGRA S02E011 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903F137FF541DE59C16EBBFCB171DC520B8682DB=$nome=[COLOR lime]  A LISTA NEGRA S02E012 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78BA8486B4542BF17BF6AD654CB9079674C0AA1=$nome=[COLOR lime]  A LISTA NEGRA S02E013 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4138510F4D5191A9D73DF29EBD0CB473C411CBCD=$nome=[COLOR lime]  A LISTA NEGRA S02E014 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84F205DD4D767916B053383742EB1ADC0C3337FA=$nome=[COLOR lime]  A LISTA NEGRA S02E015 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7=$nome=[COLOR lime]  A LISTA NEGRA S02E016 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7=$nome=[COLOR lime]  A LISTA NEGRA S02E017 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a724f4b8a9fbe3dc5f8058e381a7964cc052f5d=$nome=[COLOR lime]  A LISTA NEGRA S02E018 720P[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb7fc3fa656bdc6d7c4317fb2577ddcb720853f=$nome=[COLOR lime]  A LISTA NEGRA S02E019 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c=$nome=[COLOR lime]  A LISTA NEGRA S02E020 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a094bd99fe9eed0107cbb4fc16d9ad480d095f0b=$nome=[COLOR lime]  A LISTA NEGRA S02E21 720P[/COLOR]</link>
+ <linkplugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:38de343c476ea11f95d168de1ce93901394c6404=$nome=[COLOR lime]  A LISTA NEGRA S02E22 720P[/COLOR]</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
 </item>
@@ -44,7 +65,19 @@
 <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</thumbnail> 
 <fanart>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA%205%20TEMPORADA</externallink>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A7C7440F76CDDF8CD13BF7AC5308C0D2DF72153$nome=[COLOR lime] A LISTA NEGRA 720P EP01[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD74857353031A87B1F9C0C400C2011DADFF2F71$nome=[COLOR lime] A LISTA NEGRA 720P EP 02 AO 06[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5CB0CD730961C7BF260F8F4938B3897868B4272$nome=[COLOR lime] A LISTA NEGRA 720P EP07[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B124937BF8EB7AFEFD573F56407D02C97F1B09C6$nome=[COLOR lime] A LISTA NEGRA 720P EP08[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E3EE07BCC007E650D5C63DB535C17EA8BE266F1$nome=[COLOR lime] A LISTA NEGRA 720P EP09[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E12521F3E5EE5AF7D81C3B75E23819F958B9D78D$nome=[COLOR lime] A LISTA NEGRA [720P EP10[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF58B60ECBA8C1CCB6CFEA4E75F8697DB91A02E1$nome=[COLOR lime] A LISTA NEGRA 720P EP11[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:272C6F3FCFF6D82A59387D3862858F38D57554DA$nome=[COLOR lime] A LISTA NEGRA 720P EP12AO13[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78c517038dff8de224cf4e57a756525b8277a910$nome=[COLOR lime] A LISTA NEGRA S720P EP14AO18P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb8eafd4861ec086587e457f1fc7f0a471378767$nome=[COLOR lime] A LISTA NEGRA 720P EP19[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5479DCD752FDD60402AB61E6056922EF43175E80$nome=[COLOR lime] A LISTA NEGRA 720P EP20[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7d8a14a5e0984ff8c1a18c0a6fa1d56f70721b$nome=[COLOR lime] A LISTA NEGRA 720P EP21[/COLOR]</link>
+<linkmagnet:?xt=urn:btih:A1BA05F84BF09C85EE3EFAD28C31868DDC42E0B3$nome=[COLOR lime] A LISTA NEGRA [720P EP22[/COLOR]</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
 </item>
@@ -54,7 +87,16 @@
 <title>[B][COLOR red]• [COLOR blue] A LISTA NEGRA [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title> 
 <thumbnail>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</fanart> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20LISTA%20NEGRA%206%20TEMPORADA</externallink>
+<   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8cf919d9205b64bd189b299703fdfb71c1ee6f$nome=[COLOR lime] A LISTA NEGRA 720P EP01[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:885aad81cfa8ea18387d9ff04b81e8ace8801c59$nome=[COLOR lime] A LISTA NEGRA 720P EP 02 AO 05[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856701525d074a056d382804bf132a4484fda9f6$nome=[COLOR lime] A LISTA NEGRA 720P EP06[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228b6ec7e230dca6d56789a1f42fe43096c1dd6a$nome=[COLOR lime] A LISTA NEGRA 720P EP07[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8dd11bd39d0275e53ea8b23f723f04ca2a125a6$nome=[COLOR lime] A LISTA NEGRA 720P EP08[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69f3b32c1b048ac01bc92b264a63532450a532e0$nome=[COLOR lime] A LISTA NEGRA 720P EP09[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0e691b4994e5c8d7b6b287528dc2340efb36e86$nome=[COLOR lime] A LISTA NEGRA 720P EP10AO11[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e2b712e1d0fef4e38eaaa8746d37120b18469$nome=[COLOR lime] A LISTA NEGRA 720P EP12AO15[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d34ebd22343dfa79ecae94449c7b3ba87f60d15f$nome=[COLOR lime] A LISTA NEGRA 720P EP16AO18[/COLOR]</link>
+   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dcbd46e9309ad18335a2e676efefb099c179380$$$nome=[COLOR lime] A LISTA NEGRA 720P EP19AO22[/COLOR]l</link>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <fanart>https://image.tmdb.org/t/p/original<info>[B][COLOR blue] SINOPSE:[COLOR red]Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen. [COLOR blue][] !!![/COLOR][/B]</info>	             
 </item>
