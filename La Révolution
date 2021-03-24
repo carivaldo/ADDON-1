@@ -1,19 +1,13 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] La Révolution   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] La Révolution   [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/nK2GfPkbHHLusfcR2ojbqbCebnw.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NkBL8Qj29M3Uc2WuYk9jHL7azy.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]1787, França. Ao investigar uma série de assassinatos misteriosos, Joseph Guillotin (Amir El Kacem), o futuro inventor da mundialmente famosa "guilhotina", descobre um vírus desconhecido: o Blue Blood. A doença se espalha rapidamente entre a aristocracia francesa, levando-os a assassinar pessoas comuns e logo leva a uma rebelião. E se a Revolução Francesa não acontecesse da maneira que nos foi dito?[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] La Révolution  - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1	<maglink>magnet:?xt=urn:btih:4b69490506a282d7707e0a2da5622daf54a36e20</maglink>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b69490506a282d7707e0a2da5622daf54a36e20</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NkBL8Qj29M3Uc2WuYk9jHL7azy.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/nK2GfPkbHHLusfcR2ojbqbCebnw.jpg</fanart>
