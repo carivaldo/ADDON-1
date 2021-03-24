@@ -1,12 +1,12 @@
-<channels>
-</channels><channel>
-<name>[B][COLOR blue][COLOR red]•  [/COLOR] KNIGHTFALL  [COLOR red] [01ªTEMPORADA] [/COLOR][/B]</name>
+<item>
+<title>[B][COLOR blue][COLOR red]•  [/COLOR] KNIGHTFALL  [COLOR red] [01ªTEMPORADA] [/COLOR][/B]</title>
 <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:[/B]
 [COLOR red]Quinze anos depois do fim das Cruzadas, um cavaleiro veterano se torna mestre do templo de sua ordem, e descobre um segredo chocante.[/COLOR]</info>
-<item> 
+
+
     <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CED44F35BDBF1D0ABB979A2D3FC3537F468DB77&dn=Knightfall%202018%201%C2%AA%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CED44F35BDBF1D0ABB979A2D3FC3537F468DB77</link>
     <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
     <fanart>https://tinyurl.com/yxroxp94</fanart>
     <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
@@ -15,178 +15,26 @@
 </item>
 
 
-<item> 
-    <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Você saberia o que fazer[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2P2Ib6r</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Acra caiu, o Santo Graal está perdido no fundo do mar. Ao mesmo tempo, o grão-mestre Templário é abatido e o enredo começa, deixando Landry sem saber o que fazer.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Encontre-nos o Graal[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2Tis8zv</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Landry e Parsifal procuram por um assassino. A chegada inesperada do papa Bonifácio em Paris ameaça os planos cuidadosamente definidos de De Nogaret.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] O lobo negro e o lobo branco[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2Kx5HCS</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Por ordem do papa, Landry e Tancrede viajam para invesigar o paradeiro do Santo Graal. Enquanto isso, a conspiração por trás do casamento real se torna mortal.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Aquele que descobre seu próprio eu, descobre Deus[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2KyTHRf</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Um pagão ajuda Landry a procurar seu passado. Gawain conduz uma investigação de assassinato. Princesa Isabella é traída.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Golpes duros banirão o pecado[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/31x7Mpn</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]As tensões são altas durante o casamento de Isabella devido às ameaças da Inglaterra. O Rei Filipe pede aos templários que guardem o palácio, temendo um ataque iminente.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] A peregrinação das cadeias[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2MRVhjZ</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Landry é sequestrado e torturado por um grupo misterioso. Um cavaleiro é expulso dos templários. De Nogaret constrói um exército. Princesa Isabella descobre quem a traiu.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] E certamente não o aleijado[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2TeBNr4</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Durante a busca pelo Graal, Landry e Gawain encontram uma misteriosa mulher que afirma conhecer sua localização. Joan descobre que houve um ataque a Navarra. De Nogaret planeja voltar às boas graças do rei.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] IV[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2YCtNWP</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]O Templo de Paris dos Cavaleiros Templários está sob cerco. De Nogaret procura semear a dúvida na mente do rei. A rainha Joana deve considerar o que é melhor para Navarra.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Fiat![/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2ZJdYtV</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Landry procura a ajuda de Jacques de Molay, o Grande Mestre do Templo; Rainha Joana trama sua fuga.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Você vê o azul?[/B][/COLOR]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://bit.ly/2GV5XdU</link>
-    <thumbnail>https://tinyurl.com/y47v786q</thumbnail>
-    <fanart>https://tinyurl.com/yxroxp94</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Em desvantagem numérica, os Cavaleiros Templários devem lutar por suas vidas em uma batalha contra os Cavaleiros Vermelhos.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
+
  
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR blue][COLOR red]•  [/COLOR] KNIGHTFALL  [COLOR red] [02ªTEMPORADA] [/COLOR][/B]</name>
+<item>
+<title>[B][COLOR blue][COLOR red]•  [/COLOR] KNIGHTFALL  [COLOR red] [02ªTEMPORADA] [/COLOR][/B]</title>
 <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:[/B]
 [COLOR red]Knightfall narra os relatos misteriosos, mas verdadeiros, dos Cavaleiros Templários, os guerreiros de elite das Cruzadas. Ele investiga os grandes segredos protegidos pelos templários e conta a história de fé, lealdade e fraternidade que ajuda a sustentar esses guerreiros no campo de batalha e os eventos sombrios que sempre queimam a infame data da sexta-feira 13 na psique do mundo.[/COLOR]</info>
 
 
-<item> 
+
     <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Executores de Deus[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56a3479cf5a4e8fe6141c89e40cc2daf48e0fca&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E01%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56a3479cf5a4e8fe6141c89e40cc2daf48e0fca</link>
     <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
     <fanart>https://tinyurl.com/y2x5cs73</fanart>
     <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
     <info>[B][COLOR blue] SINOPSE:
     [COLOR red]Banido dos Cavaleiros Templários após a descoberta de seu caso com a rainha Joana, Landry deve trabalhar para se redimir; O rei Filipe formula um plano para agir contra os templários, enquanto lida com o retorno do príncipe Louis.(Tradução Mrpupil)[/COLOR][/B]</info>
 </item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] O demônio dentro[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daa0e5fde1771c8cf3b9cdfb70ee205f17ca2f7e&dn=%5b%5d%20Knightfall%20S02E02%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Landry continua seu treinamento na Ordem dos Templários sob a dura orientação de Talus, o mestre iniciado em batalha; DeNogaret implora ao rei Filipe para construir um processo legal contra os Cavaleiros.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Fé[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6689c8fc4f14925fce32c911256225ef60abd62c&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E03%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Depois de sofrer uma baixa, os Cavaleiros Templários se preparam para se vingar.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Igual a Deus[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1ad997968ace0b1c952a5daff933cc4b6847a6b&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E04%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Uma pista sobre o paradeiro do Santo Graal envia Cavaleiro Templário Landry em uma missão de vida ou morte para encontrar a copo perdido de Cristo.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Caminho até Chartres[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8c77252fa838c7171341304ce001cbe17f374a7&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E05%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Uma pista sobre o paradeiro do Santo Graal envia Cavaleiro Templário Landry em uma missão de vida ou morte para encontrar a copo perdido de Cristo.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Pedra Encharcada de Sangue[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7480fcf845dd47255622a035a8d35f9385c848bb&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E06%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]O rei Felipe lança um ataque maciço ao Templo de Chartres, iniciando uma batalha que determinará o destino dos Cavaleiros Templários.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] A morte espera[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1580f08a36223d62f8f2f2e986f26d6db0fe3f4e&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E07%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]Sexta-feira 13 Capturados e trazidos de volta a Paris, os Cavaleiros Templários devem ser julgados por heresia.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
-<item> 
-    <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Enquanto eu respiro, eu confio na cruz[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8c608993a142f60c1aa9775975e26aebfa9a033&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Knightfall%20S02E08%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-    <thumbnail>https://tinyurl.com/yyn3555f</thumbnail>
-    <fanart>https://tinyurl.com/y2x5cs73</fanart>
-    <genre>[B][COLOR firebrick]Mrpupil, Ação, Aventura, Drama[/COLOR][/B]</genre>
-    <info>[B][COLOR blue] SINOPSE:
-    [COLOR red]A morte da Ordem dos Templários é iminente quando Landry e seus irmãos templários são condenados a queimar na fogueira.(Tradução Mrpupil)[/COLOR][/B]</info>
-</item>
+
  
  
 ***************************************************************************************************************************************
