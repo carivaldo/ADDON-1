@@ -1,26 +1,25 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Mandalorian  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Mandalorian  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW1gHKDy5Sg3nORaGz8VHiKiF6S.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Após as histórias de Jango e Boba Fett, outro guerreiro emerge do universo Star Wars. The Mandalorian é situado após a queda do Império e antes da ascensão da Primeira Ordem. Nós seguimos as viagens de um pistoleiro solitário nos confins mais profundos da galáxia, longe da autoridade da Nova República. - Estreia do último episódio: 27 de Dezembro de 2019.[/COLOR][/B]</info>		
-<item>
+
 
 
 
 ****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Mandalorian - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c$$lsname=[COLOR lime]1080P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:e8bed3a0f5ce3dcf4798f586e4eff145d0d55185$$lsname=[COLOR lime]1080P EP02[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:af3380ad96e7168ed913e54333ddaaafb1cf2808$$lsname=[COLOR lime]1080P EP03[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034$$lsname=[COLOR lime]1080P EP04[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:60AB3C85A1AAF83C931364AD254F4725559DFD5A$$lsname=[COLOR lime]1080P EP05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:11F9C6EC7A7C2BD7CF98BCC79D2B7BDB90A7A356$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:FD528FD4FDCB5A220062F3EFE4147DEA8AED8154$$lsname=[COLOR lime]1080P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:dc7b498e748a680b2e191aba5c8ede24fd28293d$$lsname=[COLOR lime]1080P EP08[/COLOR] - DUBLADO</maglink>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c$nome=[COLOR lime] The Mandalorian S01E01 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bed3a0f5ce3dcf4798f586e4eff145d0d55185$nome=[COLOR lime] The Mandalorian S01E02 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3380ad96e7168ed913e54333ddaaafb1cf2808$nome=[COLOR lime] The Mandalorian S01E03 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034$nome=[COLOR lime] The Mandalorian S01E04 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60AB3C85A1AAF83C931364AD254F4725559DFD5A$nome=[COLOR lime] The Mandalorian S01E05 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11F9C6EC7A7C2BD7CF98BCC79D2B7BDB90A7A356$nome=[COLOR lime] The Mandalorian S01E06 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD528FD4FDCB5A220062F3EFE4147DEA8AED8154$nome=[COLOR lime] The Mandalorian S01E07 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc7b498e748a680b2e191aba5c8ede24fd28293d$nome=[COLOR lime] The Mandalorian S01E08 1080P[/COLOR]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW1gHKDy5Sg3nORaGz8VHiKiF6S.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</fanart>
