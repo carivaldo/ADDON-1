@@ -1,7 +1,6 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Rookie  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<name>[B][COLOR red]• [COLOR blue] The Rookie  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/6EwgFPJRhmv20UyJg4GAPgBBuOV.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -34,20 +33,19 @@
 
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Rookie  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<iteml>
+<title>[B][COLOR red]• [COLOR blue] The Rookie  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/IBSUytKHcJSYxTSTHlZa2f2uzm.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh5fbHwK8GgBuib8vG8Ntok7ZAR.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Após um incidente que altera a vida, John Nolan persegue seu sonho de se juntar? polícia de Los Angeles.[/COLOR][/B]</info>		
-<item>
+
 
 
 
 ****************************************************************************************************
-<item>	
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Rookie - [COLOR blue] [COLOR red](0000) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+	
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] The Rookie - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd1e170e18824476e013d41f3f25cd688a1b075$name=[COLOR lime]The Rookie 1080P EP01[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431d0121e0860ebaf6837839ebcce7c2a826eb60$name=[COLOR lime]The Rookie 1080P EP02[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb0bc38a7a30c505bb61d4fd14bb6cc80fd73df$name=[COLOR lime]The Rookie 1080P EP03[/COLOR]</link>
