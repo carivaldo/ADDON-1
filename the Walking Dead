@@ -1,12 +1,11 @@
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][1ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][1ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Em um mundo dominado por zumbis, um grupo de sobreviventes tenta encontrar segurança e respostas dentro do CCD. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0801ebab06cddfdd5a3134ca90a4e446fe8205eb&dn=The+Walking+Dead+HD+Dublado+1+Temporada&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
@@ -15,64 +14,10 @@
 1   <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Rick procura por sua família em um mundo aterrorizado por zumbis. Morgan e Duane ajudam a ensinar a Rick as novas leis de sobrevivência. (ADDON BXL)[/COLOR][/B]</info> 
 </item>
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Adeus, passado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1RqiIThywQt7B8EqB_FyzK_3yJG-JHkZ7/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick procura por sua família em um mundo aterrorizado por zumbis. Morgan e Duane ajudam a ensinar a Rick as novas leis de sobrevivência. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Entranhas[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17BXXy0M7ACe9dWse-Y-_VHZUrsaxbMF-/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Sem se dar conta, Rick faz com que um grupo de sobreviventes seja cercado por zumbis e precisa enfrentar um inimigo muito mais perigoso do que os mortos-vivos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Vá falar com sapos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1VFdE_fTTlbIQT0OkY9nqGo8o0tK0KtIG/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick volta a Atlanta para recuperar a bolsa com armas e salvar a vida de um homem. Lori e Shane lidam com a volta de alguém que eles imaginavam estar morto. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Hermanos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1dhkZs-V4pmQWefbClqqJyVsDnehydLAE/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A missão de Ricky de chegar a Atlanta é ameaçada quando as coisas fogem de controle. Jim fica transtornado no acampamento. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]A missão de Ricky de chegar a Atlanta é ameaçada quando as coisas fogem de controle. Jim fica transtornado no acampamento. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Wildfire[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1XDx3Lhvaw9eQDv5u3ec_25mg_zPRWeTj/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick lidera o grupo até o CCD após o ataque, e Jim precisa tomar uma decisão de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Rick lidera o grupo até o CCD após o ataque, e Jim precisa tomar uma decisão de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] IT-19[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/14s_TNhhC73iMjiiyVyc2DMOzci0_uyA0/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/2Rsgt4VlzCJBNSKTFDOqEgtu7Uf.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um médico estranho permite que Rick e o grupo entrem no CCD. Mas nem tudo é o que parece em seu novo refúgio. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Um médico estranho permite que Rick e o grupo entrem no CCD. Mas nem tudo é o que parece em seu novo refúgio. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][2ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][2ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Na segunda temporada deste drama apocalíptico, Rick e seu grupo continuam buscando refúgio contra os zumbis em um mundo devastado e perigoso. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
@@ -80,7 +25,7 @@
 
 
 
-<item> 
+
 1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73EADF2E1EBEBB7B9D859D4C39A158F43187A15A&dn=Fear%20the%20Walking%20Dead%20%202016%20-%202%C2%AA%20Temporada%20Completa%20%5B1080p%5D%20%5BWEB-DL%5D%20WWW.MEGAFILMEBLURAY.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
@@ -90,132 +35,15 @@
 [COLOR red]Sob a liderança de Rick, o grupo deixa Atlanta. Na estrada, eles se deparam com uma ameaça diferente de tudo que já haviam visto. Alguém desaparece. (ADDON BXL)[/COLOR][/B]</info>   
 </item>
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] O que vem pela frente[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1n4858vMNU5UC86NL8HJClO4_58dh003-/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Sob a liderança de Rick, o grupo deixa Atlanta. Na estrada, eles se deparam com uma ameaça diferente de tudo que já haviam visto. Alguém desaparece. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Sangria[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BTqXC4Y5OMEd-fkXepGM5W_XunocwrA5/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ao tentar ajudar uma pessoa, Rick descobre um possível refúgio. Shane precisa embarcar em uma missão perigosa para conseguir suprimentos médicos extremamente necessários. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Última bala[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1SWuGYoeHCxpg0KBM8RKNEuO3nzk3ZDSs/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo espera desesperadamente pelo retorno de Shane, que está preso em uma escola cercado por zumbis. Daryl e Andrea procuram por uma pessoa. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Rosa cherokee[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/18HkPd7NvkWsFUEYX33bZktald2fDdFcI/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick negocia com Hershel para o grupo permanecer na fazenda, enquanto os outros lidam com uma ameaça incomum. Glenn embarca em uma missão. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Rick negocia com Hershel para o grupo permanecer na fazenda, enquanto os outros lidam com uma ameaça incomum. Glenn embarca em uma missão. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Chupa-cabra[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1soN3dlY2a8r2_9oUMDMsO3TnAdbgtDMR/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Sozinho na floresta, Daryl encontra uma pista, mas é atacado e ferido pelos zumbis. Rick questiona suas escolhas. Glenn recebe sinais contraditórios de Maggie. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Sozinho na floresta, Daryl encontra uma pista, mas é atacado e ferido pelos zumbis. Rick questiona suas escolhas. Glenn recebe sinais contraditórios de Maggie. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Segredos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BNJj_h_KSpXNXckglhsHwtuBZVJ9CwAr/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Glenn tenta manter dois segredos. Andrea descobre uma nova habilidade e é forçada a colocá-la à prova. Rick descobre algo sobre alguém próximo a ele. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Glenn tenta manter dois segredos. Andrea descobre uma nova habilidade e é forçada a colocá-la à prova. Rick descobre algo sobre alguém próximo a ele. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Já quase morto[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1qVcFknvE5T0CqQ9zGqDHJrxIntmikcGf/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo descobre uma ameaça mortal bem debaixo de seu nariz. Rick e Hershel unem forças para evitar um impasse perigoso. Dale confronta Shane. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]O grupo descobre uma ameaça mortal bem debaixo de seu nariz. Rick e Hershel unem forças para evitar um impasse perigoso. Dale confronta Shane. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Nebraska[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Cy_DhMHfL-Ck_GwQ7a6IqrXZ5mBYW6HZ/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo tenta restaurar a ordem após uma terrível descoberta. Hershel desaparece, e Rick e Glenn precisam segui-lo até a cidade. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]O grupo tenta restaurar a ordem após uma terrível descoberta. Hershel desaparece, e Rick e Glenn precisam segui-lo até a cidade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Dedo no gatilho[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1cvI1BYGRKUsqACaZNvzzu96gv6YF4ioA/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Cercados, Rick, Hershel e Glenn enfrentam novos inimigos, tanto mortos quanto vivos. Shane está determinado a levar Lori de volta à fazenda. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Cercados, Rick, Hershel e Glenn enfrentam novos inimigos, tanto mortos quanto vivos. Shane está determinado a levar Lori de volta à fazenda. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] A 29 km[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1FEBfUvfACaRTaeMq_GZaUCLmonDbG529/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e Shane discordam sobre o que fazer com um prisioneiro. Andrea ajuda a filha mais nova de Hershel a tomar uma importante decisão. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick e Shane discordam sobre o que fazer com um prisioneiro. Andrea ajuda a filha mais nova de Hershel a tomar uma importante decisão. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Juiz, júri, carrasco[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1pCa9a3yAFKNTwSFysFx8JFZ8_7e9Kzr9/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e Shane entram em acordo sobre uma decisão importante. Dale acha que o grupo está perdendo sua humanidade. As ações de Carl têm consequências inesperadas. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Rick e Shane entram em acordo sobre uma decisão importante. Dale acha que o grupo está perdendo sua humanidade. As ações de Carl têm consequências inesperadas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Anjos bons[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/15JJaBQIenqFdisCCskQl3An_SYWPzR0t/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo descobre que alguém perigoso pode estar à solta. Com o cair da noite, Rick, Shane, Daryl e Glenn vasculham a mata em uma tentativa de lidar com a situação. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]O grupo descobre que alguém perigoso pode estar à solta. Com o cair da noite, Rick, Shane, Daryl e Glenn vasculham a mata em uma tentativa de lidar com a situação. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Fogueira apagando[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1x6NwQffkrUzZzXvdYRK3d67Jdf6sd_b0/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/7ZwqhAvIzWzLgj01cLM8DALwO9H.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick retorna e encontra a fazenda ameaçada, e o grupo acaba se dividindo em meio ao caos. Com a situação alarmante, a liderança de Rick é questionada. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick retorna e encontra a fazenda ameaçada, e o grupo acaba se dividindo em meio ao caos. Com a situação alarmante, a liderança de Rick é questionada. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][3ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][3ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Na terceira temporada, Rick e o grupo de sobreviventes dominam uma prisão abandonada e descobrem uma comunidade liderada por um homem poderoso conhecido como Governador. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607a9c4cfd29b1a7a7e5e7dfd741747b2e1e7a22&dn=The+Walking+Dead+3+Temporada+%282012%29+720p+dublado+-+derew+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
@@ -226,161 +54,17 @@
 </item>
 
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Sementes[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1tJGvuL1ap_frcUArb3-x7KsaSzP9xOUz/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com o mundo se tornando cada vez mais perigoso e a gravidez de Lori progredindo, Rick procura um local mais seguro para o grupo. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Doente[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1F89sBja9OX75BKYXquLtiJK-CfgRugzx/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A descoberta chocante da existência de novos inimigos complica ainda mais a situação, e Rick e o grupo tentam salvar a vida de um de seus integrantes. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Vem comigo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1me6z5b5PIxzT0Uie0cI0RziKRlFZ_EL5/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Andrea e Michonne encontram uma nova comunidade de sobreviventes após testemunharem um acidente, mas a descoberta pode não ser tão útil quanto imaginavam. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] O assassino dentro[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/127XQhsRas5ZWRjvlL0YObn7VQtRbdl2P/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Michonne e Andrea fazem reconhecimento do novo território, enquanto o grupo na prisão é forçado a lidar com diversos conflitos. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Michonne e Andrea fazem reconhecimento do novo território, enquanto o grupo na prisão é forçado a lidar com diversos conflitos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] É só falar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1xvQCkYwI73VZmvgO_XPhZrBnt5vLql1l/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick tenta lidar com sua última perda. Michonne continua suspeitando do Governador quando ele dá uma festa com uma atração bastante singular. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Rick tenta lidar com sua última perda. Michonne continua suspeitando do Governador quando ele dá uma festa com uma atração bastante singular. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Atormentado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1JeG8l1gpjHkmNw7afRmDZ8CRLyu8vaxT/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Andrea se aproxima do Governador, e Michonne toma uma decisão sobre Woodbury. Glenn e Maggie decidem ir à cidade. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Andrea se aproxima do Governador, e Michonne toma uma decisão sobre Woodbury. Glenn e Maggie decidem ir à cidade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Mortos batem à porta[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/13M5bvBH0mvCTG5wIvIZg4-T5xu3rb07x/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ao pressionar para obter informações, o Governador mostra quem realmente é. Um novo visitante começa a causar problemas na prisão. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Ao pressionar para obter informações, o Governador mostra quem realmente é. Um novo visitante começa a causar problemas na prisão. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Nascidos para sofrer[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1iDwAKeMF238O7hVfd5c5Sc1mBTrlpkP1/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo na prisão decide que é preciso lutar por sua própria sobrevivência, enquanto as pessoas de Woodbury adentram território desconhecido. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]O grupo na prisão decide que é preciso lutar por sua própria sobrevivência, enquanto as pessoas de Woodbury adentram território desconhecido. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] O rei suicida[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1f61FXlXkk8Dy7bXlaguVqZ9oCgFifp32/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick tenta resgatar um membro do grupo. Woodbury se encontra em total desordem após o último ataque. Na prisão, novos visitantes geram preocupação. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Rick tenta resgatar um membro do grupo. Woodbury se encontra em total desordem após o último ataque. Na prisão, novos visitantes geram preocupação. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Lar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1t5cVlffIq-6Ux_6kHr8Nrt1A7LiXyLcv/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Enquanto o grupo debate seus próximos passos, Rick sai à procura de um amigo. O Governador tenta restaurar a ordem em Woodbury. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Enquanto o grupo debate seus próximos passos, Rick sai à procura de um amigo. O Governador tenta restaurar a ordem em Woodbury. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Não sou Judas[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MGTg1WUWU3Y9q3DrY8uEf7uT5oBGohpf/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ameaçados, Rick e o grupo precisam tomar uma decisão. Com Woodbury em estado policial, Andrea decide agir por conta própria. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Ameaçados, Rick e o grupo precisam tomar uma decisão. Com Woodbury em estado policial, Andrea decide agir por conta própria. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Limpo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1CK8j35iIDYU-8kqURstKuAyhEz2buqEz/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ao perceber que possuem menor poder de fogo do que o Governador, Rick decide liderar uma expedição em busca de mais armas. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Ao perceber que possuem menor poder de fogo do que o Governador, Rick decide liderar uma expedição em busca de mais armas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Flecha na porta[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1euqHLahnb1FX6SNRf02DkyCxTNzZ8A9l/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Para tentar evitar mais mortes, Rick e o Governador consideram a possibilidade de um tratado de paz. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Para tentar evitar mais mortes, Rick e o Governador consideram a possibilidade de um tratado de paz. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Presa[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1bCdlElkpC0tdQUjqm4f9djYak7kdyknr/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O Governador está à caça de um dissidente que fugiu de Woodbury, e um traidor tenta sabotar os planos durante sua ausência. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]O Governador está à caça de um dissidente que fugiu de Woodbury, e um traidor tenta sabotar os planos durante sua ausência. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Vida em luto[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Y_DEzIigFrFGXTQGt061iXhgFtC8Dxbe/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e o grupo precisam enfrentar um sério problema: para conseguir uma trégua com o Governador, eles precisarão fazer um enorme sacrifício. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Rick e o grupo precisam enfrentar um sério problema: para conseguir uma trégua com o Governador, eles precisarão fazer um enorme sacrifício. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] Bem-vindos ao túmulo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BM6OjrM00AyyP0pqXj82oLzixM7uY9l-/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/GD1Ysdr63gF1kgm4HTuntdx0sp.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com a iminência de um ataque do Governador, Rick e o grupo precisam decidir se vale a pena defender a prisão. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Com a iminência de um ataque do Governador, Rick e o grupo precisam decidir se vale a pena defender a prisão. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][4ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][4ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Após o massacre, começa a caçada pelo Governador. Rick, Daryl, Michonne e Karen planejam seus próximos passos. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
 
 
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a&dn=The+Walking+Dead+-+4%26ordf%3B+Temporada+Completa+HDTV+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
@@ -389,154 +73,10 @@
 1   <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O grupo de Rick acha que a prisão se tornou um local relativamente seguro, mas uma situação de perigo prova que eles nunca devem baixar a guarda. (ADDON BXL)[/COLOR][/B]</info>   
 </item>
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] 30 dias sem acidentes[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1v-IsHLXav6Y1czYlqC8cOcOfBsSKjUu4/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo de Rick acha que a prisão se tornou um local relativamente seguro, mas uma situação de perigo prova que eles nunca devem baixar a guarda. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Infectados[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1HoU3lGFY3P1mD7UU0zeUDQQIwxeMOc07/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Alguns sobreviventes ficam em quarentena para evitar que o vírus se espalhe. Carol se torna guardiã de duas garotas, e Tyreese faz uma descoberta surpreendente. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Isolamento[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ky3_M_V8jmPe4efgi9TEsHN7edE7aLAm/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com o vírus se espalhando, Hershel se torna o médico oficial. Ele isola alguns dos infectados e envia um grupo à faculdade de veterinária para adquirir suprimentos. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Indiferença[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ixG0wDGbaThhy5kQRwjDfxLRLOCzfX4X/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Bob é desmascarado enquanto o grupo tenta conseguir remédios na faculdade, e Rick e Carol discutem as consequências da confissão de Carol. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Bob é desmascarado enquanto o grupo tenta conseguir remédios na faculdade, e Rick e Carol discutem as consequências da confissão de Carol. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Confinados[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1CbXCjquOnAvJCDXvnj5dIgHMmKFuiPbt/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Na zona da prisão em quarentena, Hershel, Sasha e Glenn cuidam das vítimas da gripe, que se tornam zumbis a uma velocidade alarmante. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Na zona da prisão em quarentena, Hershel, Sasha e Glenn cuidam das vítimas da gripe, que se tornam zumbis a uma velocidade alarmante. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Isca viva[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/13R5OKKLn7tJvShGLWQpYwDCO5seprCI5/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Em um flashback, o Governador encontra Lilly e Tara já adultas, seu pai deficiente, e Meghan. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Em um flashback, o Governador encontra Lilly e Tara já adultas, seu pai deficiente, e Meghan. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Peso morto[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17F0osbwVBCozdgI5zssQjLrH21ZfXUKA/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Martinez resgata Meghan e o Governador e os convida para seu acampamento, mas com uma condição: que eles o aceitem como líder. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Martinez resgata Meghan e o Governador e os convida para seu acampamento, mas com uma condição: que eles o aceitem como líder. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Longe demais[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1tLve3DGIRw2L_Wnb7_iVl3qVJHWHNkcd/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com Michonne e Hershel capturados, o Governador convoca seu grupo para um ataque à prisão, e a guerra é deflagrada. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Com Michonne e Hershel capturados, o Governador convoca seu grupo para um ataque à prisão, e a guerra é deflagrada. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Depois[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ossDo3JqC-Cbe8XbndP2rzyNMWSPW0cj/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e Carl partem sozinhos em busca de suprimentos e se escondem em uma casa abandonada, onde Carl acaba brigando com seu pai. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick e Carl partem sozinhos em busca de suprimentos e se escondem em uma casa abandonada, onde Carl acaba brigando com seu pai. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Prisioneiros[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1kkxiiwsORqWiJsAxYqrkNQmCfyvM6P2i/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Beth e Daryl procuram por sobreviventes do ataque à prisão, e Tyreese encontra um homem que conta sobre um refúgio chamado Terminus. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Beth e Daryl procuram por sobreviventes do ataque à prisão, e Tyreese encontra um homem que conta sobre um refúgio chamado Terminus. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Tem dono[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1U-GDubB-6MMgIGwmi-bogn68Z3Cjgo1z/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Michonne e Carl ficam amigos durante uma busca por suprimentos, e Abraham promete levar Eugene a Washington para um encontro com oficiais do governo. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Michonne e Carl ficam amigos durante uma busca por suprimentos, e Abraham promete levar Eugene a Washington para um encontro com oficiais do governo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Alambique[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1YFVbZCxA2vFwKalYB1sx9xbDBBFbjiMo/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Em uma noite regada a álcool, Beth e Daryl trocam confidências enquanto a tensão no acampamento se torna insuportável. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Em uma noite regada a álcool, Beth e Daryl trocam confidências enquanto a tensão no acampamento se torna insuportável. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Sozinho[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Dwz-_Mtgo7vgMWwNwTjUeWOiOyMZvqE6/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Maggie se separa de Bob e Sasha ao encontrar um mapa para Terminus. Os zumbis cercam a funerária onde Daryl e Beth estão escondidos. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Maggie se separa de Bob e Sasha ao encontrar um mapa para Terminus. Os zumbis cercam a funerária onde Daryl e Beth estão escondidos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] O bosque[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1NPUODQLWHxvmeQELDjDotge1WtsXI28-/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A caminho de Terminus, o grupo de Tyreese encontra uma casa que pode servir de refúgio, mas o estranho comportamento de Mika e Lizzie coloca todos em perigo. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]A caminho de Terminus, o grupo de Tyreese encontra uma casa que pode servir de refúgio, mas o estranho comportamento de Mika e Lizzie coloca todos em perigo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Nós[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1jCM9u92AvB4Zq9zQCBVnnJ-AT3lDZe6r/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo de Glenn tenta alcançar Maggie e os outros a caminho de Terminus, e uma discussão deixa claro o papel das regras nesta nova realidade. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]O grupo de Glenn tenta alcançar Maggie e os outros a caminho de Terminus, e uma discussão deixa claro o papel das regras nesta nova realidade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] A[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1eGsTRgZoqtMVcIg1zCnUiGYPDrh7F5Ex/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/bmQ3d5hGGmPHABfHJwivyAbabDf.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Os sobreviventes se encontram a caminho de Terminus, e a brutalidade com que Rick se depara o leva ao limite. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Os sobreviventes se encontram a caminho de Terminus, e a brutalidade com que Rick se depara o leva ao limite. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][5ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][5ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Na 5a. temporada, Rick e seu grupo enfrentam seus sequestradores em Terminus, descobrem o que aconteceu com Beth e devem decidir se os novos sobreviventes são confiáveis. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
@@ -544,7 +84,7 @@
 
 
 
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81BDC2137092179B5906B15B9EA2614C3942B309&dn=The%20Walking%20Dead%20-%206%c2%aa%20Temporada%20%282016%29%20Dual%20%c3%81udio%20720p%20Completo%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
@@ -555,161 +95,17 @@
 </item>
 
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Sem refúgio[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1WDdID-Zk9Jlihsc8mkNBIf__ZfSm06sZ/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Preso no vagão do trem, o grupo aguarda em pânico o destino que seus algozes do Terminus têm em mente. Gareth questiona Rick. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Estranhos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Z7R2aD25E5gUme2D2_Mx700T6cqVOvfh/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo encontra um padre que parece esconder algo por trás da hospitalidade. Bob faz uma descoberta aterrorizante sobre Terminus. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Quatro paredes e um telhado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1b3r4IijMj8VcrAp2_eVFxXrYdUAmIgZR/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Confrontado por Rick e Sasha, padre Gabriel faz uma confissão surpreendente. Abraham estimula o grupo a seguir para Washington, mas Rick prefere esperar. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Cidade das lápides[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1wBM40ApBtLLa2PBXb_tCmgCTHeH8w0t4/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após acordar ferida no hospital, Beth é colocada para cuidar de pacientes enquanto tenta descobrir em quem ela pode confiar. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Após acordar ferida no hospital, Beth é colocada para cuidar de pacientes enquanto tenta descobrir em quem ela pode confiar. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Autoajuda[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1BgjbxR_dQvL7BYBYfNM_A-kvgrfP9e8_/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um acidente interrompe a jornada do grupo rumo a Washington. Eugene se abre para Tara após uma série de ataques zumbis. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Um acidente interrompe a jornada do grupo rumo a Washington. Eugene se abre para Tara após uma série de ataques zumbis. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Consumidos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ffi4rWx5pjPj3HU31zVjlkcuMZS1SPkb/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ao perseguirem o carro com a cruz branca, Carol e Daryl chegam a Atlanta e se deparam com outro veículo com o mesmo símbolo. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Ao perseguirem o carro com a cruz branca, Carol e Daryl chegam a Atlanta e se deparam com outro veículo com o mesmo símbolo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Crucifixos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1u85IcKiCjcqgvw3RKoen26Yd-yEWscYS/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo de Rick tenta definir a melhor estratégia em Atlanta, enquanto Beth monta sua própria missão de resgate. Tara defende Eugene. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]O grupo de Rick tenta definir a melhor estratégia em Atlanta, enquanto Beth monta sua própria missão de resgate. Tara defende Eugene. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Coda[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MWqTxj_uHmduuYSLw9KeKr6iEj38mQjZ/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Padre Gabriel, Carl e Michonne se juntam para afastar os zumbis da igreja. No hospital, Rick negocia uma troca de reféns. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Padre Gabriel, Carl e Michonne se juntam para afastar os zumbis da igreja. No hospital, Rick negocia uma troca de reféns. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] O que foi e o que está sendo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1oxbvDBv_zjvKmk-IMIX3Tg3EDWEzgrme/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo de Atlanta acompanha Noah até sua cidade natal, onde ele tem a esperança de encontrar a família. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]O grupo de Atlanta acompanha Noah até sua cidade natal, onde ele tem a esperança de encontrar a família. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Eles[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1dEnyGM1lbanbZr5vlCoX8SxbycXXefcf/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]De volta à estrada e desesperado em busca de comida, o grupo abatido se abriga em um celeiro abandonado para se proteger contra uma violenta tempestade. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]De volta à estrada e desesperado em busca de comida, o grupo abatido se abriga em um celeiro abandonado para se proteger contra uma violenta tempestade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Distância[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1cgsou79I9XlXADwdRGTd18JamsTkA2JI/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo precisa decidir se a oferta de um estranho é uma dádiva ou uma cilada. Rick desconfia, mas Michonne resolve averiguar a história. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]O grupo precisa decidir se a oferta de um estranho é uma dádiva ou uma cilada. Rick desconfia, mas Michonne resolve averiguar a história. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Lembrar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1gA4yKa_Nxdll5wC1KSzuakUYv_NnYtg_/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e outros sobreviventes são recebidos na zona segura de Alexandria, mas temem que a comunidade esteja vulnerável. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick e outros sobreviventes são recebidos na zona segura de Alexandria, mas temem que a comunidade esteja vulnerável. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Esquecer[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1wt41DNnX2QmkhWQE03LJuJG1_VVUDcNC/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Carol trama um plano para roubar armas do depósito. Aaron conta com Daryl como recrutador. Sasha se oferece para ser vigia. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Carol trama um plano para roubar armas do depósito. Aaron conta com Daryl como recrutador. Sasha se oferece para ser vigia. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Desperdiçar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1SVwHYHouliDglZy0N95dXaYaP4EcWPr0/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Abraham mostra seu valor em um ataque de zumbis em Alexandria. Deanna teme o excesso de poder dos recém-chegados. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Abraham mostra seu valor em um ataque de zumbis em Alexandria. Deanna teme o excesso de poder dos recém-chegados. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Tentar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1LyC2wncZzDpQ3gMoBVYWjEmCUxfI5gMx/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick confronta Deanna sobre Pete. Glenn alerta para Nicholas não deixar a comunidade. Daryl e Aaron avistam algo assustador. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Rick confronta Deanna sobre Pete. Glenn alerta para Nicholas não deixar a comunidade. Daryl e Aaron avistam algo assustador. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] Conquistar[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1w-OGHFWNt-c0aq77dJwJxrdCFbIROM2X/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/aiCLkEDb5qt56XKLA7dreax3ZP7.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Deanna convoca uma reunião para decidir se Rick deve ser exilado. Aaron e Daryl seguem um homem com capuz vermelho. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Deanna convoca uma reunião para decidir se Rick deve ser exilado. Aaron e Daryl seguem um homem com capuz vermelho. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][6ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][6ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Enquanto buscam formas de sobreviver, o grupo de Rick e os moradores de Alexandria se deparam com um mais um adversário formidável. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
 
 
-<item> 
+
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] torrent [COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81BDC2137092179B5906B15B9EA2614C3942B309&dn=The%20Walking%20Dead%20-%206%c2%aa%20Temporada%20%282016%29%20Dual%20%c3%81udio%20720p%20Completo%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
@@ -720,161 +116,16 @@
 </item>
 
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Pela primeira vez, de novo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1W_NuVDo9T87yXGmi8BHfbNe8I7p5Yw7L/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ainda com problemas para assimilar em Alexandria, Rick e o grupo devem controlar suas tendências violentas, apesar de uma nova ameaça à comunidade. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] JSS[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1xGSiLM4HjG26Te9ssdTSmHfKzRCy7MWJ/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Enquanto membros do grupo desviam dos zumbis, os que estão em Alexandria lidam com um outro tipo de perigo. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Obrigado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MOkA4jae1movsCQdvOKV_wI4v8jhFJSx/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Glenn e Michonne correm contra o tempo para levar os alexandrinos de volta para casa em segurança antes que os zumbis os alcancem, mas nem tudo corre como planejado. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Aqui não é aqui[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1uTy6aV2Oxsegu5Q27herR01qo8j2LiKB/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Morgan conta como ele conheceu um sobrevivente que o ajudou a encontrar paz e abraçar uma filosofia de não violência. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Morgan conta como ele conheceu um sobrevivente que o ajudou a encontrar paz e abraçar uma filosofia de não violência. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Agora[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1r88r0A59Fhp7A2UiFC5mmwplCH40tI5T/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Depois do ataque recente de Alexandria, o moral dos habitantes vai abaixo. Aaron se oferece para ajudar Maggie a procurar por Glenn. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Depois do ataque recente de Alexandria, o moral dos habitantes vai abaixo. Aaron se oferece para ajudar Maggie a procurar por Glenn. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] A escolha é sua[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1AX-zn-B3tP4EenCg2FTH8n0j2SBDHS9i/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Enquanto tira os zumbis de Alexandria, Daryl é separado de Abraham e Sasha, e encontra três estranhos. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Enquanto tira os zumbis de Alexandria, Daryl é separado de Abraham e Sasha, e encontra três estranhos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Alerta[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1R6qsa5DlFV6p2EfiJA0w8mtTycVvvVKV/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick confronta Morgan sobre sua recusa em matar e se pergunta se podem confiar nos alexandrinos para proteger a comunidade. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick confronta Morgan sobre sua recusa em matar e se pergunta se podem confiar nos alexandrinos para proteger a comunidade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Do começo ao fim[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1zPHVmjjjReiLarUyOeeoDlzC-yyLfHEl/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com o muro de Alexandria quebrado, os que estão lá dentro e não conseguem fugir dos zumbis invasores devem lutar até a morte para se defender. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Com o muro de Alexandria quebrado, os que estão lá dentro e não conseguem fugir dos zumbis invasores devem lutar até a morte para se defender. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Sem saída[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Bq16vsQRbWenNkyzg9g6IZMJgN9HTbfO/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Daryl, Abraham e Sasha enfrentam um novo e perigoso adversário. Em Alexandria, Rick e os outros colocam em prática um plano de fuga. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Daryl, Abraham e Sasha enfrentam um novo e perigoso adversário. Em Alexandria, Rick e os outros colocam em prática um plano de fuga. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] O próximo mundo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14PR8O0bueZq427ZfwwJcUYwkMg8FdyOq/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Daryl e Rick saem em busca de suprimentos e se deparam com um estranho cheio de habilidades. Em Alexandria, o romance está no ar. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Daryl e Rick saem em busca de suprimentos e se deparam com um estranho cheio de habilidades. Em Alexandria, o romance está no ar. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Laços desfeitos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154MS25rKT-vcY0XD6jFODVXpptAbvjwJ/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um visitante propõe uma aliança e alerta sobre um inimigo poderoso. Rick e o grupo precisam tomar uma decisão crucial. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Um visitante propõe uma aliança e alerta sobre um inimigo poderoso. Rick e o grupo precisam tomar uma decisão crucial. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Ainda não é amanhã[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mfprzAmJ18vGzwaToVGnDEJikrYwgJ5_/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo se prepara para sua batalha mais arriscada até então, mas Rick e Morgan discordam sobre o que fazer. Carol é atormentada pelo passado. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]O grupo se prepara para sua batalha mais arriscada até então, mas Rick e Morgan discordam sobre o que fazer. Carol é atormentada pelo passado. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] No mesmo barco[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11G1FJk3gw2y2X-KCF7KlNsSmN7LXAxKw/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O confronto com os Salvadores termina de forma inesperada, com muito sofrimento e um alto custo emocional. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]O confronto com os Salvadores termina de forma inesperada, com muito sofrimento e um alto custo emocional. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Duas vezes mais longe[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wxxRH3FfVzhLdq_DkqdBRVZE5aFYzbIL/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com o estoque de remédios chegando ao fim, Denise, Daryl e Rosita partem em busca de uma solução. Eugene tenta conquistar o respeito de Abraham. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Com o estoque de remédios chegando ao fim, Denise, Daryl e Rosita partem em busca de uma solução. Eugene tenta conquistar o respeito de Abraham. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Leste[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1prGwWSwjO8irFjuuxcIdn7R6Bedi2GT3/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Grupos de busca saem de Alexandria quando um deles desaparece. Morgan revela um segredo. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Grupos de busca saem de Alexandria quando um deles desaparece. Morgan revela um segredo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] O último dia na Terra[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rO0-VC9_rz7HZO3IH1-MMOxObYYiXcmz/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Uma missão de resgate acaba se tornando muito mais perigosa do que o esperado, fazendo o grupo reavaliar suas escolhas. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Uma missão de resgate acaba se tornando muito mais perigosa do que o esperado, fazendo o grupo reavaliar suas escolhas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][7ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][7ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]O grupo de Rick consegue escapar de um ato brutal de violência, mas todos se preocupam com outros horrores que Negan e os Salvadores ainda possam aprontar. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
 
 
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5A7946D246651D8423E6485A0FEF8BF2E0246DB&dn=The%20Walking%20Dead%20-%207%c2%aa%20Temporada%20%282017%29%20Dublado%20720p%20%5bWEB-DL%5d%20By-LuanHarper&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
@@ -884,161 +135,17 @@
 [COLOR red]Encurralado pelos homens de Negan, Rick e o grupo são forçados a enfrentar consequências tenebrosas. Os Salvadores capturam um refém. (ADDON BXL)[/COLOR][/B]</info>  
 </item>
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Chegará o dia em que você não agradecerá[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zQ8e8MXAozTSIeTv2h9CBCZdX3f9AyLf/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Encurralado pelos homens de Negan, Rick e o grupo são forçados a enfrentar consequências tenebrosas. Os Salvadores capturam um refém. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] O poço[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lkpcQKk45aavmFKCw-1lpTymPzJK0MfY/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Dois dos sobreviventes chegam a uma nova comunidade aparentemente tranquila chefiada por um líder com estilo um tanto dramático. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] A cela[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wCHfDgQjYwVm2JO3T_X5lzytJbUpbvL6/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um alexandrino detido no complexo dos Salvadores descobre como Dwight se tornou um dos homens de Negan, mas se recusa a seguir o mesmo caminho. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Serviço prestado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OkKk00-PCQA7ianWqhlkKW-R-qx-4LUH/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Quando os Salvadores visitam Alexandria atrás de suprimentos, o grupo espera que Rick encontre uma saída. O padre Gabriel precisa agir rápido. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Quando os Salvadores visitam Alexandria atrás de suprimentos, o grupo espera que Rick encontre uma saída. O padre Gabriel precisa agir rápido. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Batalhadores[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f2z666jYVN14KEn5RJ53BL8xtBuD2nt0/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Gregory chega a Hilltop e manda Maggie e Sasha saírem de lá. Rick parte em busca de suprimentos e Carl embarca em uma missão particular. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Gregory chega a Hilltop e manda Maggie e Sasha saírem de lá. Rick parte em busca de suprimentos e Carl embarca em uma missão particular. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Juramento[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fZVlJgwS6w1T7h7MuBT9bSyqrc4jinQC/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Uma alexandrina chega a uma comunidade isolada e precisa descobrir se os residentes são amigos ou inimigos. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Uma alexandrina chega a uma comunidade isolada e precisa descobrir se os residentes são amigos ou inimigos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Cante pra mim[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M38kKzaZ_rkJ3jd3-yGa2FSNmcghEfSF/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um alexandrino clandestino conhece o complexo dos Salvadores. Spencer desafia a liderança de Rick. Rosita exige a ajuda de Eugene. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Um alexandrino clandestino conhece o complexo dos Salvadores. Spencer desafia a liderança de Rick. Rosita exige a ajuda de Eugene. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Os corações ainda batem[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IF-uqAw4GCgI2sFCqCP2-Y6DplQELWhi/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Negan se sente em casa em Alexandria. Rick e Aaron encontram uma mensagem enigmática durante uma busca por suprimentos. Richard tem um pedido para Carol e Morgan. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Negan se sente em casa em Alexandria. Rick e Aaron encontram uma mensagem enigmática durante uma busca por suprimentos. Richard tem um pedido para Carol e Morgan. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Pedra na estrada[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17nZIfnk2wgOIavH4vGe4cEFNpcG6pvER/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e o grupo avaliam as opções para contra-atacar os Salvadores e tentam conseguir o apoio de Hilltop e do Reino para levar a missão adiante. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Rick e o grupo avaliam as opções para contra-atacar os Salvadores e tentam conseguir o apoio de Hilltop e do Reino para levar a missão adiante. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Novos melhores amigos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19uxJNemPZ05dov2DEBmUC0TvYtxXogqP/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Richard planeja iniciar uma guerra contra os Salvadores. Enquanto procuram um alexandrino desaparecido, Rick e os outros encontram uma nova sociedade. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Richard planeja iniciar uma guerra contra os Salvadores. Enquanto procuram um alexandrino desaparecido, Rick e os outros encontram uma nova sociedade. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Inimigos e calamidades[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GRbZs8dvex7xu1FyWM3HPTrIassqRbcB/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O mais novo prisioneiro de Negan experimenta os prazeres da vida e ganha uma recompensa pela sua inteligência. Dwight entra em apuros. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]O mais novo prisioneiro de Negan experimenta os prazeres da vida e ganha uma recompensa pela sua inteligência. Dwight entra em apuros. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Diga sim[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m3vM_B7OeUYKNtEq7h6xOb1458W6782t/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick e Michonne procuram armas. Rosita cansa de esperar uma ação do grupo. Tara pondera se deve contar a Rick sobre Oceanside. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Rick e Michonne procuram armas. Rosita cansa de esperar uma ação do grupo. Tara pondera se deve contar a Rick sobre Oceanside. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Me enterre aqui[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Ms1_j3wkV3zGMQn84ooEsVWRHq012PN/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Carol interroga Morgan. A tensão alcança níveis extremos quando a equipe de Ezekiel entrega suprimentos aos Salvadores. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Carol interroga Morgan. A tensão alcança níveis extremos quando a equipe de Ezekiel entrega suprimentos aos Salvadores. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] O outro lado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mNgZ4BUMYkAD4nAO3KhJW4ut0B9vJpDu/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Maggie prepara o povo de Hilltop para entrar em guerra contra os Salvadores. Sedentas por ação, Sasha e Rosita se unem em uma missão secreta. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Maggie prepara o povo de Hilltop para entrar em guerra contra os Salvadores. Sedentas por ação, Sasha e Rosita se unem em uma missão secreta. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Algo que eles precisam[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fHwid0pKcKejp-kuPUujvM1mFXUrD_YC/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Tara leva um grupo de alexandrinos em uma missão. Gregory inveja a autoridade crescente de Maggie. Negan implora para uma nova prisioneira se unir aos Salvadores. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Tara leva um grupo de alexandrinos em uma missão. Gregory inveja a autoridade crescente de Maggie. Negan implora para uma nova prisioneira se unir aos Salvadores. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] O primeiro dia do resto da sua vida[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fNwRchLE7Xv5iTfpsh5iiu-5nk16Wcbf/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Dwight apresenta um plano a Daryl. Sasha relembra tempos melhores. Rick e o grupo aguardam a chegada dos Salvadores a Alexandria. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Dwight apresenta um plano a Daryl. Sasha relembra tempos melhores. Rick e o grupo aguardam a chegada dos Salvadores a Alexandria. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][8ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][8ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Rick Grimes e seu grupo de sobreviventes encararam o desafio mais mortal até então. No conforto de Alexandria, eles baixaram a guarda e tiveram que se lembrar de como o mundo em que vivem pode ser brutal. Sentindo-se impotente perante as regras e exigências de Negan, Rick preferiu evitar que seu grupo entrasse em confronto. Mas ao perceber que não seria possível dialogar com Negan, Rick começou a unir forças com outras comunidades, também afetadas pelos Salvadores. E, com o suporte de Hilltop e do Reino, eles finalmente têm poder suficiente para encarar os Salvadores. Nesta oitava temporada, Rick levará a "Guerra Total" para Negan e seu grupo. Os Salvadores são maiores, estão mais armados e são impiedosos, mas Rick e as comunidades unidas estão lutando pela promessa de um futuro melhor. As frentes de batalha estão sendo definidas conforme uma ofensiva dinâmica e repleta de ação é elaborada. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
 
 
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B329DE6E8FB5DD7796C4875CBF5D61BA09EB1C79&dn=The%20Walking%20Dead%202017%20%e2%80%93%208%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20%281080p%29%20WWW.BLUDV.COM</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
@@ -1048,161 +155,17 @@
 [COLOR red]O conflito com os Salvadores leva a consequências não desejadas para Hilltop, Reino e Alexandria; enquanto a moralidade se mostra complicada em tempos de guerra. (ADDON BXL)[/COLOR][/B]</info>
 </item>
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Misericórdia[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RI5iAzIm1EXVg-UMh_6i8lAhyIA9jxzm/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O conflito com os Salvadores leva a consequências não desejadas para Hilltop, Reino e Alexandria; enquanto a moralidade se mostra complicada em tempos de guerra. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Os Condenados[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ne2QFHRvXlcZ_hz3r1k3MzBWMzaPmUoU/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O plano envolvendo os membros de Alexandria, Reino e Hilltop se desenrola; enquanto Rick continua a luta, ele encontra um rosto familiar. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Monstros[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VjAjmWhjLz1AxzlnMI3R_iucbnCsNLWF/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O conflito com os Salvadores resulta em consequências indesejáveis para Hilltop, Reino e Alexandria. A moralidade se mostra complicada em tempo de guerra. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Um Cara Qualquer[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15qZ74o0AJzAhjTW4sY72Gj7s-NOTFajI/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Uma nova arma no arsenal dos Salvadores revela-se um grande obstáculo à medida que a luta continua entre as forças de Rick e as dos Salvadores. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Uma nova arma no arsenal dos Salvadores revela-se um grande obstáculo à medida que a luta continua entre as forças de Rick e as dos Salvadores. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] O Grande e Assustador[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lf59Lz9TvB76QbTNZ1OHgSNMNBrFzfi4/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com a guerra sendo travada ao seu redor, nós observamos de perto Negan e as vidas dos Salvadores durante o conflito através de olhos familiares. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Com a guerra sendo travada ao seu redor, nós observamos de perto Negan e as vidas dos Salvadores durante o conflito através de olhos familiares. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] O Rei, a Viúva e Rick[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gJ3GP9YX-VBTfGXKFzfLxzOSY8nKP3mg/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com as coisas melhorando para Rick e o grupo, um argumento ocorre em Hilltop, as consequências da decisão são de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Com as coisas melhorando para Rick e o grupo, um argumento ocorre em Hilltop, as consequências da decisão são de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Hora do Depois[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lbo3Ke3lP2dJZjDcjWzdTvZUUiLc6Ldp/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Negan precisa da ajuda de seus tenentes para resolver um enorme problema com o Santuário. Rick e o grupo continuam com o plano. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Negan precisa da ajuda de seus tenentes para resolver um enorme problema com o Santuário. Rick e o grupo continuam com o plano. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Como Deve Ser[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jMEb2fUD7nOgAezBnKyUfKxUQu88Mk9c/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Cada trama e cada batalha da primeira parte da 8ª temporada se chocam nesta midseason finale. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Cada trama e cada batalha da primeira parte da 8ª temporada se chocam nesta midseason finale. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Honra[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ep9c51rKySL5nwuEIhb4IlTUAsfqJBAL/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick encara novas dificuldades após uma batalha. Enquanto isso, a luta continua nas outras comunidades ao mesmo tempo que membros cruciais têm que lidar com decisões difíceis. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick encara novas dificuldades após uma batalha. Enquanto isso, a luta continua nas outras comunidades ao mesmo tempo que membros cruciais têm que lidar com decisões difíceis. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Os Perdidos e os Saqueadores[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bkdg6lkqV-uAeVfKRz-vpn0W6BJjWG1H/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Os grupos unem suas forças e convergem para Hilltop. Aaron e Enid procuram aliados. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Os grupos unem suas forças e convergem para Hilltop. Aaron e Enid procuram aliados. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Morto ou Vivo ou...[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18V7f9tRqkvWphmpiCifFcdsfwbqNHTSP/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Daryl encontra-se em má companhia quando o grupo se dirige para Hilltop, a fé de Gabriel é testada. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Daryl encontra-se em má companhia quando o grupo se dirige para Hilltop, a fé de Gabriel é testada. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] A Chave[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OEHh1yGNwSWJBj0Q1D8c-wd1E-RXM-cS/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A liderança de Hilltop enfrenta um difícil dilema após a chegada de visitantes inesperados. Rick fica cara a cara com um adversário. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]A liderança de Hilltop enfrenta um difícil dilema após a chegada de visitantes inesperados. Rick fica cara a cara com um adversário. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] O Preço[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kR2072ZwZdIQWtd_RGeymCU0fztUQFWE/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Ocorrem problemas quando visitantes inesperados chegam em Hilltop e a comunidade é levada à ação, ao mesmo tempo, descobertas dolorosas são feitas. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Ocorrem problemas quando visitantes inesperados chegam em Hilltop e a comunidade é levada à ação, ao mesmo tempo, descobertas dolorosas são feitas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Em Busca de um Significado[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EESL17YnI3VlJFvEEamEaB0C8xccZIj2/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um prisioneiro faz uma descoberta. Carol procura alguém na floresta próxima. Rick e Morgan se encontram na companhia de estranhos. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Um prisioneiro faz uma descoberta. Carol procura alguém na floresta próxima. Rick e Morgan se encontram na companhia de estranhos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] Quando Vale a Pena[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15hUu2I80y8NGnJA9hWsMGm_Jjc_alTUP/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com a ameaça dos Salvadores ainda se aproximando, Aaron continua procurando por aliados. Daryl e Rosita agem e confrontam um velho amigo. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Com a ameaça dos Salvadores ainda se aproximando, Aaron continua procurando por aliados. Daryl e Rosita agem e confrontam um velho amigo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] Ira[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WB2bFLrLStqSGsWe_vVhw6FtXeiHVbVx/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/gFungIIqr8e5fg6z5FPKc70pFM3.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/xJFUzxOMfksl0tQ1dtYsftOL22n.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]As comunidades unem forças na última resistência contra os salvadores, enquanto a guerra total se desenrola. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]As comunidades unem forças na última resistência contra os salvadores, enquanto a guerra total se desenrola. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][9ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][9ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Na última temporada chegou ao fim a guerra total que enfrentou Rick Grimes e seu grupo de sobreviventes. Eles lutaram contra os Salvadores e seu astuto líder, Negan. Com a vida de Negan em suas mãos, Rick tinha uma escolha que definiria seu próprio caráter. Ao tomar a decisão unilateral de perdoar Negan, Rick confirmou os valores que seu falecido filho Carl, defendeu por construir para o futuro. Mas criou conflitos dentro de seu grupo. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
 ***************************************************************************************************************************************
 
 
-<item> 
+ 
 1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210247036636C21BB01376055E4045520A74981A&dn=%7bWWW.BLUDV.COM%7d%20The%20Walking%20Dead%20-%209%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
@@ -1213,154 +176,10 @@
 </item>
 
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Um Novo Começo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wWLVQyBmcm4QjiYn1t1a3v31HnanGbRJ/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo se arrisca em uma viagem para Washington DC em busca de materiais de construção para construir a nova civilização que Rick e Carl tanto sonhavam. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] A Ponte[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RMVDIBbK7hjrEOlpk6etOKHod0S6pTn_/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]As comunidades unem forças para restaurar uma ponte que facilitará a comunicação e o comércio, mas alguém fica gravemente ferido no canteiro de obras. (ADDON BXL)[/COLOR][/B]</info>   
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Sinais de Aviso[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QnuX0aLQk1qRRU-oFYOouAYw4kT9n9yd/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A visão de Rick para o futuro é ameaçada por um misterioso desaparecimento que divide o campo de trabalho onde as comunidades estão construindo uma ponte. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] A Obrigação[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CfTcw0a7o7a5EFcAhFSv0qVzkrH1cPMl/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A visão de Rick de um futuro civilizado é ameaçada por um acerto repentino de pecados passados que permanecem sem serem corrigidos e não perdoados. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]A visão de Rick de um futuro civilizado é ameaçada por um acerto repentino de pecados passados que permanecem sem serem corrigidos e não perdoados. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] O Que Vem Depois[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qvkNi3G3-zwm92fOvq_yIvkwSm4Z_QPq/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Rick é forçado a enfrentar o passado enquanto se esforça para manter a segurança das comunidades e proteger o futuro que ele e Carl imaginavam. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Rick é forçado a enfrentar o passado enquanto se esforça para manter a segurança das comunidades e proteger o futuro que ele e Carl imaginavam. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Quem é Você Agora[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JKdma2_byrrIcxQr9p3L6ex25aR45AP4/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Seis anos se passaram desde o desaparecimento de Rick, e um grupo de estranhos testa a paciência e a confiança de Alexandria. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Seis anos se passaram desde o desaparecimento de Rick, e um grupo de estranhos testa a paciência e a confiança de Alexandria. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Stradivarius[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1daVwPCEmgbb0KJssxc09woZ1TCh0-2sQ/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Carol procura um velho amigo que vive sozinho na natureza, cheia de mortos-vivos. Sobreviventes fazem a perigosa jornada para um novo lar. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Carol procura um velho amigo que vive sozinho na natureza, cheia de mortos-vivos. Sobreviventes fazem a perigosa jornada para um novo lar. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Evolução[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fkStGDAPYQYcxMsuASP8F2EJAjpG44ZL/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Uma pequena missão de resgate enfrenta uma perigosa horda em busca de um camarada desaparecido, apenas para descobrir uma ameaça surpreendente que pode condenar a todos. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Uma pequena missão de resgate enfrenta uma perigosa horda em busca de um camarada desaparecido, apenas para descobrir uma ameaça surpreendente que pode condenar a todos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Adaptação[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-UFxXFPVVe56EvKnRuTsPHTzWztfb8Du/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-9   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-9   <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo desmascara uma perturbadora e perigosa nova ameaça. Um prisioneiro fugitivo revisita seu passado. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]O grupo desmascara uma perturbadora e perigosa nova ameaça. Um prisioneiro fugitivo revisita seu passado. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Omega[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P_HCJPuO6-rUiYIWCP0MQWFEFsty1PuH/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-10  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-10  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um cativo ou um refugiado? Uma recém-chegada em Hilltop se abre sobre a líder de um grupo de selvagens que usam máscaras. Um grupo de busca parte em uma missão ousada para encontrar dois amigos desaparecidos. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Um cativo ou um refugiado? Uma recém-chegada em Hilltop se abre sobre a líder de um grupo de selvagens que usam máscaras. Um grupo de busca parte em uma missão ousada para encontrar dois amigos desaparecidos. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Recompensa[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MteF5BTvktva5AbSxCwWrmwHs4Xnv5QB/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-11  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-11  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo selvagem liderado por Alpha enfrenta o topo da colina em uma tentativa angustiante de recuperar sua filha; uma corrida de suprimentos para o Reino se transforma em uma missão perigosa. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]O grupo selvagem liderado por Alpha enfrenta o topo da colina em uma tentativa angustiante de recuperar sua filha; uma corrida de suprimentos para o Reino se transforma em uma missão perigosa. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] Guardiões[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hCTPs5PH2dsuN2HYPK49DB_2k1qq2qJA/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-12  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-12  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Enquanto uma comunidade luta para aliviar as tensões que ameaçam se dividir a partir de dentro, a verdadeira natureza de outro grupo entra em foco; uma missão para resgatar um amigo tem consequências mortais. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Enquanto uma comunidade luta para aliviar as tensões que ameaçam se dividir a partir de dentro, a verdadeira natureza de outro grupo entra em foco; uma missão para resgatar um amigo tem consequências mortais. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue] Ponto de Estrangulamento[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13GBnI0EnFKJxWmsYnhlGn3sQGZtxlniQ/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-13  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-13  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A ousada missão de resgate de Daryl obriga Alpha a libertar um grupo dos seus para recuperar o que lhe pertence, mesmo que o preço seja pago em sangue. E os planos do Reino de reunir as comunidades estão em perigo. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]A ousada missão de resgate de Daryl obriga Alpha a libertar um grupo dos seus para recuperar o que lhe pertence, mesmo que o preço seja pago em sangue. E os planos do Reino de reunir as comunidades estão em perigo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue] Cicatrizes[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LcZV1OJzDEn-dDLqGFBCUeyfF9Ob1eO_/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-14  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-14  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A chegada de um forasteiro força Alexandria a revisitar antigas feridas devastadoras; e segredos do passado são revelados. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]A chegada de um forasteiro força Alexandria a revisitar antigas feridas devastadoras; e segredos do passado são revelados. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue] A Calmaria Anterior[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GEMS9xpNNqGi5oiS9wdLCMb6VL9ziC4T/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-15  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-15  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A feira no Reino está em andamento, com as quatro comunidades se unindo em comemoração pela primeira vez em anos; enquanto alguns pactos são renovados, outros negócios virão a um preço muito mais alto. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]A feira no Reino está em andamento, com as quatro comunidades se unindo em comemoração pela primeira vez em anos; enquanto alguns pactos são renovados, outros negócios virão a um preço muito mais alto. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue] A Tempestade[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vz9vrQF6g3ZK3pLT6mLFaP-5feEsunuF/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
-16  <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-16  <fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Após uma perda avassaladora, as comunidades devem enfrentar uma nevasca feroz; enquanto um grupo lida com um inimigo de dentro, outro é forçado a tomar uma decisão de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>   [COLOR red]Após uma perda avassaladora, as comunidades devem enfrentar uma nevasca feroz; enquanto um grupo lida com um inimigo de dentro, outro é forçado a tomar uma decisão de vida ou morte. (ADDON BXL)[/COLOR][/B]</info>
-</item>
+
 ***************************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][10ª Temporada][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] The Walking Dead (2010)[COLOR red] - [COLOR red][10ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]The Walking Dead é uma história que começou a 10 anos atrás com um homem tentando encontrar sua família. Esta família cresceu e gradualmente comunidades começaram a tomar forma. Eles lutaram e sobreviveram, prosperaram e deram origem a uma nova geração. É uma narrativa sobre a humanidade e há mais histórias para se contar. Agora é primavera, alguns meses depois do final da 9ª temporada, quando nosso grupo de sobreviventes ousou atravessar o território dos Sussurradores em meio às dificuldades do inverno. As comunidades reunidas estão lidando com as consequências da terrível demonstração de poder de Alpha, respeitando relutantemente as novas fronteiras impostas sobre eles enquanto se organizam em uma força de batalha miliciana, se preparando para um conflito que pode ser inevitável. Mas os Sussurradores são uma ameaça diferente de tudo que eles jamais enfrentaram. Com o apoio de uma gigantesca horda de mortos-vivos, os Sussurradores aparentam ser um desafio que não pode ser vencido. Questionamentos sobre o que fazer e o medo que se alastra nas comunidades cria paranoia, propaganda, agendas secretas e conflitos internos que irão testá-los como indivíduos e como sociedade. A própria ideia de que a civilização pode sobreviver em um mundo repleto de mortos está em xeque. (ADDON BXL).Faca Sua Doacao *http://bit.ly/doarADDON BXL*!!![/COLOR][/B]</info>
@@ -1377,113 +196,3 @@
 [COLOR red]O grupo em Oceanside continua com o seu treinamento para um possível retorno dos sussurradores. A tensão aumenta à medida que os heróis tentam se apegar ao seu conceito de civilização. (ADDON BXL)[/COLOR][/B]</info> 
 </item>
 
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Limites que Cruzamos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tVzdgkU47wQgQKUSDsPqdGp_3jlaEVPX/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo em Oceanside continua com o seu treinamento para um possível retorno dos sussurradores. A tensão aumenta à medida que os heróis tentam se apegar ao seu conceito de civilização. (ADDON BXL)[/COLOR][/B]</info> 
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Nós Somos o Fim do Mundo[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EjRZikwm0J6_d4y7pdmyrbBfUktlp4aD/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-2   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-2   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um flashback mostra as origens de Alpha e Beta. Alpha tenta fazer com que Lydia seja mais forte enquanto se preparam para caminhar com os mortos. Enquanto isso, os sussurradores criam as suas hordas. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Fantasmas[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dHJYhjQQeobr5lIkGBG7QGE9aiDATw__/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-3   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-3   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com o possível retorno dos sussurradores, a paranoia toma conta de Alexandria. Enquanto isso, Carol luta contra a sua sede de vingança. (ADDON BXL)[/COLOR][/B]</info>  
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Acabe com os Sussurradores[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zTE3tmLiITchHV7BLj-TWY_jglSs5fbH/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-4   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-4   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Paranoicos, os alexandrinos se irritam com os sussurradores e descontam o seu medo em Negan. Em Hilltop, o grupo lida com um inesperado problema de segurança. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Paranoicos, os alexandrinos se irritam com os sussurradores e descontam o seu medo em Negan. Em Hilltop, o grupo lida com um inesperado problema de segurança. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] O que Sempre É[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yzubdsCM5diV4NgpyiVcAjP1UQVUCM-N/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-5   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-5   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Os suprimentos de Hilltop desaparecem. Negan é idolatrado por um alexandrino. Ezequiel guarda um segredo. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]Os suprimentos de Hilltop desaparecem. Negan é idolatrado por um alexandrino. Ezequiel guarda um segredo. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Laços[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uYsVZ-PFl06vBz9f8-KJhvyA46rItibA/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-6   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-6   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Carol e Daryl partem em uma missão juntos enquanto Siddiq tenta resolver um mistério. (ADDON BXL)[/COLOR][/B]</info> [COLOR red]Carol e Daryl partem em uma missão juntos enquanto Siddiq tenta resolver um mistério. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] Abra Seus Olhos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SyCk1pyZvpIXUJQiZ4EBEdt9_9VOFZMZ/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-7   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-7   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Carol ultrapassa limites que deixam Daryl desconfortável. Alpha e Beta têm dúvidas sobre a integridade de uma pessoa. (ADDON BXL)[/COLOR][/B]</info>    [COLOR red]Carol ultrapassa limites que deixam Daryl desconfortável. Alpha e Beta têm dúvidas sobre a integridade de uma pessoa. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] O Mundo Antes[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12nOWApZSiu2rKBWe3kKppgmGDBT9vMy2/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]No final da metade da temporada, uma briga aumenta a tensão em Oceanside. Enquanto isso, os alexandrinos partem em uma missão de alto risco. (ADDON BXL)[/COLOR][/B]</info>  [COLOR red]No final da metade da temporada, uma briga aumenta a tensão em Oceanside. Enquanto isso, os alexandrinos partem em uma missão de alto risco. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Aperto[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12nOWApZSiu2rKBWe3kKppgmGDBT9vMy2/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Na estréia do meio da temporada, nosso grupo precisa descobrir como sair de uma situação precária.
- (ADDON BXL)[/COLOR][/B]</info> [COLOR red]No final da metade da temporada, uma briga aumenta a tensão em Oceanside. Enquanto isso, os alexandrinos partem em uma missão de alto risco. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Perseguidores[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Ulho77wnnQoRXeZAKsYdgGjMeG7slfWh/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O grupo cria planos para defender Alexandria de ameaças externas.
- (ADDON BXL)[/COLOR][/B]</info> [COLOR red]No final da metade da temporada, uma briga aumenta a tensão em Oceanside. Enquanto isso, os alexandrinos partem em uma missão de alto risco. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Estrela da Manhã[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17zDvzQFHwQhAn5E0OvASY-8JX64S3rCO/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Os sussurradores estão vindo para Hilltop. Após o encontro entre Daryl, Lydya e Alpha, as comunidades devem decidir se correm ou lutam. A comunicação entre Eugene e Stephanie se complica. (ADDON BXL)[/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue] O Que Nos Tornamos[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/17zDvzQFHwQhAn5E0OvASY-8JX64S3rCO/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-8   <genre>[B][COLOR firebrick](ADDON BXL),Ação,Aventura,Drama,Sci-Fi & Fantasia,[/COLOR][/B]</genre>
-8   <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]A guerra entre Hilltop e os Sussurradores continua e toma proporções ainda maiores do que se esperava. (ADDON BXL)[/COLOR][/B]</info>
-</item>
