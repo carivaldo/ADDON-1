@@ -103,6 +103,37 @@ Muitos meses depois de sua guerra contra os vilões Inumanos, a equipe ainda est
 [/COLOR][/B]</info>
 </item>
 
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] Agentes da S.H.I.E.L.D.   [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yxaKJQjaU4lyz8PMLx7Li07Frky.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:[COLOR red]Em sequência ao seu papel no campeão das bilheterias Os Vingadores, o agente Phil Coulson retorna para a S.H.I.E.L.D., a organização de execução da lei. Ali, ele monta um pequeno e altamente treinado grupo de agentes para lidar com o estranho e o desconhecido, em casos que ainda não foram classificados. O time é formado pelo focado agente Grant Ward, um especialista em combate e espionagem; a agente Melinda May, uma piloto e perita em artes marciais; o agente Leo Fitz, um cientista brilhante, porém um pouco deslocado socialmente; e a agente Jemma Simmons. Eles serão auxiliados pela nova recruta civil Skye, conhecida por sua especialidade como hacker de computadores. Prepare-se para uma aventura épica que destaca a esperança e o milagre que é o espírito humano. Este é um mundo de super-heróis e alienígenas, pontuado pelo incomum em ações espetaculares e histórias que se expandem pelo mundo. No entanto, a série fala sobre a condição humana através das lentes dos nossos agentes sem poderes da S.H.I.E.L.D., destacando que, juntos, somos mais fortes do que separados e que podemos fazer a diferença no mundo.[B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Agentes da S.H.I.E.L.D.  - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f95a16c5dfb35cbc96ca85a20c650174bd2c8e8$nome=[COLOR lime] S.H.I.E.L.D. S01E01 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:717f874f4850bf35608f5629d4d3b7874923e64b$nome=[COLOR lime] S.H.I.E.L.D. S02E02 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1771287e611ff2871b2df7b40503601e655c686f$nome=[COLOR lime] S.H.I.E.L.D. S02E03 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36F7854175116EB659C71107FA394EAF3DC428E2$nome=[COLOR lime] S.H.I.E.L.D. S02E04 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F86CD0BF7A59B024E4B49D68E25A821533E98351$nome=[COLOR lime] S.H.I.E.L.D. S02E05 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53d5e93c6736661d8713b0be5f19f7f08a9157b$nome=[COLOR lime] S.H.I.E.L.D. S02E06A07 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:638763f37ff95296d4c72d2da8781febb3933668$nome=[COLOR lime] S.H.I.E.L.D. S02E08 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1651adfd20bb78ae8e3eb36ca3a43bde7da48735$nome=[COLOR lime] S.H.I.E.L.D. S02E09 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c1265015a04051eca9991fad13099028098d21e$nome=[COLOR lime] S.H.I.E.L.D. S02E10 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0819ce2498aba71a2df0278e454009100a8cc226$nome=[COLOR lime] S.H.I.E.L.D. S02E11 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f655b367b508bd848379ce06ee344a297a82326c$nome=[COLOR lime] S.H.I.E.L.D. S02E12 720P[/COLOR]</link>
+1  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c42e3ff3c84bfc11098079a99e57be48ecfb6ba$nome=[COLOR lime] S.H.I.E.L.D. S02E13 720P[/COLOR]</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yxaKJQjaU4lyz8PMLx7Li07Frky.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:[COLOR red]Em sequência ao seu papel no campeão das bilheterias Os Vingadores, o agente Phil Coulson retorna para a S.H.I.E.L.D., a organização de execução da lei. Ali, ele monta um pequeno e altamente treinado grupo de agentes para lidar com o estranho e o desconhecido, em casos que ainda não foram classificados. O time é formado pelo focado agente Grant Ward, um especialista em combate e espionagem; a agente Melinda May, uma piloto e perita em artes marciais; o agente Leo Fitz, um cientista brilhante, porém um pouco deslocado socialmente; e a agente Jemma Simmons. Eles serão auxiliados pela nova recruta civil Skye, conhecida por sua especialidade como hacker de computadores. Prepare-se para uma aventura épica que destaca a esperança e o milagre que é o espírito humano. Este é um mundo de super-heróis e alienígenas, pontuado pelo incomum em ações espetaculares e histórias que se expandem pelo mundo. No entanto, a série fala sobre a condição humana através das lentes dos nossos agentes sem poderes da S.H.I.E.L.D., destacando que, juntos, somos mais fortes do que separados e que podemos fazer a diferença no mundo.[/COLOR][/B]</info>	
+</item>	
+
+
+
+****************************************************************************************************************************
+
 
 
 
