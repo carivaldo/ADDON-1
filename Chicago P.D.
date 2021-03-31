@@ -126,6 +126,7 @@
 </item>	
 	
 ***************************************************************************************************************************************
+<item>
 <title>[B][COLOR red]• [COLOR red] Chicago P.D. (2014) [COLOR red] - [COLOR blue][7ª Temporada][/COLOR][/B]</title>
 <genre>[B][COLOR firebrick]ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.</genre>
 <info>[B][COLOR red] SINOPSE:
@@ -152,15 +153,14 @@
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9beb713f9190884306f83e96e7478042fa85a9b$nome=[COLOR lime] Chicago P.D. Distrito 21 S07E18 720P[/COLOR]</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e386e8e19afa29bab7a740e01d440e03f66693bb$nome=[COLOR lime] Chicago P.D. Distrito 21 S07E19 720P[/COLOR]</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9beb713f9190884306f83e96e7478042fa85a9b$nome=[COLOR lime] Chicago P.D. Distrito 21 S07E20 720P[/COLOR]</link>
-1	<fanart>https://image.tmdb.org/t/p/original/A8gQucDXsvPT2Cs32RYkQPwt2oI.jpg</fanart>
-1	<info>[B][COLOR red] SINOPSE:
-[COLOR red]A CPD está sob investigação devido à natureza corrupta da instituição; sobre os olhos vigilantes da cidade, a Inteligência tenta acabar com uma operação de venda de armas. (ADDON BXL)[/COLOR][/B]</info>	
+	<fanart>https://image.tmdb.org/t/p/original/A8gQucDXsvPT2Cs32RYkQPwt2oI.jpg</fanart>
+	<info>[B][COLOR red] SINOPSE:[COLOR red]A CPD está sob investigação devido à natureza corrupta da instituição; sobre os olhos vigilantes da cidade, a Inteligência tenta acabar com uma operação de venda de armas. (ADDON BXL)[/COLOR][/B]</info>	
 </item>	
 
 
 ****************************************************************************************************************************
 <item>
-<title>[B][COLOR red]• [COLOR blue] Chicago P.D. - Distrito 21  [COLOR red] - [COLOR red][8ªTEMPORADA][/COLOR][/B]</title>
+<title>[B][COLOR red]• [COLOR red] Chicago P.D. - Distrito 21  [COLOR red] - [COLOR blue][8ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/f9eLOgAiN8x7nFXbedYxb3KCKxR.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
