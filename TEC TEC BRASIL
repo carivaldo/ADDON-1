@@ -1,11 +1,21 @@
 
 <item>
-<link>plugin://plugin.video.youtube/play/?video_id=S52JiI6MunM<link><title>[B]Novo vídeo! Canais travando no Kodi? Nunca mais. Segredo revelado! Outras opções.[/B]<title><thumbnail>https://i.ytimg.com/vi/S52JiI6MunM/default.jpg</thumbnail>
+<title>[B]Novo vídeo! Canais travando no Kodi? Nunca mais. Segredo revelado! Outras opções.[/B]<title>
+<link>plugin://plugin.video.youtube/play/?video_id=S52JiI6MunM<link>
+<thumbnail>https://i.ytimg.com/vi/S52JiI6MunM/default.jpg</thumbnail>
 </item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=mxU6tg51S_M<link><title>[B]Melhorando o desempenho do Kodi com AresVikings![/B]<title><thumbnail>https://i.ytimg.com/vi/mxU6tg51S_M/default.jpg</thumbnail>
+<item>
+<title>[B]Melhorando o desempenho do Kodi com AresVikings![/B]<title>
+<item><link>plugin://plugin.video.youtube/play/?video_id=mxU6tg51S_M<link>
+<thumbnail>https://i.ytimg.com/vi/mxU6tg51S_M/default.jpg</thumbnail>
 </item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=cYkVqO_yqOI<link><title>[B]Canais travando no Kodi? Nunca mais! Método que funciona!!! Segredo Revelado, 2020[/B]<title><thumbnail>https://i.ytimg.com/vi/cYkVqO_yqOI/default.jpg</thumbnail>
+
+<item>
+<title>[B]Canais travando no Kodi? Nunca mais! Método que funciona!!! Segredo Revelado, 2020[/B]<title>
+<item><link>plugin://plugin.video.youtube/play/?video_id=cYkVqO_yqOI<link>
+<thumbnail>https://i.ytimg.com/vi/cYkVqO_yqOI/default.jpg</thumbnail>
 </item>
+
 <item><link>plugin://plugin.video.youtube/play/?video_id=fQXv1COQTB8<link><title>[B]Protegendo os ajustes e a inicialização do KODI com senha[/B]<title><thumbnail>https://i.ytimg.com/vi/fQXv1COQTB8/default.jpg</thumbnail>
 </item>
 <item><link>plugin://plugin.video.youtube/play/?video_id=_qGddPVBrPg<link><title>[B]Como zerar/restaurar o seu KODI para as configurações originais![/B]<title><thumbnail>https://i.ytimg.com/vi/_qGddPVBrPg/default.jpg</thumbnail>
