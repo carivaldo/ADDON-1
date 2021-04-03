@@ -1,7 +1,14 @@
 
 
 
-
+<item> 
+1   <title>[B][COLOR blue] 47 Ronins - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80046a00d30994a618c2a0ac67fe60dbc39512f1</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/jHFM8cZwouMkCXfJFiJ4liN4AYM.jpg</fanart>
+1   <info>[B][COLOR red]SINOPSE:[COLOR redDo conto mais antigo da cultura japonesa, surge a aventura épica em 47 Ronins. Keanu Reeves lidera o elenco como Kai, um excluído que se une a Oishi (Hiroyuki Sanada), o líder dos 47 Ronins. Juntos eles buscam vingança sobre o traiçoeiro soberano que matou seu mestre e baniu sua espécie. Para devolver a honra à sua pátria, os guerreiros embarcam em uma missão que os desafia com uma série de provas que destruiriam os guerreiros comuns.[/COLOR red]</info>
+  </item>
 
 
    <item> 
@@ -17,9 +24,9 @@
    <item> 
 1   <title>[B][COLOR blue] Malévola - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:23C96ECF6618A8FB7287CE56F24F27EACDB33C35&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:5BED84317906D791C95D8B0DDD77A629D32DD6A7&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:2BF8FA04110D580CC589185A5B4B5B3C70477A8E&dn\$nome=[COLOR lime]710P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:23C96ECF6618A8FB7287CE56F24F27EACDB33C35$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:5BED84317906D791C95D8B0DDD77A629D32DD6A7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:2BF8FA04110D580CC589185A5B4B5B3C70477A8E$nome=[COLOR lime]710P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kqifqRhUWjx5WT0OJPxWbcnzc2O.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/q4Jk2v4dUOYSjVRNU9eqoPvOBoc.jpg</fanart>
