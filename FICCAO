@@ -37,8 +37,8 @@
 <item> 
 1   <title>[B][COLOR blue] Tropas Estelares - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F13118E505FDCC2DAD74BF516EEC1C4D9EBEA3A&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FC6F50721FC80715E3047BAA252D4B261DBD260&dn\$name=[COLOR lime]1080P 1,2 E 3[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F13118E505FDCC2DAD74BF516EEC1C4D9EBEA3A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FC6F50721FC80715E3047BAA252D4B261DBD260$name=[COLOR lime]1080P 1,2 E 3[/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0oVrDAh05pdHwnV6mRQzL1QHYk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/zgMTIsWeF4VSitPIoUQ7WjNlgm4.jpg</fanart>
@@ -48,8 +48,8 @@
 <item>
 1   <title>[B][COLOR blue] Elysium - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e22619f61b77ea2dc40aae1bda5c5e39ca2abe&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626d7b4d068c72987b6606cb38a42a91b6753970$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e22619f61b77ea2dc40aae1bda5c5e39ca2abe$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626d7b4d068c72987b6606cb38a42a91b6753970$name=[COLOR lime]720P[/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/dgCfxotSzXcvSos7CBCxrQ1FPBu.jpg</fanart>
 <info>Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes (Jodie Foster) faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra (Matt Damon) tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</info>
@@ -58,8 +58,8 @@
 <item>
 1   <title>[B][COLOR blue] Tempestade - Planeta em Fúria - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FB3519D5E92EC4960FAB5F0EC1B7AE3DE5DC64&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4C6B72D0E8AD3A741FB070DF64885C818183F46&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FB3519D5E92EC4960FAB5F0EC1B7AE3DE5DC64$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4C6B72D0E8AD3A741FB070DF64885C818183F46$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg<thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6jrMdMe4sMygTcJPpQTjKPmP4l0.jpg</fanart>
 <info>Após uma série sem precedentes de desastres naturais ameaçar o planeta, os líderes mundiais se uniram para criar uma intrincada rede de satélites para controlar o clima global e manter todos em segurança. Mas agora, algo deu errado: o sistema criado para proteger a Terra está atacando-o, e torna-se uma corrida contra o relógio para descobrir a ameaça real antes que uma tempestade global acabe com tudo e com todos.</info>
@@ -68,8 +68,8 @@
 <item>
   <title>[B][COLOR blue] Star Trek - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1 <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 1 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg<thumbnail>
 1 <fanart>https://image.tmdb.org/t/p/original/hqzIuGbwAYMKljhoXwtFFfOrg1J.jpg</fanart>
@@ -79,8 +79,8 @@
 <item>
  <title>[B][COLOR blue] Além da Escuridão  Star Trek  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92A3BA1FB2C696A63765A4BD61A866BA6D9F3E49&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b465795e2fdac01f27a62c5a1c8d14ce629d15&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92A3BA1FB2C696A63765A4BD61A866BA6D9F3E49$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b465795e2fdac01f27a62c5a1c8d14ce629d15$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/n2XkLIIQo5QzbqDyslzW8HIm7vL.jpg</fanart>
@@ -92,11 +92,11 @@
 <item>
  <title>[B][COLOR blue] Star Trek: Sem Fronteiras - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89f77e96bbc98f1dafe3b21da004db5d237465e&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FA5BCEFAEFCD1D2B24FF333A0B7FC1A579FAD0A&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6AE2795053E38403A13D4E5FD150650AE462BDCA&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B559F00F5A60E9418C8A556C4FF687ED45446ABA&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7A757CA7C4F3F462FFEBCC0811DEB0851777B5C&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89f77e96bbc98f1dafe3b21da004db5d237465e$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FA5BCEFAEFCD1D2B24FF333A0B7FC1A579FAD0A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6AE2795053E38403A13D4E5FD150650AE462BDCA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B559F00F5A60E9418C8A556C4FF687ED45446ABA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7A757CA7C4F3F462FFEBCC0811DEB0851777B5C$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC2lEQjA4X814UnvekmdkM5hXmk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/m4F1KRK5jAoQHi2mKDFE2jFKEIb.jpg</fanart>
@@ -127,8 +127,8 @@
      <item> 
 1   <title>[B][COLOR blue]O Exterminador do Futuro 2: O Dia do Julgamento  - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6D93BBE1763C15789CA4AE4F1A9BDD47E79139E&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12C1481EE8B282F95AAC4D15D6DD3F2B6977A8E&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6D93BBE1763C15789CA4AE4F1A9BDD47E79139E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12C1481EE8B282F95AAC4D15D6DD3F2B6977A8E$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/i5megxGRBadEZEUeej5ADFnYLlB.jpg</fanart>
@@ -168,9 +168,9 @@
   <item> 
 1   <title>[B][COLOR blue] O Exterminador do Futuro: Destino Sombrio - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618E0C0D509F687140FCB2EE364330870BA&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D8DCA04BC1AD0365D1E00E51EB02CBC7A74B725&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2F3B07683C55E0AA50DD4DC308315366D39F3A&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618E0C0D509F687140FCB2EE364330870BA$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D8DCA04BC1AD0365D1E00E51EB02CBC7A74B725$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2F3B07683C55E0AA50DD4DC308315366D39F3A$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/cFOzJLsUX2rybMIElvNscMscGYe.jpg</fanart>
@@ -229,9 +229,9 @@
   
      <item> 
 1   <title>[B][COLOR blue] Bumblebee - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:724188621F3E1C7F7A6142E1AFDE7C7C7EF505F3&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750F2E4D5E5B0C8F60EED5C01B994A2DC333DFD5&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E0AD94D41FF90D7EF28855DA5C7C7283C56FCFD&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:724188621F3E1C7F7A6142E1AFDE7C7C7EF505F3$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750F2E4D5E5B0C8F60EED5C01B994A2DC333DFD5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E0AD94D41FF90D7EF28855DA5C7C7283C56FCFD$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg</fanart>
@@ -240,9 +240,9 @@
 
 <item> 
 1   <title>[B][COLOR blue]Avatar - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D306DFE7661CD617131CB0DFD6E631F290F821D&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6eb21218425ee2b8053dd7fef4225ed8a8ff7d7a&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D306DFE7661CD617131CB0DFD6E631F290F821D$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6eb21218425ee2b8053dd7fef4225ed8a8ff7d7a$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d8b5SwdOGvlU2YHYfKrrDnFyFj.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/AmHOQ7rpHwiaUMRjKXztnauSJb7.jpg</fanart>
@@ -251,8 +251,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Eragon - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D11CAA44FFAC4A335A26A51232B0F8FC12B5E32&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:331A7054F8C16670E83482EDC8E7743B8B1676EC&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D11CAA44FFAC4A335A26A51232B0F8FC12B5E32$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:331A7054F8C16670E83482EDC8E7743B8B1676EC$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/iKNlrfQ1006RR9Tcn4E30bb0aOn.jpg</fanart>
@@ -282,9 +282,9 @@
    <item> 
 1   <title>[B][COLOR blue] Círculo de Fogo - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97E5DBB88D482D95230F8E8ED87B574DF410AA84&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bb07916936bfa81d9ce5126609b9f6b75446b3f&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97E5DBB88D482D95230F8E8ED87B574DF410AA84$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bb07916936bfa81d9ce5126609b9f6b75446b3f$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i5ZbkPiKUrBaF2wxYqzhlv1n1i.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/gXJ91Mn0ASnihQBCm2k8gOTRUWN.jpg</fanart>
@@ -295,9 +295,9 @@
      <item> 
 1   <title>[B][COLOR blue] Círculo de Fogo: A Revolta - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5548F52AF83B3FAD6B31E6A022BC151C1FC8D916&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C61460F95983EAAE912356D46838D907ACEEC9A8&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5548F52AF83B3FAD6B31E6A022BC151C1FC8D916$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C61460F95983EAAE912356D46838D907ACEEC9A8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1F243A9379E4A993D2A89D4CF68EECEE8A0AEEB$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/rcMAgeZFdO0MRPxUsMKiBakq4yE.jpg</fanart>
@@ -339,8 +339,8 @@
   <item> 
 1   <title>[B][COLOR blue] A Experiência - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A1C4B124E0333AA17A90648D28583F7D35C3816&dn=viatorrents.com%20-%20Experiencia.95.TrialBD1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D615535524BC1EE2D39D26F016427C5B1686BBF9&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A1C4B124E0333AA17A90648D28583F7D35C3816&dn=viatorrents.com%20-%20Experiencia.95.TrialBD1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D615535524BC1EE2D39D26F016427C5B1686BBF9$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivBkQcF3Bny0NgX1DRniK9rbvMg.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/bTHqaM1SVXSpEELkZ471MFlt53s.jpg</fanart>
@@ -350,8 +350,8 @@
   <item> 
 1   <title>[B][COLOR blue] A Experiência II - A Mutação - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A777E43BA54ABCEADFA5154E726408A10F8FBEB4&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AACE8DB2F67629B4B578DDA9A417F3F79022C560&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A777E43BA54ABCEADFA5154E726408A10F8FBEB4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AACE8DB2F67629B4B578DDA9A417F3F79022C560$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/tU4n3aACxbE4AxYnAWqWMjVdkrn.jpg</fanart>
@@ -382,9 +382,9 @@
   <item> 
 1   <title>[B][COLOR blue] Depois da Terra - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA9F318B3D261C828A981D621AE494045BA9276F&dn=Depois%20Da%20Terra%20%284k%29%20%28TORRENTUS%20FILME%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4DCC225E2C911332E134AA0451DD567D776A1CD&dn=Depois%20da%20Terra%201080p%20%282013%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07E62B33BA9058A667446519DF04D20D0CDADC7F&dn=Depois%20da%20Terra%20720p%20%282013%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA9F318B3D261C828A981D621AE494045BA9276F&dn=Depois%20Da%20Terra%20%284k%29%20%28TORRENTUS%20FILME%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4DCC225E2C911332E134AA0451DD567D776A1CD&dn=Depois%20da%20Terra%201080p%20%282013%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07E62B33BA9058A667446519DF04D20D0CDADC7F&dn=Depois%20da%20Terra%20720p%20%282013%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdYNQ5PKM8UjdgAkPmzbiEbeP3.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/958IEMxVqU3FFOdZll3PcFLoyef.jpg</fanart>
@@ -406,9 +406,9 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars - Episódio V - O Império Contra-Ataca - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:564385D136AE10415DD008AC95D446FE565EB876&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C2B17B648D46192FD53EBE5CE4115F8A300DF0E&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B667DBAF5C8F8711A5964A0AF8DE3A21845E639&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:564385D136AE10415DD008AC95D446FE565EB876$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C2B17B648D46192FD53EBE5CE4115F8A300DF0E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B667DBAF5C8F8711A5964A0AF8DE3A21845E639$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/M3hy6yu1Am8CTjUY7VuippPbSd.jpg</fanart>
@@ -430,8 +430,8 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars - Episódio I - A Ameaça Fantasma - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E59D3A0CA7CA7045E1D01EC6B3502E94C74CB7C&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FCB001B82DE87DFC4A1358B91FC30A3CD480B1B&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E59D3A0CA7CA7045E1D01EC6B3502E94C74CB7C$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FCB001B82DE87DFC4A1358B91FC30A3CD480B1B$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/noVm3w6RiIftkvLZbi7upH2Ws0S.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qDEvctVfAheD7x9Rzz8xcFRAGAU.jpg</fanart>
@@ -442,8 +442,8 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars - Episódio 2 - Ataque dos Clones 4K- [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7E5F49A0D3513F45D1EB26B342AB44408880C&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486af8ac1d8430fc7cc501a2f389e8930840bb2d&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7E5F49A0D3513F45D1EB26B342AB44408880C$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486af8ac1d8430fc7cc501a2f389e8930840bb2d$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ONgVK8ucLfobZn7VTyaAKH0yA.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/pomUxMN2clXL8o3aD0Q98z9aqHq.jpg</fanart>
@@ -454,8 +454,8 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars: Episódio III - A Vingança dos Sith - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA11A70D775F1B6AF0D4839D4C8591DC9D0A5EEB&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3eb2c711ce1bfe95cf06744efa4230edc1ad042&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA11A70D775F1B6AF0D4839D4C8591DC9D0A5EEB$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3eb2c711ce1bfe95cf06744efa4230edc1ad042$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4ihKTuWHiNa5u09OgFtvpnedQ6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/mteMiVu3PPyWf6zmzYtENAK4SIn.jpg</fanart>
@@ -466,9 +466,9 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars - O Despertar da Força - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b406bf1113bdd9fb4cfa92d8b48cd2f89f88ac7&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC43E7E5AC1280C38A76F5FE617CA82A6F6EA2DB&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F24AF07E9302197129653FE59330C720BB07392D&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b406bf1113bdd9fb4cfa92d8b48cd2f89f88ac7$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC43E7E5AC1280C38A76F5FE617CA82A6F6EA2DB$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F24AF07E9302197129653FE59330C720BB07392D$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc9hsb5BTTFGmPhHkXxonKP5rFN.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/iNayZiCr0et4JEgLk54kTrHJoeD.jpg</fanart>
@@ -479,8 +479,8 @@
   <item> 
 1   <title>[B][COLOR blue]Star Wars - Os Últimos Jedi- [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0B55C1F98CC4D45B0D86487FA79191EA691726E&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB22CADD8DD6E0C74E22409E792C68744BC1B7C&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0B55C1F98CC4D45B0D86487FA79191EA691726E$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB22CADD8DD6E0C74E22409E792C68744BC1B7C$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iGN0aKHJYD0xQydlfuCUAcgNbO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/vwfmQwiBES2xFRnzfYfpfCwjSGC.jpg</fanart>
@@ -491,8 +491,8 @@
   <item> 
 1   <title>[B][COLOR blue] Star Wars: A Ascensão Skywalker - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e25e85a95fc2ed93395a03a894fa07d93318f6&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:692d008040d9c9a2eef9e8336a307e84e609a0e3&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e25e85a95fc2ed93395a03a894fa07d93318f6$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:692d008040d9c9a2eef9e8336a307e84e609a0e3$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/jn52me8AagfNt7r84SgQbV0R9ZG.jpg</fanart>
@@ -502,8 +502,8 @@
   <item> 
 1   <title>[B][COLOR blue] Han Solo: Uma História Star Wars  - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6020BD7B84BD29B1DA90880965AAF0D3F85D2696&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7bdd3782a41dd4ba60f28370275f525eb010660&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6020BD7B84BD29B1DA90880965AAF0D3F85D2696$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7bdd3782a41dd4ba60f28370275f525eb010660$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/6u8nhaurIjLgcuszYYZDUpJdUe6.jpg</fanart>
@@ -513,8 +513,8 @@
   <item> 
 1   <title>[B][COLOR blue] Rogue One - Uma História Star Wars - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>'plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:458830e721a78d1091faed95a531097f5779d94d&dn\$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34161A0CCF73F79EF482BD5B8B187CB92258C2BC&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>'plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:458830e721a78d1091faed95a531097f5779d94d$nome=[COLOR lime]4k [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34161A0CCF73F79EF482BD5B8B187CB92258C2BC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/tHL9nmLqdH0KGcQVq7PYKb6olIY.jpg</fanart>
@@ -525,8 +525,8 @@
 <item> 
 1   <title>[B][COLOR blue] Independence Day: O Ressurgimento - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6A2F397BA8A2DBAE4A702DE99A65709DCECEF8&dn=Independence%20Day%20O%20Ressurgimento%202016%201080p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6A2F397BA8A2DBAE4A702DE99A65709DCECEF8&dn=Independence%20Day%20O%20Ressurgimento%202016%201080p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh7dnhLboTzjNfPVTsqr8sBo6wh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/ou70x2658dVnbycIRaC37sEeafS.jpg</fanart>
@@ -536,8 +536,8 @@
 <item> 
 1   <title>[B][COLOR blue] Independence Day - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D238D165D5835DA571D36D2422E85C22A6F22A61&dn=independence+day+1996+extended+1080p+bluray+x264+belex+tri+audio+subtitles&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40F7F16F7CD1810678C5830DB48BA2FA50833DCC&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20%5b1080p%5d%20ACESSE COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D238D165D5835DA571D36D2422E85C22A6F22A61&dn=independence+day+1996+extended+1080p+bluray+x264+belex+tri+audio+subtitles&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40F7F16F7CD1810678C5830DB48BA2FA50833DCC&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20%5b1080p%5d%20ACESSE COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6qm6iGERmlj8YMzFBL3TSoKISh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nBbewX1GIyGSlI4fx6U0KnZ086n.jpg</fanart>
