@@ -80,8 +80,8 @@
    <item> 
 1   <title>[B][COLOR blue] O Caçador e a Rainha do Gelo - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:62F2328D1460D3888EF0CBAA33779F9A5121C3CA&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:F7898DB89450CEC882C6B9813716C013153D<&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO/link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:62F2328D1460D3888EF0CBAA33779F9A5121C3CA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:F7898DB89450CEC882C6B9813716C013153D$nome=[COLOR lime]720P [/COLOR] - DUBLADO/link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dn8K4JP2cHvT6xzUvLP6uBPeRh9.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/sXg9lo0TQEYZCNSgf7yW78eS1zT.jpg</fanart>
@@ -91,7 +91,7 @@
    <item> 
 1   <title>[B][COLOR blue] A Máscara do Zorro - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:71bcf7a5a9406b437dd42b442ca9b558809a40b7</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71bcf7a5a9406b437dd42b442ca9b558809a40b7</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkHYspXHYZHdrkXxtgb7hXZUg2I.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/aHGKoO7hltEdjH9o4pTaKVftqZT.jpg</fanart>
@@ -101,8 +101,8 @@
    <item> 
 1   <title>[B][COLOR blue] A Lenda do Zorro - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56044f23f1cd08cef0d9c9ccc4af4cb28aa0f66&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba5f627ecceeeced778099ac1e52f46f32e70b26&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56044f23f1cd08cef0d9c9ccc4af4cb28aa0f66$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba5f627ecceeeced778099ac1e52f46f32e70b26$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/eCebbqmTsIiKJDSsjkr1BjgWDot.jpg</fanart>
@@ -113,9 +113,9 @@
    <item> 
 1   <title>[B][COLOR blue] Robin Hood: A Origem - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F65238D3E28A117F7819ADE9F45261961CF9CF&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3BF944694B69FB7A528587C8C54EF5C1C659BAC8&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:649729908B71B670A000D7024277B04E225E1621&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F65238D3E28A117F7819ADE9F45261961CF9CF$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3BF944694B69FB7A528587C8C54EF5C1C659BAC8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:649729908B71B670A000D7024277B04E225E1621$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg</fanart>
@@ -181,8 +181,8 @@
     <item> 
 1   <title>[B][COLOR blue] A Múmia - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B135423C6D21BB2951BCEE2B10A0FA570BAD0907&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A58C7E73B560F6887A9B4C7E26A840F674C21A5&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B135423C6D21BB2951BCEE2B10A0FA570BAD0907$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A58C7E73B560F6887A9B4C7E26A840F674C21A5$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/pwOVw2PEHwqypHbhBJFQe158Ljb.jpg</fanart>
@@ -192,8 +192,8 @@
    <item> 
 1   <title>[B][COLOR blue] O Retorno da Múmia - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB06B0097508DF5A9A52B5A02F5E821ADC61466E&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD3778629E99115B9364424C932410D319219A9&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB06B0097508DF5A9A52B5A02F5E821ADC61466E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD3778629E99115B9364424C932410D319219A9$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/trLVOBJxgq4K4Ei2OJFZgIeaPzB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/cxIwqO2fYHBVIfATkODv3m2BImL.jpg</fanart>
@@ -202,8 +202,8 @@
     <item> 
 1   <title>[B][COLOR blue] A Múmia - Tumba do Imperador Dragão - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEAD7F5BD4FFDAB806BEBF6B83E2BC30FFE30DCF&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13BC757F54AA84543E7FA390AFDE06F31D528107&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEAD7F5BD4FFDAB806BEBF6B83E2BC30FFE30DCF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13BC757F54AA84543E7FA390AFDE06F31D528107$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/b0YldiR5c3Hox4QBQsSRCcgtn1c.jpg</fanart>
@@ -245,8 +245,8 @@
   <item> 
 1   <title>[B][COLOR blue] A Lagoa Azul - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F44DDA565384E57B10017A5EE64413B04AA2360C&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88A808A1C838EDCAC4AF7DE9A9C88ACABD6F4DF5&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F44DDA565384E57B10017A5EE64413B04AA2360C$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88A808A1C838EDCAC4AF7DE9A9C88ACABD6F4DF5$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3K7QnFEtu1s6HLXFuep2wvhWT.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/wD0xjsLz3ajh3mdiRhcJQTY5Q7B.jpg</fanart>
@@ -320,8 +320,8 @@
   <item> 
 1   <title>[B][COLOR blue] Jurassic Park: O Parque dos Dinossauros  - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/8gdIKyQ587Gdo4XCc99usA1eyA7.jpg</fanart>
@@ -351,9 +351,9 @@
   <item> 
 1   <title>[B][COLOR blue] Jurassic World: O Mundo dos Dinossauros - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97CFF5DD4A07FD9BB82ABB4E8C5D5D912BE662CA&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F41FA5303F244370F2EC3243CA55038B5CB6686&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D085E357202535DDD6020C0DABBE2A0187D7E856&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97CFF5DD4A07FD9BB82ABB4E8C5D5D912BE662CA&$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F41FA5303F244370F2EC3243CA55038B5CB6686&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D085E357202535DDD6020C0DABBE2A0187D7E856&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/stg9saQsfZdyrhXJRmwmZmcooNS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/xX0IzuFa1Fj06iU2NlOmeMPe7oS.jpg</fanart>
@@ -363,10 +363,10 @@
   <item> 
 1   <title>[B][COLOR blue] Jurassic World: Reino Ameaçado - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:925859199790A751720901BBA21CB93863748A74&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7941AD862EB6C7D296292C2FCB63585F21DE382D&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B055801AA7E8ED8012A04EFEFD7EC211C715139C&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7322700E03D6B6F4950FD37BA2AF0F542A848CF&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:925859199790A751720901BBA21CB93863748A74&$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7941AD862EB6C7D296292C2FCB63585F21DE382D&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B055801AA7E8ED8012A04EFEFD7EC211C715139C&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7322700E03D6B6F4950FD37BA2AF0F542A848CF&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/jI1YUUasrswc73yCT6jekM5r8RY.jpg</fanart>
@@ -376,8 +376,8 @@
 <item> 
 1   <title>[B][COLOR blue] Titanic - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33938A9745395BD2B9BD82B4FBA4866F284AA482&&dn=Titanic%204k%20Matered%20Dublado%20-%20YTSBR.COM&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3&dn=Titanic+%281997%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33938A9745395BD2B9BD82B4FBA4866F284AA482&&dn=Titanic%204k%20Matered%20Dublado%20-%20YTSBR.COM&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3&dn=Titanic+%281997%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwRgiAjXREMbfr270MDZ73kQqIf.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/8snzOoKTz41Day8lBZytBWmUh4l.jpg</fanart>
@@ -387,8 +387,8 @@
 <item> 
 1   <title>[B][COLOR blue] Gasparzinho, o Fantasminha Camarada - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68fb9ddef5bcb93a36e6c30d9606d0fc72c58eae$$lsnam&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADOO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00BB8B201DDCC9348C09742A710E53CDC42F1C87&dn=Gasparzinho%20o%20Fantasminha%20Camarada%20%281995%29%20BluRay%20720p%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce$$lsname=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68fb9ddef5bcb93a36e6c30d9606d0fc72c58eae$nome=[COLOR lime]1080P [/COLOR] - DUBLADOO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00BB8B201DDCC9348C09742A710E53CDC42F1C87$name=[COLOR lime]720P[/COLOR] - DUBLADO</maglink>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s89ACIwVDsESNyWbpe495Iigq8e.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/g5hN9Kp4ShUcXmnjoaqg3LSWcHr.jpg</fanart>
@@ -408,8 +408,8 @@
 <item> 
 1   <title>[B][COLOR blue] As Tartarugas Ninja  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44f04b8027a2b48b30a485e0b16dd5b61bc4fafb&dn=As+Tartarugas+Ninja+%282014%29+BRrip+1080p+5.1+Ch+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47b8add22cbc331817615c695e9d93e43585c8c8&dn=As+Tartarugas+Ninja+%282014%29+720p+5.1+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%C2%A0&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44f04b8027a2b48b30a485e0b16dd5b61bc4fafb&dn=As+Tartarugas+Ninja+%282014%29+BRrip+1080p+5.1+Ch+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47b8add22cbc331817615c695e9d93e43585c8c8&dn=As+Tartarugas+Ninja+%282014%29+720p+5.1+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%C2%A0$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlWJNUYTgnatBsPDfe5HZUS7lJF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg</fanart>
@@ -419,9 +419,9 @@
 <item> 
 1   <title>[B][COLOR blue] As Tartarugas Ninja: Fora das Sombras 2 - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4789275ce2361394cdc6760b6ce1ff6f3bbe81&dn=As%20Tartarugas%20Ninja%20Fora%20das%20Sombras%202016%201080p%20BluRay%20x264-RK%20-%20Dual%20Audio%20%2B%20Legenda&&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7628a5ea424b63ae3f5d75d3d5afd4437554be8&dn=As Tartarugas Ninja Fora das Sombras 1080p (2016) Dual %C3%81udio BluRay 5 1 By Lucas Firmo&tr=udp://explodie.org:6969/announce&tr=udp://mgtracker.org:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.pirateparty.gr:6969/announce&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eedf4d07d18bf4ead241bcc96da3ba0923ce0ab&dn=As Tartarugas Ninja Fora das Sombras 720p (2016) Dual %C3%81udio BluRay 5 1 By Lucas Firmo&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.zer0day.to:1337/announce&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4789275ce2361394cdc6760b6ce1ff6f3bbe81&dn=As%20Tartarugas%20Ninja%20Fora%20das%20Sombras%202016%201080p%20BluRay%20x264-RK%20-%20Dual%20Audio%20%2B%20Legenda&&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7628a5ea424b63ae3f5d75d3d5afd4437554be8&dn=As Tartarugas Ninja Fora das Sombras 1080p (2016) Dual %C3%81udio BluRay 5 1 By Lucas Firmo&tr=udp://explodie.org:6969/announce&tr=udp://mgtracker.org:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.pirateparty.gr:6969/announce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eedf4d07d18bf4ead241bcc96da3ba0923ce0ab&dn=As Tartarugas Ninja Fora das Sombras 720p (2016) Dual %C3%81udio BluRay 5 1 By Lucas Firmo&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.zer0day.to:1337/announce$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/vgjXCUk90FMOWWwb0TCvzvPVGKf.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Auxiliado pelo Dr. Baxter Stockman, o Clã do Pé planeja libertar o vilão Destruidor. Após o plano de resgate ser descoberto por April O'Neal, as tartarugas ninja entram em ação para impedi-lo - só que fracassam graças à iniciativa de Krang, um ser alienígena que planeja invadir a Terra. Para enfrentá-los, as tartarugas contam com a ajuda de um novo combatente: Casey Jones, um policial que estava no camburão que conduzia o Destruidor quando conseguiu escapar.[/COLOR][/B]</info>	
@@ -489,7 +489,7 @@
 <item> 
 1   <title>[B][COLOR blue] O Senhor dos Anéis: A Sociedade do Anel  - [COLOR red](2001) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B7E7F528BEE5D8D50B44D1AFEB9A76E714F0FED&dn=O.Senhor.dos.An%c3%a9is.1.A.Sociedade.do.Anel.2001.EXTENDED.1080p.BluRay.H264.AC3.5.1.DUAL-RICKSZ-BLUDV</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZvStDX-k_G5sRwDlwZUQnUud4we2phW1/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoht5lmzBXxL7FWkHHu3JISGzEg.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/q9nym8NbrISGGHLpQbhxfevKCZ2.jpg</fanart>
