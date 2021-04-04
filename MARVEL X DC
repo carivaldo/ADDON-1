@@ -493,19 +493,17 @@
   </item>
 
 <item>
-<title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]<title>
-<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b&dn=Motoqueiro+Fantasma+%282007%29+720p+HD+Dublado+%2F+Dual+Audio+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+(2007)+720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg<thumbnail>
+<title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
+<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4bHKA3jtDN1wYkOSbnehpS4HqKo.jpg</fanart>
 <info>Para salvar seu pai moribundo, o jovem ciclista de dublês Johnny Blaze vende sua alma a Mefistófeles e, infelizmente, parte da pura Roxanne Simpson, o amor de sua vida. Anos mais tarde, o caminho de Johnny se cruza novamente com Roxanne, agora uma repórter, e também com Mephistopheles, que se oferece para liberar a alma de Johnny se Johnny se tornar o lendário e ardente 'Ghost Rider'.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]<title>
-<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789&dn=Motoqueiro%20Fantasma%20-%20Esp%c3%adrito%20de%20Vingan%c3%a7a%202011%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce</link>
-<link>https://f000.backblazeb2.com/file/filmetube/Motoqueiro+Fantasma+-+Esp%C3%ADrito+de+Vingan%C3%A7a+(2011)+720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg<thumbnail>
+<title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
+<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/syRLG2ryrCeP16wuxiODJooy69.jpg</fanart>
 <info>Quando o diabo ressurge com o objetivo de dominar o mundo em forma humana, Johnny Blaze relutantemente sai do esconderijo para se transformar no herói sobrenatural que lança chamas Ghost Rider - e resgata um garoto de 10 anos de um final desagradável.</info>
 </item>
@@ -633,7 +631,7 @@
 1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9E12910F835903F67D35BCF7F5B568A11B1D6CA</link> 
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg<thumbnail>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg</thumbnail>
 1   <fanart>https://image.tmdb.org/t/p/original/oBdJ4hRF6oUrMCG0G7kd7ZXG24Z.jpg</fanart>
 1   <info>Após a morte do promotor Harvey Dent, Batman assume a responsabilidade pelos crimes de Dent para proteger a reputação do advogado e é posteriormente caçado pelo Departamento de Polícia de Gotham City. Oito anos depois, Batman encontra a misteriosa Selina Kyle e o vilão Bane, um novo líder terrorista que supera os melhores de Gotham. O Cavaleiro das Trevas ressurge para proteger uma cidade que o marcou como inimigo.</info>
 </item>
@@ -650,19 +648,18 @@
 
 <item>
 <title>[B][COLOR blue]Batman: O Cavaleiro das Trevas - [COLOR red](2008)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923lP</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCF3RtQFhA7qMizMgOlcaPc5vC9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gxOAE2cjz1LPfIZAUBmkyEUwZeJ.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg</fanart>
 <info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
 </item>
 
 
 
 <item>
-<title>[B][COLOR blue]coringa - [COLOR red] (2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]<title>
+<title>[B][COLOR blue]coringa - [COLOR red] (2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
 <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236F0860E2CB91236B64109F061B2E1B80C35812</link>  
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg<thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
 <info>Durante a década de 1980, um comediante de stand-up fracassado é levado à loucura e se transforma em uma vida de crime e caos em Gotham City enquanto se torna uma figura infame do crime psicopata.</info>
 </item>
