@@ -93,8 +93,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] S.W.A.T.: Comando Especial - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658c8d634fe7423257f15856667861c64804bb91&$nome=[COLOR cadetblue][B]1080P[/COLOR][/B]</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1c364e71950e5e8c9640772a9d0d7f4d8290e0&$nome=[COLOR cadetblue][B]720P[/COLOR][/B]O</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658c8d634fe7423257f15856667861c64804bb91&$nome=[COLOR Comando Especial][B]1080P[/COLOR][/B]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1c364e71950e5e8c9640772a9d0d7f4d8290e0&$nome=[COLOR Comando Especial][B]720P[/COLOR][/B]O</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmhNSdqp9guZwmDktqvfJZ5DVjt.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/37jfQsSnHcdXrYBe6EQxTVyZofd.jpg</fanart>
@@ -198,8 +198,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] Um Ato de Coragem - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CD72A5303C3804E808061D93D7A8C6C94DEB9AB&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D6E9397F9BA23ED0CE09F378EE5844A9563FDD5&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CD72A5303C3804E808061D93D7A8C6C94DEB9AB$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D6E9397F9BA23ED0CE09F378EE5844A9563FDD5$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/q9ma9nSHcsNhfhOIwnCMHrbbGsJ.jpg</fanart>
@@ -217,9 +217,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Possuídos - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F5159E86712EE16E87818C9B4E0A4BD7AA89085&$nome=[COLOR][B]K4[/COLOR][/B]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29781824EB2280D514F4553883575D33E7E164A9&$nome=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58ECA317DF6C95C199AD0290CB7DE753F0013C0F&$nome=[COLOR cadetblue][B]720P[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F5159E86712EE16E87818C9B4E0A4BD7AA89085&$nome=[COLOR  Possuídos][B]K4[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29781824EB2280D514F4553883575D33E7E164A9&$nome=[COLOR  Possuídos][B]1080P[/COLOR][/B]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58ECA317DF6C95C199AD0290CB7DE753F0013C0F&$nome=[COLOR  Possuídos][B]720P[/COLOR][/B]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfzlDHojkX8NuTRMBeZG9FjEhOV.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/oFWAae68u6R34mFVaPR4n5FtO1W.jpg</fanart>
@@ -410,9 +410,9 @@
   <item> 
 1   <title>[B][COLOR blue] Assassinos Múltiplos - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:165C4F64F5D9DB4ABC2F851AF02C4D8B0565AB4E&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C22B309711F10CD96AA546C7DD3E14A75D45A067&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135A5504D84843642F4F9542E188E9315C19A1E&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:165C4F64F5D9DB4ABC2F851AF02C4D8B0565AB4E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C22B309711F10CD96AA546C7DD3E14A75D45A067$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135A5504D84843642F4F9542E188E9315C19A1E$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvcsAfWEbtO85YvzJ7N2c9ghuOn.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/vZxusrzdhJa3D7g3UoSWWaoq4Nl.jpg</fanart>
@@ -454,8 +454,8 @@
    <item> 
 1   <title>[B][COLOR blue] Millennium 4 - A Garota na Teia de Aranha - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D3236C0588EE349AC8A7FFDCD26BAC50DAE78C8&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB94AF4434B8B29C39299CA1F7350640B8B38298&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D3236C0588EE349AC8A7FFDCD26BAC50DAE78C8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB94AF4434B8B29C39299CA1F7350640B8B38298$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/5e5UftiifMLjzmer70SdPIH2BJr.jpg</fanart>
@@ -488,9 +488,9 @@
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255E2CB8DB930E32C98D3FBEF871B68266E0F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05A9772001946ACECAA3A207DE2A3C48F09BA8F9&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74D4D13E9487A4FC8FAE343D4624AB12B21D8202&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255E2CB8DB930E32C98D3FBEF871B68266E0F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05A9772001946ACECAA3A207DE2A3C48F09BA8F9&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74D4D13E9487A4FC8FAE343D4624AB12B21D8202&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/kWt1OcPgwO1ssu57wgTKmq38JYw.jpg</fanart>
@@ -500,9 +500,9 @@
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva 2  - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66F0C1872E11CE32532B5517F0B477506EDAEF95&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B44545BA615144A67A7927B32590A4D5D52F3BA1&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D490AD9580BE8CDD80FBC9694AD1C8B3B648AD9F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66F0C1872E11CE32532B5517F0B477506EDAEF95&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B44545BA615144A67A7927B32590A4D5D52F3BA1&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D490AD9580BE8CDD80FBC9694AD1C8B3B648AD9F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/by9JcYSPwomuWbNHd5lmCWrtk22.jpg</fanart>
@@ -512,9 +512,9 @@
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva 3 - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9CC97766DAAF4B97FD8C73F21398AFA32DDF5DE&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.T&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADOV</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2851919320E68A58B8BE4BCF2F5E961E42B14A6&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C66698EBA46B8B821B72CD3522E9327F2FAF48A5&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9CC97766DAAF4B97FD8C73F21398AFA32DDF5DE&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.T&$nome=[COLOR lime]4K [/COLOR] - DUBLADOV</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2851919320E68A58B8BE4BCF2F5E961E42B14A6&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C66698EBA46B8B821B72CD3522E9327F2FAF48A5&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg</fanart>
@@ -524,9 +524,9 @@
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva: O Legado - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0C8DE3EB64B2F1FDD666F958F6E698D752C2165&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90746BCB99B23440BD50DAC33FA897FB8541684B&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC82C6B7D59536E9BB57E074DAD7FE381A332CBB&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&dn\$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0C8DE3EB64B2F1FDD666F958F6E698D752C2165&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90746BCB99B23440BD50DAC33FA897FB8541684B&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC82C6B7D59536E9BB57E074DAD7FE381A332CBB&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qj7MmSeEGR5nPGRo4eSY2MgXvv2.jpg</fanart>
@@ -720,7 +720,7 @@
 <item> 
 1   <title>[B][COLOR blue] Tolerância Zero  - [COLOR red](2015) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88e2dad7e4106f3e015ab074bb963ef756adc227&dn=LAPUMiA.Org%20-%20Toler%c3%a2ncia%20Zero%202015%20(1080p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OgMI3zID6ukfGSgpjKOrUUMerTpmod8T/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psnx0FmNwAzTwDmR3nRSq6yutby.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/9Wx4bnz2YNu2FodT3N5GJrdL6Yq.jpg</fanart>
@@ -731,7 +731,7 @@
 <item> 
 1   <title>[B][COLOR blue] Looper - Assassinos do Futuro  - [COLOR red](2012) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1711d8d809fc26442ac1878059cf5fb0bcccaba&dn=Looper+-+Assassinos+do+Futuro+%282012%29+1080p+Full+HD+Dual+Audio+Pt&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MnQ8BA0LdJntrgc0IZPT_BQIz1fIgx6u/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHwmrseX1OaSOEYbf8jHNzTPTFB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/lVTYM5m7ZDnEyhxcYrkxJaYqExh.jpg</fanart>
@@ -743,7 +743,7 @@
 <item> 
 1   <title>[B][COLOR blue] 16 Quadras- [COLOR red](2006) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2a3b76294e9d2ef8e521912158b83f527704e06&dn=16+Quadras+%282006%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ge2uS0gkS5xMj_ZjEbZhoJ3-J81zh0k5/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp4k8o0oYSD9iLEc6m2U9Bkq3pY.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nvcPLZWYBFw9N8jFCeVbywkc5KY.jpg</fanart>
@@ -754,7 +754,7 @@
  <item> 
 1   <title>[B][COLOR blue] O Protetor 2.Versão.Estendida- [COLOR red](2018) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:749EC07493DE8368F9FE06047AC280D38B81A996&dn=%7bWWW.BLUDV.TV%7d%20O%20Protetor%202%202018%20%284K%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sKOjX-UGbf1K_lr3W201fTSimOxRQsyl/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3arTw3WKvPAiaIq9gWORJjYFTC5.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg</fanart>
@@ -765,7 +765,7 @@
  <item> 
 1   <title>[B][COLOR blue] O Protetor - [COLOR red](2014) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B15E4FE416C1717F5CDFEA47FBCC07F6E384D23&dn=O.Protetor.2014.2160p.%20%284K%29.UHD.X265.Dual%20Audio.WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14hV8OcM0ca8ezgcoDAubabn9vqkJdEZk/view</link>
+
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/rtsbuxJyGyTS0nfc2Nq3aMzPZL8.jpg</fanart>
