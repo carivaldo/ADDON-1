@@ -1,6 +1,5 @@
 <item> 
 1   <title>[B][COLOR blue] X-Men: O Filme - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3FD427C17428115A45A7FC944023D85C0691325$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10495b6786691d9cdd22db1574f6aed2f13a0be7$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
@@ -628,7 +627,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Batman – TRILOGIA - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9E12910F835903F67D35BCF7F5B568A11B1D6CA</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg</thumbnail>
@@ -638,7 +636,7 @@
 
 <item>
 1   <title>[B][COLOR blue] Batman Begins - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
