@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] A Paixão de Cristo - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9C24A904ED79845E04A911B915F3BFE61AB2539$nome=[COLOR lime]1080P [/COLOR] - DUBLADO]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454B1C18B0ACB739BB0B1A5F05D3C20DFC6DCB63$nome=[COLOR lime]720P [/COLOR] - DUBLADO]</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/4840rkbpsiuow5ew155oVKcqJwj.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]As últimas 12 horas da vida de Jesus Cristo num retrato rigoroso e a que não escapa nenhum requinte de crueldade e sofrimento. Da Última Ceia à crucificação, um relato realista do sofrimento de Jesus e de Sua Mãe.[/COLOR][/B]</info>	
+</item>
+
 <item> 
 1   <title>[B][COLOR blue] A Hora do Rush  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
