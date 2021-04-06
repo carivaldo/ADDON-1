@@ -1,9 +1,7 @@
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] He-Man e Os Defensores do Universo  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] He-Man e Os Defensores do Universo  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/jVkQVxwrU7NyRUgounPt2RRFVTa.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/omwfYtYuz67f5cyYqh7CvfqkpO3.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -22,15 +20,9 @@ Feiticeira era na verdade a mãe da guerreira Teela, que foi entregue aos cuidad
 Entre os demais aliados da força do bem estavam: Stratos, conhecido pelas pessoas como o "Cinzento amigo voador de He-Man", Aríete, que possuía grande força em sua cabeça, podendo destruir facilmente obstáculos com seu capacete, além de Stratos, Multi-Faces, Mekaneck, Abelhão, Fisto e Granamir.
 
 Juntos eles precisam combater a vilania liderada pelo Esqueleto.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] He-Man e Os Defensores do Universo - [COLOR blue] [COLOR red](1983) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1    <maglink>magnet:?xt=urn:btih:0FED7ACD98B09BA5508BCE9D50EE99B550C26B45</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FED7ACD98B09BA5508BCE9D50EE99B550C26B45</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/omwfYtYuz67f5cyYqh7CvfqkpO3.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/jVkQVxwrU7NyRUgounPt2RRFVTa.jpg</fanart>
