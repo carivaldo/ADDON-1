@@ -1,5 +1,7 @@
-<item>
-<title>[COLOR blue]Os Cavaleiros do Zodíaco [/COLOR]</title> 
+
+<channel>
+channels>
+<nome>[COLOR blue]Os Cavaleiros do Zodíaco [/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20CAVALEIROS%20DO%20ZODIACO</externallink>
 <fanart>https://image.tmdb.org/t/p/original/afMyocyc9QHdksy5EAJW6Mm2rt4.jpg</fanart>
@@ -13,9 +15,9 @@
 
 
 
-
-<item>
-<title>[COLOR blue]Naruto[/COLOR]</title> 
+<channel>
+<channel>
+<nome>[COLOR blue]Naruto[/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaEX9f8ud7iF0G7EoyGxAyRNV1p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NATURO</externallink>
 <fanart>https://image.tmdb.org/t/p/original/y3XMIea7mwTzxt3NFFXi5YJKeFJ.jpg</fanart>
@@ -33,8 +35,9 @@
 
 
 
-<item> 
-<title>[COLOR blue]As Aventuras de Jackie Chan[/COLOR]</title> 
+<channel>
+<channel> 
+<nome>[COLOR blue]As Aventuras de Jackie Chan[/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr2QyAB8TQdMKqi19qOJV2sx1t5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/As%20Aventuras%20de%20Jackie%20Chan</externallink>
 <fanart>https://image.tmdb.org/t/p/original/46722efNEr177U8XYnuIMGQABzU.jpg</fanart>
@@ -52,8 +55,9 @@
 
 
 
-<item>
-<title>[COLOR blue]He-Man e Os Defensores do Universo[/COLOR]</title> 
+<channel>
+<channel>
+<nome>[COLOR blue]He-Man e Os Defensores do Universo[/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/omwfYtYuz67f5cyYqh7CvfqkpO3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/He-Man%20e%20Os%20Defensores%20do%20Universo</externallink>
 <fanart>https://image.tmdb.org/t/p/original/CK181mxEMf9iwQhvHd8DMgMFda.jpg</fanart>
@@ -87,8 +91,11 @@ Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
 
 
 
-<item>
-<title>[COLOR blue]ThunderCats[/COLOR]</title> 
+
+<channel>
+<channel>
+<nome>[COLOR blue]ThunderCats[/COLOR]</nome> 
+
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ThunderCats</externallink>
 <fanart>https://image.tmdb.org/t/p/original/rHHSBsitu1BV0E8HsvWbZ57OfCn.jpg</fanart>
@@ -106,8 +113,10 @@ Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
 
 
 
-<item>
-<title>[COLOR blue]Os Simpsons[/COLOR]</title> 
+
+<channel>
+<channel>
+<nome>[COLOR blue]Os Simpsons[/COLOR]</nome>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20SIMPSON</externallink>
 <fanart>https://image.tmdb.org/t/p/original/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
@@ -125,8 +134,9 @@ Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
 
 
 
-<item>
-<title>[COLOR blue]Liga da Justiça Sem Limites[/COLOR]</title> 
+<channel>
+<channel>
+<nome>[COLOR blue]Liga da Justiça Sem Limites[/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRRvCUREeqqnp3hHdqep83eQjdP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LIGA%20DA%20JUSTI%C3%87A</externallink>
 <fanart>https://image.tmdb.org/t/p/original/afn2H9NUFfhGR89o1ifuvSNKgYJ.jpg</fanart>
@@ -144,8 +154,9 @@ Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
 
 
 
-<item>
-<title>[COLOR blue] Dragon Ball Z[/COLOR]</title> 
+<channel>
+<channel>
+<nome>[COLOR blue] Dragon Ball Z[/COLOR]</nome> 
 <thumbnail>https://image.tmdb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Dragon%20Ball%20Z</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK6slcBGtDySbZAboYAfwb0WZ1D.jpg</fanart>
