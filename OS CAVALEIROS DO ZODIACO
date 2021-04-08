@@ -20,7 +20,7 @@
 
 ****************************************************************************************************************************
 <item>
-1 <name>[B][COLOR red]• [COLOR blue] Os Cavaleiros do Zodíaco - Saga do Torneio Galático  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+1 <title>[B][COLOR red]• [COLOR blue] Os Cavaleiros do Zodíaco - Saga do Torneio Galático  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/afMyocyc9QHdksy5EAJW6Mm2rt4.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
 1"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -41,7 +41,7 @@
 
 
 <item>
-<item>[B][COLOR red]• [COLOR blue] Os Cavaleiros do Zodíaco - Saga do Torneio Galático  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</item>
+<title>[B][COLOR red]• [COLOR blue] Os Cavaleiros do Zodíaco - Saga do Torneio Galático  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/afMyocyc9QHdksy5EAJW6Mm2rt4.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -119,12 +119,7 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/724kXHDFaSJw1WdYX2qi5XkYMLb.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Um grupo de guerreiros em armaduras mágicas juram defender a reencarnação da deusa Atena contra as forças malignas e levá-la de volta para casa.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Os Cavaleiros do Zodíaco - A Lenda dos Defensores de Atena - [COLOR blue] [COLOR red](1986) [COLOR firebrick] DESENHOS !!![/B][/COLOR]</title>
 1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19276CA0F80561C96608DE61C26EA707530373EA</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/724kXHDFaSJw1WdYX2qi5XkYMLb.jpg</thumbnail>
