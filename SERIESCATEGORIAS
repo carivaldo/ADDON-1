@@ -1,6 +1,24 @@
  
 
 
+
+channels>
+<channel>
+<name>[COLOR blue] House of Cards [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFzNptp0vSAL7jOqHAb6UM2nU3y.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/House%20of%20Cards</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg</fanart>
+<info>Um político inescrupuloso não mede esforços para conquistar o poder nos EUA neste drama vencedor do Emmy e do Globo de Ouro.<info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
 channels>
 <channel>
 <name>[COLOR blue] American Horror Story  [/COLOR]</name>   
