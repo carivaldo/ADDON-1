@@ -1,5 +1,22 @@
  
- 
+
+
+channels>
+<channel>
+<name>[COLOR blue] American Horror Story  [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mH17Vj0oKB7rYJEV0W1pSJKiNAu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/American%20Horror%20Story</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/98EzU0s1w5C7K5TGfemQIhqQTIO.jpg</fanart>
+<info>Uma antologia de terror, drama e muito sangue: a cada temporada há novas histórias, cenários e personagens perturbadores.<info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
  channels>
 <channel>
 <name>[COLOR blue] O Reino Perdido dos Piratas [/COLOR]</name>   
