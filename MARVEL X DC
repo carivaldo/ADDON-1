@@ -7,11 +7,10 @@
 1   <fanart>https://www.themoviedb.org/t/p/original/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.[/COLOR][/B]</info>	
   </item> 
-  <link>plugin://plugin.video.elementum/play?uri=&dn\$nome=RESOLUÇÃO 1080P</link>
+  
   
  <item> 
 1   <title>[B][COLOR blue] X-Men 2 - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF07D2237E6318A31A41FDF021FA05C98E909EFE$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d2a6ae104e18e84a7bcd718d58b7bd0b4d26a0$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg</thumbnail>
@@ -22,7 +21,6 @@
   
  <item> 
 1   <title>[B][COLOR blue] X-Men: O Confronto Final - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03C99D01F44EBB421ACD770A785B7381331E18C9$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae9cadc60cd57936f1503000af6d6f8f5a11004$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qdWxPZ1LWNJKSGTegI3q4RYhIHb.jpg</thumbnail>
@@ -33,7 +31,6 @@
   
 <item> 
 1   <title>[B][COLOR blue] X-Men Origens - Wolverine - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91be4bca8226e1305664c19d2a3a6bc16647b460</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -43,7 +40,6 @@
   
 <item> 
 1   <title>[B][COLOR blue] X-Men - Primeira Classe - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f20640c5c8578e45e251817ddd2a7ca31873857$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7d932014d77b5cfbf367312a63dc928e6c6dc98$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4cZWMQUCAYaQk5CzUI6zRLhcWI2.jpg</thumbnail>
@@ -54,7 +50,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Wolverine: Imortal - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6609ceb6277733579c7a37b64d143f9c6d27ee85</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -65,7 +60,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] X-Men: Dias de um Futuro Esquecido - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8417023f655741b223aaf552f731db6214762c04$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1D2534C8B0B4A593E03F0018D8CA3397D7335BE$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg</thumbnail>
@@ -76,7 +70,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] X-Men: Apocalipse - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7DA5276C2D4A3A19B718541F8F3A4E8DE3907E80$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D24520B1D979A7764BCDEE55C11E4964C68A4F7$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg</thumbnail>
@@ -87,7 +80,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Logan - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ED280685DAE37E866324E38A3FC4E5644492DE$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DAE85C871AB053058AB532AEC51A40001FBA93D$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E04AD75E541F9FCAEE88096A15384E479BA5DE4A$nome=RESOLUÇÃO 720P</link>
@@ -99,7 +91,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] X-Men: Fênix Negra  - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02d60b5e48ea4621c83e9ca59c199b9a2c29cecd$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E8D7E4DB72226E7FF7653C8DAE8408417AC0167$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77F7CC19DA0658CF557D38E64C50CDD9E88CBE5$nome=RESOLUÇÃO 1080P</link>
@@ -112,7 +103,6 @@
   
 <item>
 1   <title>[B][COLOR blue] Capitão América: O Primeiro Vingador - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98336E3D13510A3A930F648CCB7259307008ACD4$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0EBA52AB6EEE873BD0FEFFCD414078DCC6EED97$nome=RESOLUÇÃO 1080P</link>
@@ -125,7 +115,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Capitão América 2: O Soldado Invernal - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c0db398a1044ebc3fc47a87ee57ced1be4cb43e$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa9a4e4bc4a995ac649b8efa2387643f47d296fc$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0cf510e22d420ab8c9722fe8b16699f82ec4a05$nome=RESOLUÇÃO 720P</link>  
@@ -137,7 +126,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Capitão América: Guerra Civil  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0FC8BC85ED04701BAE02F37278E04423AC2E4FD$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17895FCFDE4CE0B063A30BB6EC06E92A556920CF$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA9989B71DCCC1EBA4626C3BB7E852E93830B448$nome=RESOLUÇÃO 720P</link>  
@@ -149,7 +137,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem de Ferro - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25917DD104E7B4704B27A83770139C6652A61FF1$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C8C439DE64E1C97FBEABB896C2EC3F907CFCCAEA$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF076B8A8D781DCF46C9B42990F3A6EE39A304CA$nome=RESOLUÇÃO 720P</link>
@@ -161,7 +148,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem de Ferro 2  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC5165E878DAA611BC8383DD41000EE13FD1A2BF$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CFCF41160E5B9427FF668B926C52612E4A6E1DB$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F7940E402727BB8A4969691E9D2C7C20A4A1CC1$nome=RESOLUÇÃO 720P</link>
@@ -173,7 +159,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem de Ferro 3 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7B44AB7C64D5DA7D0FF91B6F48DECD7F86FF33A$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C97A57AB8F0040B9B015887B4CFBB63A602A5F32$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5DD09712AC0F0B0E844CC191E97CD7A80BF4AB6$nome=RESOLUÇÃO 720P</link>
@@ -185,7 +170,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Thor - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8e7dfdee85160b4d28b0375c9b9b3ec9824ee5&dn\$nome=RESOLUÇÃO 1080P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yI6jOYR9xDpxXPKAO17YuIBfROd.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -195,7 +179,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Thor: O Mundo Sombrio - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D4109F38CFBEFA8FABAB750091F08C5DD4C18B3$nome=RESOLUÇÃO 4K<link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B5A77441385E0BBC2498DE6AA356D534A3E4BF2$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628B9921E369D94DC14B446FFCE136BB4B7BB811$nome=RESOLUÇÃO 720P</link>
@@ -207,7 +190,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Thor: Ragnarok - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85BDE684F53B390BEB7C0105DD1C3D43E80EFCC6$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9738CA13E26EE81007403EB1CDE2DA2577B27BDB$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E34645B59CBEB89C150289161059CC155AFFA32$nome=RESOLUÇÃO 720P</link>
@@ -219,7 +201,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Vingadores: The Avengers - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92D001E2AF389EA651CACDB6A2E225C6B22F3511$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1526dd829688f315c4db8241fe658055128fb1af$nome=RESOLUÇÃO 720P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d430c1bf03ccec2375e7950853dffabdf53c366b</link>
@@ -231,7 +212,6 @@
   
  <item> 
 1   <title>[B][COLOR blue] Vingadores: Era de Ultron - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927CB715CBE2109C5DC9A349139EF38B11DD481$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF516D9E30FA15C1384677014DCA96B1A592C122$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccmHe1heP8ztvynd1mFRE8FqjME.jpg</thumbnail>
@@ -242,7 +222,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Vingadores: Ultimato - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C108CC5A6802AA96F11D898225CD02AB9EDA65B0$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68AF364B594381C6FDF93A5A798DE74C3FC5E8E9$nome=RESOLUÇÃO 7200P</link>
@@ -254,7 +233,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Vingadores: Guerra Infinita - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD9430CA129BA62B75C42A1F6C34D1A4D1002D36$nome=RESOLUÇÃO 720P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22c0c86dd1630a2eae2f0feeee29568e8aa714b1$nome=RESOLUÇÃO 1080P</link>  
@@ -267,7 +245,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] HULK - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$nome=RESOLUÇÃO 720P</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
@@ -279,7 +256,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] O Incrível Hulk  - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01692F21A562407C3C6A3333F5D369BB8D06EF6F$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C35AE7BF3A6D932E2AD7E30162E176F364D48F88$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C69571713E214D5C749D4A18BCB6253A4B9AB40$nome=RESOLUÇÃO 720P</link>
@@ -291,7 +267,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FE3862BB88CEEC43F03008E3663BFB1319666D7$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD55BBD9BE57BCD52B57A5654EC97E4FA4873ECF$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg</thumbnail>
@@ -302,7 +277,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha 2 - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF5BBD590334D11C19FEDA8D15C424A02B73F388$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg</thumbnail>
@@ -313,7 +287,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg</thumbnail>
@@ -324,7 +297,6 @@
   
   <item>
 1   <title>[B][COLOR blue] O espetacular Homem Aranha - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86eda0dbb6e9b52838021ce854ab8397843e163$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6956d55618fe4750fe2a5b01e7b52b4e8579ae1$nome=RESOLUÇÃO 720P</link>
@@ -336,7 +308,6 @@
 
 <item>
 1   <title>[B][COLOR blue] O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c6$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9DD2AEEEFF2ECB64F69AEFEB6EB587D04990C87$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A09F63C5F4CE0A11B182274EE79C0D68ABA260B$nome=RESOLUÇÃO 720P</link>
@@ -348,7 +319,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Aranha: De Volta ao Lar - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d868e9bc1304d1b0bd2a0da31745c1b6e13691c5$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A87D6671E521B1302915D002CFA85D3B1764C8B7$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EF9496417246492AAAE95F8950AF5D9771DC1DF$nome=RESOLUÇÃO 720P</link>
@@ -360,7 +330,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha: Longe de Casa - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CED02A945F3EE4562605AC2D89E7E92C0DD1BD7A$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A40F4B5A7D3D6067A29C1F9C18892A8FC1BCCC7$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB84D75D6B7A186980FE573072D15FD399B20F65$nome=RESOLUÇÃO 720P</link>
@@ -372,7 +341,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Doutor Estranho - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ECF7532B77DA78C699414D6FF28855CA7197A0E$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:416076BB7B77E84DB4A8BF097AB60445D6949A68$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C978416628ACD45A6CD078DD40C0CF20B7C359AC$nome=RESOLUÇÃO 720P</link>
@@ -385,7 +353,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Formiga - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B051A41F8D19F72D5231B09DE791801E16E3D73E$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91285D960CCAFA338037284CCCCE818E7E7D1C9F$nome=RESOLUÇÃO 720P</link>
@@ -397,7 +364,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Formiga e a Vespa - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95652DAE27069B651AA9076ABAA77E72DEB3E07F$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219$nome=RESOLUÇÃO 720P</link>
@@ -409,7 +375,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Pantera Negra - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8C8F60CBF5E80F494A53BF7255EA7B754169377$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4515AD684A356350320DD9E1B8E1C20A87079927$nome=RESOLUÇÃO 720P</link>
@@ -421,7 +386,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Deadpool - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756$nome=RESOLUÇÃO 72</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D55E6F225BB1F3713DA1D2EA227BB475454E624$nome=RESOLUÇÃO 720P</link>
@@ -433,7 +397,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Deadpool 2  - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA$nome=RESOLUÇÃO 720P</link>
@@ -445,7 +408,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Venom - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8A22D765E65F46A580940A7D298C93D03FB38E$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAC25090D78F7AAEF9F04157470D6B8D84B0BE19$nome=RESOLUÇÃO 720P</link>
@@ -457,7 +419,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Capitã Marvel - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:948e47db7d44baaa63c740ba855ec8b8549b2da3$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14269ab8d40c2c4da66009cc33acb0c6fdf9074c$nome=RESOLUÇÃO 720P</link>
@@ -469,7 +430,7 @@
 
 <item> 
 1   <title>[B][COLOR blue]Guardiões da Galáxia - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <ttitle>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E682FE3A7327F7CC16E86A38AE6BA9734B5D43$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A35566E33EF5C8039AD405F67708A1EC075C4DD7$nome=RESOLUÇÃO 720P</link>
@@ -567,7 +528,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] O Homem de Aço - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejUdlHaAIBt5Za6H7nmnpAU0VOM.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -578,7 +538,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Batman vs Superman: A Origem da Justiça - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$nome=RESOLUÇÃO 4k</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B3F85B8FCAA58561969DE6950C1508DE0A37075$nome=RESOLUÇÃO 1080P</link> 
@@ -592,7 +551,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Liga da Justiça - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$nome=RESOLUÇÃO 4k</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$nome=RESOLUÇÃO 720P</link>  
@@ -605,7 +563,6 @@
 
    <item> 
 1   <title>[B][COLOR blue] Mulher-Maravilha 1984 - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VFV6KNWRD7ZJRACQTFL3SWKOC3PEPKLK</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -636,7 +593,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Batman Begins - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
