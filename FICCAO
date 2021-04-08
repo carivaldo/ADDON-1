@@ -1,4 +1,18 @@
 
+
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] O Dia em que a Terra Parou  - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed529adb21b5966b16c37aae9838a34f6a83983</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ytl9h45LogtEk2AvtdXz8GRorf.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/iejDBhNCQwvzp1IuTmOY9L2VZsK.jpg</fanart>
+1   <info>[B][COLOR red]SINOPSE:Helen Benson (Jennifer Connelly) é uma cientista que mantém contato com Klaatu (Keanu Reeves), um alienígena que veio à Terra para alertar sobre uma crise global. Ele deseja conversar com os líderes globais mas, por ser considerado hostil, passa a ser ameaçado pela humanidade.[/COLOR red]</info>
+  </item>
+
 <item> 
 1   <title>[B][COLOR blue] A Aparição - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
