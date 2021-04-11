@@ -1,3 +1,22 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <item> 
+1   <title>[B][COLOR blue] O Elo Perdido - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7BD37D78FEA1760A6D13E5A4CB5E254FBCCFD0</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dnWHyuheFECYFDW8jWAU6xHiSLl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/8fEu9v9NBs78DQbQYn6LjjsbnnO.jpg</fanart>
+1   <info>[B][COLOR red]SINOPSE:Rick Marshall (Will Farrell) consegue fazer com que sua experiência de espaço-tempo funcione, abrindo assim um vórtice que o manda a um universo alternativo, junto de sua assistente e um caipira. Nesse universo ele está rodeando de dinossauros e fantásticas criaturas.[/COLOR red]</info>
+  </item>
+ 
  <item> 
 1   <title>[B][COLOR blue] Mudança de Hábito - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
