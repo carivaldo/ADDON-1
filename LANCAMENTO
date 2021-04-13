@@ -1,3 +1,30 @@
+ 
+ 
+ 
+ 
+ 
+ <item> 
+1   <title>[B][COLOR blue] O Protocolo de Auschwitz - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9991b6193de0d2d6879bf9ed8e6a2aaf1c4300f</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uTvodu8Jqq8C5uiEXbsFmto4GJI.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wklo05ydCD2ZQ8J9o7qcwrFGsLA.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]A história real de Freddy e Walter - dois jovens judeus eslovacos, que foram deportados para Auschwitz em 1942. Em 10 de abril de 1944, após um planejamento meticuloso e com a ajuda e a resiliência de seus colegas internos, eles conseguiram escapar. Os dois homens são movidos pela esperança de que suas evidências possam salvar vidas. Feridos, eles voltam pelas montanhas para a Eslováquia. Com a ajuda de estranhos pelo caminho, eles finalmente conseguem cruzar a fronteira e encontrar a resistência e a Cruz Vermelha. Eles compilam um relatório detalhado sobre o genocídio sistemático no campo. No entanto, com a propaganda nazista e ligações internacionais ainda em vigor, seu relato parece ser muito angustiante para acreditar.[/COLOR][/B]</info>	
+</item>
+ 
+ <item> 
+1   <title>[B][COLOR blue] Esquadrão Trovão - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HU5GRPYUKKG2HFB4A6LTMTGXLPTJ5C45K</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Aej7rR73kpAKce6XXBLeqijAwPD.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7LMxx69b19jNKYPJFEk5o95BpZR.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Duas mulheres comuns adquirem super-poderes inesperadamente, e passam a fazer parte de um mundo novo de super-heróis.[/COLOR][/B]</info>	
+</item>
+ 
+
+ 
  <item> 
 1   <title>[B][COLOR blue] Pinóquio - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66c5bbf6582cead2c6ec7bdfd4f504f0bf75eef</link>
