@@ -1,6 +1,21 @@
 
 
 
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] A Liga Extraordinária - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947d85cf0174ab6216aec9e431fdb6261fb3c4f6$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/tsUlDhS8jeaK6x65ZrEtvrkPVx4.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O renomado aventureiro Allan Quatermain (Sean Connery) lidera uma liga de figuras lendárias contra o terror tecnológico que vem sendo imposto por um maníaco conhecido como O Fantasma. Esta liga conta com o explorador oceánico e inventor Capitão Nemo (Naseeruddin Shah), a vampira Mina Harker (Peta Wilson), um homem invisível chamado Rodney Skinner (Tony Curran), um agente do serviço secreto americano Tom Sawyer (Shane West), o imortal e invencível Dorian Gray (Stuart Townsend), e o perigoso Dr. Jekyll/Mr. Hyde (Jason Flemyng) com sua dupla personalidade. Richard Roxburgh (de "Moulin Rouge") interpreta M. o enigmático responsável pelo recrutamento da Liga. Juntos eles terão que superar suas diferenças e unir suas forças, para destruir as planos fantasmagóricos de seu oponente que quer acabar com o planeta.[/COLOR][/B]</info>	
+</item>
+
 <item> 
 1   <title>[B][COLOR blue] 47 Ronins - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80046a00d30994a618c2a0ac67fe60dbc39512f1$nome=[COLOR][B]1080P[/COLOR][/B]</link>
