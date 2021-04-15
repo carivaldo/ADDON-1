@@ -1,7 +1,15 @@
  
  
  
- 
+ <item> 
+1   <title>[B][COLOR blue] Godzilla vs. Kong - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9A48BD22893FF54A64E8E0E90A832C9A404EC05</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/r2Qpl9iFgUzNZTDaz66tHgwicaC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.[/COLOR][/B]</info>	
+</item>
  
  <item> 
 1   <title>[B][COLOR blue] O Protocolo de Auschwitz - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
