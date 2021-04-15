@@ -1,6 +1,14 @@
 
 
-
+<item> 
+1   <title>[B][COLOR blue] Tron: O Legado - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:230959c0f9c250d6d1da310b4f77dfc6ff5c35c8</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mynTfFRQlomVQ2pvAPRpK2a4sxC.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/xvvYUrARXJzOuAbU7Hig5hSF0kz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Kevin Flynn (Jeff Bridges) é um gênio da informática que, um dia, desapareceu sem deixar vestígios. Seu filho Sam (Owen Best), na época com sete anos, é criado pelos avós e a empresa de Flynn, a Encom, é gerenciada pelos demais acionistas. Já com 27 anos, Sam (Garrett Hedlund) não quer assumir o controle da empresa e prefere boicotá-la uma vez por ano. Um dia o braço direito de seu pai, Alan Bradley (Bruce Boxleitner), recebe um bipe, o que faz com que Sam vá até o local onde Kevin tinha uma série de consoles de videogame. Lá Sam encontra uma passagem secreta, que o leva a uma câmara onde está o último trabalho de seu pai. Sam o aciona e é levado a outro mundo, tecnológico, habitado por programas de computação.[/COLOR][/B]</info>	
+</item>
 
 
 
