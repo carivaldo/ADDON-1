@@ -2,6 +2,48 @@
 
 
 <item> 
+1   <title>[B][COLOR blue] Tango & Cash - Os Vingadores  - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e275065a950dd65f1f85373a4805aecbf386572</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/oQBUWgpM4PXc3DYUMehRMyyHueL.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Dois policias rivais de Los Angeles são obrigados a se unir quando um chefão das drogas os envolve num crime que não cometeram. Eles acabam presos e a única opção é escapar para trazer o verdadeiro culpado à justiça.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Os Aventureiros do Bairro Proibido - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6D9075F818BF269348842D36D853E95B8AA361C</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjziUc5HK1emyez9lBGHre3jD4i.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/7LK2053iOtiat3MeWM3S4MZ2mXK.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Caminhoneiro aceita levar amigo chinês ao aeroporto para buscar a noiva, sem imaginar que esse é o começo de uma batalha sobrenatural entre o bem e o mal. Os olhos cor de esmeralda da noiva do amigo atraem um feiticeiro imortal e seus asseclas[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] O Soldado do Futuro - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72CAD1C04D63185D2DD33BC02679B940FEEE316F</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ZWFvwpnOMcZBtRCjHaT5ozhRKV.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/ifA9ePihTylXef2EadLLrNNDbKE.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]No futuro, as guerras intergalácticas são lutadas por seres meio humanos e meio robôs. Mas o veterano sargento Todd (Kurt Russell) insurge-se contra a ditadura das máquinas e decide enfrentá-las, para proteger um grupo de humanos que vive refugiado num planeta que serve como depósito de lixo de tecnologias ultrapassadas.[/COLOR][/B]</info>	
+</item>
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Poseidon - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA82DB683476C80A210E30A8B4A19EDA8B22EB9E</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCx2Ead8KoZhHofsAAr7tyrjfDo.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/qMPqiTovXVvyLr8GQJkugaD2Imt.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma onda gigantesca faz com que um luxuoso transatlântico, chamado Poseidon, tombe e fique de cabeça para baixo em alto mar. Poucos são os sobreviventes, que precisam se unir. O capitão Michael Bradford (Andre Braugher) sugere que todos aguardem por socorro no local em que estão, mas John Dylan (Josh Lucas), um jogador profissional, prefere buscar um lugar que lhe dê maior segurança. A atitude de Dylan atrai outros sobreviventes, que decidem segui-lo. Entre eles está Robert Ramsey (Kurt Russell), que está desesperado por não conseguir encontrar sua filha, Jennifer (Emmy Rossum), e o noivo dela, Christian (Mike Vogel). Também se juntam a eles Maggie James (Jacinda Barrett) e seu filho Conor (Jimmy Bennett), a passageira clandestina Elena Gonzalez (Mia Maestro) e Richard Nelson (Richard Dreyfuss), um homem que embarcou no navio em dúvida se queria viver. Desperados em encontrar uma saída, o grupo se embrenha no aço retorcido enquanto o navio cada vez mais vai se enchendo de água.[/COLOR][/B]</info>	
+</item>
+
+<item> 
 1   <title>[B][COLOR blue] Pompeia - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f23e509db962d06b03d27deac4d2912097df29e</link>
@@ -1241,14 +1283,6 @@
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um piloto (John Travolta) da Força Aérea ejeta seu companheiro (Christian Slater) e rouba duas armas nucleares com o intuito de devolvê-la ao governo dos Estados Unidos mediante um resgate de 250 milhões de dólares. Mas seu co-piloto e uma guarda florestal (Samantha Mathis) fazem de tudo para frustrar os planos dele e dos seus cúmplices.[/COLOR][/B]</info>	
   </item>
 
-<item> 
-1   <title>[B][COLOR blue] 47 Ronins - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80046a00d30994a618c2a0ac67fe60dbc39512f1&dn=47.Ronin.2013.BluRay.1080p.x264.DTS-HD.MA.5.1-HDW-DUAL-Smeagol&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/1B51d6Ot8erxhEkE7OZXkQZO2f7.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Kai (Keanu Reeves) é um mestiço que vive em Ako desde quando era garoto, sempre sob a proteção do lorde Asano (Min Tanaka). Entretanto, por mais que habite o local há muitos anos, ele nunca foi aceito por Oishi (Hiroyuki Sanada), o chefe dos samurais. Um dia, o shogun Tsunayoshi (Cary-Hiroyuki Tagawa) visita Ako e leva consigo o lorde Kira (Tadanobu Asano), que possui um pacto secreto com uma feiticeira (Rinko Kinkuchi). Juntos, eles tramam contra Asano e fazem com Oishi caia em desgraça. Um ano depois, Mika (Ko Shibasaki), a filha de Asano, está de casamento marcado com Kira. É o suficiente para que Oishi procure a ajuda de Kai, que sempre nutriu um forte sentimento por ela.[/COLOR][/B]</info>	
-  </item>
 
 <item> 
 1   <title>[B][COLOR blue] O Mestre das Armas - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
