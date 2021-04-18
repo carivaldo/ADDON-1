@@ -1,14 +1,14 @@
  
  
  
- <item> 
-1   <title>[B][COLOR blue] Godzilla vs. Kong - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+<item> 
+1   <title>[B][COLOR blue] Uma Sombra na Nuvem - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9A48BD22893FF54A64E8E0E90A832C9A404EC05</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg</thumbnail>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1e52f5ac3739f7680e64c33f4b2d218ea95a78</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/r2Qpl9iFgUzNZTDaz66tHgwicaC.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.[/COLOR][/B]</info>	
+1   <fanart>https://www.themoviedb.org/t/p/original/eCzgK2kMLBMgRCPDB9MthT4aw14.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma piloto embarca em uma fortaleza voadora B-17 que transporta itens secretos. Enquanto tenta lidar com o machismo da equipe formada inteiramente por homens, a militar começa a perceber que algo estranho está acontecendo na aeronave. Além de uma emboscada dos japoneses, o esquadrão militar também tem que combater um inimigo misterioso presente dentro do próprio avião.[/COLOR][/B]</info>	
 </item>
  
  <item> 
@@ -1332,16 +1332,7 @@
 <info>Ladrões tentam um assalto maciço contra o Tesouro dos EUA quando um furacão de categoria 5 se aproxima de uma de suas instalações da Casa da Moeda.</info>
 </item>
 
-<item>
-<title>[B][COLOR blue]Kong: Ilha da Caveira - [COLOR red](2017)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910E19CA3D780A56AEC757A38A129D3F6F8631&dn=Kong%20-%20A%20Ilha%20da%20Caveira%202017%20%284K%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>  
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg</fanart>
-<info>Explore a casa misteriosa e perigosa do rei dos macacos enquanto uma equipe de exploradores se aventura no fundo da ilha traiçoeira e primordial.</info>
-</item>
 
- 
-  
 
 <item>
 <title>[B][COLOR blue] planeta dos Macacos origem - [COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
