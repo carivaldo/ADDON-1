@@ -5,6 +5,92 @@
 
 
 
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Kong - A Ilha da Caveira - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC0E690AC01CDACEAF855C0CF2FEF1275C3E67A6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910E19CA3D780A56AEC757A38A129D3F6F8631$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5883CBE2571AF943B752B49BD781F14638FF99B7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/nXty6BXuGWZeQfgyL6w2rN7JJSe.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doenças. Além de resgatar o irmão, o homem irá enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] King Kong - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E48C50B11EE7231B801040864E4F2829ECEF548$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>                        
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e107915299d9fcb298f07d983d0b3ae859693db$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBtlVlECMW98tz3a3O1C2s1vric.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/14xx5Tf58mD8FRJ1B3BspiLiRxz.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenco e contrata a tripulação de um navio cargueiro para viajar até a misteriosa Ilha da Caveira, onde encontram Kong, um gorila gigante, além de outros animais misteriosos.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] King Kong  - [COLOR red]ADDON BXL [COLOR red](1976) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/13j15BSMPLbua8EFWqrbxH7yGt3.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/ikPeXD1KqGgBn06ckqxdrjOikUU.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Em Surabaya, Indonésia, parte uma navio da companhia Petrox, que tem como objetivo procurar novos lençóis petrolíferos. No meio da viagem um fotógrafo clandestino avista um bote e nele estava Dwan (Jessica Lange), uma bela mulher que tinha sido a única sobrevivente de um naufrágio. Ao chegarem a uma ilha desconhecida os tripulantes se deparam com uma cerimônia tribal, na qual ofereciam uma jovem da aldeia e o feiticeiro caracterizado como um macaco representava o "noivo". Mas quando vêem Dwan propõem trocar seis mulheres por ela e, como nada conseguem de imediato, os nativos esperam anoitecer e a seqüestram, dando-a em sacrifício para um gigantesco gorila. Inicialmente ela fica apavorada, mas logo se convence de que o gigantesco símio não quer lhe fazer mal. Na verdade ele gradativamente vai se mostrando cada vez mais amistoso e, por incrível que pareça, tendo com ela um comportamento bem gentil. Paralelamente, o petróleo encontrado precisa ser "cozinhado" pela mãe natureza por 10 mil anos. Assim o chefe do grupo, para compensar o fracasso, captura o monstruoso macaco objetivando arrecadar uma fabulosa quantia exibindo-o pelo mundo. Mas após ter sido preso o gorila se mostra cada vez mais agressivo e, em Nova York, algo o faz lembrar da ilha e ele escapa provocando pânico na cidade.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Godzilla vs. Kong  - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9A48BD22893FF54A64E8E0E90A832C9A404EC05</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/r2Qpl9iFgUzNZTDaz66tHgwicaC.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Numa era onde monstros caminham pela Terra, a luta da humanidade por sua sobrevivência põe Godzilla e Kong em uma colisão colossal que trará duas das mais poderosas forças da natureza, batalhando uma contra outra. Enquanto a Monarch embarca numa periculosa missão em território inexplorado para desvendar as origens dos Titãs, uma conspiração humana ameaça extinguir todas as criaturas, boas ou ruins, da face do planeta para sempre.[/COLOR][/B]</info>	
+</item>
+
+
+
+<item> 
+1   <title>[B][COLOR blue] Godzilla II: Rei dos Monstros - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCF0530FED67E55220E2287DE3D12126096235D6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241C0F27F2EADEC5A56C98310D91AEB182FC4B$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a9fdc10ca4e3e6268e14a8366cac8f5a657ac79$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b8dfaef2ec6b896662de3fa708d2930c6ea5cbe$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/uovH5k4BAEPqXqxgwVrTtqH169g.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas superespécies disputam a supremacia, deixando a própria existência da humanidade em risco.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Godzilla - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b9d889e57de8995e702a9dd1ff554fe4a6d7b2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cc7aff0f4aeadee2c094bb37fc8a47688f212a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/wAKwclaXUIKves887eyPDrGoA7L.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Joe Brody (Bryan Cranston) criou o filho sozinho após a morte da esposa (Juliette Binoche) em um acidente na usina nuclear em que ambos trabalhavam, no Japão. Ele nunca aceitou a catástrofe e quinze anos depois continua remoendo o acontecido, tentando encontrar alguma explicação. Ford Brody (Aaron Taylor-Johnson), agora adulto, é soldado do exército americano e precisa lutar desesperadamente para salvar a população mundial e em especial sua família do gigantesco, inabalável e incrivelmente assustador monstro Godzilla.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] Godzilla  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668cb682a79d764790c330c9d293dea499057e23O</link>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVrETVeb80fg7KOZF3I0cQUI2no.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/qklnimC42e7EYv8Leu7zm9KE9Kh.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Uma enorme criatura, produto de uma explosão nuclear, dirige-se à ilha de Manhattan, provocando uma destruição profunda e assombrosa. Um cientista, um repórter de TV e um corretor de seguros francês unem suas forças com o exército dos Estados Unidos para desvendar o mistério que está por trás da impressionante criatura.[/COLOR][/B]</info>	
+</item>
+  
+
+
 <item> 
 1   <title>[B][COLOR blue] A Liga Extraordinária - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
