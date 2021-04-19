@@ -11,10 +11,10 @@
 <item> 
 1   <title>[B][COLOR blue] Kong - A Ilha da Caveira - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC0E690AC01CDACEAF855C0CF2FEF1275C3E67A6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910E19CA3D780A56AEC757A38A129D3F6F8631$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5883CBE2571AF943B752B49BD781F14638FF99B7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC0E690AC01CDACEAF855C0CF2FEF1275C3E67A6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910E19CA3D780A56AEC757A38A129D3F6F8631$nome=[COLOR lime]  4K  [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5883CBE2571AF943B752B49BD781F14638FF99B7$nome=[COLOR lime]1080P [/COLOR]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome=[COLOR lime]720P  [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/nXty6BXuGWZeQfgyL6w2rN7JJSe.jpg</fanart>
@@ -24,8 +24,8 @@
 <item> 
 1   <title>[B][COLOR blue] King Kong - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E48C50B11EE7231B801040864E4F2829ECEF548$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>                        
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e107915299d9fcb298f07d983d0b3ae859693db$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E48C50B11EE7231B801040864E4F2829ECEF548$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR]</link>                        
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e107915299d9fcb298f07d983d0b3ae859693db$nome=[COLOR lime]  4K  [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBtlVlECMW98tz3a3O1C2s1vric.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/14xx5Tf58mD8FRJ1B3BspiLiRxz.jpg</fanart>
@@ -56,11 +56,11 @@
 
 <item> 
 1   <title>[B][COLOR blue] Godzilla II: Rei dos Monstros - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCF0530FED67E55220E2287DE3D12126096235D6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241C0F27F2EADEC5A56C98310D91AEB182FC4B$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a9fdc10ca4e3e6268e14a8366cac8f5a657ac79$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b8dfaef2ec6b896662de3fa708d2930c6ea5cbe$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>                                                                                                                    
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCF0530FED67E55220E2287DE3D12126096235D6$name=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241C0F27F2EADEC5A56C98310D91AEB182FC4B$nome=[COLOR lime]  4K  [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a9fdc10ca4e3e6268e14a8366cac8f5a657ac79$nome=[COLOR lime]1080P [/COLOR]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b8dfaef2ec6b896662de3fa708d2930c6ea5cbe$nome=[COLOR lime]720P [/COLOR]</link>  
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/uovH5k4BAEPqXqxgwVrTtqH169g.jpg</fanart>
@@ -70,8 +70,8 @@
 <item> 
 1   <title>[B][COLOR blue] Godzilla - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b9d889e57de8995e702a9dd1ff554fe4a6d7b2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cc7aff0f4aeadee2c094bb37fc8a47688f212a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b9d889e57de8995e702a9dd1ff554fe4a6d7b2$nome=[COLOR lime]1080P [/COLOR]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cc7aff0f4aeadee2c094bb37fc8a47688f212a$nome=[COLOR lime]720P  [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/wAKwclaXUIKves887eyPDrGoA7L.jpg</fanart>
@@ -94,8 +94,8 @@
 <item> 
 1   <title>[B][COLOR blue] A Liga Extraordinária - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947d85cf0174ab6216aec9e431fdb6261fb3c4f6$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b36d6238fa1d45984f7d06bce89af7e59cf4e35$nome=[COLOR lime]1080P [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947d85cf0174ab6216aec9e431fdb6261fb3c4f6$nome=[COLOR lime]720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/tsUlDhS8jeaK6x65ZrEtvrkPVx4.jpg</fanart>
