@@ -1,5 +1,22 @@
 
 
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] O Destino de Júpiter - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66771BD745DFAF6E0EC861D37F30C7E91652D9EF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E4ADD1723D951AE2448F5ED0854E0C44F703D2B$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTj7ttPGiStGqin4ew4sMOXWfZO.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/aKnNFFgp9R2zwHKQCcQePfTgFPs.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Jupiter Jones é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos, país onde vive após deixar a Rússia. Um dia, ela recebe a visita de Caine, um ex-militar alterado geneticamente que tem por missão protegê-la a todo custo e levá-la para assumir seu lugar de direito.[/COLOR][/B]</info>	
+</item>
+
+
+
 <item> 
 1   <title>[B][COLOR blue] Tron: O Legado - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
@@ -221,7 +238,6 @@
   
      <item> 
 1   <title>[B][COLOR blue] Transformers 2 - A Vingança dos Derrotados - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1DE73A5059C091BC20AE7D8187FB17A14FD4AAD</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AaiftqKuLJQu0cUrfpiPanR6l.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -292,7 +308,6 @@
 
    <item> 
 1   <title>[B][COLOR blue] O Vingador do Futuro - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:990722ff03320983172a38e529803a85197ad7fc</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -302,7 +317,6 @@
   
      <item> 
 1   <title>[B][COLOR blue] O Vingador do Futuro - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:317e5f0a37f6647f3cc002f23b13cc1beb37986d</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7SpzrOBAJPbGoqp6sOaowbTnsn.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
