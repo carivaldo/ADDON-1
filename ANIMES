@@ -1,6 +1,6 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR blue]NARUTO[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue]NARUTO[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jlPIl3283I4lN8A2gOxNDT34F4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARUTO%202001</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ldwWnaWoW8ziEFflimoraZouyvB.jpg</fanart>
@@ -12,12 +12,11 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
-<item>
-<name>[COLOR blue]Os Cavaleiros do Zodíaco[/COLOR]</title> 
+
+<channels>
+<channel>
+<name>[COLOR blue]Os Cavaleiros do Zodíaco[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20CAVALEIROS%20DO%20ZODIACOS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/exu0EdDWPfvO9XHERf2zaAluvbZ.jpg</fanart>
