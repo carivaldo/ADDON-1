@@ -5,15 +5,7 @@
 
 
 
-<item> 
-1   <title>[B][COLOR blue] Anjos da Vida: Mais Bravos que o Mar - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/sSVrTfAjQzNjJMlCdo4eKTV3h8i.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ben Randall (Kevin Costner) é um dos nadadores mais conhecidos da Guarda Costeira norte-americana. Atuando nos gelados e pavorosos mares do Alasca, já salvou centenas de vidas. No entanto, ao passar por uma trágica ação de resgate, tem seu trabalho prejudicado por causa do trauma psicológico. Por isso, é enviado ao Estado de Louisiana para treinar um grupo de jovens candidatos a nadadores da Guarda Costeira. É lá que o jovem Jake Fischer (Ashton Kutcher), que também apresenta um passado repleto de traumas, vai para encontrar um lugar em sua vida. Campeão de natação, logo bate de frente com Randall que, com seus métodos de ensino pouco ortodoxos, cria uma dura rotina para o grupo de jovens.[/COLOR][/B]</info>	
-</item> 
+
 
 <item> 
 1   <title>[B][COLOR blue] O Poderoso Chefão 1, 2 E 3 TRILOGIA - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
@@ -113,6 +105,16 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 1   <fanart>https://www.themoviedb.org/t/p/original/za2MCwq5Trnwa2t5yXB4PvTjLtx.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]John Dillinger (Johnny Depp) era um criminoso audacioso e violento, mas que atraía a opinião pública ao seu favor, principalmente, porque dizia retirar das instituições financeiras o dinheiro que elas roubavam do cidadão. Seus assaltos a bancos e fugas rápidas enlouqueciam a polícia que não tinha condições de enfrentá-lo. Assim, prender o assaltante tornou-se uma obsessão do então burocrata J. Edgar Hoover (Billy Crudup), que disposto a tudo para fortalecer o famoso F.B.I., coloca Dillinger como o inimigo público número um. Para ajudar em sua missão, Hoover contrata o policial Melvin Purvis (Christian Bale) e o deixa igualmente obcecado pela captura do bandido, que se apaixona por Billie Frechetti (Marion Cotillard) e acaba complicando a sua vida.[/COLOR][/B]</info>	
 </item>
+
+<item> 
+1   <title>[B][COLOR blue] Anjos da Vida: Mais Bravos que o Mar - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/sSVrTfAjQzNjJMlCdo4eKTV3h8i.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Ben Randall (Kevin Costner) é um dos nadadores mais conhecidos da Guarda Costeira norte-americana. Atuando nos gelados e pavorosos mares do Alasca, já salvou centenas de vidas. No entanto, ao passar por uma trágica ação de resgate, tem seu trabalho prejudicado por causa do trauma psicológico. Por isso, é enviado ao Estado de Louisiana para treinar um grupo de jovens candidatos a nadadores da Guarda Costeira. É lá que o jovem Jake Fischer (Ashton Kutcher), que também apresenta um passado repleto de traumas, vai para encontrar um lugar em sua vida. Campeão de natação, logo bate de frente com Randall que, com seus métodos de ensino pouco ortodoxos, cria uma dura rotina para o grupo de jovens.[/COLOR][/B]</info>	
+</item> 
 
 <item> 
 1   <title>[B][COLOR blue] Fúria Silenciosa - [COLOR red]ADDON BXL [COLOR red](1982) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
