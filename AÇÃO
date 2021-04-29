@@ -1,5 +1,46 @@
 
+<item> 
+1   <title>[B][COLOR blue] Anônimo Shakespeare - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:412DC939FD5752035AF22D7A8D090D0622569CA4</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k3tyiHtv38mk31S99Fk2PSkW3Bo.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/u8BhzGYuC0NJrFWrTHebFyytGR9.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Cultuado como um dos maiores dramaturgos da Era Elisabetana, a vida de William Shakespeare tem sido objeto de estudos de acadêmicos há anos. Uma popular teoria especula que as peças teatrais atribuídas ao dramaturgo não foram escritas por ele.[/COLOR][/B]</info>	
+</item>
 
+<item> 
+1   <title>[B][COLOR blue] Joana D'Arc - [COLOR red]ADDON BXL [COLOR red](1999) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:411BE6F9C62788A378EAA47B283D87F6D0756D74$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B77744CF7EB5C6934BCF3806E71B4B911CD4EE2$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rIvZPfts3aD4b5nROAysnOtSzlX.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O ano é 1429, a França está em convulsão política e religiosa, com os membros da família real em luta pelo domínio do trono. Mas uma camponesa de uma aldeia remota dá ao seu país o milagre que ele estava procurando. Milla Jovovich é Joana D Arc, uma jovem que inspira e lidera seus conterrâneos até sua execução aos 19 anos. Criada em uma família religiosa, Joana testemunha o estupro e morte da irmã pelas mãos de um exército invasor. Anos depois, com a guerra ainda em curso, Joana vai até seu rei levando uma mensagem que ela atribui a Deus: dar-lhe um exército e, em nome de Deus, ela reclamará seu reino de volta. Mas seria uma mensagem real ou delírio de uma garota traumatizada? Este emocionante épico de Luc Besson explora a vida de Joana D Arc, suas impressionantes vitórias, o relacionamento com Deus e a trágica morte. Co-estrelando John Malkovich e os vencedores do Oscar Dustin Hoffman e Faye Dunaway, Joana D Arc é uma visão moderna de uma santa medieval que cativa as pessoas até hoje.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] V de Vingança - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2959f47d3e5329887af52441ec37fa532b7e6e5</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/dL2JVFryU4bnxaBfZe1IeW7DQDd.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] Na paisagem futurista de uma Inglaterra totalitária, V de Vingança conta a história de uma pacata jovem chamada Evey (NATALIE PORTMAN), que é resgatada de uma situação de vida e morte por um homem mascarado, conhecido apenas como “V”. Incomparavelmente carismático e extremamente habilidoso na arte do combate e destruição, V inicia uma revolução quando convoca seus compatriotas a erguerem-se contra a tirania e opressão. Enquanto Evey descobre a verdade sobre o misterioso passado de V, ela também descobre a verdade sobre si mesma – e emerge como uma improvável aliada na culminação do plano de V, para trazer liberdade e justiça de volta à sociedade repleta de crueldade e corrupção.[/COLOR][/B]</info>	
+</item>
+
+<item> 
+1   <title>[B][COLOR blue] Assassin's Creed - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53230B98A3FF668FBF8CCE4DFE72CC8905673A97$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B62AD147774272D8A6E2DE5B733DB1287CEAAD8$nome=[COLOR lime]1080P FULLHD [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CA31DEA53F772F66E39CBCD1D75ED5FCED45829$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>  
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Cxn5MxH3dDBXauIq6XusR1ZUKJ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/x6vSFazTxDaJTTGqedjlsTXcTpV.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+</item>
 
 <item> 
 1   <title>[B][COLOR blue] Tango & Cash - Os Vingadores  - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
