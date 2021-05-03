@@ -1,7 +1,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] True Detective [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGnuYyAGbn4EKxIj61JYIlNJmim.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/True%20Detective</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/8x4umpJVPgTplAmEIojVVYWAhum.jpg</fanart>
+<info>Durante dezessete anos, as vidas de dois detetives, Rust Cohle e Martin Hart, entrelaçam-se para dar conta da caçada a um serial killer no estado de Louisiana.<info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 channels>
