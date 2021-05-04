@@ -89,28 +89,28 @@
 ***************************************************************************************************************************************
 	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Seja minha melhor metade[COLOR red] ADDON BXL [COLOR firebrick] Séries !!![/B][/COLOR]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4b360dc4f66b105bd6db3ab7afffa55fc47c7d1$=nome=[COLOR lime] Chicago  MED S04E01 720P[/COLOR]</link>
-2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:579833a29df5b785d516d2468c8582a2467565f5$=nome=[COLOR lime] Chicago  MED S04E02 720P[/COLOR]</link>
-3	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55933b97aca24690d78792dc22a78464efeaac90$=nome=[COLOR lime] Chicago  MED S04E03 720P[/COLOR]</link>
-4	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e7169a2edae2fd716ae489dfb22068f83a76fdb$=nome=[COLOR lime] Chicago  MED S04E04 720P[/COLOR]</link>
-5	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca39f92de673494983e34a8f0680f9e1ebc14f5c$=nome=[COLOR lime] Chicago  MED S04E05 720P[/COLOR]</link>
-6	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37ce768ee0bb74f51566b71fa36dacbf827a84b9$=nome=[COLOR lime] Chicago  MED S04E06 720P[/COLOR]</link>
-7	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:234b31d45317806b4ae71b4c311d4b3acd67bc1a$=nome=[COLOR lime] Chicago  MED S04E07 720P[/COLOR]</link>
-8	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77601ee44d17bfc1dee691e2895caa832909425c$=nome=[COLOR lime] Chicago  MED S04E08 720P[/COLOR]</link>
-9	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19eb9963f9475326323d958975f75e643aad3c8c$=nome=[COLOR lime] Chicago  MED S04E09 720P[/COLOR]</link>
-10	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f133a9bda5bac67cbf42a3a93d682f41e53a9400$=nome=[COLOR lime] Chicago  MED S04E10 720P[/COLOR]</link>
-11	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f8a387d50c030e3bf76a299e4e74aa1a88a2af1$=nome=[COLOR lime] Chicago  MED S04E11 720P[/COLOR]</link>
-12	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a66b202969ab227324ba1406906846498c62854$=nome=[COLOR lime] Chicago  MED S04E12 720P[/COLOR]</link>
-13	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec843b073ec089a862ef91c8d16dda0ac32dca3$=nome=[COLOR lime] Chicago  MED S04E13 720P[/COLOR]</link>
-14	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:208cd950f3ef4a83e4ffa1e9ca6a68930ac52fe7$=nome=[COLOR lime] Chicago  MED S04E14 720P[/COLOR]</link>
-15	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b4bc590647ba4fd7b02bc7233c974489c7d6c1f$=nome=[COLOR lime] Chicago  MED S04E15 720P[/COLOR]</link>
-16	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ffbf4e39b37d18b83cbb51e0ecc2c1d6922aeff$=nome=[COLOR lime] Chicago  MED S04E16 720P[/COLOR]</link>
-17	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17bbb7c4d7baf0fbaae62265d29f81c1321990d4$=nome=[COLOR lime] Chicago  MED S04E17 720P[/COLOR]</link>
-18	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52dc96cd14bcbc8f7739537469f72306136dab50$=nome=[COLOR lime] Chicago  MED S04E18 720P[/COLOR]</link>
-19	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bbba056fadd56f9a3948b175e91027628ebc0cb$=nome=[COLOR lime] Chicago  MED S04E19 720P[/COLOR]</link>
-20	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4c95b6aa1430ec3a99587299c0cf55be18f9b68$=nome=[COLOR lime] Chicago  MED S04E20 720P[/COLOR]</link>
-21	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda20e90e30108be600f8f61504f90eaea31011f$=nome=[COLOR lime] Chicago  MED S04E21 720P[/COLOR]</link>
-22	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4571144d5b5f9340ba977d2c71bbb36eac044ca7$=nome=[COLOR lime] Chicago  MED S04E22 720P[/COLOR]</link>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4b360dc4f66b105bd6db3ab7afffa55fc47c7d1$nome=[COLOR lime] Chicago  MED S04E01 720P[/COLOR]</link>
+2	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:579833a29df5b785d516d2468c8582a2467565f5$nome=[COLOR lime] Chicago  MED S04E02 720P[/COLOR]</link>
+3	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55933b97aca24690d78792dc22a78464efeaac90$nome=[COLOR lime] Chicago  MED S04E03 720P[/COLOR]</link>
+4	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e7169a2edae2fd716ae489dfb22068f83a76fdb$nome=[COLOR lime] Chicago  MED S04E04 720P[/COLOR]</link>
+5	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca39f92de673494983e34a8f0680f9e1ebc14f5c$nome=[COLOR lime] Chicago  MED S04E05 720P[/COLOR]</link>
+6	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37ce768ee0bb74f51566b71fa36dacbf827a84b9$nome=[COLOR lime] Chicago  MED S04E06 720P[/COLOR]</link>
+7	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:234b31d45317806b4ae71b4c311d4b3acd67bc1a$nome=[COLOR lime] Chicago  MED S04E07 720P[/COLOR]</link>
+8	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77601ee44d17bfc1dee691e2895caa832909425c$nome=[COLOR lime] Chicago  MED S04E08 720P[/COLOR]</link>
+9	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19eb9963f9475326323d958975f75e643aad3c8c$nome=[COLOR lime] Chicago  MED S04E09 720P[/COLOR]</link>
+10	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f133a9bda5bac67cbf42a3a93d682f41e53a9400$nome=[COLOR lime] Chicago  MED S04E10 720P[/COLOR]</link>
+11	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f8a387d50c030e3bf76a299e4e74aa1a88a2af1$nome=[COLOR lime] Chicago  MED S04E11 720P[/COLOR]</link>
+12	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a66b202969ab227324ba1406906846498c62854$nome=[COLOR lime] Chicago  MED S04E12 720P[/COLOR]</link>
+13	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec843b073ec089a862ef91c8d16dda0ac32dca3$nome=[COLOR lime] Chicago  MED S04E13 720P[/COLOR]</link>
+14	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:208cd950f3ef4a83e4ffa1e9ca6a68930ac52fe7$nome=[COLOR lime] Chicago  MED S04E14 720P[/COLOR]</link>
+15	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b4bc590647ba4fd7b02bc7233c974489c7d6c1f$nome=[COLOR lime] Chicago  MED S04E15 720P[/COLOR]</link>
+16	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ffbf4e39b37d18b83cbb51e0ecc2c1d6922aeff$nome=[COLOR lime] Chicago  MED S04E16 720P[/COLOR]</link>
+17	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17bbb7c4d7baf0fbaae62265d29f81c1321990d4$nome=[COLOR lime] Chicago  MED S04E17 720P[/COLOR]</link>
+18	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52dc96cd14bcbc8f7739537469f72306136dab50$nome=[COLOR lime] Chicago  MED S04E18 720P[/COLOR]</link>
+19	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bbba056fadd56f9a3948b175e91027628ebc0cb$nome=[COLOR lime] Chicago  MED S04E19 720P[/COLOR]</link>
+20	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4c95b6aa1430ec3a99587299c0cf55be18f9b68$nome=[COLOR lime] Chicago  MED S04E20 720P[/COLOR]</link>
+21	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda20e90e30108be600f8f61504f90eaea31011f$nome=[COLOR lime] Chicago  MED S04E21 720P[/COLOR]</link>
+22	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4571144d5b5f9340ba977d2c71bbb36eac044ca7$nome=[COLOR lime] Chicago  MED S04E22 720P[/COLOR]</link>
 22	<thumbnail>https://image.tmdb.org/t/p/original/6ZBfSUzPfFPGcpbcHcwFRTEL4uG.jpg</thumbnail>
 22	<genre>[B][COLOR firebrick](ADDON BXL),Drama,[/COLOR][/B]</genre>
 22	<fanart>https://image.tmdb.org/t/p/original/bk3BgEqfsixAyEfnBpAbDFQ3fPk.jpg</fanart>
