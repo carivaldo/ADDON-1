@@ -1,4 +1,21 @@
 
+
+
+
+
+
+
+
+   <item> 
+1   <title>[B][COLOR blue] David Vs Golias: A Batalha Da Fé - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87395C2AB8BFF7F4A7D09B55E0C4F94EF89C8969$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C5856AF025E8F183E529C93079D02F45046F755$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7g0x8sdh0ZN6zBbt1CpUi9VMHmU.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/aAXcBH2iXprTh5Ci72PVgSXR65I.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red] A maior batalha de todos os tempos!Situada no meio de um embate entre dois dos maiores impérios da Antiguidade, uma batalha de proporções épicas acontece quando um simples pastor chamado Davi se mostra um grande guerreiro ao enfrentar o mais temido campeão inimigo, o gigante Golias. Esta é uma adaptação cheia de estilo da famosa história contada na Bíblia em 1° Samuel 17, quando Israel superou os filisteus com a coragem de um jovem pastor e sua fé em Deus![/COLOR][/B]</info>	
+  </item>  
+
 <item> 
 1   <title>[B][COLOR blue] Anônimo Shakespeare - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
