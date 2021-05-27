@@ -1,32 +1,28 @@
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Chicago Justice  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Chicago Justice  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/rhxeKzTX7LgdaXjzIJANWqdEvPB.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Mark Jefferies lidera uma equipe de promotores que trabalha incansavelmente em casos complexos na busca por justiça. Para isso, terão que lidar com investigações desafiadoras.[/COLOR][/B]</info>		
-<item>
 
-
-
-****************************************************************************************************
-<item>	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Chicago Justice - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1   <maglink>magnet:?xt=urn:btih:8411209454399CE4B6B282B1F30C9ECC605E2B7F$$lsname=[COLOR lime]720P EP01[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:F537911C1837494CFFEAF801F69002345B837343$$lsname=[COLOR lime]720P EP02AO 05[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:241AB6A4E8BF45C7FB8709DC96F2D6DEC026DBAB$$lsname=[COLOR lime]720P EP06[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:2ADEA1692C1AEE00F01B19F0279C248805F573D0$$lsname=[COLOR lime]720P EP07[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:05C673E90E8D0AC0AAE712405FF7A6BF886FE0C8$$lsname=[COLOR lime]720P EP08[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:acab4889168724c5f30ed554ad30f93499a74a5d$$lsname=[COLOR lime]720P EP09[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:c4cb60d4858914248393940215ef311e1aaf6e6f$$lsname=[COLOR lime]720P EP10[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:140c981ac128322ba8f59d39f1ac25cbd97e0d92$$lsname=[COLOR lime]720P EP11[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:e964c9eff23332120db95cff7568167cde22994c$$lsname=[COLOR lime]720P EP12[/COLOR] - DUBLADO</maglink>
-1   <maglink>magnet:?xt=urn:btih:a67caff59cac644f934c8922ce30fc8b43868a82$$lsname=[COLOR lime]720P EP13[/COLOR] - DUBLADO</maglink>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8411209454399CE4B6B282B1F30C9ECC605E2B7F$nome=[COLOR lime]720P EP01[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F537911C1837494CFFEAF801F69002345B837343$nome=[COLOR lime]720P EP02AO 05[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:241AB6A4E8BF45C7FB8709DC96F2D6DEC026DBAB$nome=[COLOR lime]720P EP06[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ADEA1692C1AEE00F01B19F0279C248805F573D0$nome=[COLOR lime]720P EP07[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05C673E90E8D0AC0AAE712405FF7A6BF886FE0C8$nome=[COLOR lime]720P EP08[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acab4889168724c5f30ed554ad30f93499a74a5d$nome=[COLOR lime]720P EP09[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cb60d4858914248393940215ef311e1aaf6e6f$nome=[COLOR lime]720P EP10[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:140c981ac128322ba8f59d39f1ac25cbd97e0d92$nome=[COLOR lime]720P EP11[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e964c9eff23332120db95cff7568167cde22994c$nome=[COLOR lime]720P EP12[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a67caff59cac644f934c8922ce30fc8b43868a82$nome=[COLOR lime]720P EP13[/COLOR] - DUBLADO</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/rhxeKzTX7LgdaXjzIJANWqdEvPB.jpg</fanart>
 1	<info>[B][COLOR red] SINOPSE:[COLOR red]Mark Jefferies lidera uma equipe de promotores que trabalha incansavelmente em casos complexos na busca por justiça. Para isso, terão que lidar com investigações desafiadoras.[/COLOR][/B]</info>	
 </item>
+
+
