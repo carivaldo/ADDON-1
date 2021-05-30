@@ -1,15 +1,11 @@
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Titãs [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Titãs [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Uma equipe de jovens super-heróis liderada por Asa Noturna (anteriormente Robin de Batman) forma para combater o mal e outros perigos. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
 
-
-<item> 
 1   <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A62DE218C10A51FF443E8D5296939B72F863FFEB&dn=%5b%5d%20Tit%c3%a3s%201%c2%aa%20Temporada%20Completa%202019%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A62DE218C10A51FF443E8D5296939B72F863FFEB</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
 1   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
 1   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
@@ -19,120 +15,15 @@
 
 
 
-
-
-<item> 
-1   <title>[B][COLOR red]• [COLOR red]1 [COLOR red]- [COLOR blue] Titãs[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1mmuvM_HkMkyTCXI7HRHZw6Eo4iCdhJUt/view?usp=sharing</link>
-1   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-1   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-1   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-1   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]O detetive Dick Grayson luta contra o crime como policial e justiceiro. Uma garota misteriosa com um segredo sombrio chega a Detroit. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   
-</item>
-<item> 
-2   <title>[B][COLOR red]• [COLOR red]2 [COLOR red]- [COLOR blue] Rapina e Columba[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/15avfH6Sye71wvuz8JTgklESVPiUqMk5X/view?usp=sharing</link>
-2   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-2   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-2   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-2   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com Rachel a tiracolo, Dick faz uma visita a dois velhos conhecidos, e um deles não fica feliz em vê-lo. Uma família letal cai na estrada. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   
-</item>
-<item> 
-3   <title>[B][COLOR red]• [COLOR red]3 [COLOR red]- [COLOR blue] Origens[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MQKEg4E6O0bLdOz46hZ99v7DKY-yWMI3/view?usp=sharing</link>
-3   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-3   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-3   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-3   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Kory não pode perder Rachel de vista nem por um minuto, mas ela não sabe exatamente por quê. Dick recorda sua juventude complicada. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  
-</item>
-<item> 
-4   <title>[B][COLOR red]• [COLOR red]4 [COLOR red]- [COLOR blue] Patrulha de condenados[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1p1eQ6mKnwjmIN_d5Njh71jxmWByi8uIH/view?usp=sharing</link>
-4   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-4   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-4   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-4   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um rosto amigo apresenta Rachel para um grupo de pessoas com uma variedade de habilidades únicas. Dick e Kory vão conferir uma pista misteriosa. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]Um rosto amigo apresenta Rachel para um grupo de pessoas com uma variedade de habilidades únicas. Dick e Kory vão conferir uma pista misteriosa. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-5   <title>[B][COLOR red]• [COLOR red]5 [COLOR red]- [COLOR blue] Juntos[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1Y1SVqZxk-XQHFufCrwMmCkjGekFk_aIV/view?usp=sharing</link>
-5   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-5   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-5   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-5   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Escondidos em um motel, Dick e o grupo aproveitam para conhecer melhor os poderes uns dos outros, o que vem a calhar, já que estão prestes a receber uma visita. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]Escondidos em um motel, Dick e o grupo aproveitam para conhecer melhor os poderes uns dos outros, o que vem a calhar, já que estão prestes a receber uma visita. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-6   <title>[B][COLOR red]• [COLOR red]6 [COLOR red]- [COLOR blue] Jason Todd[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-6   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/181svlu8XArD6MWDqmONOHbpom_FmzaUC/view?usp=sharing</link>
-6   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-6   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-6   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-6   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Contra a sua vontade Dick conhece seu substituto: o novo Robin. Mais tarde, uma viagem para Milwaukee revela informações sobre uma fase sombria da vida de Dick. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]Contra a sua vontade Dick conhece seu substituto: o novo Robin. Mais tarde, uma viagem para Milwaukee revela informações sobre uma fase sombria da vida de Dick. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-7   <title>[B][COLOR red]• [COLOR red]7 [COLOR red]- [COLOR blue] O hospício[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1rKgShng07HKxX7aP4_NuHRTSi-dZsb50/view?usp=sharing</link>
-7   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-7   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-7   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-7   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Com a intenção de encontrar alguém que a conheça bem, Raven desobedece a Dick e acaba indo parar em um lugar misterioso e perigoso. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]Com a intenção de encontrar alguém que a conheça bem, Raven desobedece a Dick e acaba indo parar em um lugar misterioso e perigoso. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-8   <title>[B][COLOR red]• [COLOR red]8 [COLOR red]- [COLOR blue] Donna Troy[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-8   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/131rOd5i5AZlt2awT3SItRkzPEyJ2sKhr/view?usp=sharing</link>
-8   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-8   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-8   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-8   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um velho amigo aconselha Dick a aproveitar a vida, o que ele ignora de imediato. Rachel fica sabendo do passado da mãe. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]Um velho amigo aconselha Dick a aproveitar a vida, o que ele ignora de imediato. Rachel fica sabendo do passado da mãe. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-9   <title>[B][COLOR red]• [COLOR red]9 [COLOR red]- [COLOR blue] Hank e Dawn[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-9   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1KNIL5Q7YsNRV1na213iovFNCfVMBUznE/view?usp=sharing</link>
-9   <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-9   "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-9   <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-9   <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Enquanto Hank está cuidando de Dawn no hospital, lembranças do passado dos dois começam a surgir, incluindo as da tragédia que os uniu. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]Enquanto Hank está cuidando de Dawn no hospital, lembranças do passado dos dois começam a surgir, incluindo as da tragédia que os uniu. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-10  <title>[B][COLOR red]• [COLOR red]10 [COLOR red]- [COLOR blue] Koriand’r[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-10  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/12o8LVTJcmVWWEjipjUBpoglchM-X8iMH/view?usp=sharing</link>
-10  <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-10  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-10  <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-10  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Kory faz uma descoberta chocante sobre o seu passado e prevê um futuro sombrio. Uma discussão violenta deixa Rachel muito aborrecida. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]Kory faz uma descoberta chocante sobre o seu passado e prevê um futuro sombrio. Uma discussão violenta deixa Rachel muito aborrecida. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-11  <title>[B][COLOR red]• [COLOR red]11 [COLOR red]- [COLOR blue] Dick Grayson[COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-11  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ykkriT.UkUjZ62mStmSavs2SNklsSab/view?usp=sharing</link>
-11  <thumbnail>https://image.tmdb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
-11  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-11  <fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
-11  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Um visitante inesperado faz com que Dick retorne a Gotham City, onde o justiceiro mais famoso da cidade parece ter enlouquecido. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]Um visitante inesperado faz com que Dick retorne a Gotham City, onde o justiceiro mais famoso da cidade parece ter enlouquecido. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue] Titãs [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</name>
+<item>
+<title>[B][COLOR red]• [COLOR blue] Titãs [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
 "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
 <info>[B][COLOR blue] SINOPSE:
 [COLOR red]Uma equipe de jovens super-heróis liderada por Asa Noturna (anteriormente Robin de Batman) forma para combater o mal e outros perigos. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
 
-
-
-<item> 
-12  <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] torrent [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24f14461893b806ce2d4e73e2ecd292579c286bb&dn=COMANDOTORRENTSHD.NET%20-%20Titans%202%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+12  <title>[B][COLOR red]• [COLOR red] [COLOR red]- [COLOR blue] Titãs [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
+12  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24f14461893b806ce2d4e73e2ecd292579c286bb</link>
 12  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
 12  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
 12  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
@@ -142,120 +33,3 @@
 
 
 
-<item> 
-12  <title>[B][COLOR red]• [COLOR red]12 [COLOR red]- [COLOR blue]  01 - Trigon [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-12  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/19yIgOvNKTAxqiGAUGR7_TKwVvfEAhYir/view?usp=sharing</link>
-12  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-12  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-12  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-12  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]The season premiere continues the apocalyptic events of last season as Trigon sets out to win the Titans over to his side by embracing their inner darkness. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]The season premiere continues the apocalyptic events of last season as Trigon sets out to win the Titans over to his side by embracing their inner darkness. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-13  <title>[B][COLOR red]• [COLOR red]13 [COLOR red]- [COLOR blue]  02 - Rose [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-13  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1-5PuS-UJyid3qqoiVbB2HqRRVh_1BIJS/view?usp=sharing</link>
-13  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-13  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-13  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-13  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]While Dick trains the next generation of Titans, Donna and Kory track down a rogue metahuman. But an old threat drives the Titans – old and new – back together. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]While Dick trains the next generation of Titans, Donna and Kory track down a rogue metahuman. But an old threat drives the Titans – old and new – back together. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-14  <title>[B][COLOR red]• [COLOR red]14 [COLOR red]- [COLOR blue]  03 - Fantasmas [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-14  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1yhXoq0ebpraaq0XerqtJXugFgqONK5PE/view?usp=sharing</link>
-14  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-14  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-14  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-14  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]The old Titans reluctantly return to Titans Tower to strategize against an old enemy. But the secrets of the Titans’ past threaten to tear apart this newly formed team from within. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]The old Titans reluctantly return to Titans Tower to strategize against an old enemy. But the secrets of the Titans’ past threaten to tear apart this newly formed team from within. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-15  <title>[B][COLOR red]• [COLOR red]15 [COLOR red]- [COLOR blue]  04 - Aqualad [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-15  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1QWmBVsekq88ZFpzNRRcasqNfkL_v-iAQ/view?usp=sharing</link>
-15  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-15  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-15  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-15  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Four years ago, Dick, Donna, Hank & Dawn formed the Titans with Garth aka Aqualad. But the team is tested with the arrival of a new villain. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]Four years ago, Dick, Donna, Hank & Dawn formed the Titans with Garth aka Aqualad. But the team is tested with the arrival of a new villain. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-16  <title>[B][COLOR red]• [COLOR red]16 [COLOR red]- [COLOR blue]  05 - Deathstroke, Exterminador [COLOR red] ADDON BXL [COLOR firebrick] Series !!![/B][/COLOR]</title>
-16  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1PgnrQ-wvRxRXfAEjaQCz3n3iAjKXsJlc/view?usp=sharing</link>
-16  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-16  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-16  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-16  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]With the team in upheaval, the Titans do everything in their power to save Jason’s life. But when Deathstroke demands they turn over Rose, the dilemma threatens to tear the team apart. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]With the team in upheaval, the Titans do everything in their power to save Jason’s life. But when Deathstroke demands they turn over Rose, the dilemma threatens to tear the team apart. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-17  <title>[B][COLOR red]• [COLOR red]17 [COLOR red]- [COLOR blue]  06 - Conner [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-17  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1ATlq5CVZRZms_uAsUudx5UX7xl6cXeEW/view?usp=sharing</link>
-17  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-17  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-17  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-17  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Conner Kent and Krypto escape from Cadmus Labs. His search for the truth about his past leads him to Lionel Luthor and genetic scientist Dr. Eve Watson. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]Conner Kent and Krypto escape from Cadmus Labs. His search for the truth about his past leads him to Lionel Luthor and genetic scientist Dr. Eve Watson. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-18  <title>[B][COLOR red]• [COLOR red]18 [COLOR red]- [COLOR blue]  07 - Bruce Wayne [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-18  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1joW4u3XtayHsH0OWo1KKjagzW4jVLBlW/view?usp=sharing</link>
-18  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-18  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-18  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-18  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]With tensions running high at Titans Tower, Kory tries to learn more about Conner, while Dick sets out alone to track down Deathstroke – with a familiar voice haunting him. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]With tensions running high at Titans Tower, Kory tries to learn more about Conner, while Dick sets out alone to track down Deathstroke – with a familiar voice haunting him. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-19  <title>[B][COLOR red]• [COLOR red]19 [COLOR red]- [COLOR blue]  08 - Jericho [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-19  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1MWpEXDCPBKCPH28xbc6Tu1PzXmudKC-x/view?usp=sharing</link>
-19  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-19  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-19  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-19  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Dick befriends Jericho Wilson to learn more about Deathstroke. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]Dick befriends Jericho Wilson to learn more about Deathstroke. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-20  <title>[B][COLOR red]• [COLOR red]20 [COLOR red]- [COLOR blue]  09 - Expiação [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-20  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1uw0FY64h3oqeGCw2MPh8bWRDts2Is7tq/view?usp=sharing</link>
-20  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-20  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-20  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-20  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]In the aftermath of his confession, Dick’s fear that his secret would break up the Titans comes true. Abandoning Titans Tower, the heroes all go their separate ways. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]In the aftermath of his confession, Dick’s fear that his secret would break up the Titans comes true. Abandoning Titans Tower, the heroes all go their separate ways. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-21  <title>[B][COLOR red]• [COLOR red]21 [COLOR red]- [COLOR blue]  10 - Caído [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-21  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1j6rKHgu5naYm05Wljl1lm_o3Ktffkeng/view?usp=sharing</link>
-21  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-21  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-21  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-21  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Titans Tower comes under attack by Mercy Graves. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info> [COLOR red]Titans Tower comes under attack by Mercy Graves. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-22  <title>[B][COLOR red]• [COLOR red]22 [COLOR red]- [COLOR blue]  11 - E.L._.O [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-22  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1f_oLTUt8ZDMDVcItubG1Xv9sil2O4tWb/view?usp=sharing</link>
-22  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-22  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-22  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-22  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]With Dick still in prison and Gar under the microscope at Cadmus, the remaining Titans are called together to save their teammates. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]With Dick still in prison and Gar under the microscope at Cadmus, the remaining Titans are called together to save their teammates. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-23  <title>[B][COLOR red]• [COLOR red]23 [COLOR red]- [COLOR blue]  12 - Falso-Falcão [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-23  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1_6O_0dHksMurmXocpdGhC8_A13imum2y/view?usp=sharing</link>
-23  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-23  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-23  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-23  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]Hank finds himself at a new low, cage-fighting for money, when he finds an imposter now acting as Hawk. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>  [COLOR red]Hank finds himself at a new low, cage-fighting for money, when he finds an imposter now acting as Hawk. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
-<item> 
-24  <title>[B][COLOR red]• [COLOR red]24 [COLOR red]- [COLOR blue]  13 - Asa Noturna [COLOR red] ADDON BXL [COLOR firebrick] Filmes !!![/B][/COLOR]</title>
-24  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/a/swccd.edu/file/d/1IB3tc0WV5Req4U3nErK0MFUmoXD5U-bM/view?usp=sharing</link>
-24  <thumbnail>https://image.tmdb.org/t/p/original/eeHI5iBSCOxj4HGSOmFM6azBmwb.jpg</thumbnail>
-24  "<genre>[B][COLOR firebrick](.ADDON BXL).ACTION & ADVENTURE SCI-FI & FANTASY DRAMA [/COLOR][/B]</genre>"
-24  <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
-24  <info>[B][COLOR blue] SINOPSE:
-[COLOR red]The Titans battle Deathstroke & more in the season finale. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>   [COLOR red]The Titans battle Deathstroke & more in the season finale. (.ADDON BXL).Faca Sua Doacao [/COLOR][/B]</info>
-</item>
