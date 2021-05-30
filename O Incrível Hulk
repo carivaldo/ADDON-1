@@ -1,22 +1,14 @@
 
 ****************************************************************************************************************************
-<channels>
-</channels><channel>
-<name>[B][COLOR red]• [COLOR blue]  Incrível Hulk  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</name>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
+<item>
+<title>[B][COLOR red]• [COLOR blue]  Incrível Hulk  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
 1	<fanart>https://image.tmdb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O Dr. David Banner (Bill Bixby) é um brilhante cientista. Certo dia, um experimento em que ele está trabalhando sai terrivelmente errado, e o deixa com sérias consequências: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma n'O Incrível Hulk (Lou Ferrigno), um monstro alto, musculoso e de pele verde. Ele se transforma no monstro sempre que alguém ou alguma coisa ameaça o Dr. Banner e a população.[/COLOR][/B]</info>		
-<item>
-
-
-
-****************************************************************************************************
-<item>	
+	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue]  Incrível Hulk - [COLOR blue] [COLOR red](1977) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
-1    <maglink>magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E</maglink>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</fanart>
