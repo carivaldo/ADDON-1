@@ -5,24 +5,24 @@
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]O SEAL Team é responsável pelas missões mais perigosas dos EUA. Acompanhe as trajetórias dos agentes desta equipe da Marinha americana.[/COLOR][/B]</info>		
-<item>
+
 
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] SEAL Team - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>                                                                       
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3E1293B9DC0B576102F2182D352DD0F91D94ABD$$name=[COLOR lime] SEAL Team 720P EP01AO02[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51F3C0C8916EB6231DB3BAA8469E971B0450106F$$name=[COLOR lime] SEAL Team 720P EP03[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027E1381DB645C1F887141881B695E4257627A8D$$name=[COLOR lime] SEAL Team 720P EP04AO08[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9B86FCB745E6084EF49ABD0F238EBDDE4868182$$name=[COLOR lime] SEAL Team 720P EP09[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CA1BBC60147CD6898CD647F353E58D5AFB2F3E7$$name=[COLOR lime] SEAL Team 720P EP10[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C5C51B28B92F5484CC96ACF2B2023FBE6451036$$name=[COLOR lime] SEAL Team 720P EP11AO14[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84A0E0A5187A376A2B215A1673A1F328689A56B4$$name=[COLOR lime] SEAL Team 720P EP15[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ED2A5B3336187167C7D8BBE8C0A266B9A84A6FF$$name=[COLOR lime] SEAL Team 720P EP16[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0926C332BD88828AD56C756245D53C8F4FDB9F7A$$name=[COLOR lime] SEAL Team 720P EP17[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A7BC653A023D78E3E4D4047489BBEE9820D16EB$$name=[COLOR lime] SEAL Team 720P EP18[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0441821F9395B32AE5C1E972A13229B96ED4C8BD$$name=[COLOR lime] SEAL Team 720P EP19[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBB83B0271886C7BD5EA93F17189BC22BA5F8D16$$name=[COLOR lime] SEAL Team 720P EP20[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FD6452ED4885C2ECF517F2DE1B5B2ED63A5F0D6$$name=[COLOR lime] SEAL Team 720P EP21[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ed5ddde5b0ea07269af60af1182578f8f5e9c11$$name=[COLOR lime] SEAL Team 720P EP22[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3E1293B9DC0B576102F2182D352DD0F91D94ABD$$nome=[COLOR lime] SEAL Team 720P EP01AO02[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51F3C0C8916EB6231DB3BAA8469E971B0450106F$$nome=[COLOR lime] SEAL Team 720P EP03[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027E1381DB645C1F887141881B695E4257627A8D$$nome=[COLOR lime] SEAL Team 720P EP04AO08[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9B86FCB745E6084EF49ABD0F238EBDDE4868182$$nome=[COLOR lime] SEAL Team 720P EP09[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CA1BBC60147CD6898CD647F353E58D5AFB2F3E7$$nome=[COLOR lime] SEAL Team 720P EP10[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C5C51B28B92F5484CC96ACF2B2023FBE6451036$$nome=[COLOR lime] SEAL Team 720P EP11AO14[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84A0E0A5187A376A2B215A1673A1F328689A56B4$$nome=[COLOR lime] SEAL Team 720P EP15[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ED2A5B3336187167C7D8BBE8C0A266B9A84A6FF$$nome=[COLOR lime] SEAL Team 720P EP16[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0926C332BD88828AD56C756245D53C8F4FDB9F7A$$nome=[COLOR lime] SEAL Team 720P EP17[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A7BC653A023D78E3E4D4047489BBEE9820D16EB$$nome=[COLOR lime] SEAL Team 720P EP18[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0441821F9395B32AE5C1E972A13229B96ED4C8BD$$nome=[COLOR lime] SEAL Team 720P EP19[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBB83B0271886C7BD5EA93F17189BC22BA5F8D16$$nome=[COLOR lime] SEAL Team 720P EP20[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FD6452ED4885C2ECF517F2DE1B5B2ED63A5F0D6$$nome=[COLOR lime] SEAL Team 720P EP21[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ed5ddde5b0ea07269af60af1182578f8f5e9c11$$nome=[COLOR lime] SEAL Team 720P EP22[/COLOR]</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/6lOtF3yx8iurvaBVz1ZVhwcRgmD.jpg</fanart>
