@@ -1,0 +1,114 @@
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/uwbue4X5f3r1b4z19EP6lSlRED6.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2005) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b24eaed4b76b781b283e7435b6898021395164f4</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/uwbue4X5f3r1b4z19EP6lSlRED6.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/5Zd6W2LHK5sslcn9BWKCoVJvSQi.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wj7wZ4TNzHk45SHbOyJX8BrZC5E.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2006) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:619d85e3ca22bdc46fb87d149c889aeb6233e4f0</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wj7wZ4TNzHk45SHbOyJX8BrZC5E.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/5Zd6W2LHK5sslcn9BWKCoVJvSQi.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/e9n87p3Ax67spq3eUgLB6rjIEow.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bwF1daWnsEYYjbHXiEMdS587fR.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2007) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02921e9cfe4f4c311ee0892aea7ff7d2addbbaed</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bwF1daWnsEYYjbHXiEMdS587fR.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/e9n87p3Ax67spq3eUgLB6rjIEow.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/eUjyCmu3Hfge8zFv8T2N50NbrVV.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcy3pSicRf1NTt9R4d3wG7csNyq.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2008) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8742a844503782e2f1a47a5a72ab398f641ab32</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcy3pSicRf1NTt9R4d3wG7csNyq.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/eUjyCmu3Hfge8zFv8T2N50NbrVV.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/owTaZXI72CF2eHJVxQwOKzWu93.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4osuChHNz7QUdelycGI11MN5HKV.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2009) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:499fb0d0be52732a22fedc846ed0663d92714461</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4osuChHNz7QUdelycGI11MN5HKV.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/owTaZXI72CF2eHJVxQwOKzWu93.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][6ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/7ClsJOcdnsZkuFZVCA9fZ7i7OeF.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hvXvLLBKI1soZKwnw7ZysLezXy.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2010) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6fdadb6ae0d5bcce908e788e894970b042effef</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hvXvLLBKI1soZKwnw7ZysLezXy.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/7ClsJOcdnsZkuFZVCA9fZ7i7OeF.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+   <item> 
+1   <title>[B][COLOR red]• [COLOR blue] BONES  [COLOR red] - [COLOR red][7ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/lyogT7pwae4r1wgMr6lUQnfBxQN.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/igO2LfrY8qn8tqZunb6rmoTvnoW.jpg</thumbnail>
+1  "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2011) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06548890fb8b5cf05774ca5a45e4921b4ec7d04a</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/igO2LfrY8qn8tqZunb6rmoTvnoW.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/lyogT7pwae4r1wgMr6lUQnfBxQN.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][/COLOR][/B]</info>	
+</item>
+
+****************************************************************************************************************************
+  
