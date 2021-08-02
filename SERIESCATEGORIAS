@@ -5,6 +5,23 @@
 
 channels>
 <channel>
+<name>[COLOR blue] QUANTICO [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eukbwKZSDY7Nbp97ecR5hTkNJVo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/QUANTICO</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/usIjQ1OmRu8uK09XvtfwT8Pd8gY.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Um grupo diverso de brilhantes e controlados recrutas chega à base do FBI em Quantico para o treinamento. Eles são considerados alguns dos melhores agentes, mas, paradoxalmente, um deles se torna suspeito de planejar o maior ataque em Nova York desde o dia 11 de setembro.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+channels>
+<channel>
 <name>[COLOR blue] KRYPTON [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kO8mvWSIfyHvu2OJPxxaIQdVrah.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/KRYPTON</externallink>        
