@@ -220,7 +220,6 @@
 
 <item>
 1   <title>[B][COLOR blue] Tempestade - Planeta em Fúria - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FB3519D5E92EC4960FAB5F0EC1B7AE3DE5DC64$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4C6B72D0E8AD3A741FB070DF64885C818183F46$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg</thumbnail>
@@ -230,9 +229,7 @@
 
 <item>
   <title>[B][COLOR blue] Star Trek - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1 <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
 1 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 1 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg</thumbnail>
@@ -242,7 +239,6 @@
 
 <item>
  <title>[B][COLOR blue] Além da Escuridão  Star Trek  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92A3BA1FB2C696A63765A4BD61A866BA6D9F3E49$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b465795e2fdac01f27a62c5a1c8d14ce629d15$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg</thumbnail>
@@ -255,7 +251,6 @@
  
 <item>
  <title>[B][COLOR blue] Star Trek: Sem Fronteiras - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89f77e96bbc98f1dafe3b21da004db5d237465e$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FA5BCEFAEFCD1D2B24FF333A0B7FC1A579FAD0A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6AE2795053E38403A13D4E5FD150650AE462BDCA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
