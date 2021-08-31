@@ -122,7 +122,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Destino de Júpiter - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66771BD745DFAF6E0EC861D37F30C7E91652D9EF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E4ADD1723D951AE2448F5ED0854E0C44F703D2B$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTj7ttPGiStGqin4ew4sMOXWfZO.jpg</thumbnail>
@@ -251,11 +250,11 @@
  
 <item>
  <title>[B][COLOR blue] Star Trek: Sem Fronteiras - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89f77e96bbc98f1dafe3b21da004db5d237465e$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89f77e96bbc98f1dafe3b21da004db5d237465e$nome=[COLOR lime] 4K   [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FA5BCEFAEFCD1D2B24FF333A0B7FC1A579FAD0A$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6AE2795053E38403A13D4E5FD150650AE462BDCA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B559F00F5A60E9418C8A556C4FF687ED45446ABA$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7A757CA7C4F3F462FFEBCC0811DEB0851777B5C$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7A757CA7C4F3F462FFEBCC0811DEB0851777B5C$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC2lEQjA4X814UnvekmdkM5hXmk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/m4F1KRK5jAoQHi2mKDFE2jFKEIb.jpg</fanart>
