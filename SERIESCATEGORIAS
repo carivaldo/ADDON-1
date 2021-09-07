@@ -1,13 +1,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]LA CASA DE PAPEL[/COLOR]</name> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg</thumbnail>     
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LACASADEPAPEL</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg</fanart>
+<info></info>
+
+
+[COLOR deeppink]|[/COLOR] -AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>  
+</channel>
+</channels> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
 channels>
 <channel>
 <name>[COLOR blue] IMPUROS [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Impuros</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/vZ2zmzieNXn7m2ziSJmUPErsYzc.jpg</fanart>
-<info>Rio de Janeiro, na década de 90. Evandro sonha em se tornar um grande empresário, mas acaba entrando no mundo do crime e transformando sua organização criminosa em um império. Suas habilidades de negócios e liderança chamam a atenção de Morello, um policial federal com comportamento autodestrutivo que vê em Evandro um inimigo digno. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa.<info> 
+<info>Rio de Janeiro, na década de 90. Evandro sonha em se tornar um grande empresário, mas acaba entrando no mundo do crime e transformando sua organização criminosa em um império. Suas habilidades de negócios e liderança chamam a atenção de Morello, um policial federal com comportamento autodestrutivo que vê em Evandro um inimigo digno. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -27,7 +52,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HP1mebsgwMKqD3JtcMqxPwwVvK.jpg</thumbnail>   
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SWAT</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-<info>Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.<info>
+<info>Segue um tenente da SWAT, nascido e criado localmente, dividido entre a lealdade às ruas e o dever para com seus colegas policiais quando ele é encarregado de administrar uma unidade altamente treinada que é a última parada para solucionar crimes em Los Angeles.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -36,11 +61,11 @@ channels>
  
  channels>
 <channel>
-<name>[COLOR blue]  [/COLOR]</name>   
+<name>[COLOR blue] SEE [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8kvIPkSrmcqTKCrXO8aUY5uF0l.jpg</thumbnail>
 <externallink> https://raw.githubusercontent.com/carivaldo/ADDON-1/master/See</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/8wxc1UdRWMPKA8a2A7Le9ZSCil5.jpg</fanart>
-<info>Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.<info> 
+<info>Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -58,7 +83,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5shPt9oZNtpimZRpQxj37LSr8bD.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Deputy</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/njSyOmFe39oUy9GEETW0tC0xIX4.jpg</fanart>
-<info>Bill Hollister (Stephen Dorff) é um policial em um trabalho confortável que tem a vida virada de pernas para o ar após a morte do Xerife do condado de Los Angeles. Assumindo o posto do falecido colega, Hollister se torna o comandante de mais de 10 mil agentes, em um verdadeiro Velho Oeste moderno.<info> 
+<info>Bill Hollister (Stephen Dorff) é um policial em um trabalho confortável que tem a vida virada de pernas para o ar após a morte do Xerife do condado de Los Angeles. Assumindo o posto do falecido colega, Hollister se torna o comandante de mais de 10 mil agentes, em um verdadeiro Velho Oeste moderno.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -73,7 +98,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o6FNonkNOT7ivxWxht0xj7OGMfN.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/VIKINGS</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg</fanart>
-<info>As aventuras de Ragnar Lothbrok, o maior herói de sua idade. A série conta as sagas do bando de irmãos Viking de Ragnar e sua família, quando ele se torna rei das tribos viking. Além de ser um guerreiro destemido, Ragnar personifica as tradições nórdicas de devoção aos deuses. Diz a lenda que ele era um descendente direto de Odin, o deus da guerra e dos guerreiros.<info>
+<info>As aventuras de Ragnar Lothbrok, o maior herói de sua idade. A série conta as sagas do bando de irmãos Viking de Ragnar e sua família, quando ele se torna rei das tribos viking. Além de ser um guerreiro destemido, Ragnar personifica as tradições nórdicas de devoção aos deuses. Diz a lenda que ele era um descendente direto de Odin, o deus da guerra e dos guerreiros.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>       
@@ -103,7 +128,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88UzcSKOQai7KzFdNi1KW4UjPIH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Ragnarok</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/rRLwy9CN51CRTXhyij0KXSfXfPi.jpg</fanart>
-<info>Uma pequena cidade norueguesa passando por invernos quentes e chuvas violentas parece estar se dirigindo para outro Ragnarök - a menos que alguém intervenha a tempo.<info> 
+<info>Uma pequena cidade norueguesa passando por invernos quentes e chuvas violentas parece estar se dirigindo para outro Ragnarök - a menos que alguém intervenha a tempo.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -121,7 +146,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd5JwnNOqEDIKZ672wjEo8hzL7k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Brooklyn%20Nine-Nine</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/vbLl9JL0SxemW5OyI9CzCQdlcX3.jpg</fanart>
-<info>Jake Peralta é o talentoso e despreocupado detetive do 99º distrito do Brooklyn que, junto ao seu grupo eclético de colegas, lidava com um capitão relaxado no escritório. Tudo muda quando o novo e cronicamente tenso capitão Ray Holt chega à delegacia disposto a fazer com que esse grupo disfuncional de detetives se torne o que há de melhor no Brooklyn.<info> 
+<info>Jake Peralta é o talentoso e despreocupado detetive do 99º distrito do Brooklyn que, junto ao seu grupo eclético de colegas, lidava com um capitão relaxado no escritório. Tudo muda quando o novo e cronicamente tenso capitão Ray Holt chega à delegacia disposto a fazer com que esse grupo disfuncional de detetives se torne o que há de melhor no Brooklyn.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -139,7 +164,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Mundo%20em%20Chamas</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/cPk3brl7TuBKRTEfHnQyO229bZP.jpg</fanart>
-<info>É um drama através dos olhos de pessoas comuns de todos os lados do conflito durante a Segunda Guerra Mundial. A história vai narrar o primeiro ano da guerra, começando com a invasão alemã na Polônia em Setembro de 1939 e terminando com a Batalha da Inglaterra. - Um épico de sete episódios sobre Segunda Guerra Mundial, de produção BBC. - As filmagens são feitas em Manchester, Londres, Paris e Berlim.<info> 
+<info>É um drama através dos olhos de pessoas comuns de todos os lados do conflito durante a Segunda Guerra Mundial. A história vai narrar o primeiro ano da guerra, começando com a invasão alemã na Polônia em Setembro de 1939 e terminando com a Batalha da Inglaterra. - Um épico de sete episódios sobre Segunda Guerra Mundial, de produção BBC. - As filmagens são feitas em Manchester, Londres, Paris e Berlim.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -156,7 +181,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxEzxMmy9syvYfuDCIAjFwc5C4V.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Coyote</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/4J713WSLvfKFp7ZiZQopB7vXtNN.jpg</fanart>
-<info>Coyote é um misto de drama e ação que versa sobre os conflitos e dilemas morais na fronteira entre os EUA e o México. Ben Clemens, interpretado por Michael Chiklis, é um guarda que passou a sua vida a patrulhar este local. Após 32 anos de serviço, Ben reforma-se e acaba no outro lado da fronteira como Coyote, o nick name mexicano para quem ajuda imigrantes ilegais a fazer a travessia rumo aos EUA. Mas aquilo que lhe pode parecer uma ação digna, rapidamente se transforma num esquema repleto de intrigas muito maior, onde a segurança da sua família será comprometida.<info> 
+<info>Coyote é um misto de drama e ação que versa sobre os conflitos e dilemas morais na fronteira entre os EUA e o México. Ben Clemens, interpretado por Michael Chiklis, é um guarda que passou a sua vida a patrulhar este local. Após 32 anos de serviço, Ben reforma-se e acaba no outro lado da fronteira como Coyote, o nick name mexicano para quem ajuda imigrantes ilegais a fazer a travessia rumo aos EUA. Mas aquilo que lhe pode parecer uma ação digna, rapidamente se transforma num esquema repleto de intrigas muito maior, onde a segurança da sua família será comprometida.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -190,7 +215,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20good%20doctor</externallink>
 <fanart>https://image.tmdb.org/t/p/original/edLV34FXx1iFJA3hbZE7SYRSS4m.jpg</fanart>
-<info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.<info>
+<info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -207,7 +232,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bk7SJsNtVP97faavetnurgXdrOF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Game%20Of%20Thrones</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/zTjMmLFn2jgsxZwHC5fbsm6HHG4.jpg</fanart>
-<info>Sete famílias nobres lutam pelo controle da terra mítica de Westeros. O atrito entre as casas leva à guerra em grande escala. Enquanto isso, um mal muito antigo desperta no extremo norte. Em meio à guerra, uma ordem militar negligenciada de desajustados, a Patrulha da Noite, é tudo o que fica entre os reinos dos homens e os horrores gelados além.<info>
+<info>Sete famílias nobres lutam pelo controle da terra mítica de Westeros. O atrito entre as casas leva à guerra em grande escala. Enquanto isso, um mal muito antigo desperta no extremo norte. Em meio à guerra, uma ordem militar negligenciada de desajustados, a Patrulha da Noite, é tudo o que fica entre os reinos dos homens e os horrores gelados além.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -237,7 +262,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBF3wcUp3SgnlYNOXQeaDg5XfTu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE%20FLASH</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/tVL0q0a0WvkZjgu4oD3R4uH15JA.jpg</fanart>
-<info>Depois que um acelerador de partículas causa uma tempestade, o investigador do CSI, Barry Allen, é atingido por um raio e entra em coma. Meses depois, ele acorda com o poder da super velocidade, concedendo a ele a capacidade de se mover pela Cidade Central como um anjo da guarda invisível. Embora inicialmente empolgado com seus novos poderes, Barry fica chocado ao descobrir que ele não é o único "meta-humano" que foi criado após a explosão do acelerador - e nem todo mundo está usando seus novos poderes para sempre. Barry faz parceria com a STAR Labs e dedica sua vida a proteger os inocentes. Por enquanto, apenas alguns amigos íntimos e associados sabem que Barry é literalmente o homem mais rápido vivo, mas não demorará muito para que o mundo aprenda o que Barry Allen se tornou ... O Flash.<info>
+<info>Depois que um acelerador de partículas causa uma tempestade, o investigador do CSI, Barry Allen, é atingido por um raio e entra em coma. Meses depois, ele acorda com o poder da super velocidade, concedendo a ele a capacidade de se mover pela Cidade Central como um anjo da guarda invisível. Embora inicialmente empolgado com seus novos poderes, Barry fica chocado ao descobrir que ele não é o único "meta-humano" que foi criado após a explosão do acelerador - e nem todo mundo está usando seus novos poderes para sempre. Barry faz parceria com a STAR Labs e dedica sua vida a proteger os inocentes. Por enquanto, apenas alguns amigos íntimos e associados sabem que Barry é literalmente o homem mais rápido vivo, mas não demorará muito para que o mundo aprenda o que Barry Allen se tornou ... O Flash.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>   
@@ -322,7 +347,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BcPslccbs5symFx89BhupWbAwn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Smallville%3A%20As%20Aventuras%20do%20Superboy</externallink>
 <fanart>https://image.tmdb.org/t/p/original/u9yZHsBm0i3yFy0uvi2Cl5U7GiL.jpg</fanart>
-<info>Décima temporada completa - Essa é a série que conta a história da juventude do Superman. Em 1989 uma chuva de meteoros caiu em Smallville, no Kansas, causou destruição, mortes e diversas alterações na vida de muitos moradores, sobretudo, na vida do belo casal Jonathan e Martha Kent, impossibilitado de ter filhos. Após terem o caminhão que dirigiam atingido por um meteoro, acordam com um garotinho diante deles. Percebem que o menino saíra de uma espaçonave e resolvem assumi-lo como filho chamando-o de Clark. Os Kent têm uma vida de uma família normal e lutam de todas as formas para evitar que o segredo do filho seja descoberto! A medida que Clark cresce, seus poderes também vão sendo revelados aos poucos (força, velocidade, inteligência, visão de raio x, etc). Como um adolescente normal, Clark cultiva uma silenciosa paixão pela bela Lana, órfã também pela chuva de meteoros.<info>
+<info>Décima temporada completa - Essa é a série que conta a história da juventude do Superman. Em 1989 uma chuva de meteoros caiu em Smallville, no Kansas, causou destruição, mortes e diversas alterações na vida de muitos moradores, sobretudo, na vida do belo casal Jonathan e Martha Kent, impossibilitado de ter filhos. Após terem o caminhão que dirigiam atingido por um meteoro, acordam com um garotinho diante deles. Percebem que o menino saíra de uma espaçonave e resolvem assumi-lo como filho chamando-o de Clark. Os Kent têm uma vida de uma família normal e lutam de todas as formas para evitar que o segredo do filho seja descoberto! A medida que Clark cresce, seus poderes também vão sendo revelados aos poucos (força, velocidade, inteligência, visão de raio x, etc). Como um adolescente normal, Clark cultiva uma silenciosa paixão pela bela Lana, órfã também pela chuva de meteoros.</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
 
@@ -508,7 +533,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/WyIazPyjmcFMC42nWEpI0jr56x.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BALLERS</externallink>
 <fanart>https://image.tmdb.org/t/p/original/gJYmNZ4Kh2NDt8KIvD20fZkX73s.jpg</fanart>
-<info>Estrelada por Dwayne Johnson (O Escorpião Rei) e produzida por Mark Wahlberg (Ted, Entourage), Ballers terá episódios com meia hora de duração cada. A narrativa acompanha Spencer Strasmore (Johnson), um atleta aposentado, além das vidas de um grupo de jogadores e ex-jogadores de futebol americano.<info>
+<info>Estrelada por Dwayne Johnson (O Escorpião Rei) e produzida por Mark Wahlberg (Ted, Entourage), Ballers terá episódios com meia hora de duração cada. A narrativa acompanha Spencer Strasmore (Johnson), um atleta aposentado, além das vidas de um grupo de jogadores e ex-jogadores de futebol americano.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -523,7 +548,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zxogdrMHGHfA9nsbfIcOKNpZkRg.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Lupin</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>
-<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em "Arsène Lupin, o Ladrão de Casaca" para vingá-lo<info>
+<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em "Arsène Lupin, o Ladrão de Casaca" para vingá-lo</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -618,7 +643,7 @@ channels>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sBx2Ew4WFsa1YY32vlHt079O03.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/L%C3%BAcifer</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg</fanart>
-<info>Entediado e infeliz como o Senhor do Inferno, Lúcifer Morningstar abandonou seu trono e se retirou para Los Angeles, onde se uniu à detetive da polícia de Los Angeles Chloe Decker para derrubar criminosos. Mas quanto mais tempo ele estiver longe do submundo, maior será a ameaça da qual o pior da humanidade poderá escapar.<info>
+<info>Entediado e infeliz como o Senhor do Inferno, Lúcifer Morningstar abandonou seu trono e se retirou para Los Angeles, onde se uniu à detetive da polícia de Los Angeles Chloe Decker para derrubar criminosos. Mas quanto mais tempo ele estiver longe do submundo, maior será a ameaça da qual o pior da humanidade poderá escapar.</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -634,7 +659,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cu9wob15Rdxf7KISXmSabvlUolj.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Van%20Helsing</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/s7hewEh47xAJL92ZmfrgP0mvdPf.jpg</fanart>
-<info>Van Helsing acompanha a filha do lendário caçador de monstros Abraham Van Helsing. A narrativa é protagonizada por Vanessa que, cinco anos após sua morte, é ressuscitada e descobre que os vampiros tomaram conta do planeta — e que ela é aquela que possui um poder único sobre eles. Assim, Vanessa Van Helsing se torna a última esperança da humanidade para recuperar o mundo destes sanguinários seres.<info> 
+<info>Van Helsing acompanha a filha do lendário caçador de monstros Abraham Van Helsing. A narrativa é protagonizada por Vanessa que, cinco anos após sua morte, é ressuscitada e descobre que os vampiros tomaram conta do planeta — e que ela é aquela que possui um poder único sobre eles. Assim, Vanessa Van Helsing se torna a última esperança da humanidade para recuperar o mundo destes sanguinários seres.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -650,7 +675,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ixlNw73TP1TUBHqrsCjepAwnjAT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Hospital%20New%20Amsterdam</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/xsMTAxjpb34JAORmn1s5szJlThX.jpg</fanart>
-<info>New Amsterdam, série baseada na obra de Eric Manheimer, Twelve Patients: Life and Death at Bellevue Hospital, retrata o dia a dia de um dos hospitais públicos mais antigos dos Estados Unidos da América. Com a chegada do Dr. Max Goodwin enquanto novo director médico, o hospital vai sofrer uma grande reviravolta. O Dr. Goodwin veio para transformar o hospital, começando por despedir médicos de departamentos que apresentam taxas de mortalidades bastante elevadas ou despedir aqueles que se tinham esquecido do porquê de se terem tornado médicos.<info> 
+<info>New Amsterdam, série baseada na obra de Eric Manheimer, Twelve Patients: Life and Death at Bellevue Hospital, retrata o dia a dia de um dos hospitais públicos mais antigos dos Estados Unidos da América. Com a chegada do Dr. Max Goodwin enquanto novo director médico, o hospital vai sofrer uma grande reviravolta. O Dr. Goodwin veio para transformar o hospital, começando por despedir médicos de departamentos que apresentam taxas de mortalidades bastante elevadas ou despedir aqueles que se tinham esquecido do porquê de se terem tornado médicos.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -665,7 +690,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5YY7f0vyVdE2T8x40MZOe0EB5q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Looming%20Tower</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/fajk9hp8iLF3PiFBtHr4hjLhL1y.jpg</fanart>
-<infoUm olhar sobre a rivalidade entre a CIA e o FBI e os eventos que antecederam a tragédia de 11 de setembro de 2001 e o início da Guerra ao Iraque.><info> 
+<info>Um olhar sobre a rivalidade entre a CIA e o FBI e os eventos que antecederam a tragédia de 11 de setembro de 2001 e o início da Guerra ao Iraque.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -682,7 +707,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2ftkn16U1WpHPEpICtTI5GI00l.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/La%20Tr%C3%AAve</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/gy4yUaD1AtRKQBUiajXJVci7jlX.jpg</fanart>
-<info> Segunda temporada completa dublada, dual áudio da série La Trêve (The Break), exclusiva da Netflix. Ainda sob o impacto de uma grande perda, um investigador da polícia volta a sua pacata cidade natal e acaba envolvido em um misterioso caso de assassinato.<info> 
+<info> Segunda temporada completa dublada, dual áudio da série La Trêve (The Break), exclusiva da Netflix. Ainda sob o impacto de uma grande perda, um investigador da polícia volta a sua pacata cidade natal e acaba envolvido em um misterioso caso de assassinato.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -699,7 +724,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Legado%20de%20J%C3%BApiter</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/upZJGNKD0zfaNzNFnXJYGliCB2v.jpg</fanart>
-<info>A primeira geração de super-heróis manteve o mundo a salvo durante cerca de um século. Agora, é a vez de os seus descendentes estarem à altura do seu legado.<info> 
+<info>A primeira geração de super-heróis manteve o mundo a salvo durante cerca de um século. Agora, é a vez de os seus descendentes estarem à altura do seu legado.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -716,7 +741,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCKamhcbXq20Hn6kukALTNnMHVj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Elementary</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/xzwP86OqalS1Ly7LqXwgUUzl38B.jpg</fanart>
-<info>Elementary leva Sherlock Holmes para a Nova York dos dias de hoje. Na história de Elementary o detetive, um homem excêntrico que foi consultor da Scotland Yard, vai para Nova Iorque para passar um período em um centro de reabilitação. Quando deixa a clínica ele decide morar no Brooklyn na companhia de Joan, uma ex-cirurgiã que perdeu sua licença quando um paciente morreu. Na época, ela prestava auxílio para o Departamento de Polícia de Nova Iorque. Joan deverá representar para Sherlcok a pessoa que o manterá sóbrio.<info> 
+<info>Elementary leva Sherlock Holmes para a Nova York dos dias de hoje. Na história de Elementary o detetive, um homem excêntrico que foi consultor da Scotland Yard, vai para Nova Iorque para passar um período em um centro de reabilitação. Quando deixa a clínica ele decide morar no Brooklyn na companhia de Joan, uma ex-cirurgiã que perdeu sua licença quando um paciente morreu. Na época, ela prestava auxílio para o Departamento de Polícia de Nova Iorque. Joan deverá representar para Sherlcok a pessoa que o manterá sóbrio.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -733,7 +758,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/O%20Mentalista</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/oQWQjVlIV9RzWa1GvpDYk7SuNhc.jpg</fanart>
-<info>Patrick Jane é um consultor independente para o California Bureau of Investigation (CBI). Ex-golpista, antes disso ele fingia ser um psíquico e médium. Cinco anos antes dos eventos do episódio piloto, Jane foi à televisão e disse que suas habilidades ajudaram a polícia a fazer o perfil de um serial killer chamado Red John. Este, então, furioso com a mentira, vingou-se matando a mulher e a filha de Patrick. Ele, então, juntou-se à equipe da Agente Teresa Lisbon (Robin Tunney) e utiliza sua alta capacidade de observação para ajudar a encontrar o assassino de sua família.<info> 
+<info>Patrick Jane é um consultor independente para o California Bureau of Investigation (CBI). Ex-golpista, antes disso ele fingia ser um psíquico e médium. Cinco anos antes dos eventos do episódio piloto, Jane foi à televisão e disse que suas habilidades ajudaram a polícia a fazer o perfil de um serial killer chamado Red John. Este, então, furioso com a mentira, vingou-se matando a mulher e a filha de Patrick. Ele, então, juntou-se à equipe da Agente Teresa Lisbon (Robin Tunney) e utiliza sua alta capacidade de observação para ajudar a encontrar o assassino de sua família.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -748,7 +773,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGnuYyAGbn4EKxIj61JYIlNJmim.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/True%20Detective</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/8x4umpJVPgTplAmEIojVVYWAhum.jpg</fanart>
-<info>Durante dezessete anos, as vidas de dois detetives, Rust Cohle e Martin Hart, entrelaçam-se para dar conta da caçada a um serial killer no estado de Louisiana.<info> 
+<info>Durante dezessete anos, as vidas de dois detetives, Rust Cohle e Martin Hart, entrelaçam-se para dar conta da caçada a um serial killer no estado de Louisiana.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -764,7 +789,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ARQUIVO%20X</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/ucyQMoSTH5FkCcQl4G4rLMtRSsJ.jpg</fanart>
-<info>Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.<info> 
+<info>Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -781,7 +806,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COLD%20CASE</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/k9rXmhd01NHzan6o2usVu7ogbh9.jpg</fanart>
-<info>A obstinada e competente detetive Lilly Rush trabalha em casos arquivados no Departamento de Polícia da Filadélfia, retomando investigações de assassinatos não solucionados que ocorreram anos ou décadas antes.<info> 
+<info>A obstinada e competente detetive Lilly Rush trabalha em casos arquivados no Departamento de Polícia da Filadélfia, retomando investigações de assassinatos não solucionados que ocorreram anos ou décadas antes.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
@@ -798,7 +823,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8SLImCydfUztlfOFN2aOw1e4t9b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Sombra%20e%20Ossos</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg</fanart>
-<info>Forças sinistras tramam contra uma jovem militar quando ela revela um poder mágico capaz de unir seu mundo.<info> 
+<info>Forças sinistras tramam contra uma jovem militar quando ela revela um poder mágico capaz de unir seu mundo.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -815,7 +840,7 @@ channels>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nvMjQ2Ov0p2xv7lTuCQfU76KCz.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Harrow</externallink>        
 <fanart>https://www.themoviedb.org/t/p/original/hZ5jmAl7hhasN3cdovbvAQjy9YA.jpg</fanart>
-<info> O brilhante, pouco ortodoxo patologista forense Dr. Daniel Harrow (Ioan Gruffudd) está de volta! Acordando no hospital após o tiroteio quase fatal, Harrow está determinado a juntar o quebra-cabeça de quem o queria morto e os motivos.<info> 
+<info> O brilhante, pouco ortodoxo patologista forense Dr. Daniel Harrow (Ioan Gruffudd) está de volta! Acordando no hospital após o tiroteio quase fatal, Harrow está determinado a juntar o quebra-cabeça de quem o queria morto e os motivos.</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
@@ -2405,20 +2430,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
-<channels>
-<channel>
-<name>[COLOR blue]LA CASA DE PAPEL[/COLOR]</name> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg</thumbnail>     
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LACASADEPAPEL</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg</fanart>
-<info> 
 
-
-[COLOR deeppink]|[/COLOR] -AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>  
-</channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 <channels>
