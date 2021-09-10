@@ -1,19 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###################################################################################################################
 <channels>
 <channel>
@@ -65,11 +51,15 @@
 </channels>
 </channel>
 ###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]AGENDA PROIBIDA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tKjcU6BKcLN6GtjClKnTwuLj7KK.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1pZ3lQ530JRR_9izbFlEhcNVASpa0zx4GRbmTlAd0a58</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/m3NvwhIemvl8XMJWmKuntm9ZgeQ.jpg</fanart>
 <info>[B][COLOR yellow]Samantha Horton (Jennifer Love Hewitt) é uma fisioterapeuta e ex-miss de seu Estado. Seu marido, Rex (Teddy Sears), sofre uma lesão no trabalho e é forçado a parar de trabalhar. A família se afunda em dívidas e Samantha é obrigada a procurar um emprego.Desesperada, ela aceita um trabalho temporário como massagista em um estabelecimento da cidade. Rapidamente, ela descobre que o local oferece serviços especiais e que seus clientes esperam mais do que apenas uma massagem.Filme baseado em fatos veridícos. Indicado ao Globo de Ouro de melhor atriz para Jennifer Love Hewitt. [/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
@@ -101,6 +91,7 @@
 </channels>
 </channel>
 ###################################################################################################################
+<channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]A MEDIUM[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkOlyyf3Ni03jAuuLKNfu58uV8x.jpg</thumbnail>
@@ -219,12 +210,6 @@
 <info>[B][COLOR yellow][/COLOR]O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/B]</info>
 </channels>
 </channel>
-###################################################################################################################
-
-
-
-
-
 
 
 
