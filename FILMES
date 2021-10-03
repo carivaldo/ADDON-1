@@ -94,7 +94,7 @@
  
 <channels>
 <channel>
-<name>[COLOR red]COMEDIA[/COLOR]</name>   
+<name>[COLOR red]COMEDIA[/COLOR]</name>    
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ER5NBqdSuxnmOzAqmm9OGNGg7g.jpg</thumbnail>                          
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COMEDIA</externallink>                       
 <fanart>https://image.tmdb.org/t/p/original/bGePh6CyZIzrueokpvyijWeBZ4X.jpg</fanart>   
