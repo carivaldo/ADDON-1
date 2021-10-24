@@ -32,7 +32,7 @@
 
 <item>
 <title>Canal Ricos HD</title>
-<link>https://stmv1.srvif.com/canalricos/canalricos/playlist.m3u8</link>
+<link>https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/LnEW3oj.jpg</thumbnail>
 </item>
 
@@ -49,23 +49,10 @@
 </item>
 
 <item>
-<title>Film&Arts </title>
+<title>Film&Arts HD </title>
 <link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
 </item>
-
-<item>
-<title>Fox Sports </title>
-<link>https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15</link>
-<thumbnail>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/03/fox-sports-16x9.png</thumbnail>
-</item>
-
-<item>
-<title>Globo News HD</title>
-<link>http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8</link>
-<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2020/10/Globnews.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Globo HD</title>
@@ -81,18 +68,6 @@
 </item>
 
 <item>
-<title>MTV HD</title>
-<link>http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://ogimg.infoglobo.com.br/in/5809102-bd3-db0/FT1086A/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>MTV HD 2</title>
-<link>http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
-<thumbnail>https://ogimg.infoglobo.com.br/in/5809102-bd3-db0/FT1086A/mtv.png</thumbnail>
-</item>
-
-<item>
 <title>MTV LIVE HD</title>
 <link>http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png</thumbnail>
@@ -102,6 +77,18 @@
 <title>Music Box Brasil HD</title>
 <link>http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png</thumbnail>
+</item>
+
+<item>
+<title>Pluto TV Kids HD</title>
+<link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a485afc1-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f06c0425-e35d-4fc7-ac76-acb6635b08c9&userId=&serverSideAds=true</link>
+<thumbnail>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/08/pluto-tv-plataforma-gratuita.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pluto TV Natureza HD</title>
+<link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true</link>
+<thumbnail>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/08/pluto-tv-plataforma-gratuita.jpg</thumbnail>
 </item>
 
 <item>
@@ -150,12 +137,6 @@
 <title>Rede Familia HD </title>
 <link>https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>https://tvpop.com.br/wp-content/uploads/2021/02/Rede-Familia.png</thumbnail>
-</item>
-
-<item>
-<title>RedeTV HD </title>
-<link>https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8</link>
-<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
 </item>
 
 <item>
