@@ -538,10 +538,10 @@
 
 <item> 
 1   <title>[B][COLOR blue] Batman vs Superman: A Origem da Justiça - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$nome=RESOLUÇÃO 4k</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B3F85B8FCAA58561969DE6950C1508DE0A37075$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91F6A046783EA2E0DBDC379B3BD86C7CFE999DD8$nome=RESOLUÇÃO 720P</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB89C3D4E973FBC807F2F502FE37966A4257DA75$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B2878D1604BE318FD8068D321827F7E8EEFB013$nome=[COLOR lime]1080P IMAX [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e2e002ab009e4c225aecdb211062435281c111$nome=[COLOR lime]1080P REMUX [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91F6A046783EA2E0DBDC379B3BD86C7CFE999DD8$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj3CX2GT2A5MR6WnBWs4F4r7k6n.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/dasEWdFNSobYvY8xWcfz3z02kTu.jpg</fanart> 
@@ -551,9 +551,9 @@
 
   <item> 
 1   <title>[B][COLOR blue] Liga da Justiça - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$nome=RESOLUÇÃO 4k</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$nome=RESOLUÇÃO 720P</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4175d53ecc90d87f9a493ec963763bcdaa171ddd$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6BBA8558DB9F1D4643145BA60ADCD54BC0920B7$nome=[COLOR lime]1080P IMAX [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:591290D79B4608B11C7C8E4914B7FCC397C8CD0C$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>    
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5IpGz6M2QiH4MMWsVj4rfO6iyF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg</fanart>
