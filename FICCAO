@@ -325,7 +325,6 @@
   
      <item> 
 1   <title>[B][COLOR blue] O Exterminador do Futuro 4: A Salvação - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12A88692A98ED651D786CBD45138FB50FACC53FC</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -335,7 +334,6 @@
   
      <item> 
 1   <title>[B][COLOR blue] O Exterminador do Futuro 5: Gênesis - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1DC9EBA5842D9878D10F7CA7D86D63BC8EC008E</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -345,7 +343,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] O Exterminador do Futuro: Destino Sombrio - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618E0C0D509F687140FCB2EE364330870BA$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D8DCA04BC1AD0365D1E00E51EB02CBC7A74B725$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2F3B07683C55E0AA50DD4DC308315366D39F3A$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
