@@ -7,18 +7,6 @@
 </item>
 
 <item>
-<title>Anime TV HD </title>
-<link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
-<thumbnail>https://multicanaishd.online/wp-content/uploads/2021/07/ANIME-TV.png</thumbnail>
-</item>
-
-<item>
-<title>Anime TV 2 HD </title>
-<link>https://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8</link>
-<thumbnail>https://multicanaishd.online/wp-content/uploads/2021/07/ANIME-TV.png</thumbnail>
-</item>
-
-<item>
 <title>Arte 1 HD</title>
 <link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail>
@@ -43,6 +31,42 @@
 </item>
 
 <item>
+<title>Comedy Central [ OPÇÃO 1 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central [ OPÇÃO 2 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central [ OPÇÃO 3 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_3.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
+</item>
+
+<item>
+<title>E! [ OPÇÃO 1 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/eentertainmentb.png</thumbnail>
+</item>
+
+<item>
+<title>E! [ OPÇÃO 2 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_2.m3u8</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/eentertainmentb.png</thumbnail>
+</item>
+
+<item>
+<title>E! [ OPÇÃO 3 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_3.m3u8</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/eentertainmentb.png</thumbnail>
+</item>
+
+<item>
 <title>Film&Arts HD</title>
 <link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
@@ -55,16 +79,21 @@
 </item>
 
 <item>
-<title>Globo HD</title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
+<title>Lifetime [ OPÇÃO 1 ]</title>
+<link>http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_1.m3u8</link>
+<thumbnail>https://unity-img.tbxapis.com/v0/images/85868c6f5d1ff3e0b94d21e97cd6662d/section/5e5d19387a3ff049eaf4849f/4f12b95f92b0ef310be380695e0cf02f/img.png</thumbnail>
 </item>
 
+<item>
+<title>Lifetime [ OPÇÃO 2 ]</title>
+<link>http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8</link>
+<thumbnail>https://unity-img.tbxapis.com/v0/images/85868c6f5d1ff3e0b94d21e97cd6662d/section/5e5d19387a3ff049eaf4849f/4f12b95f92b0ef310be380695e0cf02f/img.png</thumbnail>
+</item>
 
 <item>
-<title>Globo RJ HD</title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
+<title>Lifetime [ OPÇÃO 3 ]</title>
+<link>http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8</link>
+<thumbnail>https://unity-img.tbxapis.com/v0/images/85868c6f5d1ff3e0b94d21e97cd6662d/section/5e5d19387a3ff049eaf4849f/4f12b95f92b0ef310be380695e0cf02f/img.png</thumbnail>
 </item>
 
 <item>
@@ -77,6 +106,24 @@
 <title>Music Box Brasil HD</title>
 <link>http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jr [ OPÇÃO 1 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s1600/Nick%2BJr.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jr [ OPÇÃO 2 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s1600/Nick%2BJr.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jr [ OPÇÃO 3 ]</title>
+<link>http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s1600/Nick%2BJr.png</thumbnail>
 </item>
 
 <item>
@@ -94,12 +141,6 @@
 <item>
 <title>Record News HD</title>
 <link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
-<thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail>
-</item>
-
-<item>
-<title>Record News SD</title>
-<link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail>
 </item>
 
@@ -146,7 +187,7 @@
 </item>
 
 <item>
-<title>SBT PE HD</title>
+<title>SBT PE SD</title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8</link>
 <thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail>
 </item>
