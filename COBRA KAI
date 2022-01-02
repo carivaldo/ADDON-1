@@ -35,7 +35,6 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] Cobra Kai  [COLOR red] - [COLOR red][3ªTEMPORADA][/COLOR][/B]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1	<fanart>https://image.tmdb.org/t/p/original/n3MdduiFb1BZUnE9T172Yo3lNxC.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJVe03OZpwPF9muMGWmpPzjisYv.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
@@ -43,7 +42,6 @@
 
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Cobra Kai - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</maglink>
 1    	<link>plugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:8a0d92e5a2418f51ed2b9713578999a56336b80e</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJVe03OZpwPF9muMGWmpPzjisYv.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -52,6 +50,21 @@
 </item>	
 
 
+****************************************************************************************************************************
+<item>
+<title>[B][COLOR red]• [COLOR blue] Cobra Kai  [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/35SS0nlBhu28cSe7TiO3ZiywZhl.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yR9a9yZ1kAW0Xbl4NxQxPSMteEg.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tournament de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.[COLOR red][/COLOR][/B]</info
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Cobra Kai - [COLOR blue] [COLOR red](2021) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KDBK5CB6NIRIHTHR7SWQ3COVONPVPZZW</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yR9a9yZ1kAW0Xbl4NxQxPSMteEg.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/35SS0nlBhu28cSe7TiO3ZiywZhl.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tournament de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.[COLOR red][/COLOR][/B]</info>	
+</item>
 
 
 
