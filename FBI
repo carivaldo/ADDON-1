@@ -5,8 +5,27 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Primeira temporada completa da série. Acompanhe o funcionamento interno do escritório de investigação federal de Bureau, localizado em Nova Iorque. No dia dia dos funcionários deste escritório tudo pode acontecer. Os episódios são adicionados semanalmente conforme a exibição.[/COLOR][/B]</info>		
-	
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%201%20TEMPORADA</externallink>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e484b011c6ae870d0c65feb73ba303adc02b4c44$nome=[COLOR lime] FBI S01E01 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4494D914CA371281281C28B150F20E715C965F4$nome=[COLOR lime] FBI S01E02 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01aaeb0aee2c05208dab241c9e1d2b2703e3f07$nome=[COLOR lime] FBI S01E03 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26ce798f60aa837c10b43bf601108eb59189a5c1$nome=[COLOR lime] FBI S01E04 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db6bb6c1231f2c53845533409338f643fd25aa5b$nome=[COLOR lime] FBI S01E05E06 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20989eafa8af558c52b1aa28cfc408b9ec99c907$nome=[COLOR lime] FBI S01E07 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7de3fe74b4864f792172fb6a6a4a4538f552a430$nome=[COLOR lime] FBI S01E08 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:742d772372c617beac785a8dfcc341b43fdbbeb1$nome=[COLOR lime] FBI S01E09 720P[/COLOR]</link>   
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa7c59b9ccbf22e1118c4edd0dfc1270e4e566e8$nome=[COLOR lime] FBI S01E10 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1aff3ec5db59d12cb44d7b670b225c9d655ae34$nome=[COLOR lime] FBI S01E11 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd3ff42259f074dda6b1fb17cb495d611a48edb4$nome=[COLOR lime] FBI S01E12 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fe5c3951697c53b2739b568f90c895702cbb5b$nome=[COLOR lime] FBI S01E13 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3bfb67a0a453243afd1022b0bd78ed0f3c8c78c$nome=[COLOR lime] FBI S01E14 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad92f8ef7fe77faa2fdf4fe329aad99f846cd160$nome=[COLOR lime] FBI S01E15 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d395a3bf6ecfe0e6c13b0c60a4476461afd55a4d$nome=[COLOR lime] FBI S01E16 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A1D0285C4815660B1DFEDD64E6ECDBDC86203D3$nome=[COLOR lime] FBI S01E17 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62be9bf204b9d51ca09f708dc872551b048ac076$nome=[COLOR lime] FBI S01E18 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20824e7d466bfa81bd68cd427029f4270c130b22$nome=[COLOR lime] FBI S01E19 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6473f2919b216f852325b10a7b6220ad041f723$nome=[COLOR lime] FBI S01E20 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3b6273ac056078ab4a728493a15a0e5d5228d9a$nome=[COLOR lime] FBI S01E21 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb76a980fe17cd9e298cbfac72087d19f3c157b1$nome=[COLOR lime] FBI S01E22 720P[/COLOR]</link>	
 	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</thumbnail>
 	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 	<fanart>https://image.tmdb.org/t/p/original/R94f82iRoi5nXhXnRfz42f6dKV.jpg</fanart>
@@ -22,9 +41,23 @@
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Segunda temporada dublada e dual áudio. A CBS volta com sua série FBI para a segunda temporada. Acompanhe o funcionamento interno do escritório de investigação federal de Bureau, localizado em Nova Iorque. No dia a dia dos funcionários deste escritório tudo pode acontecer.[/COLOR][/B]</info>
-
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI%202%20TEMPORADA</externallink>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:438e26fee07a95164973cff1c24289ffe2f0c1ca$nome=[COLOR lime] FBI S02E01 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1de147d2ea7a64184d34ddacdb96128a05da25be$nome=[COLOR lime] FBI S02E02 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e257dfcdee6522fd6efbee1b72ae63f659f7c91$nome=[COLOR lime] FBI S02E03 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0edad454bdd8fe240caff0351b5b9b7d72aa9061$nome=[COLOR lime] FBI S02E04 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99916636a9c4f4a7443bb895df4e0a2481ab7272$nome=[COLOR lime] FBI S02E05 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7971c59073b09d8d9787cd4d8187f591e565c674$nome=[COLOR lime] FBI S02E06 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961f234749de8529bf51a43f87d6fcfcb7ac3405$nome=[COLOR lime] FBI S02E07 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96b41049cb856de3f4c5a69ff9534420d51ced05$nome=[COLOR lime] FBI S02E08 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46a735779987eaecf2bfd09c4da10dc5f3e0339f$nome=[COLOR lime] FBI S02E09 720P[/COLOR]</link>   
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3eb075c3fa94af02d9d4af50f254fab2f69d993$nome=[COLOR lime] FBI S02E10 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ba8ddcc8d53638e3ef0ccf18234e52b240d5fd4$nome=[COLOR lime] FBI S02E11 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a944ea4ed9e5344be06daa24db41f3eb8f4f0e8$nome=[COLOR lime] FBI S02E12E13 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50509625a5b7b6a0dbff880189764d704f5d8b19$nome=[COLOR lime] FBI S02E14 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd6a7718a5955bd579ac2ea9acdb0a73dc0b767$nome=[COLOR lime] FBI S02E15 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2de53363a71feb5887f6f7b128f7bcff105f63f5$nome=[COLOR lime] FBI S02E16 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5426fcfcc8c7d8f8f8631b9b51e857d913f6b1f9$nome=[COLOR lime] FBI S02E17 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c514e949c195028ffc258b91313b7a852a0b9f9d$nome=[COLOR lime] FBI S02E18E19 720P[/COLOR]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg</thumbnail> 
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/nK4oTNaKJicXSKZxdITCkTM6R4K.jpg</fanart>
