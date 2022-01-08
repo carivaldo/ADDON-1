@@ -1,4 +1,30 @@
 
+
+
+
+
+
+
+
+
+
+
+
+channels>
+<channel>
+<name>[COLOR blue]FBI[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
+<info>O escritório do FBI em Nova York traz todos os seus talentos, intelecto e conhecimento técnico nos principais casos, a fim de manter sua cidade e o país seguros.<info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
 channels>
 <channel>
 <name>[COLOR blue]COBRA KAI[/COLOR]</name> 
@@ -1765,20 +1791,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
-channels>
-<channel>
-<name>[COLOR blue]FBI[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FBI</externallink> 
-<fanart>https://image.tmdb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
-<info>O escritório do FBI em Nova York traz todos os seus talentos, intelecto e conhecimento técnico nos principais casos, a fim de manter sua cidade e o país seguros.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
+  
 
 
 
