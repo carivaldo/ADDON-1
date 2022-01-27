@@ -225,11 +225,17 @@
 
 ***************************************************************************************************************************************
 
-   <item> 
-1   <title>[B][COLOR blue] - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeafb71f09db8abe517546576db294db12715ce</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]A épica jornada dos irmãos Winchester finalmente chega ao fim na última temporada de Supernatural. Sam (Jared Padalecki) e Dean (Jensen Ackles) lutou com demônios e anjos, criaturas místicas e monstros, numa aparentemente inacabável batalha para salvar o mundo. Mas agora, eles terão que enfrentar o próprio Deus (Rob Benedict)...[/COLOR][/B]</info>	
-  </item> 
+<item>
+<title>[B][COLOR red]• [COLOR blue] SOBRENATURAL [COLOR red] - [COLOR red][15ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/jmdb1L2ioHz5eC0yQJpiSylNk97.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:A épica jornada dos irmãos Winchester finalmente chega ao fim na última temporada de Supernatural. Sam (Jared Padalecki) e Dean (Jensen Ackles) lutou com demônios e anjos, criaturas místicas e monstros, numa aparentemente inacabável batalha para salvar o mundo. Mas agora, eles terão que enfrentar o próprio Deus (Rob Benedict)...[COLOR red][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] SOBRENATURAL - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeafb71f09db8abe517546576db294db12715ce9</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://www.themoviedb.org/t/p/original/jmdb1L2ioHz5eC0yQJpiSylNk97.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:A épica jornada dos irmãos Winchester finalmente chega ao fim na última temporada de Supernatural. Sam (Jared Padalecki) e Dean (Jensen Ackles) lutou com demônios e anjos, criaturas místicas e monstros, numa aparentemente inacabável batalha para salvar o mundo. Mas agora, eles terão que enfrentar o próprio Deus (Rob Benedict)...[COLOR red][/COLOR][/B]</info>	
+</item>
