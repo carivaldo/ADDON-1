@@ -2,14 +2,12 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/atLyBlRj1lEcDnDOvmfoazG9HAA.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR]Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.[/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Princesa Espanhola - [COLOR blue] [COLOR red](2019) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4658AC49CFAF2431C7E96E60AA8AEF10EEA910</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -21,36 +19,18 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
-1 <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://image.tmdb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fanart>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CcnnDZf2ievdquCa2Jh8yIBtPD.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.[/COLOR][/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Princesa Espanhola - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-  <maglink>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>   
-  <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] 9-1-1 - [COLOR blue] [COLOR red](2020) [COLOR firebrick] SERIES !!![/B][/COLOR]</title
-  <item>
-  <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola[COLOR red] - [COLOR red][EP 01][/COLOR][/B]</title>
-   <link>magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9</link>
-    </item>
-    <item>
-  <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola[COLOR red] - [COLOR red][EP 02][/COLOR][/B]</title>
-  <link>magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c</link>
-   </item>
-   <item>
-  <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola[COLOR red] - [COLOR red][EP 03][/COLOR][/B]</title>
- <link>magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1</link>
-  </item>
-  <item>
- <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola[COLOR red] - [COLOR red][EP 05][/COLOR][/B]</title>
- <link>magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7</link>
-  </item>
-  <item>
- <title>[B][COLOR red]• [COLOR blue] A Princesa Espanhola[COLOR red] - [COLOR red][EP 05][/COLOR][/B]</title>
- <link>magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01</link>
- </item>
- 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9$nome=[COLOR lime] A Princesa Espanhola S02E01 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c$nome=[COLOR lime] A Princesa Espanhola S02E02 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1$nome=[COLOR lime] A Princesa Espanhola S02E03 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7$nome=[COLOR lime] A Princesa Espanhola S02E04 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01$nome=[COLOR lime] A Princesa Espanhola S02E05 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01$nome=[COLOR lime] A Princesa Espanhola S02E05A06 720P[/COLOR]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CcnnDZf2ievdquCa2Jh8yIBtPD.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://image.tmdb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fanart>
