@@ -6,9 +6,36 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] the Walking Dead [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20Walking%20Dead</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/qgEqN2evfxGhXyIjIpMdKSc1kF6.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[COLOR red][/COLOR][/B]</info>  
 
 
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+channels>
+<channel>
+<name>[COLOR blue] Star Trek: Discovery [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ihvG9dCEnVU3gmMUftTkRICNdJf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Star%20Trek%3A%20Discovery</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/zAdomwa8FtBBr7RsUw6ghtfcBq1.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Nova série da franquia Star Trek, dividida em antologias e situada entre o filme Jornada nas Estrelas VI - A Terra Desconhecida, estrelado por William Shatner e Leonard Nimoy, e a série Jornada nas Estrelas: A Nova Geração, capitaneada por Patrick Stewart.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
@@ -411,23 +438,6 @@ channels>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-channels>
-<channel>
-<name>[COLOR blue] Star Trek: Discovery [/COLOR]</name>   
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ihvG9dCEnVU3gmMUftTkRICNdJf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Star%20Trek%3A%20Discovery</externallink>        
-<fanart>https://www.themoviedb.org/t/p/original/zAdomwa8FtBBr7RsUw6ghtfcBq1.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Nova série da franquia Star Trek, dividida em antologias e situada entre o filme Jornada nas Estrelas VI - A Terra Desconhecida, estrelado por William Shatner e Leonard Nimoy, e a série Jornada nas Estrelas: A Nova Geração, capitaneada por Patrick Stewart.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels>
 
@@ -1721,22 +1731,6 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-
-channels>
-<channel>
-<name>[COLOR blue] the Walking Dead [/COLOR]</name>   
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/the%20Walking%20Dead</externallink>        
-<fanart>https://www.themoviedb.org/t/p/original/qgEqN2evfxGhXyIjIpMdKSc1kF6.jpg</fanart>
-<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.<info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 channels>
 <channel>
 <name>[COLOR blue]DESIGNATED SURVIVOR [/COLOR]</name>   
@@ -2907,10 +2901,10 @@ channels>
 <channels>
 <channel>
 <name>[COLOR blue]THE 100[/COLOR]</name> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg</thumbnail>  
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/THE100</externallink>
-<fanart>https://image.tmdb.org/t/p/original/sIWQkAHMsOfObyGxlgllj8SzMFb.jpg</fanart> 
-<info>
+<fanart>https://www.themoviedb.org/t/p/original/o5f9cu34o8mYMmujCYoCvJjV3MC.jpg</fanart> 
+<info>[B][COLOR red] SINOPSE:Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta. [COLOR red][/COLOR][/B]</info>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>  
