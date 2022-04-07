@@ -397,8 +397,9 @@
 
 <item>
   <title>[B][COLOR blue] Star Trek - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D57AE6F98B598E1DC6E4F02A89CD10608769AC$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae89a700595f547404ee14447b3065ac33eaf0f0$nome=[COLOR lime] 1080P[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e5a38766863d75583a3b67ddba828a568d4000d$nome=[COLOR lime] 720P [/COLOR] - DUBLADO</link>
 1 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 1 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg</thumbnail>
 1 <fanart>https://image.tmdb.org/t/p/original/hqzIuGbwAYMKljhoXwtFFfOrg1J.jpg</fanart>
