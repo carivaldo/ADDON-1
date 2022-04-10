@@ -1,7 +1,3 @@
-
-
-
-
 channels>
 <channel>
 <name>[COLOR blue] Pantanal [/COLOR]</name>
@@ -16,6 +12,53 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Chicago Fire (2012)[/COLOR]</name>    
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Fire</externallink>  
+<fanart>https://www.themoviedb.org/t/p/original/W5geO8tq68ng4TsXyZ81phcPiz.jpg</fanart>
+<info>Uma visão do limite do seu lugar na vida de heróis do cotidiano comprometidos com uma das profissões mais nobres da América. Para os bombeiros, esquadrão de resgate e paramédicos do Chicago Firehouse 51, nenhuma ocupação é mais estressante ou perigosa, mas tão gratificante e emocionante. Esses homens e mulheres corajosos estão entre a elite que forja de cabeça em perigo quando todo mundo está correndo para o outro lado e cujas ações fazem a diferença entre vida e morte.<info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>          
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Chicago PD (2014)[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20P.D.</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/f9eLOgAiN8x7nFXbedYxb3KCKxR.jpg</fanart>
+<info>Um drama policial fascinante sobre os homens e mulheres do Distrito 21 do Departamento de Polícia de Chicago que colocaram tudo em risco para servir e proteger sua comunidade. O Distrito 21 é composto por dois grupos distintos: os policiais uniformizados que patrulham o ritmo e enfrentam os crimes de rua da cidade e a Unidade de Inteligência que combate os principais delitos da cidade - crime organizado, tráfico de drogas, assassinatos de alto nível e além.<info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>      
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+channels>
+<channel> 
+<name>[COLOR blue]Chicago Med (2015)[/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mFhW6fJlapqq3cmQjxcG5h4KFa.jpg</thumbnail>   
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Med</externallink>  
+<fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
+<info>Uma emoção emocionante percorre o caos diário do hospital mais explosivo da cidade e a corajosa equipe de médicos que o mantém unido. Eles enfrentarão casos novos e únicos inspirados por eventos atuais, forjando relacionamentos de fogo no pandemônio da sala de emergência.<info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>  
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 
 channels>
@@ -452,52 +495,6 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR blue]Chicago PD (2014)[/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20P.D.</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/f9eLOgAiN8x7nFXbedYxb3KCKxR.jpg</fanart>
-<info>Um drama policial fascinante sobre os homens e mulheres do Distrito 21 do Departamento de Polícia de Chicago que colocaram tudo em risco para servir e proteger sua comunidade. O Distrito 21 é composto por dois grupos distintos: os policiais uniformizados que patrulham o ritmo e enfrentam os crimes de rua da cidade e a Unidade de Inteligência que combate os principais delitos da cidade - crime organizado, tráfico de drogas, assassinatos de alto nível e além.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>      
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-
-<channels>
-<channel>
-<name>[COLOR blue]Chicago Fire (2012)[/COLOR]</name>    
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Fire</externallink>  
-<fanart>https://www.themoviedb.org/t/p/original/W5geO8tq68ng4TsXyZ81phcPiz.jpg</fanart>
-<info>Uma visão do limite do seu lugar na vida de heróis do cotidiano comprometidos com uma das profissões mais nobres da América. Para os bombeiros, esquadrão de resgate e paramédicos do Chicago Firehouse 51, nenhuma ocupação é mais estressante ou perigosa, mas tão gratificante e emocionante. Esses homens e mulheres corajosos estão entre a elite que forja de cabeça em perigo quando todo mundo está correndo para o outro lado e cujas ações fazem a diferença entre vida e morte.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>          
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-
-channels>
-<channel> 
-<name>[COLOR blue]Chicago Med (2015)[/COLOR]</name>   
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mFhW6fJlapqq3cmQjxcG5h4KFa.jpg</thumbnail>   
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Chicago%20Med</externallink>  
-<fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
-<info>Uma emoção emocionante percorre o caos diário do hospital mais explosivo da cidade e a corajosa equipe de médicos que o mantém unido. Eles enfrentarão casos novos e únicos inspirados por eventos atuais, forjando relacionamentos de fogo no pandemônio da sala de emergência.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>  
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 channels>
 <channel>
