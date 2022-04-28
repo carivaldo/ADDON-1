@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD LEGENDADO" tvg-logo="http://c2n.one:80/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="LEGENDADOS",STAR CHANNEL HD LEGENDADO
-http://51.222.249.13:80/Kei77la/k22g07C77/417497
 #EXTINF:-1 tvg-id="" tvg-name="24 NEWS" tvg-logo="https://iconape.com/wp-content/files/eb/130963/svg/130963.svg" group-title="NOTICIAS",24 NEWS
 http://51.222.249.13:80/Kei77la/k22g07C77/396811
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FULLHD" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="FILMES E SERIES",A&E FULLHD
