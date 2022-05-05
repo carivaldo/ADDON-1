@@ -3,7 +3,21 @@
 
 
 
+<channels>
+<channel>
+<name>[COLOR blue]NARCO [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARCO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Uma crônica corajosa da guerra contra os cartéis de drogas infame e violentos da Colômbia.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 channels>
@@ -4015,23 +4029,6 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-
-
-<channels>
-<channel>
-<name>[COLOR blue]NARCO [/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg</thumbnail>  
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NARCO</externallink>
-<fanart>https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Uma crônica corajosa da guerra contra os cartéis de drogas infame e violentos da Colômbia.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 channels>
 <channel>
