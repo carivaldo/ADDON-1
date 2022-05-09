@@ -24,7 +24,7 @@
 <fanart>https://image.tmdb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/original/wNo0BJnfIoXPHtbXhbgvu1UTsBV.jpg</thumbnail>
                                                                                                                  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:667B87679EA9C3F5FE67BA92888B935B90B2FAB4$nome=[COLOR lime] Blindspot 720P EP01[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7B5BF9F7A157D51EC614B215A05929AE2B5F4C$nome=[COLOR lime] Blindspot 720P EP01[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879$nome=[COLOR lime] Blindspot 720P EP02[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5CB98D585034C234162C99ED9867CF9498CA709$nome=[COLOR lime] Blindspot 720P EP03[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BED4CEF93884E633115A306816F04D48AE7A42B$nome=[COLOR lime] Blindspot 720P EP04[/COLOR]</link>
@@ -33,7 +33,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E96C0E5C01868521E736603363FEF3EEC3DCE588$nome=[COLOR lime] Blindspot 720P EP08AO09[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B3390BBC00BB353915E5009B99D512CDE2D14C6$nome=[COLOR lime] Blindspot 720P EP10AO12[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E10997D7C9C3BD1EEBB97856D898EC8B1383757A$nome=[COLOR lime] Blindspot 720P EP13AO15[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342C9298390AA4207101D770C5DF0F4C80C64E17EP17AO18$nome=[COLOR lime] Blindspot 720P EP16[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a23f23c88a61f7e44b0d20c35985cad49dfb238$nome=[COLOR lime] Blindspot 720P EP16[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C9D621EDDFCF54597EA1B7D1DE9FB773AA03D18$nome=[COLOR lime] Blindspot 720P EP17AO18[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875B7B97C53B553062EE7D2D53C35DC01BFA1A20$nome=[COLOR lime] Blindspot 720P EP19[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4985A40BFE78B9A9B6D855B2E4F978F5835EAB56$nome=[COLOR lime] Blindspot 720P EP20[/COLOR]</link>
@@ -86,11 +86,11 @@
 **************************************************************************************************************************** 
 <item>
 <title>[B][COLOR red]• [COLOR blue]  Blindspot   [COLOR red] - [COLOR red][4ªTEMPORADA][/COLOR][/B]</title>
- <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 <fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/original/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red] Os planos de Remi acabam colocando ela e Weller (Sullivan Stapleton) em perigo. A equipe do FBI faz operações especiais antiterroristas. Algumas tatuagens de Jane (Jaimie Alexander) ameaçam a segurança de todo o grupo.[/COLOR][/B]</info>		
+
 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2018) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
 <fanart>https://image.tmdb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
@@ -105,7 +105,8 @@
  <title>[B][COLOR red]• [COLOR blue] Blindspot  [COLOR red] - [COLOR red][5ªTEMPORADA][/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-<info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>		
+<info>[B][COLOR red] SINOPSE:[COLOR red]Série renovada para sua quinta e última temporada.[/COLOR][/B]</info>	
+
 <title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Blindspot  - [COLOR blue] [COLOR red](2015) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg</thumbnail>
