@@ -337,7 +337,8 @@
 
 <item>
 <title>[B][COLOR blue] Tombstone - [COLOR red](1993)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86C404D20243C549DACA92AA4A71F8CC7611F063</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ubvty62adol2yhoauqg37xtnvioltmll$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86C404D20243C549DACA92AA4A71F8CC7611F063$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY  720P[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMhyd8nENww6aNRH3ePeVLpgv82.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sNajKmUsGcxYJf2JFEzyDFZI6db.jpg</fanart>
 <info>O lendário marechal Wyatt Earp, agora um pistoleiro cansado, se junta a seus irmãos Morgan e Virgil para buscar sua fortuna coletiva na próspera cidade mineira de Tombstone. Mas Earp é forçado a vestir um distintivo novamente e obter ajuda de seu conhecido colega Doc Holliday, quando uma gangue de bandidos e ladrões renegados começa a aterrorizar a cidade.</info>
@@ -474,6 +475,8 @@
 1   <title>[B][COLOR blue] O Cavaleiro Solitário - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa2ed926509d9ff7a14d7888648ee3459beb1693$nome=[COLOR lime] 720P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66d089578b38615a545b3ecb409e7bdefc36654$nome=[COLOR lime] 1080P[/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232eb075a0c23ef527f53c026e3240f38ab8679f$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY  720P[/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/esxoiZoDQydeyEX1tJcSbuigI3a.jpg</fanart>
