@@ -1,14 +1,12 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] A Rainha do Sul  [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]A trama gira em torno de Tereza Mendoza (Braga), uma mexicana que precisa fugir do país quando seu namorado, um traficante, é assassinado. Morando nos EUA, ela coloca em prática um plano para acabar com o cartel de drogas que a persegue, mas durante esse meio tempo, ela se torna a nova líder do cartel.[/COLOR][/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2016) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8D7F85C36D534109E9771CD54E3091B7FC34DAE</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
@@ -20,14 +18,12 @@
 ****************************************************************************************************************************
 <item>
 <title>[B][COLOR red]• [COLOR blue] A Rainha do Sul  [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1	<fanart>https://www.themoviedb.org/t/p/original/yEYjKe5mTtBN85pptUYFwlTQvAT.jpg</fanart>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4O7aYNwHpo1x7yYGyKTHrR9B7L.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:[COLOR red]Baseada no best-seller La Reina Del Sur, de Arturo Pérez-Reverte, 'A Rainha do Sul' conta a poderosa história de Teresa Mendoza (Alice Braga), uma mulher que é forçada a correr e procurar refúgio na América depois que seu namorado, um traficante de drogas é inesperadamente assassinado no México.[/COLOR][/B]</info>		
 	
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] A Rainha do Sul - [COLOR blue] [COLOR red](2017) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDFEC0F25DBAE3D8218E0EBF285E5501E4E21971</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4O7aYNwHpo1x7yYGyKTHrR9B7L.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
