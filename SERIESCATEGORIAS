@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue]Dark[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DARCK</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/qDxuHO3gP0cvyxZUyLK78Hv1NMY.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.[COLOR red][/COLOR][/B]</info>
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 channels>
@@ -4513,24 +4526,6 @@ channels>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
-
-
-
-
-channels>
-<channel>
-<name>[COLOR blue]Dark[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DARCK</externallink>
-<fanart>https://image.tmdb.org/t/p/original/awJXnGjYN7O4fvquFN24sf8b3hq.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
