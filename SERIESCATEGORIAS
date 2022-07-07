@@ -5,6 +5,19 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Obi-Wan Kenobi [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Obi-Wan%20Kenobi</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Durante o reinado do Império Galáctico, o antigo Mestre Jedi Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.[COLOR red][/COLOR][/B]</info> 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -838,20 +851,6 @@ channels>
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] Obi-Wan Kenobi [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Obi-Wan%20Kenobi</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Durante o reinado do Império Galáctico, o antigo Mestre Jedi Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.[COLOR red][/COLOR][/B]</info> 
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
