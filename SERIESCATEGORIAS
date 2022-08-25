@@ -3,7 +3,19 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Sandman [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkR1cw83KSaFcokZ1Uzh8Ukm3Dd.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Sandman</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/ekh6XJwSpxOfWB84WCAwrGIygjs.jpg</fanart>
+<info>[B][COLOR yellow]SINOPSE:Uma rica mistura de mitos modernos e fantasia sombria em que ficção moderna, drama histórico e lendas estão perfeitamente interlaçadas, Sandman segue as pessoas e locais afetados por Morpheus, o Senhor dos Sonhos, enquanto ele conserta os cósmicos - e humanos - erros que fez durante sua vasta existência.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -128,19 +140,7 @@ channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-channels>
-<channel>
-<name>[COLOR blue] Sandman [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkR1cw83KSaFcokZ1Uzh8Ukm3Dd.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Sandman</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/ekh6XJwSpxOfWB84WCAwrGIygjs.jpg</fanart>
-<info>[B][COLOR yellow]SINOPSE:Uma rica mistura de mitos modernos e fantasia sombria em que ficção moderna, drama histórico e lendas estão perfeitamente interlaçadas, Sandman segue as pessoas e locais afetados por Morpheus, o Senhor dos Sonhos, enquanto ele conserta os cósmicos - e humanos - erros que fez durante sua vasta existência.[COLOR red][/COLOR][/B]</info> 
 
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
