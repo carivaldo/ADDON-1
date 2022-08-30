@@ -624,7 +624,9 @@
   
      <item> 
 1   <title>[B][COLOR blue] Transformers 2 - A Vingança dos Derrotados - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1DE73A5059C091BC20AE7D8187FB17A14FD4AAD</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1DE73A5059C091BC20AE7D8187FB17A14FD4AAD$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P SEM COMPACTAÇÃO[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:599d0012f65936d77cd9639667857ad0abbee63b$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P REMUX[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c396a150d94d7bc09dd80fe4c97b7be65d314652$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    7230P[/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AaiftqKuLJQu0cUrfpiPanR6l.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/6bCbeby0e1yzYbsKIvwP0Z71GdC.jpg</fanart>
@@ -633,8 +635,9 @@
   
      <item> 
 1   <title>[B][COLOR blue] Transformers 3 - O Lado Oculto da Lua - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E92B494DC41D5F79D48F11F023BB7D9DE5AB408</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D98CFCFFD4674C4FC142A8F962F41845C96DCD2$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P HSBS VERSÃO 3D[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E92B494DC41D5F79D48F11F023BB7D9DE5AB408$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P SEM COMPACTAÇÃO[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:151042f571e8ab618efa4706174f37da739b217f$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks8rCjVBG7clohwHVu0TIpEB4Q.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/c9SDd0yIb5gyqiOw9iTB87LEfP7.jpg</fanart>
@@ -643,8 +646,10 @@
   
      <item> 
 1   <title>[B][COLOR blue] Transformers 4 - A Era da Extinção  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5475BB82287EC632F81B1B8606C2946CC62C7CD</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19CC28471F91411F7B5213B769F81EBA966DFB41$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P HSBS VERSÃO 3D[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5475BB82287EC632F81B1B8606C2946CC62C7CD$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P REMUX[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBFFE88B196545C4E239828A11F6250124626FD7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4EE438116F1667F80404D8074D686E704A5AC4A$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEoefzCucns2lKgw5eH35EW3kjL.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/bqjYacBg6InMW1wPwyWR63cMLZN.jpg</fanart>
@@ -653,7 +658,12 @@
   
      <item> 
 1   <title>[B][COLOR blue] Transformers 5 - O Último Cavaleiro - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1997E1BC2660E77E6B43EB9883B50916618997D1</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4AC196176DD1FDA4FF7DFA348307F0D753A9887$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P HSBS VERSÃO 3D[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3FF1E42870E910BEF6329FC294F1267F1EBEF43E$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:786727E40EA14F533D1594E7BBE0F0F161A38C09$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P SEM COMPACTAÇÃO[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1997E1BC2660E77E6B43EB9883B50916618997D1$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 1080P SEM COMPACTAÇÃO IMAX[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6D036D3022EB85159938DCADDEAE0E63FA6795$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79FC338A15DC896B61B1E2E87572AF7926967562$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/kJQz1BeqfBPaZytHjG1KtecEFMO.jpg</fanart>
