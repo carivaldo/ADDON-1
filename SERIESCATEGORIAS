@@ -3,6 +3,20 @@
 
 channels>
 <channel>
+<name>[COLOR blue] A Casa do Dragão [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfdZInYaXVcQVkGcrcgcWAvw7cB.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Casa%20do%20Drag%C3%A3o</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/8yeHPjeLKPmJ7eKOdlj2gdbM1No.jpg</fanart>
+<info>[B][COLOR yellow]SINOPSE:Cerca de 300 anos antes dos eventos de Game of Thrones, acompanhamos uma saga que gira em torno da família Targaryen e seus dragões. Baseada no livro Fogo & Sangue de George R. R. Martin, A Casa do Dragão é um spin-off de Game of Thrones que narra a história de conquista de terras em Westeros, mais conhecida como a Dança dos Dragões. Situada mais de 200 anos antes dos eventos da série original, acompanhamos a guerra civil que acontece enquanto os meio-irmãos Aegon II (Tom Glynn-Carney) e Rhaenyra (Emma DArcy) almejam o trono após a morte do pai Viserys I (Paddy Considine). Rhaenyra é a filha mais velha, contudo, Aegon é o filho homem de um segundo casamento, o que acaba gerando uma crescente tensão entre dois clãs Targaryen sobre quem tem o verdadeiro direito ao trono. Como descrito em Game of Thrones, no tempo em que a família Targaryen dominava os 7 reinos, a casa era conhecida por seus imponentes dragões, que assim como a família, acabaram praticamente extintos após o conflito interno.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+channels>
+<channel>
 <name>[COLOR blue] True Blood [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37KATZAbNWAZ34yQHWxuoX8rjII.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/True%20Blood</externallink> 
@@ -153,22 +167,7 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] A Casa do Dragão [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfdZInYaXVcQVkGcrcgcWAvw7cB.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Casa%20do%20Drag%C3%A3o</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/8yeHPjeLKPmJ7eKOdlj2gdbM1No.jpg</fanart>
-<info>[B][COLOR yellow]SINOPSE:Cerca de 300 anos antes dos eventos de Game of Thrones, acompanhamos uma saga que gira em torno da família Targaryen e seus dragões. Baseada no livro Fogo & Sangue de George R. R. Martin, A Casa do Dragão é um spin-off de Game of Thrones que narra a história de conquista de terras em Westeros, mais conhecida como a Dança dos Dragões. Situada mais de 200 anos antes dos eventos da série original, acompanhamos a guerra civil que acontece enquanto os meio-irmãos Aegon II (Tom Glynn-Carney) e Rhaenyra (Emma DArcy) almejam o trono após a morte do pai Viserys I (Paddy Considine). Rhaenyra é a filha mais velha, contudo, Aegon é o filho homem de um segundo casamento, o que acaba gerando uma crescente tensão entre dois clãs Targaryen sobre quem tem o verdadeiro direito ao trono. Como descrito em Game of Thrones, no tempo em que a família Targaryen dominava os 7 reinos, a casa era conhecida por seus imponentes dragões, que assim como a família, acabaram praticamente extintos após o conflito interno.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
+ 
 channels>
 <channel>
 <name>[COLOR blue] O Senhor dos Anéis: Os Anéis de Poder [/COLOR]</name>
