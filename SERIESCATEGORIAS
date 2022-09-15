@@ -3,7 +3,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] BETWEEN [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MvJDbbgG3xUSsFRG9i1uG6rxAe.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Between</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/xOJS5S4MzfNkVTKJmZkazQO9pHL.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Todos os habitantes acima de 21 anos de uma cidade são mortos por uma misteriosa epidemia. Quando o governo federal declara o isolamento e quarentena do entorno da cidade, as crianças e adolescentes ficam à deriva e precisam encontrar soluções num vácuo de autoridade e normalidade.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
