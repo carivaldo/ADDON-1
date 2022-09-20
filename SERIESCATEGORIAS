@@ -7,7 +7,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Outcast [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6ZCpAPDTAHuNxBGq5nU4nqpfYA.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Outcast</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/gcWImj7xkfmsEb8UEA1w4VZwbQX.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:A trama de Outcast acompanha Kyle Barnes, um homem que é atormentado por uma possessão desde a infância. Agora adulto, ele embarca em uma jornada espiritual para encontrar respostas - mas o que ele descobre pode significar o fim da vida na Terra como a conhecemos.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
