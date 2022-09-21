@@ -6,7 +6,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Projeto Livro Azul [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqrzjT5nc7mTD5IKVMLRhLeyzgD.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Projeto%20Livro%20Azul</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/A76QbhHmUzWJsZ9hdBVCjkCrGjJ.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Dr. J. Allen Hynek, um astrofísico renomado, é recrutado pelo governo para liderar o Projeto Livro Azul. O objetivo desta missão, que foi patrocinada pela Força Aérea dos Estados Unidos, é investigar fenômenos misteriosos relacionados ao aparecimento de objetos voadores não identificados (OVNI) em território estadunidense entre os anos de 1947 e 1960.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
