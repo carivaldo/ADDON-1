@@ -5,9 +5,9 @@
 <channels>
 <channel>
 <name>[COLOR red]LANCAMENTOS[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx7xg1xfIlBZlZ89Dd43bo3cwBM.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LANCAMENTO</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg</fanart>   
+<fanart>https://www.themoviedb.org/t/p/original/698FjyzLdpgXmUSr63LaRwblTmx.jpg</fanart>   
 <info>
 
 [COLOR deeppink]|[COLOR blue] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
@@ -34,7 +34,7 @@
 <channels>    
 <channel> 
 <name>[COLOR red]AVENTURA [/COLOR]</name>      
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</thumbnail>      
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg</thumbnail>      
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/AVENTURA</externallink>                 
 <fanart>https://image.tmdb.org/t/p/original/iYSRRNPB3R0ZIeVMasBy0y7n2mi.jpg</fanart> 
 <info> 
@@ -65,7 +65,7 @@
 <channels>
 <channel>
 <name>[COLOR red]AÇÃO[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkRLUQQdlve7H7LjhyNODF7F5mK.jpg</thumbnail> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lkWYrzLIclGj56r4NJxuWeisK9R.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%C3%87%C3%83O</externallink>         
 <fanart>https://image.tmdb.org/t/p/original/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg</fanart>
 <info>
@@ -81,9 +81,9 @@
 <channels>
 <channel>
 <name>[COLOR red]COMEDIA[/COLOR]</name>     
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ER5NBqdSuxnmOzAqmm9OGNGg7g.jpg</thumbnail>                                       
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eq2nJ7ZaIR981pWDNLbVkvwXfjL.jpg</thumbnail>                                       
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COMEDIA</externallink>                       
-<fanart>https://image.tmdb.org/t/p/original/bGePh6CyZIzrueokpvyijWeBZ4X.jpg</fanart>   
+<fanart>https://www.themoviedb.org/t/p/original/o8ZS811VjYbBi4pRYwILLdWCVey.jpg</fanart>   
 <info>  
   
 [COLOR deeppink]|[COLOR blue] - AS MELHORES COMEDIAS - [COLOR deeppink]|[/COLOR]</info>          
@@ -95,9 +95,9 @@
 <channels>
 <channel>
 <name>[COLOR red]FICÇÃO[/COLOR]</name>    
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NVDW2LnHt2ko3m8ACxFo8E21f.jpg</thumbnail>        
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qaHS795RXiZoGVvDmyRbX9oTUh.jpg</thumbnail>        
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FICCAO</externallink>    
-<fanart>https://www.themoviedb.org/t/p/original/rZDybxfShqTJHqi8phtQUBefWEC.jpg</fanart>  
+<fanart>https://www.themoviedb.org/t/p/original/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg</fanart>  
 <info>
 
 
@@ -110,9 +110,9 @@
 <channels>
 <channel>
 <name>[COLOR red]POLICIAL[/COLOR]</name>    
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/slwKFpQPCnBpq1gMAyp2LC1VpNb.jpg</thumbnail>               
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuG97mVZ7fHJuykhn0fSiPVfT9W.jpg</thumbnail>               
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/POLICIAL</externallink>       
-<fanart>https://image.tmdb.org/t/p/original/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>        
+<fanart>https://www.themoviedb.org/t/p/original/gqFTwjPY0WTg7WhtqYdOn0nGD4P.jpg</fanart>        
 <info> 
 
  
@@ -141,9 +141,9 @@
 <channels>
 <channel>
 <name>[COLOR red]TERROR[/COLOR]</name>   
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvJ9pg8ksWZRxw2TZDXGSeN4Nvf.jpg</thumbnail>         
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3svvunKXkhRvEKByGDua1Qu0otq.jpg</thumbnail>         
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/TERROR</externallink>      
-<fanart>https://image.tmdb.org/t/p/original/2hHkKgw9DW0pX0NLO4l8ds41p5M.jpg</fanart>   
+<fanart>https://www.themoviedb.org/t/p/original/xK0SKioMA8nVtronX2lRaofe0Rh.jpg</fanart>   
 <info>
 
 
