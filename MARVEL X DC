@@ -510,7 +510,6 @@
 
 <item> 
 1   <title>[B][COLOR blue]Guardiões da Galáxia - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E682FE3A7327F7CC16E86A38AE6BA9734B5D43$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A35566E33EF5C8039AD405F67708A1EC075C4DD7$nome=RESOLUÇÃO 720P</link>
@@ -522,7 +521,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F83EDF031FE1D7969D1999522E0D7F4FBF7C170E$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816BD96103A9F5E9961A4F6513B47D248F397AE7$nome=RESOLUÇÃO 720P</link>
@@ -532,26 +530,28 @@
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.[/COLOR][/B]</info>	
   </item>
 
-<item>
-<title>[B][COLOR blue] MOTOQUEIRO FANTASMA [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4bHKA3jtDN1wYkOSbnehpS4HqKo.jpg</fanart>
-<info>Para salvar seu pai moribundo, o jovem ciclista de dublês Johnny Blaze vende sua alma a Mefistófeles e, infelizmente, parte da pura Roxanne Simpson, o amor de sua vida. Anos mais tarde, o caminho de Johnny se cruza novamente com Roxanne, agora uma repórter, e também com Mephistopheles, que se oferece para liberar a alma de Johnny se Johnny se tornar o lendário e ardente 'Ghost Rider'.</info>
-</item>
+   <item> 
+1   <title>[B][COLOR blue] Motoqueiro Fantasma - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A7B5F2EFE332B1528636079EE72C154C71DCA31$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/ohfWCHT65P7b3kQvZnoy2BL95MB.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Johnny Blaze trabalha como dublê e piloto de motocicleta. Há muito tempo, ele fez um pacto com Mefisto para proteger as duas pessoas que mais amava: seu pai, Barton, e sua namorada de adolescência, Roxanne Simpson. Em troca, Johnny se transforma no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.[COLOR red][/COLOR][/B]</info>	
+  </item>
 
 <item>
-<title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança[COLOR red](2011)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/syRLG2ryrCeP16wuxiODJooy69.jpg</fanart>
-<info>Quando o diabo ressurge com o objetivo de dominar o mundo em forma humana, Johnny Blaze relutantemente sai do esconderijo para se transformar no herói sobrenatural que lança chamas Ghost Rider - e resgata um garoto de 10 anos de um final desagradável.</info>
+1   <title>[B][COLOR blue] Motoqueiro Fantasma: Espírito de Vingança - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789</link>
+1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG7N8hvj3LwbdSFZ6NealucfH0h.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/syRLG2ryrCeP16wuxiODJooy69.jpg</fanart>
+1   <info>Quando o diabo ressurge com o objetivo de dominar o mundo em forma humana, Johnny Blaze relutantemente sai do esconderijo para se transformar no herói sobrenatural que lança chamas Ghost Rider - e resgata um garoto de 10 anos de um final desagradável.</info>
 </item>
 
 
   <item> 
 1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$nome=RESOLUÇÃO 4k</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=RESOLUÇÃO 720P</link>  
@@ -564,7 +564,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Superman II: A Aventura Continua  - [COLOR red]ADDON BXL [COLOR red](1980) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOpi5evcEfw5w9hn09Re1VWvI8.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -575,7 +574,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Superman III - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -586,7 +584,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Superman IV: Em Busca da Paz  - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUBLocsfASNbVC2RueRGp1IPrmO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -597,7 +594,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Superman - O Retorno - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITZTyXh88ylGFEePoLfz8iex8e.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -714,8 +710,8 @@
 1   <title>[B][COLOR blue] Batman – TRILOGIA - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9E12910F835903F67D35BCF7F5B568A11B1D6CA</link> 
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg</thumbnail>
-1   <fanart>https://image.tmdb.org/t/p/original/oBdJ4hRF6oUrMCG0G7kd7ZXG24Z.jpg</fanart>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pQFtEAJC8QSs97rIYiKCmbxJseL.jpg</thumbnail>
+1   <fanart>https://www.themoviedb.org/t/p/original/xK1hxQcUxyIavXcowSofVWCU9cf.jpg</fanart>
 1   <info>Após a morte do promotor Harvey Dent, Batman assume a responsabilidade pelos crimes de Dent para proteger a reputação do advogado e é posteriormente caçado pelo Departamento de Polícia de Gotham City. Oito anos depois, Batman encontra a misteriosa Selina Kyle e o vilão Bane, um novo líder terrorista que supera os melhores de Gotham. O Cavaleiro das Trevas ressurge para proteger uma cidade que o marcou como inimigo.</info>
 </item>
 
@@ -724,22 +720,30 @@
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg</thumbnail>
-1   <fanart>https://image.tmdb.org/t/p/original/65JWXDCAfwHhJKnDwRnEgVB411X.jpg</fanart>
+1   <fanart>https://www.themoviedb.org/t/p/original/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg</fanart>
 1   <info>Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
 </item>
 
 <item>
-<title>[B][COLOR blue]Batman: O Cavaleiro das Trevas - [COLOR red](2008)[/COLOR] - [COLOR blue]FULL(HD)[/COLOR][/B]</title>
+<title>[B][COLOR blue] Batman: O Cavaleiro das Trevas - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923lP</link>  
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg</fanart> 
 <info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
 </item>
 
-
+   <item> 
+1   <title>[B][COLOR blue] Batman: O Cavaleiro das Trevas Ressurge - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e67ea09d5c23297f1b53cf089bf15cb5a776cdca$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f82bf81164944f7fd0f70df5653dba378f62976$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zRwO5BPPgkTNo1PoomZPE7wkKvQ.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/2PKMeD171nYXR3J77fD3GKl1zfl.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Oito anos após a morte de Harvey Dent, a cidade de Gotham City está pacificada e não precisa mais do Batman. A situação faz com que Bruce Wayne (Christian Bale) se torne um homem recluso em sua mansão, convivendo apenas com o mordomo Alfred (Michael Caine). Um dia, em meio a uma festa realizada na Mansão Wayne, uma das garçonetes contratadas rouba um colar de grande valor sentimental. Trata-se de Selina Kyle (Anne Hathaway), uma esperta e habilidosa ladra que, apesar de flagrada por Bruce, consegue fugir. Curioso em descobrir quem é ela, Bruce retorna à caverna para usar os computadores que tanto lhe serviram quando vestia o manto do Homem-Morcego. Aos poucos começa a perceber indícios do surgimento de uma nova ameaça a Gotham City, personificada no brutamontes Bane (Tom Hardy). É o suficiente para que volte a ser o Batman, apesar dos problemas físicos decorrentes de suas atividades como super-herói ao longo dos anos.[COLOR red][/COLOR][/B]</info>	
+  </item>
 
 <item>
-<title>[B][COLOR blue]coringa - [COLOR red] (2019)[/COLOR] - [COLOR blue](4K)[/COLOR][/B]</title>
+<title>[B][COLOR blue] coringa - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 <title>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236F0860E2CB91236B64109F061B2E1B80C35812</link>  
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
@@ -748,7 +752,6 @@
 
    <item> 
 1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$nome=RESOLUÇÃO 4K</link>
 1   <linl>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$nome=RESOLUÇÃO 720P</link>  
@@ -760,7 +763,6 @@
   
    <item> 
 1   <title>[B][COLOR blue] Esquadrão Suicida  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$nome=RESOLUÇÃO 1080P</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$nome=RESOLUÇÃO 720P</link>  
@@ -773,8 +775,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Hellboy - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <ttitle>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D4C76B51640F5A70E058D57476852ABA5196E9F&dn=Hellboy%202004%204K%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR lime]  4K  [/COLOR] - DUBLADO</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D4C76B51640F5A70E058D57476852ABA5196E9F</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59C609F590539CEA1CCB850BA1A335F2196C74CC$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387A9B08487F86CB948480979C41B029A1F6A64$nome=RESOLUÇÃO 720P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aqSzF4WqCDVphxiOlpLGufqJc6j.jpg</thumbnail>
@@ -785,7 +786,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Hellboy II: O Exército Dourado - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5610B4A95F4C1EBD04DE627D91E6F111FBE324DB$nome=RESOLUÇÃO 1080P</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ZFnYUkYDlwJQvODkQ0JyTRZDSO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -795,7 +795,6 @@
   
   <item> 
 1   <title>[B][COLOR blue] Hellboy - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF$nome=RESOLUÇÃO 4K</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad1c6593d758f8d28853045fdb6c52fb2d4bc8f7$nome=RESOLUÇÃO 1080P</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ded9de7fcf3e06e1e72e689baba6bd337d55e0e$nome=RESOLUÇÃO 720P</link>
