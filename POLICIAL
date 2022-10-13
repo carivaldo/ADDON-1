@@ -23,7 +23,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Desejo de Matar 1 - [COLOR red]ADDON BXL [COLOR red](1974) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E87F0EF16AB6A798C75F978AD163895F09A2CCD2&dn=Desejo%20de%20Matar%20(1974)%20BRRip%20Blu-Ray%20720p%20Dublado%20Dat2014&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E87F0EF16AB6A798C75F978AD163895F09A2CCD2</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/6A4MfHQTzD5Zb3Jx2V1EMvvms0w.jpg</fanart>
@@ -432,7 +432,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Onde os Fracos Não Têm Vez - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ac03a5e4f46d45eaf6b682800b868461da5cd97</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b7X7kJCKg7tOQ5GwMoEYZPynJG.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -443,7 +442,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Poderoso Chefão 1, 2 E 3 TRILOGIA - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83B9837B116727FF698D2743C0B4A869A2E1C281$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83B9837B116727FF698D2743C0B4A869A2E1C281$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oS3mn55v5jEBduZQp2ttzqxxbLQ.jpg</thumbnail>
@@ -454,7 +452,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Poderoso Chefão I - [COLOR red]ADDON BXL [COLOR red](1975) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51e9d1b5be8d61e2603f8d00aa70d66318856a20</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -464,7 +461,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Poderoso Chefão II - [COLOR red]ADDON BXL [COLOR red](1974) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d576de20e1e7beff4f1dcaab1179eeb476ff28c</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -474,7 +470,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Poderoso Chefão III - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b7ce524d1c6f17b214fc64e95776bb9e616f9b</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -484,7 +479,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Scarface - [COLOR red]ADDON BXL [COLOR red](1983) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D103F522F137094A025790A95319B2965F1BDE7D</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -494,7 +488,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Intocáveis - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25ae1ef8a5f7dc0709d0d14117ffd8ec1462652b$nome=[COLOR lime]1080P SEM COMPACTAÇÃO[/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcca0a5fb8840dd89983e88091f3f69e1e7202c5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l0Xqmj5zW5QIw3437VkP1bFHMfr.jpg</thumbnail>
@@ -505,7 +498,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Estrada Sem Lei  - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b64d2fa7bf5d9a25a491123e6c207239f8ca3c5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa46efaf1202dcb73c7117d555bea4f352f91c83$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RZSE3RgHuc6kTbbF5Pt0ODUcTM.jpg</thumbnail>
@@ -532,7 +524,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Inimigos Públicos - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6eb3f32e1d40b1d42a0b366dd893f9240ad828d</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkbq7aMOaneAPp62F0QeCeWHrLw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -542,7 +533,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Anjos da Vida: Mais Bravos que o Mar - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -798,7 +788,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] Protegendo o Inimigo - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f25dc1cbf77d0d52f8399ce462fce3624717021</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmxz31mxKZO0rreBcXbZNG11v5f.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -808,7 +797,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] O Plano Perfeito - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VPCN4HJZXMEY3FBTJ5ULSU23ZYBOOQMX</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/76z8q24vMul7IPguc0QUODF3THk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -818,7 +806,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] Chamas da Vingança - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7007cf96ee4982e29637bec7b4d0457230927f2</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -828,7 +815,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] O Gângster - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60610955167fc31260fca9f8271805ce4e9f5f29</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj2K8qTWQ2pTnTNCt3feBllvPxp.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -838,7 +824,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] Déjà Vu - [COLOR red]ADDON BXL [COLOR red](2006) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e022f7e925fc98f1ebdb59c54f2afdbe2da658</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/siODmMjyejgygzGWNK3rzROCeBL.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -886,7 +871,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
  <item> 
 1   <title>[B][COLOR blue] Encontro Explosivo - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c72ff54144b43446651fa974a880de52ff0717d8</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qKLKSfvYYGFLP9qubm2eXoaV9X.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -896,9 +880,8 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Fúria Sobre Rodas - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:865fdda753fca75177b267fd8bfebb143c36922c</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678C9662528166A907D4A0A2D85E9DB914A87B7B$$lsname=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:865fdda753fca75177b267fd8bfebb143c36922c$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678C9662528166A907D4A0A2D85E9DB914A87B7B$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3efFqfuqOFG1sEiv6buy81YHbpk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/yIRZD1g79CkV3OE1WGnAqbAfPNW.jpg</fanart>
@@ -907,7 +890,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
    <item> 
 1   <title>[B][COLOR blue] A Rocha - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67c8f33bf4e2a042e13579008762a3addc6c7eec</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFPh6GQMQROAe6y1KQuL9f0TFRX.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -917,7 +899,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
    <item> 
 1   <title>[B][COLOR blue] 60 Segundos - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1de6eb04c9741f294c3dd7c1d5940dcc0afeddc</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F9AlinnP2OhgnsK8xjksK94Oh1.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -927,7 +908,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
    <item> 
 1   <title>[B][COLOR blue] O Último Matador  - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25671d17f26ba50ba383ea5513e3f11942340205</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgkZRsysKw0fg0cwTWixzyKbVuC.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -937,7 +917,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] Os Outros Caras  - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:591DBDA22AE2FCE39883FA870C83EC9FD219BD28</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GyARLcQF124BKs9IBBlpaSrSqn.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -948,7 +927,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] O Quinto Elemento - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec88604b859b464a7f2febefdce48a421e1c33e1</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjWYd2qziS18BPQs85xE6Lb3H09.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -959,7 +937,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] Assassinos Múltiplos - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:165C4F64F5D9DB4ABC2F851AF02C4D8B0565AB4E$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C22B309711F10CD96AA546C7DD3E14A75D45A067$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135A5504D84843642F4F9542E188E9315C19A1E$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
@@ -971,7 +948,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] Millennium: Os Homens Que Não Amavam as Mulheres - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42efa3fbe93a3c69fe310d94fcc253bf8bcb622e</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnQTC6VjlkvXmCGAiBkJEmkoChC.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -982,7 +958,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] Millennium 2 - A Menina que Brincava com Fogo - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cdae88ba57a187bf47d5702c6c2ca24a7a975a5</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/neXx74IYwDpEO1TdVPPHZDLL8ZU.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -993,7 +968,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
  
   <item> 
 1   <title>[B][COLOR blue] Millennium 3 - A Rainha do Castelo de Ar - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccee1eba71a06ac74c15026f2cdacad8899e17f8</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzC3RUzLbj5jm0pVzCZS13KHRlX.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1003,7 +977,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
    
    <item> 
 1   <title>[B][COLOR blue] Millennium 4 - A Garota na Teia de Aranha - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D3236C0588EE349AC8A7FFDCD26BAC50DAE78C8$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB94AF4434B8B29C39299CA1F7350640B8B38298$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg</thumbnail>
@@ -1016,7 +989,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Repo Men - O Resgate de Órgãos - [COLOR red]ADDON BXL [COLOR red](2010) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f034234715a848b6066f5585916186e081bbb3b</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uJZLLhEs6CVyQWohaa7xqthdaq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1027,7 +999,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
   <item> 
 1   <title>[B][COLOR blue] Rookie - Um Profissional do Perigo - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ba588ee318bd14e5bfc145dc8bece3d09486a6</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8DH2eI4HRoXBujGckBTJtdNDQ0.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -1037,10 +1008,9 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255E2CB8DB930E32C98D3FBEF871B68266E0F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05A9772001946ACECAA3A207DE2A3C48F09BA8F9&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74D4D13E9487A4FC8FAE343D4624AB12B21D8202&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202002%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255E2CB8DB930E32C98D3FBEF871B68266E0F$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05A9772001946ACECAA3A207DE2A3C48F09BA8F9$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74D4D13E9487A4FC8FAE343D4624AB12B21D8202$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/kWt1OcPgwO1ssu57wgTKmq38JYw.jpg</fanart>
@@ -1049,10 +1019,9 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva 2  - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66F0C1872E11CE32532B5517F0B477506EDAEF95&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B44545BA615144A67A7927B32590A4D5D52F3BA1&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D490AD9580BE8CDD80FBC9694AD1C8B3B648AD9F&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%202%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66F0C1872E11CE32532B5517F0B477506EDAEF95$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B44545BA615144A67A7927B32590A4D5D52F3BA1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D490AD9580BE8CDD80FBC9694AD1C8B3B648AD9F$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/by9JcYSPwomuWbNHd5lmCWrtk22.jpg</fanart>
@@ -1061,10 +1030,9 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva 3 - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9CC97766DAAF4B97FD8C73F21398AFA32DDF5DE&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.T&$nome=[COLOR lime]4K [/COLOR] - DUBLADOV</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2851919320E68A58B8BE4BCF2F5E961E42B14A6&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C66698EBA46B8B821B72CD3522E9327F2FAF48A5&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%203%202005%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9CC97766DAAF4B97FD8C73F21398AFA32DDF5DE$nome=[COLOR lime]4K [/COLOR] - DUBLADOV</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2851919320E68A58B8BE4BCF2F5E961E42B14A6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C66698EBA46B8B821B72CD3522E9327F2FAF48A5$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg</fanart>
@@ -1073,10 +1041,9 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Carga Explosiva: O Legado - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0C8DE3EB64B2F1FDD666F958F6E698D752C2165&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90746BCB99B23440BD50DAC33FA897FB8541684B&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC82C6B7D59536E9BB57E074DAD7FE381A332CBB&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20O%20Legado%202015%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0C8DE3EB64B2F1FDD666F958F6E698D752C2165$nome=[COLOR lime]4K [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90746BCB99B23440BD50DAC33FA897FB8541684B$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC82C6B7D59536E9BB57E074DAD7FE381A332CBB$nome=[COLOR lime]720P [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qj7MmSeEGR5nPGRo4eSY2MgXvv2.jpg</fanart>
@@ -1085,7 +1052,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Duro de Matar 1 - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6dbd1631351ad8f675f8232d1b44092492a29dd&dn=Duro+de+Matar+%281988%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6dbd1631351ad8f675f8232d1b44092492a29dd</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/qyNEqB6gl9V2GkiT88Pu36mqHnR.jpg</fanart>
@@ -1094,7 +1061,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Duro de Matar 2 - [COLOR red]ADDON BXL [COLOR red](1990) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcaf9b98f2330c49f9c7014edf98054de62ac6dc&dn=Duro+de+Matar+2+%281990%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcaf9b98f2330c49f9c7014edf98054de62ac6dc</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/cDtefl7KGnKrDziEUXetMnztvqr.jpg</fanart>
@@ -1103,7 +1070,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Duro de Matar 3: A Vingança - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ec3104b311aed608f3250624784228df5cc030c&dn=Duro+de+Matar+-+A+Vingan%26ccedil%3Ba+%281995%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ec3104b311aed608f3250624784228df5cc030c</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg</fanart>
@@ -1112,7 +1079,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Duro de Matar 4.0 - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b6abd7796a24db42feface969d9ea3b7f2c4fb4&dn=Duro+de+Matar+4.0+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b6abd7796a24db42feface969d9ea3b7f2c4fb4</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luHBapG0NGPc9VQacoG9kfFTLh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg</fanart>
@@ -1121,7 +1088,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Duro de Matar 5: Um Bom Dia para Morrer  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6454767bb31c2d02955ba86e6ce2d574c24c0409&dn=Duro+de+Matar+5+-+Um+Bom+Dia+para+Morrer+%282013%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6454767bb31c2d02955ba86e6ce2d574c24c0409</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dTmzg6TNkVF3QfQ2THpIWzjb0l.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/hi3u8NZabTeSz6XxQRjPvj451tS.jpg</fanart>
@@ -1132,7 +1099,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Os Intocáveis  - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcca0a5fb8840dd89983e88091f3f69e1e7202c5&dn=Os%20Intoc%c3%a1veis%201987%20(1080p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcca0a5fb8840dd89983e88091f3f69e1e7202c5</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0Xqmj5zW5QIw3437VkP1bFHMfr.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/i1oWUGVDNBhGBykcCRBlX326udb.jpg</fanart>
@@ -1141,7 +1108,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] A Entrega - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:213955BE1CF4A868B9BEC23E21468A73D3A74213&dn=A.Entrega.2014.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:213955BE1CF4A868B9BEC23E21468A73D3A74213</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bshpHeJoEzui08cPIAP3BjFBjHV.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/p1f0AtgonnNhfSlXUoSy1vfKpKa.jpg</fanart>
@@ -1150,7 +1117,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Condenação Brutal - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6999A0F0F2B73BE15C83D01192F65A39C509A94D&dn=Condena%C3%A7%C3%A3o%20Brutal%20%5B1989%5D%20-%20BluRay%20720p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6999A0F0F2B73BE15C83D01192F65A39C509A94D</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/scutYnOU1QUWBjhiDjAVLp1M8Y3.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/teBePTIyP49cQrY2NKQgMYEyCMS.jpg</fanart>
@@ -1159,7 +1126,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Inferno Vermelho - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42EFABE55AE455C3832F74FA00881041F5AE5F79&dn=Inferno%20Vermelho%20(1988)%20BRRip%20Blu-Ray%20720p%20Dublado%20Dat2014&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42EFABE55AE455C3832F74FA00881041F5AE5F79</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D4Lw7Lp3cOGXVwmzGH41Z1XzX7.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/zgiOOv5mkxbV0bTWAQ5c9y0UObx.jpg</fanart>
@@ -1168,7 +1135,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] olho por olho - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB8510A48D8B5C4BD38F6A9C3EFFA852A75E198A&dn=ACESSE.O.ORIGINAL.COMANDOTORRENTSHD.NET.Olho.Por.Olho.720p-CHD.DUAL-ZMG.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2fwww.sumotracker.com%3a80%2fannounce&tr=http%3a%2f%2f222.191.251.219%3a8085%2fannounce&tr=http%3a%2f%2ftracker.bitenova.nl%3a6968%2fannounce&tr=http%3a%2f%2f61.175.209.125%3a6969%2fannounce&tr=http%3a%2f%2ftracker.torrent.to%3a2710%2fannounce&tr=udp%3a%2f%2ftpb.tracker.prq.to%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%3a80%2fannounce&tr=http%3a%2f%2ftracker.bitebbs.com%3a6969%2fannounce&tr=http%3a%2f%2fgenesis.1337x.org%3a1337%2fannounce&tr=http%3a%2f%2fexodus.1337x.org%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB8510A48D8B5C4BD38F6A9C3EFFA852A75E198A</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqriJWWisRhm5XapyuB40D1jqqA.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/3UddZry7Pl5bTNatD008pxOJhrW.jpg</fanart>
@@ -1178,7 +1145,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Caçadores de Emoção - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ce437fdc2082b1ae7c35ea810988b32b05c29e&dn=LAPUMiA.Org - Point.Break.1991.1080p.BluRay.x264.AC3-ETRG&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ce437fdc2082b1ae7c35ea810988b32b05c29e</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMw27G9iNQQ3md5gfEO4YYl1RWP.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/uwv2EGU6v6xewXfeiKbE22RFs4J.jpg</fanart>
@@ -1188,7 +1155,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Máquina Mortífera 1 - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0993615593706c62afcb88d889fc690b8ad716b6&dn=Lethal+Weapon+1987.BDRemux.1080p.AC3&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0993615593706c62afcb88d889fc690b8ad716b6</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsn0xqelydberc2UoHE8JzdDPTP.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/guTNnSWS3CaH71jasY8W1FMptjG.jpg</fanart>
@@ -1197,7 +1164,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Máquina Mortífera 2 - [COLOR red]ADDON BXL [COLOR red](1989) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fe3988f29f4acf62fac58f9d0050e036af0c310&dn=Lethal+Weapon+2+1989.BDRemux.1080p.AC3&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fe3988f29f4acf62fac58f9d0050e036af0c310</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/mJV51uNs6HnG6y4qoGCDJCefKyx.jpg</fanart>
@@ -1206,7 +1173,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Máquina Mortífera 3 - [COLOR red]ADDON BXL [COLOR red](1992) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:363e92d7c5c42e4fe96a7007c4505ad0a2dc213a&dn=Lethal+Weapon+3+1992+BDRemux.1080p.AC3&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:363e92d7c5c42e4fe96a7007c4505ad0a2dc213a</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/1TunrgO03pn84ciNSs3XGqCtdGI.jpg</fanart>
@@ -1215,7 +1182,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Máquina Mortífera 4  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a68b4ff0df48fd249dd9ba99265f3906c1e4c358&dn=COMOEUBAIXO.COM..BLURAY.1080P.MP4.-DUBLADO-DUAL-AUDIO-..</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a68b4ff0df48fd249dd9ba99265f3906c1e4c358</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/u4d4vymNPo1UuJ6ihtyy9OQgco2.jpg</fanart>
@@ -1226,7 +1193,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Quebrando Regras  - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b11c6fc2a98467a6a2d4903f80c184842b5860a&dn=LAPUMiA.Org%20-%20Quebrando%20Regras%202008%20(1080p-FULL)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b11c6fc2a98467a6a2d4903f80c184842b5860a</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YL4IgRvZ1s7tbqfasuRkPnDy6V.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/2TmTV4NJETQPWRaOogpVg69vBh8.jpg</fanart>
@@ -1235,7 +1202,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Quebrando Regras 2 - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5514eca84552d96b1a0a709074b07ae07fde961&dn=Quebrando%20Regras%202%202011%205.1%20(1080p-FULL)%20LAPUMiA&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5514eca84552d96b1a0a709074b07ae07fde961</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/mgstAcEIqF3RIWVqP4jICEy3q9F.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCTsgWyQKmrMopvtMHtnGA2tghW.jpg</fanart>
@@ -1244,7 +1211,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
   
   <item> 
 1   <title>[B][COLOR blue] Quebrando Regras 3: Não Se Rendam - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BE557694F2133598D4CAE126E8CA77DBE61DC73&dn=Never%20Back%20Down%20no%20Surrender%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.publicbt.com%3a80/announce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BE557694F2133598D4CAE126E8CA77DBE61DC73</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLAY5OErbST8GASMI8lrRaP0jVh.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/oLO9d2gWqviz9MgPUn7s3PYfcky.jpg</fanart>
@@ -1253,7 +1220,7 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] O Senhor das Armas  - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883c3d9eace2fa0cc49198d479db9a6459b89f4c&dn=COMOEUBAIXO.COM..BLURAY.MKV.Senhor+das+Armas+%282005%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883c3d9eace2fa0cc49198d479db9a6459b89f4c</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLxbDZ1h7wbHo7mkyX5AR9hjODe.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/z5LhR3cqKIL0atMcNd16s4IP2kQ.jpg</fanart>
@@ -1262,36 +1229,30 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 
 <item> 
 1   <title>[B][COLOR blue] Tolerância Zero  - [COLOR red](2015) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88e2dad7e4106f3e015ab074bb963ef756adc227&dn=LAPUMiA.Org%20-%20Toler%c3%a2ncia%20Zero%202015%20(1080p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88e2dad7e4106f3e015ab074bb963ef756adc227</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psnx0FmNwAzTwDmR3nRSq6yutby.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/9Wx4bnz2YNu2FodT3N5GJrdL6Yq.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:Dois ex-agentes para-militares, Johnny e seu amigo detetive Peter, vão a Bangkok para encontrar os assassinos de Angel, a bela filha de Johnny
-[COLOR red]</info>  
+1   <info>[B][COLOR red] SINOPSE:Dois ex-agentes para-militares, Johnny e seu amigo detetive Peter, vão a Bangkok para encontrar os assassinos de Angel, a bela filha de Johnny[COLOR red]</info>  
 </item>
 
 <item> 
 1   <title>[B][COLOR blue] Looper - Assassinos do Futuro  - [COLOR red](2012) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1711d8d809fc26442ac1878059cf5fb0bcccaba&dn=Looper+-+Assassinos+do+Futuro+%282012%29+1080p+Full+HD+Dual+Audio+Pt&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1711d8d809fc26442ac1878059cf5fb0bcccaba</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHwmrseX1OaSOEYbf8jHNzTPTFB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/lVTYM5m7ZDnEyhxcYrkxJaYqExh.jpg</fanart>
-1   <info>[B][COLOR red]SINOPSE:Kansas City, 2044. Viagens no tempo são uma realidade, mas estão apenas disponíveis no mercado negro. Seu principal cliente é a máfia, que costuma enviar ao passado pessoas que deseja que sejam eliminadas, já que é bastante complicado se livrar dos corpos no futuro. Os responsáveis por estes assassinatos são os loopers, organização a qual Joe (Joseph Gordon-Levitt) faz parte. Um dia, ao realizar mais um serviço corriqueiro, ele descobre que seu alvo é a versão mais velha de si mesmo (Bruce Willis), trazida em viagem no tempo por ter se tornado uma séria ameaça à máfia no futuro.
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]SINOPSE:Kansas City, 2044. Viagens no tempo são uma realidade, mas estão apenas disponíveis no mercado negro. Seu principal cliente é a máfia, que costuma enviar ao passado pessoas que deseja que sejam eliminadas, já que é bastante complicado se livrar dos corpos no futuro. Os responsáveis por estes assassinatos são os loopers, organização a qual Joe (Joseph Gordon-Levitt) faz parte. Um dia, ao realizar mais um serviço corriqueiro, ele descobre que seu alvo é a versão mais velha de si mesmo (Bruce Willis), trazida em viagem no tempo por ter se tornado uma séria ameaça à máfia no futuro.[/COLOR red]</info>  
 </item>
 
 
 <item> 
 1   <title>[B][COLOR blue] 16 Quadras- [COLOR red](2006) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2a3b76294e9d2ef8e521912158b83f527704e06&dn=16+Quadras+%282006%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2a3b76294e9d2ef8e521912158b83f527704e06</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp4k8o0oYSD9iLEc6m2U9Bkq3pY.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nvcPLZWYBFw9N8jFCeVbywkc5KY.jpg</fanart>
-1   <info>[B][COLOR red]Tudo que o policial Jack Mosley (Bruce Willis) deseja é ir para casa e tomar um drink, mas ele precisa escoltar Eddie Bunker (Yasiin Bey) por 16 quadras até chegar ao tribunal. Eddie é um presidiário que deseja apenas depor no tribunal, ganhar sua liberdade e abrir uma padaria. Só que Eddie irá depor contra policiais, que são amigos de Jack e que desejam matá-lo. Correndo contra o tempo, Jack e Eddie precisam evitar a ameaça dos policiais corruptos e chegar a salvo no tribunal. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]Tudo que o policial Jack Mosley (Bruce Willis) deseja é ir para casa e tomar um drink, mas ele precisa escoltar Eddie Bunker (Yasiin Bey) por 16 quadras até chegar ao tribunal. Eddie é um presidiário que deseja apenas depor no tribunal, ganhar sua liberdade e abrir uma padaria. Só que Eddie irá depor contra policiais, que são amigos de Jack e que desejam matá-lo. Correndo contra o tempo, Jack e Eddie precisam evitar a ameaça dos policiais corruptos e chegar a salvo no tribunal. SINOPSE:[/COLOR red]</info>  
 </item> 
  
 
@@ -1299,85 +1260,70 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
  <item> 
 1   <title>[B][COLOR blue] Assalto ao Poder - [COLOR red](2016) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCBB5E9179FA4AD61ED0EA9B6B2C611A1A9291F9</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNxOvkRmctOPr6PCA6MeJ8UXQt.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/tY0h4ClFlcbCMPGonzLmzH4fXoS.jpg</fanart>
-1   <info>[B][COLOR red]Um grupo de ladrões se mantém há tempos fora do radar da polícia. Eles efetuam constantes assaltos à bancos de elite. Entretanto, um agente do FBI está prestes a descobrir um propósito ainda mais profundo na gangue. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]Um grupo de ladrões se mantém há tempos fora do radar da polícia. Eles efetuam constantes assaltos à bancos de elite. Entretanto, um agente do FBI está prestes a descobrir um propósito ainda mais profundo na gangue. SINOPSE:[/COLOR red]</info>  
 </item>
  
   <item> 
 1   <title>[B][COLOR blue] Crimes na Madrugada  - [COLOR red](2017) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E6C0C532ACADD1E968F76347266A274DC07653A</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yl7gTWnqcbFzM329QO1nLTeiqb4.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/9VEOQvCnd8T8wILgyqjKgyhALw4.jpg</fanart>
-1   <info>[B][COLOR red]O policial Vincent Downs (Jamie Foxx) é envolvido numa rede de policiais corruptos e submundo dos casinos. Após um roubo, seu filho adolescente é sequestrado por um mafioso Rob Novak (Scott McNairy). Agora, Downs tem apenas uma noite para fugir de uma investigação interna e salvar o garoto. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]O policial Vincent Downs (Jamie Foxx) é envolvido numa rede de policiais corruptos e submundo dos casinos. Após um roubo, seu filho adolescente é sequestrado por um mafioso Rob Novak (Scott McNairy). Agora, Downs tem apenas uma noite para fugir de uma investigação interna e salvar o garoto. SINOPSE:[/COLOR red]</info>  
 </item>
   
   <item> 
 1   <title>[B][COLOR blue]DIA DE TREINAMENTO - [COLOR red](2001) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:deb717010f1224bce46b6b281ebfbd81c022c82d</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X4zeznwORmk3c7al9G86fwzkSq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/Ava1NZ5cfg52StRsD7lfTTROsuI.jpg</fanart>
-1   <info>[B][COLOR red]ake Hoyt, um jovem policial de Los Angeles, entra para a equipe de narcóticos da polícia e recebe como oficial de treinamento e parcerio Alonzo Harris, um policial veterano e corrupto. Com o passar do dia, o jovem é exposto a todo tipo de corrupção e é ainda acusado de assassinato, acontecimentos que são orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à máfia russa, que pode fazer com que ele seja morto se não conseguir uma grande quantia de dinheiro até a meia-noite. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]ake Hoyt, um jovem policial de Los Angeles, entra para a equipe de narcóticos da polícia e recebe como oficial de treinamento e parcerio Alonzo Harris, um policial veterano e corrupto. Com o passar do dia, o jovem é exposto a todo tipo de corrupção e é ainda acusado de assassinato, acontecimentos que são orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à máfia russa, que pode fazer com que ele seja morto se não conseguir uma grande quantia de dinheiro até a meia-noite. SINOPSE:[/COLOR red]</info>  
 </item> 
    
  <item> 
 1   <title>[B][COLOR blue] A Qualquer Custo - [COLOR red](2017) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2273D199D4BB09C2084013D7314C1C05F6851794</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/GZx3RAiTJAhXOdhLLyCAbqRl11.jpg</fanart>
-1   <info>[B][COLOR red]Quando a fazenda da família é penhorada pelo banco no Oeste do Texas, dois irmãos, um ex-presidiário e um pai divorciado com dois filhos, decidem assaltar algumas agências para se restabelecerem financeiramente. No entanto, a dupla cruza com um delegado, prestes a se aposentar, que fará de tudo para impedi-los e fechar com chave de ouro a sua carreira. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]Quando a fazenda da família é penhorada pelo banco no Oeste do Texas, dois irmãos, um ex-presidiário e um pai divorciado com dois filhos, decidem assaltar algumas agências para se restabelecerem financeiramente. No entanto, a dupla cruza com um delegado, prestes a se aposentar, que fará de tudo para impedi-los e fechar com chave de ouro a sua carreira. SINOPSE:[/COLOR red]</info>  
 </item>
  
  <item> 
 1   <title>[B][COLOR blue] U.S. Marshals - Os Federais - [COLOR red](1998) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F3445681B61A222A6033A04A45B4C2CFF9228A3</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wreIBCsJhZl6C7VPMWOieRmZda.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nVOTbGAoR1DSNCsAGjeDHFgiKN2.jpg</fanart>
-1   <info>[B][COLOR red]O voo de um rude agente americano, Sam Gerard cai no deserto. A bordo do mesmo voo está Mark Sheridan, um preso federal acusado de duplo assassinato, que escapa durante o caos que se segue, mas não sem antes resgatar várias pessoas dos escombros. Gerard tem ordens para caçar o fugitivo junto com o agente do Departamento de Estado John Royce. Os dois perseguem Sheridan apesar das dúvidas sobre sua culpa. SINOPSE:
-[/COLOR red]</info>  
+1   <info>[B][COLOR red]O voo de um rude agente americano, Sam Gerard cai no deserto. A bordo do mesmo voo está Mark Sheridan, um preso federal acusado de duplo assassinato, que escapa durante o caos que se segue, mas não sem antes resgatar várias pessoas dos escombros. Gerard tem ordens para caçar o fugitivo junto com o agente do Departamento de Estado John Royce. Os dois perseguem Sheridan apesar das dúvidas sobre sua culpa. SINOPSE:[/COLOR red]</info>  
 </item> 
  
   
 <item> 
 1   <title>[B][COLOR blue] OS INFILTRADOS - [COLOR red](2006) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd375ecb11607aee731ae800c3a8619c4797829</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mupWl1yjc7S8nvce6KpYksZdlTy.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/j0stmN6ktCpqoWE5nT6xHCyDpwP.jpg</fanart>
-1   <info>[B][COLOR red]A polícia trava uma verdadeira guerra contra o crime organizado em Boston. Billy Costigan (Leonardo DiCaprio), um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello (Jack Nicholson). Aos poucos Billy conquista sua confiança, ao mesmo tempo em que Colin Sullivan (Matt Damon), um criminoso que foi infiltrado na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin sentem-se aflitos devido à vida dupla que levam, tendo a obrigação de sempre obter informações. Porém quando a máfia e a polícia descobrem que entre eles há um espião, a vida de ambos passa a correr perigo. SINOPSE:
-[COLOR red]</info>  
+1   <info>[B][COLOR red]A polícia trava uma verdadeira guerra contra o crime organizado em Boston. Billy Costigan (Leonardo DiCaprio), um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello (Jack Nicholson). Aos poucos Billy conquista sua confiança, ao mesmo tempo em que Colin Sullivan (Matt Damon), um criminoso que foi infiltrado na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin sentem-se aflitos devido à vida dupla que levam, tendo a obrigação de sempre obter informações. Porém quando a máfia e a polícia descobrem que entre eles há um espião, a vida de ambos passa a correr perigo. SINOPSE:[COLOR red]</info>  
 </item>
 
 <item> 
 1   <title>[B][COLOR blue] Um Sonho de Liberdade - [COLOR red](1994) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:326803ca5c48ac50361c17e3e3654c99a068bba8</link>
-
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BSuFpQ2gd2WtO5ZK1fMjaMPMRc.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/avedvodAZUcwqevBfm8p4G2NziQ.jpg</fanart>
-1   <info>[B][COLOR red]Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição. SINOPSE:
-[COLOR red]</info>  
+1   <info>[B][COLOR red]Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição. SINOPSE:[COLOR red]</info>  
 </item>
 
 <item>
 <title>[B][COLOR blue] Logan Lucky Roubo Em Familia - [COLOR red](2017)[/COLOR] - [COLOR red](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90A27824B4A69A46EDB7B637C56D885E020A7B6A</link>
-
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hxfly3q1xkByXF6quf7q82H4BSm.jpg</fanart>
@@ -1387,7 +1333,6 @@ A história de Bonnie e Clyde já foi retratada em livros, músicas, filmes, pe�
 <item>
 <title>[B][COLOR blue] 3000 Milhas para O Inferno  - [COLOR red](2001)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:363FE291053AEACC00250C02783B1ABB3A3765DB</link>
-
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre> 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3T3ZTTwHOj0c0AiZ7O5P2eiaBnJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n5va4SrbpA9i7CLB3pcgvhnvk6l.jpg</fanart>
