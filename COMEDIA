@@ -210,8 +210,7 @@
 1   <fanart>https://www.themoviedb.org/t/p/original/z9XeK5VO8tjSpbPKLbZuThodyE3.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:Miles Logan (Martin Lawrence) é um ladrão de jóias, mas as coisas não correm muito bem em um assalto em que ele rouba um grande diamante, pois Deacon (Peter Greene), um cúmplice, o traiu e ele acabou sendo preso. Mas antes de ser capturado Miles escondeu a gema no duto do ar de um edifício em construção, para poder recuperá-la quando fosse solto. Dois anos depois Logan é libertado e, desesperado, descobre que o prédio onde escondeu a pedra é agora o quartel-general da polícia de Los Angeles. Tentando recuperar o diamante, ele se faz passar por Malone, um detetive que teria sido transferido. Mas antes que possa recuperar a pedra ele se torna parceiro de Carlson (Luke Wilson), um detetive aparentemente ingênuo, com quem tem que investigar roubos. Com Deacon no seu rastro, ele tenta recuperar a gema enquanto que paralelamente ilude os policiais de tal forma que logo se torna detetive-chefe da seção de roubos e, apesar de ainda querer o diamante, vai se tornando um exemplo entre os policiais.[COLOR red][/COLOR][/B]</info>	
   </item> 
- 
- 
+  
  <item> 
 1   <title>[B][COLOR blue] O Elo Perdido - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7BD37D78FEA1760A6D13E5A4CB5E254FBCCFD0</link>
@@ -275,8 +274,6 @@
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um dia, a advogada Diane (Virginie Efira) perde seu telefone celular, mas logo recebe a ligação de um desconhecido, Alexandre (Jean Dujardin), que encontrou o aparelho e quer devolvê-lo. Quando se encontram, Diane tem uma surpresa: o homem tão simpático ao telefone tem apenas 1,36m. Os dois continuam a se encontrar, e logo se apaixonam, mas ela não está pronta para lidar com o preconceito de namorar um homem tão baixo.[/COLOR][/B]</info>	
   </item>  
   
-
-
    <item> 
 1   <title>[B][COLOR blue] Jogos Entre Amigos - [COLOR red]ADDON BXL [COLOR red](2021) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0409a694f333d7b3163470a168920f3a55fb524d</link>
@@ -372,7 +369,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Um Tira da Pesada 2 - [COLOR red]ADDON BXL [COLOR red](1987) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf05a65e3ba36831ba4791b8006bf9a021b0940b</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -382,7 +378,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Um Tira da Pesada III  - [COLOR red]ADDON BXL [COLOR red](1994) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f2121b5599f04bfe49520b9aa6ac6db9c31934</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/onNcraJY5jyFo0kWB3vrXptnfkE.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -392,7 +387,6 @@
 
   <item> 
 1   <title>[B][COLOR blue] Babá Fora de Controle - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F234C1C36D20193F29ACF156624DD319E39D3491</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DFNEsG8uqe4Gldk8Z18uSbpVXO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -402,7 +396,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Babá fora de Controle - Missão Brasil - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64CC6EFA8E15B0E05D03320ECAF92CC08E8A30A0</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbgOLOhb1ngWb5YHJncCzK02Bdk.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -413,7 +406,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Quero Matar Meu Chefe - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38f46bff2c5e0ce8f892f3f3d6722d74c357fd00</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHmfgsECX3alvrjkEvdpelRmwZ2.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -424,7 +416,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Quero Matar Meu Chefe 2  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <tille>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26B776AEE5A3527C9CE76E81883C573F5F7C8D90</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXRwjL92nD5VN83kAmZKMmjMOJK.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -435,7 +426,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Se Beber, Não Case!  - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47E838161017DE97193626E7D63E6FF35502889F</link> 
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hi9g065cxrQc2TLh5zwmTOurvK.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -445,7 +435,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Se Beber, Não Case! Parte II - [COLOR red]ADDON BXL [COLOR red](2011) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba9dce17dc470cee7fb27dce1093a7a5e75955b5</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -455,7 +444,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Se Beber, Não Case! Parte III  - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a437d7a4cfb28085bc1f171af761eca30f4ec69</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SOnmTK0XoEcc7AoyXoce76to3Y.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -474,7 +462,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] A Ressaca 2 - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FA1B1010933F527CF3FDE177247CE1EAD7A3F3A</link>     
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2KVIrzzuhPZNWRv8HUQeNJqAKY.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -484,9 +471,8 @@
 
   <item> 
 1   <title>[B][COLOR blue]Crocodilo Dundee - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EDF271788420A2E5E36B18F500633BCF14C022B&dn=hidratorrent.com%20-%20CrocodiloD.86.BD1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8986EAF26BD26DA66DD10B2438ACF4D43541F65&dn=hidratorrent.com%20-%20CrocodiloD.86.BD720p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EDF271788420A2E5E36B18F500633BCF14C022B</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8986EAF26BD26DA66DD10B2438ACF4D43541F65</link>  
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pduPduL1ub5kok3lPYT15ryC9L6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg</fanart>
@@ -496,7 +482,6 @@
 
   <item> 
 1   <title>[B][COLOR blue]Crocodilo Dundee 2 - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AEUXU3RJSI52LWDJ2UATEWXYZFHBAOTH</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DXagEK09xO5xBUFUUr1SL1yUpd.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -506,7 +491,6 @@
   
     <item> 
 1   <title>[B][COLOR blue] Crocodilo Dundee em Hollywood 3 - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ce1739362957e4c2b7ceaafdfe4e5b5bc9a8efc</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwt6iJjPuXRDKJON5s9G9pdfPbu.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -517,7 +501,6 @@
 
 <item> 
 1   <title>[B][COLOR blue] Finalmente 18 - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79889b640388bbbeda14c9932a7f8b058e971cc6</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mL0etS6jpQD3fq2B4L8DGCiFO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -528,7 +511,6 @@
 
   <item> 
 1   <title>[B][COLOR blue]The Best of Borat - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13D95ABE150BAED7960917D908F2199D64F4F037</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTxjQgcWe01DZDHjcZ3I9bgCa0u.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -538,9 +520,8 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Safados - [COLOR red]ADDON BXL [COLOR red](1988) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>$$lsname=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7EE6CE9B96115DE3D15C3A5E06D208B78A202E1&dn=Os.Safados.1988.1080p.Dual-&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B2117A555EC5EBFEB3613822FC4EE2A4AFE421&dn=Os.Safados.1988.720p.Dual-&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7EE6CE9B96115DE3D15C3A5E06D208B78A202E1</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B2117A555EC5EBFEB3613822FC4EE2A4AFE421</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TWdGZnBS7ZSTkvqEaTUB0QzV4i.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yeAxeypRc6RsUVQaxCIrtqaE4l.jpg</fanart>
@@ -549,7 +530,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Um Dia a Casa Cai - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275C7B709E91D87F259A0BEF43887474492801BE&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3a%2f%2fbr2share.com%2fannounce.php%3fpasskey%365940be6163205173e6aeb9f0448cc9&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fwww.eddie4.nl%3a6969%2fannounce&tr=http%3a%2f%2ftracker.best-torrents.net%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2f121.14.98.151%3a9090%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275C7B709E91D87F259A0BEF43887474492801BE</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Zkc9TQ8Yortb4aApxsblmByOj.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/9uXDAu7p16LmJU05ujLAgs0EhLo.jpg</fanart>
@@ -568,7 +549,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Splash - Uma Sereia em Minha Vida - [COLOR red]ADDON BXL [COLOR red](1984) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74BEF1584F75E72DD81F451AD6E74485C5DA6881&dn=Splash.Uma.Sereia.Em.Minha.Vida.1984.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74BEF1584F75E72DD81F451AD6E74485C5DA6881</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/72iWmZzs8KVcVAMrerjShzKozmm.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/gTujuWCdnU17K5CBNMoX6dKhT38.jpg</fanart>
@@ -586,7 +567,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Projeto X - Uma Festa Fora de Controle - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a0e6c6b537d98d62c4addca10a215b002cac26c&dn=Projeto+X++%282012%29+BDRip+Bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a0e6c6b537d98d62c4addca10a215b002cac26c</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ER5NBqdSuxnmOzAqmm9OGNGg7g.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/5vAv4h4vugleYsbsNkUb9kcrk8h.jpg</fanart>
@@ -595,7 +576,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Little Nicky, Um Diabo Diferente - [COLOR red]ADDON BXL [COLOR red](2000) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E083721C582F6C84E8E117EE0D205FE5DE5B683&dn=COMOEUBAIXO.COM..MKV.Um%20Diabo%20Diferente%20%282000%29%20BluRay%201080p%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E083721C582F6C84E8E117EE0D205FE5DE5B683</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWB3JoWtUeDvKF72fCpFB8fJVds.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/xv81mllAsyLe79aaG57EVS2qjVG.jpg</fanart>
@@ -606,7 +587,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Estagiários - [COLOR red]ADDON BXL [COLOR red](2013) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8dc7550f37a37e1e2fd128c8c4de416448eabaa&dn=Os+Estagiarios+%282013%29+BDRip+1080p+Dublado+Unrated+ToTTi9&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8dc7550f37a37e1e2fd128c8c4de416448eabaa</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2yNRyP3QJ36lO81f19ep98eWw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/kms4PhWfP1Q2jidPLOf26qm0paJ.jpg</fanart>
@@ -615,7 +596,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Jackass Apresenta: Vovô Sem Vergonha  - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eac3bef16b65ddfa1da040a4d3abe0b5832a5587&dn=Vov%26ocirc%3B.Sem.Vergonha.%282013%29.BDrip.Dublado.720p++&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eac3bef16b65ddfa1da040a4d3abe0b5832a5587</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MEvMz4QWoOr7jX5gfPu14pEydq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/xKY0rD5OlNv360z2EznqFdUgzWZ.jpg</fanart>
@@ -624,7 +605,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Vizinhos Nada Secretos  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FEBEE3686718BC9E92E4BAA0B7DA2850C9266FC&dn=Vizinhos%20Nada%20Secretos%202017%20Bluray%201080p%20Dublado%20-%20TPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FEBEE3686718BC9E92E4BAA0B7DA2850C9266FC</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7j3q1K8qCaJDHSOU3cjjidSri.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/vwIpLee6CEkx3kYSFANEUWVc3u1.jpg</fanart>
@@ -633,7 +614,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Vizinhos - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366bc8e8280749cc93e7c59e0ca153f96716ef84&dn=Vizinhos+%282014%29+BRrip+1080p+Dublado+-+ThePirateFilmes</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366bc8e8280749cc93e7c59e0ca153f96716ef84</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV6gQxbH0ue0pMbrPBNBePT9WV6.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/r4EMKBUH5apPtLqdYmZhmH5zgb8.jpg</fanart>
@@ -643,7 +624,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Vizinhos 2 - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:663DFAFCD17591C0CCB1ABE5B57E659570236FE3&dn=Vizinhos%202%201080p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:663DFAFCD17591C0CCB1ABE5B57E659570236FE3</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7fD88Zdowjcvd6IkwjD8ijxQ5P.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/nP4cavxlczP0vtyDqFujTFkdLMq.jpg</fanart>
@@ -652,7 +633,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Vizinhos Imediatos de 3° Grau - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35D83DBA3F66488BA35C332688C6B86C67836BC9&dn=Vizinhos%20Imediatos%20de%203%C2%BA%20Grau%202012%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35D83DBA3F66488BA35C332688C6B86C67836BC9</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7iMr8PWtH3j5W2MOIkjxZ0OIjZ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/eq5a9prlO6K8BJzXoPQgdSufPd0.jpg</fanart>
@@ -661,7 +642,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] A Entrevista - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58532542F17CC8C0ED1BB9EDD53E3BF668911150&dn=A%20Entrevista%20%282015%29%20-%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58532542F17CC8C0ED1BB9EDD53E3BF668911150</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0nxW8jJ4CsXTTxZJAA68AQE5Sv.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/f0ZmE7ULavRBpWkWQV4iAYkhAdp.jpg</fanart>
@@ -670,7 +651,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Os Gatões: Uma Nova Balada - [COLOR red]ADDON BXL [COLOR red](2005) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66468dff3d091a99b67c91186b9dd04bee75d23&dn=Os+Gatoes%3A+Uma+Nova+Balada+%282005%29+BluRay+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66468dff3d091a99b67c91186b9dd04bee75d23</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ38nipYAyOUgUv9tzL3RAIBgXV.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/m8BofAxPDzGpQF17kJibhBc35bg.jpg</fanart>
@@ -679,7 +660,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Top Gang 2! - A Missão - [COLOR red]ADDON BXL [COLOR red](1993) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b554cbb5d95a99f544d870b7c7db2f04c85f306&dn=COMOEUBAIXO.COM..BLURAY.MP4.Top+Gang+2+-+A+Miss%26atilde%3Bo+%281993%29+-+Dublado+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b554cbb5d95a99f544d870b7c7db2f04c85f306</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j1Wt4kasG1BCJJjozScnoVyYbR.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/27Hw1wMlCzGoNjogfkEu1KYPQop.jpg</fanart>
@@ -689,7 +670,7 @@
 
   <item> 
 1   <title>[B][COLOR blue] Top Gang!: Ases Muito Loucos - [COLOR red]ADDON BXL [COLOR red](1991) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e279f3c886075b7e157591ba69c1baa0d8d541a2&dn=Top%20Gang%20-%20Ases%20Muito%20Loucos%20(1991)%20-%20Dublado%20720p&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:6969&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e279f3c886075b7e157591ba69c1baa0d8d541a2</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8SnIlQoveEyJCJNSvXUmqIj3BI.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/k4BaT86IP1QJA0UKjuj3oqTieVW.jpg</fanart>
@@ -700,7 +681,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Um Espião e Meio - [COLOR red](2016) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960399593FEA61399AFC1F02DDCA46063F272D76&dn=Um%20Espi%c3%a3o%20e%20Meio%202016%20%5b1080p%5d%20%20WWW.WOLVERDON-FILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960399593FEA61399AFC1F02DDCA46063F272D76</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/skS83M9X1Gzpp8toRzSkLhevgxj.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/ApXsYouT6ILLmsry8Pn4JmNv1ej.jpg</fanart>
@@ -710,7 +691,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Nada a Perder  - [COLOR red](1997) - [COLOR blue](FULLHD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3008DF0DE452C560474A3219AFF1986B91A6D752&dn=Nada%20a%20Perder%20%281997%29%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3008DF0DE452C560474A3219AFF1986B91A6D752</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2By6Jx9hfhQUif5JdBQSNEqeTrS.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/9gGeEJFGclaQ4fxGGE00SU3XODy.jpg</fanart>
@@ -720,7 +701,7 @@
 
 <item>
 <title>[B][COLOR blue]O Besouro Verde- [COLOR red](2011)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bdc44ba9608d5978f83ccefff872ac0bf48484&dn=O.Besouro.Verde.2011.720p.BluRay.x264-VTM_SL+%27%28Dublado%29%27&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bdc44ba9608d5978f83ccefff872ac0bf48484</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTU8mxFJasWIiG73GTmwHQy24Ir.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aBCn1z1tJGivVhY1nHSrXOQqQwG.jpg</fanart>
 <info>Britt Reid (Seth Rogen) está perto dos 30 anos e não quer saber de responsabilidades, dedicando sua vida à diversão. Até o dia em que seu pai (Tom Wilkinson) morre misteriosamente e ele precisa assumir os negócios da família, ficando à frente de um grande e respeitado jornal. Milionário e entediado, Reid resolve criar um personagem junto com seu fiel funcionário Kato (Jay Chou), fera das artes marciais e grande inventor de máquinas revolucionárias. Cheios de vontade, surge então o Besouro Verde. Só que a cidade está nas garras de Chudnofsky (Christoph Waltz), um criminoso que busca meios der ser mais ameaçador para as pessoas.</info>
@@ -737,7 +718,7 @@
 
 <item>
 <title>[B][COLOR blue] Policial em Apuros 2 - [COLOR red](2016)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE9394EDAB6D282215B80CB181BD4A8E2B0CFEB0&dn=Polical%20em%20Apuros%202%201080p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE9394EDAB6D282215B80CB181BD4A8E2B0CFEB0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wSJG24PI4098LJQ0mEvNbRr01JF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ieGu3xcOEePs95nOnmLN9uDCTEM.jpg</fanart>
 <info>Sequência da dupla Ben e James em uma nova patrulha juntos. Com o seu casamento se aproximando, Ben precisa rumar para Miame com James, que está prestes a se tornar o seu cunhado, para resolver um caso. Os dois precisam derrubar um traficante local que está fornecendo produtos para traficantes de Atlanta.</info>
@@ -747,7 +728,7 @@
 
 <item>
 <title>[B][COLOR blue]SUPERBAD E HOJE - [COLOR red](2007)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6df2ab686ae24323cdbda52f11a87db8d5d95e&dn=Superbad+-+%26Eacute%3B+Hoje+%282007%29+V.+Estendida+BRrip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6df2ab686ae24323cdbda52f11a87db8d5d95e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aqr4CdX6eeA5UkVAJzKZMs7FeEw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hEUTKEweUKgQ7R25S768VXidyyq.jpg</fanart>
 <info>Dois idosos co-dependentes do ensino médio são forçados a lidar com a ansiedade de separação depois que seu plano de organizar uma festa encharcada de bebida dá errado.</info>
@@ -757,7 +738,7 @@
 
 <item>
 <title>[B][COLOR blue]kick-Ass quebrando tudo- [COLOR red](2010)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d0da71c1d4ce09d534812f14edd4b32b6ee47f8&dn=Kick-Ass%2C+Quebrando+Tudo+%282010%29+BDRip+720p+DUAL+AUDIO&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d0da71c1d4ce09d534812f14edd4b32b6ee47f8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pighy9ELPiNhZXQKh3X5r2mNr69.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qHhuTmhRCYvj9ls4STFGnaeAPhR.jpg</fanart>
 <info>Dave Lizewski é um estudante do ensino médio despercebido e fã de quadrinhos que um dia decide se tornar um super-herói, mesmo que ele não tenha poderes, treinamento ou motivos significativos para fazê-lo.</info>
@@ -765,7 +746,7 @@
 
 <item>
 <title>[B][COLOR blue]Kick-Ass 2 - [COLOR red](2013)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2577a180b6621db608ab9d785ad2ed7500fc9d6f&dn=Kick.Ass.2.%282013%29.BDrip.Dublado.1080p.%5B5.1%5D+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2577a180b6621db608ab9d785ad2ed7500fc9d6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch18ICcbiA5z089LrJH5Hed7ZJl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v02EbwiCPL0s2FutsLGboKybR12.jpg</fanart>
 <info>Depois que a insana coragem de Kick-Ass inspira uma nova onda de cruzados mascarados, ele se junta a uma patrulha liderada pelo coronel Stars and Stripes. Quando esses super-heróis amadores são caçados por Red Mist - renascido como The Mother Fucker - apenas a Hit-Girl empunhada por lâminas pode impedir sua aniquilação.</info>
@@ -773,7 +754,7 @@
 
 <item>
 <title>[B][COLOR blue]Paranoia - [COLOR red](2007)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08281235f33a3abe5da85023d9f55f4e09b976db&dn=Paran%26oacute%3Bia+%282007%29+-+Dublado+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08281235f33a3abe5da85023d9f55f4e09b976db</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/atL5uJGwq15C4Xq7PbFcAnDz6zK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/96GuuOsCRh6IshD6epojkuyvB4p.jpg</fanart>
 <info>Kale é um jovem de 17 anos colocado em prisão domiciliar depois de socar seu professor. Ele está confinado em sua casa e decide usar seu tempo livre espionando seus vizinhos. As coisas começam a ficar estranhas quando os hóspedes entram na casa dos Turner e não voltam. Kale e seus amigos, Ronnie e Ashley, começam a se interessar cada vez mais pelo que realmente está acontecendo na casa de Robert Turner.</info>
@@ -781,7 +762,7 @@
 
 <item>
 <title>[B][COLOR blue]Pixels - [COLOR red](2015)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4837f910a31cf2e54cfdfd2f182ce58a1a283e1f&dn=Pixels.2015.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4837f910a31cf2e54cfdfd2f182ce58a1a283e1f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5yQliDYCBFx8LcPUWW09ef6LHBp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kNT6StWxmscI7bwEZ5zvYbRdYCn.jpg</fanart>
 <info>Os especialistas em videogame são recrutados pelos militares para combater os personagens dos videogames da década de 1980 que atacaram Nova York.</info>
@@ -789,7 +770,7 @@
 
 <item>
 <title>[B][COLOR blue] Gente Grande 1 E 2 [/COLOR][/B][B]- [COLOR red](2015)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA59393E1FB3587B1736AB363F3EFA4356B22562&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3a%2f%2fbr2share.com%2fannounce.php%3fpasskey%365940be6163205173e6aeb9f0448cc9&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fwww.eddie4.nl%3a6969%2fannounce&tr=http%3a%2f%2ftracker.best-torrents.net%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2f121.14.98.151%3a9090%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA59393E1FB3587B1736AB363F3EFA4356B22562</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bE5QcEP5SWLFoOQceqvXEWFyN2b.jpg</fanart>
 <info>Lenny (Adam Sandler), Kurt (Chris Rock), Eric (Kevin James), Marcus (David Spade) e Rob (Rob Schneider) se conhecem desde pequenos. Passados trinta anos, os cinco amigos se reencontram para curtir um fim de semana juntos com as respectivas famílias, mas o feriado de 4 de Julho em uma casa no lago promete muito mais diversão do que apenas lembranças dos bons momentos. Casados e com várias crianças, os homens de família terão de confrontar o fato de não serem mais tão jovens.</info>
@@ -797,7 +778,7 @@
 
 <item>
 <title>[B][COLOR blue] CLICK [/COLOR][/B][B]- [COLOR red](2006)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85608D153D77ADC654B71BE70105E4DBD403F360&dn=Click%20(2006)%20BRRip%201080p%20Dublado%20AC3%205.1&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85608D153D77ADC654B71BE70105E4DBD403F360</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uToyBPurosn6VUmpjsmEMOe2vLQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iSysoqzGvrDF8WuPiysYilTyUqE.jpg</fanart>
 <info> Michael Newman (Adam Sandler) é casado com Donna (Kate Beckinsale), com que tem Ben (Joseph Castanon) e Samantha (Tatum McCann) como filhos. Michael tem tido dificuldades em ver os filhos, já que tem feito serão no escritório de arquitetura em que trabalha no intuito de chamar a atenção de seu chefe (David Hasselhoff). Um dia, exausto devido ao trabalho, Michael tem dificuldades em encontrar qual dos controles remotos de sua casa liga a televisão. Decidido a acabar com o problema, ele resolve comprar um controle remoto que seja universal, ou seja, que funcione para todos os aparelhos eletrônicos que sua casa possui. Ao chegar à loja Cama, Banho & Além ele encontra um funcionário excêntrico chamado Morty (Christopher Walken), que lhe dá um controle remoto experimental o qual garante que irá mudar suaa vida. Michael aceita a oferta e logo descobre que ela realmente é bastante prática, já que coordena todos os aparelhos. Porém Michael logo descobre que o controle tem ainda outras funções, como abafar o som dos latidos de seu cachorro e também adiantar os fatos de sua própria vida.</info>
@@ -805,7 +786,7 @@
 
 <item>
 <title>[B][COLOR blue] Professor Peso Pesado [/COLOR][/B][B]- [COLOR red](2012)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca7d433547c4d7c01887540c39a4381b229b8deb&dn=Professor+Peso+Pesado+%282012%29+BDRip+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca7d433547c4d7c01887540c39a4381b229b8deb</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSPg3ArMIyvg2ao4qptIPWK0B0l.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2vXajoL0GQOQ0K0g1AIInOr15jM.jpg</fanart>
 <info>Scott Voss (Kevin James) é um simples professor de biologia que tenta impedir que sua escola, para conter gastos, deixe de oferecer uma disciplina eletiva que considera importante. Sem saber o que fazer, ele decide se tornar um lutador de artes marciais mistas para tentar juntar uma boa quantidade de dinheiro.</info>
@@ -813,7 +794,7 @@
 
 <item>
 <title>[B][COLOR blue] A História Real de um Assassino Falso [/COLOR][/B][B]- [COLOR red](2016)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353C986930F835F8239273FEDABA84030038D9D2&dn=A%20Hist%c3%b3ria%20Real%20de%20um%20Assassino%20Falso%202016%20%5b1080p%5d%20%5bWEBRip%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353C986930F835F8239273FEDABA84030038D9D2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/muJ9FvDSTm4txkATsKWPADb1zTI.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8YXVfwmXoGgxvk0P9xaZMFd34Cj.jpg</fanart>
 <info>Um escritor amador publica uma história sobre um assassino internacional mas, por erro, o livro é vendido como uma história verídica. Ele, então, é dado como foragido, sequestrado pela máfia e obrigado a atuar em uma missão clandestina na Venezuela</info>
@@ -821,7 +802,7 @@
 
 <item>
 <title>[B][COLOR blue] Eu os Declaro Marido e... Larry [/COLOR][/B][B]- [COLOR red](2007)[/COLOR] - [COLOR blue](FULLHD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:951BBA1FBA0819BD10F59F03AEF5A1CAD18492DD&dn=Eu%20os%20Declaro%20Marido%20e...%20Larry%20%282007%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:951BBA1FBA0819BD10F59F03AEF5A1CAD18492DD</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejOubGftk2MPrUoYoQ18dsSkae4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4AKu9jkRCjTAOkyLUYPvg7Ekbvf.jpg</fanart>
 <info>Chuck Levine (Adam Sandler) e Larry Valentine (Kevin James) são o orgulho do Corpo de Bombeiros do Brooklyn, sendo também muito amigos e dispostos a ajudar um ao outro. Chuck é agradecido a Larry por ter salvo sua vida no trabalho e só pensa em curtir a vida. Já Larry é preocupado com o futuro e, devido a problemas burocráticos, não consegue colocar seus dois filhos como beneficiários de seu seguro de vida. Devido a isso Larry pede a Chuck que seja seu parceiro em alguns formulários, sendo que ninguém mais saberá disto. Entretanto uma burocrata zeloso desconfia do casal, o que faz com que eles tenham que se revelar para a cidade e improvisar como um apaixonado casal, que vive sob o mesmo teto.</info>
@@ -829,24 +810,33 @@
 
 <item>
 <title>[B][COLOR blue] Golpe Baixo [/COLOR][/B][B]- [COLOR red](2015)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:515853f5922b5e0740879c01055cad2553c7cf62&dn=Golpe+Baixo+%282005%29+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:515853f5922b5e0740879c01055cad2553c7cf62</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1jx3F0WZQjkZONuvSGZXapF23F.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/c1PbVv07szXKr49NMBZZ4H0mX7P.jpg</fanart>
 <info>Paul Crewe é um astro do futebol americano aposentado que, após ser pego dirigindo bêbado, vai para a penitenciária Allenville, uma das prisões mais duras do país. Ao chegar lá, o diretor do presídio pede a Paul que monte um time de prisioneiros para disputar uma partida de futebol americano contra os guardas. Paul convoca Caretaker, um negociante malandro para recrutar os melhores prisioneiros. Eles prometem aos condenados uma possibilidade de vingança em um confronto que vale tudo.</info>
 </item>
 
+   <item> 
+1   <title>[B][COLOR blue] Agente 86: Bruce e Lloyd - Fora de Controle - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1592A6989593964BA688A29F26B1669FAD96A2</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvEYqTCbFVc0qaqDW3eSsa6TKTK.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/4Dje9uYhmHZQjHloD4fdSOhLqRm.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:O Agente 86 inspirou hilárias missões e inesquecíveis engenhocas de espionagem! Você gosta do Agente 86? A gente também!!! Mas você vai gostar mais ainda dele depois que acompanhar os inventores das engenhocas preferidas do C.O.N.T.R.O.L.E., Bruce (Masi Oka) e Lloyd (Nate Torrence), em sua própria aventura de espionagem nesta comédia inspirada em Agente 86 (que inclui participações para lá de especiais de estrelas do longa-metragem de 2008). Essa dupla está fora do laboratório e de suas "zonas de conforto" porque, sabe Deus como, acabaram perdendo sua mais nova e valiosa invenção, um dispositivo de invisibilidade, e agora precisam achá-la antes que a K.A.O.S. o faça. É claro que toda essa história de invisibilidade complica a situação... Sem contar que aprender a ser um espião de uma hora para a outra é um tremendo desafio para nossos heróis.[COLOR red][/COLOR][/B]</info>	
+  </item>
+
 <item>
 <title>[B][COLOR blue] agente 86 [/COLOR][/B][B]- [COLOR red](2008)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EEF10E2EF37BD81E4F78DBF430664DA3A80AC56&dn=Agente.86.%282008%29.Dublado.720p.By.Luan.Harper.TPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
-<thumbnail>https://i.imgur.com/AwJ48hk.jpg</thumbnail>
-<fanart>https://i.pinimg.com/564x/c5/be/15/c5be15d55d22d3fa37b2200439cd03c5.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EEF10E2EF37BD81E4F78DBF430664DA3A80AC56</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cXSsrlaR5nEtnO86TaOjBrF0A5K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bZJkYvomvSGuXvWhgJbSrDWHOCf.jpg</fanart>
 <info>Um ataque à sede da CONTROLE faz com que Maxwell Smart (Steve Carell) seja enfim promovido a agente, ganhando o código 86. Agora, juntamente com a agente 99 (Anne Hathaway), ele precisa encontrar os vilões da KAOS e encerrar seus planos.</info>
 </item>
 
 
 <item>
 <title>[B][COLOR blue] Agente 86: Bruce e Lloyd - Fora de Controle [/COLOR][/B][B]- [COLOR red](2008)[/COLOR] - [COLOR blue](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1592A6989593964BA688A29F26B1669FAD96A2&dn=Agente%2086%20-%20Bruce%20e%20Lloyd%20-%20Fora%20de%20Controle%20%5b2008%5d%20720p%20Dual%20%C3%81udio%205.1%20-%20TorrentDosFilmesHD.net.mkv&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1592A6989593964BA688A29F26B1669FAD96A2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvEYqTCbFVc0qaqDW3eSsa6TKTK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4Dje9uYhmHZQjHloD4fdSOhLqRm.jpg</fanart>
 <info>O Agente 86 inspirou hilárias missões e inesquecíveis engenhocas de espionagem! Você gosta do Agente 86? A gente também!!! Mas você vai gostar mais ainda dele depois que acompanhar os inventores das engenhocas preferidas do C.O.N.T.R.O.L.E., Bruce (Masi Oka) e Lloyd (Nate Torrence), em sua própria aventura de espionagem nesta comédia inspirada em Agente 86 (que inclui participações para lá de especiais de estrelas do longa-metragem de 2008). Essa dupla está fora do laboratório e de suas "zonas de conforto" porque, sabe Deus como, acabaram perdendo sua mais nova e valiosa invenção, um dispositivo de invisibilidade, e agora precisam achá-la antes que a K.A.O.S. o faça. É claro que toda essa história de invisibilidade complica a situação... Sem contar que aprender a ser um espião de uma hora para a outra é um tremendo desafio para nossos heróis.</info>
