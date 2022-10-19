@@ -2724,7 +2724,7 @@ channels>
 
 channels>
 <channel>
-<name>[COLOR blue] DMZ [/COLOR]</name>
+<name>[COLOR blue] DMZ [/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wnug9DhsenurS5dWCypjZSRFnH6.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DMZ</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/fUjATGfykF0EU57DhMDkIXqQlc5.jpg</fanart>
