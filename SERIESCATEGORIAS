@@ -2,7 +2,20 @@
 
 
 
+ channels>
+<channel>
+<name>[COLOR blue] SEE [/COLOR]</name>   
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/See</externallink>        
+<fanart>https://www.themoviedb.org/t/p/original/ivjDgi0cIWFflrXfaxtRHAu1KKO.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -198,23 +211,6 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
  
- channels>
-<channel>
-<name>[COLOR blue] SEE [/COLOR]</name>   
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/See</externallink>        
-<fanart>https://www.themoviedb.org/t/p/original/ivjDgi0cIWFflrXfaxtRHAu1KKO.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
 channels>
 <channel>
 <name>[COLOR blue] Mulher-Hulk: Defensora de Heróis [/COLOR]</name>
