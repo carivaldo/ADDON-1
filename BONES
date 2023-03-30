@@ -7,7 +7,7 @@
 1   <info>[B][COLOR red] SINOPSE:Uma antropóloga forense e um arrogante agente do FBI formam uma equipa para investigar as causas de morte. E em muitas das vezes, não há mais para examinar do que carne podre ou meros ossos.[COLOR red][B][/COLOR][/B]</info>		
 
 1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] BONES - [COLOR blue] [COLOR red](2005) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b24eaed4b76b781b283e7435b6898021395164f4</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6BDCEC41AFD80A0C9092BE77634AEF41E8CF8CA</link>
 1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
 1	<fanart>https://www.themoviedb.org/t/p/original/uwbue4X5f3r1b4z19EP6lSlRED6.jpg</fanart>
