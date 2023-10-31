@@ -3,16 +3,20 @@
 
 ****************************************************************************************************************************
 <item>
-<title>[B][COLOR red]• [COLOR blue] nome [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
-1	<fanart></fanart>
-1	<thumbnail></thumbnail>
+<title>[B][COLOR red]• [COLOR blue] Gen V [COLOR red] - [COLOR red][1ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://www.themoviedb.org/t/p/original/ScaVfT5IkwVC3Edhmxqyl0GbK0.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGOV8WrYzHKYt9lMrSGzxVAlfqL.jpg</thumbnail>
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
-<info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>		
+<info>[B][COLOR red] SINOPSE: Gen V, spin off universitário de The Boys, explora a primeira geração de super-heróis a saber que seus superpoderes são do Composto V. Esses heróis colocam seus limites físicos e morais à prova, competindo pelo ranking mais alto da escola.[COLOR red][/COLOR][/B]</info>		
 
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] nome - [COLOR blue] [COLOR red](2012) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=</link>
-1	<thumbnail></thumbnail>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Gen V - [COLOR blue] [COLOR red](2023) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HVUAOYR6JX6LC4H3MA2K7OAH6Y6UIKE2$nome=[COLOR lime] Gen V S01E01-02-03 1080P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QPDVYZWFRTGDGDRKQ7RLHPACO7DT6MWY$nome=[COLOR lime] Gen V S01E04 1080P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6NZAHE65Q46UM32M5EXYUL6UBGYN5NJS$nome=[COLOR lime] Gen V S01E05 1080P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OO2P3AOE3ROSB5GCG2Z3V3TAR4XA2K5$nome=[COLOR lime] Gen V S01E06 1080P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3VHPVYNOCTJON7FZNVSEA4HXWTT72ZT$nome=[COLOR lime] Gen V S01E07 1080P[/COLOR]</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGOV8WrYzHKYt9lMrSGzxVAlfqL.jpg</thumbnail>
 1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
-1	<fanart></fanart>
-1	<info>[B][COLOR red] SINOPSE:[COLOR red][/COLOR][/B]</info>	
+1	<fanart>https://www.themoviedb.org/t/p/original/ScaVfT5IkwVC3Edhmxqyl0GbK0.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE: Gen V, spin off universitário de The Boys, explora a primeira geração de super-heróis a saber que seus superpoderes são do Composto V. Esses heróis colocam seus limites físicos e morais à prova, competindo pelo ranking mais alto da escola.[COLOR red][/COLOR][/B]</info>	
 </item>
