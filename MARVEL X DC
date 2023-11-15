@@ -777,9 +777,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Hellboy - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D4C76B51640F5A70E058D57476852ABA5196E9F</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59C609F590539CEA1CCB850BA1A335F2196C74CC$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387A9B08487F86CB948480979C41B029A1F6A64$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D4C76B51640F5A70E058D57476852ABA5196E9F$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59C609F590539CEA1CCB850BA1A335F2196C74CC$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387A9B08487F86CB948480979C41B029A1F6A64$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aqSzF4WqCDVphxiOlpLGufqJc6j.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/4skch5xyUhKQhs3InCQF1qazadj.jpg</fanart>
@@ -788,7 +788,8 @@
   
   <item> 
 1   <title>[B][COLOR blue] Hellboy II: O Exército Dourado - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5610B4A95F4C1EBD04DE627D91E6F111FBE324DB$nome=RESOLUÇÃO 1080P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D77DBA032BBE0AAF4E2959140C86581445CE396$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de630ee0db6be61872703a8156337ccd55d75828$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ZFnYUkYDlwJQvODkQ0JyTRZDSO.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/r4HOAR5y6Uy7I7FpZ03ailyEdai.jpg</fanart>
@@ -797,9 +798,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Hellboy - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad1c6593d758f8d28853045fdb6c52fb2d4bc8f7$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ded9de7fcf3e06e1e72e689baba6bd337d55e0e$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad1c6593d758f8d28853045fdb6c52fb2d4bc8f7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ded9de7fcf3e06e1e72e689baba6bd337d55e0e$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lmh8wXm6f3z7wcRqQ8NSXrB8tMQ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/zZYp68xC6L6DNfutes0PxwvieII.jpg</fanart>
