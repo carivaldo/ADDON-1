@@ -344,8 +344,8 @@
 
 <item> 
 1   <title>[B][COLOR blue] HULK - [COLOR red]ADDON BXL [COLOR red](2003) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$nome=RESOLUÇÃO 720P</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E$$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/fqQyJjfpnR9RRjFMcIBuJt8IoL8.jpg</fanart>
@@ -355,9 +355,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] O Incrível Hulk  - [COLOR red]ADDON BXL [COLOR red](2008) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01692F21A562407C3C6A3333F5D369BB8D06EF6F$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C35AE7BF3A6D932E2AD7E30162E176F364D48F88$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C69571713E214D5C749D4A18BCB6253A4B9AB40$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01692F21A562407C3C6A3333F5D369BB8D06EF6F$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C35AE7BF3A6D932E2AD7E30162E176F364D48F88$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C69571713E214D5C749D4A18BCB6253A4B9AB40$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/q6TTw5x6s0sM0tLGwFkYSd0gFjr.jpg</fanart>
@@ -366,8 +366,8 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha  - [COLOR red]ADDON BXL [COLOR red](2002) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FE3862BB88CEEC43F03008E3663BFB1319666D7$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD55BBD9BE57BCD52B57A5654EC97E4FA4873ECF$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FE3862BB88CEEC43F03008E3663BFB1319666D7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD55BBD9BE57BCD52B57A5654EC97E4FA4873ECF$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg</fanart>
@@ -376,8 +376,8 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha 2 - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF5BBD590334D11C19FEDA8D15C424A02B73F388$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF5BBD590334D11C19FEDA8D15C424A02B73F388$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/ouMBIALAOq0rpoB8b2RydUevRu1.jpg</fanart>
@@ -386,8 +386,8 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/srATZkiFYImhc0LHVXo080B4Yeq.jpg</fanart>
@@ -396,9 +396,9 @@
   
   <item>
 1   <title>[B][COLOR blue] O espetacular Homem Aranha - [COLOR red]ADDON BXL [COLOR red](2012) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86eda0dbb6e9b52838021ce854ab8397843e163$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6956d55618fe4750fe2a5b01e7b52b4e8579ae1$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86eda0dbb6e9b52838021ce854ab8397843e163$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6956d55618fe4750fe2a5b01e7b52b4e8579ae1$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/yXrEdngT7XTcO9sTE5qBALnS4Na.jpg</fanart>
@@ -407,9 +407,9 @@
 
 <item>
 1   <title>[B][COLOR blue] O Espetacular Homem-Aranha 2: A Ameaça de Electro - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c6$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9DD2AEEEFF2ECB64F69AEFEB6EB587D04990C87$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A09F63C5F4CE0A11B182274EE79C0D68ABA260B$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c6$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9DD2AEEEFF2ECB64F69AEFEB6EB587D04990C87$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A09F63C5F4CE0A11B182274EE79C0D68ABA260B$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lDbcaBs1IdBZccCM1R417XmPxKF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg</fanart>
@@ -418,9 +418,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Aranha: De Volta ao Lar - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d868e9bc1304d1b0bd2a0da31745c1b6e13691c5$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A87D6671E521B1302915D002CFA85D3B1764C8B7$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EF9496417246492AAAE95F8950AF5D9771DC1DF$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d868e9bc1304d1b0bd2a0da31745c1b6e13691c5$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A87D6671E521B1302915D002CFA85D3B1764C8B7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EF9496417246492AAAE95F8950AF5D9771DC1DF$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg</fanart>
@@ -429,9 +429,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Homem-Aranha: Longe de Casa - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CED02A945F3EE4562605AC2D89E7E92C0DD1BD7A$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A40F4B5A7D3D6067A29C1F9C18892A8FC1BCCC7$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB84D75D6B7A186980FE573072D15FD399B20F65$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CED02A945F3EE4562605AC2D89E7E92C0DD1BD7A$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A40F4B5A7D3D6067A29C1F9C18892A8FC1BCCC7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB84D75D6B7A186980FE573072D15FD399B20F65$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg</fanart>
@@ -440,9 +440,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Doutor Estranho - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ECF7532B77DA78C699414D6FF28855CA7197A0E$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:416076BB7B77E84DB4A8BF097AB60445D6949A68$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C978416628ACD45A6CD078DD40C0CF20B7C359AC$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ECF7532B77DA78C699414D6FF28855CA7197A0E$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:416076BB7B77E84DB4A8BF097AB60445D6949A68$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C978416628ACD45A6CD078DD40C0CF20B7C359AC$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/7qI7HPrw3hD2toqYQ62vOdkLx3I.jpg</fanart>
@@ -452,9 +452,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Formiga - [COLOR red]ADDON BXL [COLOR red](2015) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B051A41F8D19F72D5231B09DE791801E16E3D73E$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91285D960CCAFA338037284CCCCE818E7E7D1C9F$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B051A41F8D19F72D5231B09DE791801E16E3D73E$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91285D960CCAFA338037284CCCCE818E7E7D1C9F$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/eDzUGAPSf6vv1J29MJM0jlCiDJL.jpg</fanart>
@@ -463,9 +463,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Homem-Formiga e a Vespa - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95652DAE27069B651AA9076ABAA77E72DEB3E07F$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95652DAE27069B651AA9076ABAA77E72DEB3E07F$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
@@ -474,9 +474,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Pantera Negra - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8C8F60CBF5E80F494A53BF7255EA7B754169377$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4515AD684A356350320DD9E1B8E1C20A87079927$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8C8F60CBF5E80F494A53BF7255EA7B754169377$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4515AD684A356350320DD9E1B8E1C20A87079927$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg</fanart>
@@ -485,9 +485,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Deadpool - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756$nome=RESOLUÇÃO 72</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D55E6F225BB1F3713DA1D2EA227BB475454E624$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D55E6F225BB1F3713DA1D2EA227BB475454E624$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/n28I7FNYIT934OoHhKZn4IIDsrQ.jpg</fanart>
@@ -496,9 +496,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Deadpool 2  - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/7gwIbnB2j45wSC3esSzkRzfwcws.jpg</fanart>
@@ -507,9 +507,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Venom - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8A22D765E65F46A580940A7D298C93D03FB38E$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAC25090D78F7AAEF9F04157470D6B8D84B0BE19$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8A22D765E65F46A580940A7D298C93D03FB38E$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAC25090D78F7AAEF9F04157470D6B8D84B0BE19$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/h3EG2tfaCukETiibpLhQeTk1lwR.jpg</fanart>
@@ -518,9 +518,9 @@
 
 <item> 
 1   <title>[B][COLOR blue] Capitã Marvel - [COLOR red]ADDON BXL [COLOR red](2019) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:948e47db7d44baaa63c740ba855ec8b8549b2da3$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14269ab8d40c2c4da66009cc33acb0c6fdf9074c$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:948e47db7d44baaa63c740ba855ec8b8549b2da3$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14269ab8d40c2c4da66009cc33acb0c6fdf9074c$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/I72sPfAdGbLJN1YawBbSkhw9vg.jpg</fanart>
@@ -529,9 +529,9 @@
 
 <item> 
 1   <title>[B][COLOR blue]Guardiões da Galáxia - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E682FE3A7327F7CC16E86A38AE6BA9734B5D43$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A35566E33EF5C8039AD405F67708A1EC075C4DD7$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E682FE3A7327F7CC16E86A38AE6BA9734B5D43$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A35566E33EF5C8039AD405F67708A1EC075C4DD7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/i34ijHY5hr52uYcKZ48wq7K6yUs.jpg</fanart>
@@ -540,9 +540,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Guardiões da Galáxia Vol. 2  - [COLOR red]ADDON BXL [COLOR red](2017) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F83EDF031FE1D7969D1999522E0D7F4FBF7C170E$nome=RESOLUÇÃO 1080P</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816BD96103A9F5E9961A4F6513B47D248F397AE7$nome=RESOLUÇÃO 720P</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F83EDF031FE1D7969D1999522E0D7F4FBF7C170E$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816BD96103A9F5E9961A4F6513B47D248F397AE7$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/xpFIaHL7Rm5kKLcEPDEMpjh4Xq6.jpg</fanart>
@@ -552,9 +552,9 @@
 
   <item> 
 1   <title>[B][COLOR blue] Superman: O Filme  - [COLOR red]ADDON BXL [COLOR red](1978) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$nome=RESOLUÇÃO 4k</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=RESOLUÇÃO 720P</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650805E7E0DB4AA1E420226152CD819E249D9449$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94A2BB24BEC9B2E86DCCA5ADA3A1768C9C942C34$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE0AF8A1922FB95A18C9480B9FCA72FE65D60899$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
@@ -650,9 +650,9 @@
   
   <item> 
 1   <title>[B][COLOR blue] Aquaman - [COLOR red]ADDON BXL [COLOR red](2018) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8228067F427301C5EE2DEA5BF876C052C889F824$nome=RESOLUÇÃO 4K</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35fc6484c100b2d55b1a351ccfe640089e78e162$nome=RESOLUÇÃO 1080P</link>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF6BEC12D1D67C1E058026099D8BCA8B396BCEF4$nome=RESOLUÇÃO 720P</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8228067F427301C5EE2DEA5BF876C052C889F824$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35fc6484c100b2d55b1a351ccfe640089e78e162$nome=[COLOR lime]1080P IMAX [/COLOR] - DUBLADO</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF6BEC12D1D67C1E058026099D8BCA8B396BCEF4$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/zAnyDRoVoQcW7hQoJ7xDcAiCioE.jpg</fanart>
@@ -754,9 +754,9 @@
 
    <item> 
 1   <title>[B][COLOR blue] Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR red]ADDON BXL [COLOR red](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$nome=RESOLUÇÃO 4K</link>
-1   <linl>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$nome=RESOLUÇÃO 720P</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <linl>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f363b2f51842ae9a769707827fc1b229b88521e$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link> 
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/kvbbK2rLGSJh9rf6gg1i1iVLYQS.jpg</fanart>
@@ -765,9 +765,9 @@
   
    <item> 
 1   <title>[B][COLOR blue] Esquadrão Suicida  - [COLOR red]ADDON BXL [COLOR red](2016) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$nome=RESOLUÇÃO 4K</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$nome=RESOLUÇÃO 1080P</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$nome=RESOLUÇÃO 720P</link>  
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D713D1F69308A4181F9D5B6C7CFABE921262D095$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B833939C45C83CF777982E474976CE3F4576EF49$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCC0CE144B1055114AC3FBDC94EA2920BAF58890$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ipeXnga37Y9TX697AKRqx8h7Yw.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/6Ljm3aMh07OrY11h51XrGr694oi.jpg</fanart>
