@@ -26,7 +26,24 @@ channels>
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
 </channel> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 </channels>
+
+channels>
+<channel>
+<name>[COLOR blue] Halo: Nightfall [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vOooLRV3eFNqft5WNRRnYwt8g8x.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Halo%20-%20Nightfall</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/sEMvk7aGzXaeKVYbBnIjbvMkQhv.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Jameson Locke e sua equipe acabam presos em um terrível ataque terrorista enquanto investigavam atividades terroristas na colônia distante de Sedra.[COLOR red][/COLOR][/B]</info> 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
