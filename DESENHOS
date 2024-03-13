@@ -3,7 +3,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Tom e Jerry [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qO0aveHUNqKciN9hO5EvBQGtZ3d.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Tom%20e%20Jerry</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/xX3M4cCZLZbkCRdjcWgDu3cjh7S.jpg</fanart>
+<info>[B][COLOR red]SINOPSE: Tom e Jerry é um desenho animado centrado nas tentativas frustradas de um gato chamado Tom em capturar Jerry, um ratinho muito esperto e engenhoso. Geralmente em todos os episódios acontecem eletrizantes perseguições, utilização de diversas armadilhas e truques, que na maioria das vezes não causam um resultado satisfatório[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
