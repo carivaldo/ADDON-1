@@ -1026,16 +1026,17 @@
 1   <info>[B][COLOR red]SINOPSE:Benjamin Martin (Mel Gibson) é um herói do violento conflito entre França e Índia.Desde o término da guerra, ele renunciou a luta e resolveu viver em paz com sua família. Mas quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo, ele descobre que o único meio de proteger sua família é lutando pela liberdade da jovem nação.[/COLOR red]</info>  
 </item>
 
-<item> 
-1   <title>[B][COLOR blue] CORAÇÃO VALENTE - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F4558D5FF2F76388AA9A9B5E3A379B4284B3C91$nome=[COLOR lime]  4K  [/COLOR] - DUBLADO</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6389A9699BE576724DDFA479C90FE5A2CAF7685$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d36626e480078573c7ab38df59e2630d387248a4$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+    <item>
+1   <title>[B][COLOR blue] Braveheart: O Desafio do Guerreiro - [COLOR red]ADDON BXL [COLOR red](1995) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F4558D5FF2F76388AA9A9B5E3A379B4284B3C91$nome=[COLOR lime] DUBLADO DUAL ÁUDIO MKV BLURAY 4K   [/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6389A9699BE576724DDFA479C90FE5A2CAF7685$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c78f6316497d8d0208a07b83c0b9f4c941b7fe9f$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d36626e480078573c7ab38df59e2630d387248a4$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P[/COLOR]</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/bZLbzF5LaiJc3y0rZ26sTFPfXCH.jpg</fanart>
-1   <info>[B][COLOR red]SINOPSE:No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.[/COLOR red]</info>  
-</item>
+1   <fanart>https://image.tmdb.org/t/p/original/vwYb8qYWOoNALFfEyD29SULssfT.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:Braveheart é baseado na vida lendária de Sir William Wallace, um rebelde escocês que encorajou e liderou o seu clã na luta contra a tirania do Rei Eduardo I, no século XIII. Wallace, começando por liderar poucos patriotas famintos, acabou por organizar um exército de guerreiros, sedentos de liberdade. Com ele, os escoceses recuperaram a esperança que levaria a Escócia a ser livre para sempre.[COLOR red][/COLOR][/B]</info>	
+  </item>
 
 <item> 
 1   <title>[B][COLOR blue] Tróia - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
