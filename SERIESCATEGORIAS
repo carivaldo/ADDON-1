@@ -19,6 +19,21 @@ channels>
 
 channels>
 <channel>
+<name>[COLOR blue] Knuckles [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Knuckles</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/aMpNvgWjPimLldhKgwtCt5NjLen.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Siga Knuckles (Idris Elba) em uma jornada hilária de autodescoberta quando concorda em ensinar a Wade (Adam Pally) os caminhos do guerreiro Equidna.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
 <name>[COLOR blue] American Horror Story  [/COLOR]</name>   
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwgquslbTd3BlbGKBs4ulGEteac.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/American%20Horror%20Story</externallink>        
