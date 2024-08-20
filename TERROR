@@ -1263,7 +1263,8 @@
 
    <item> 
 1   <title>[B][COLOR blue] O Exorcista - Versão Estendida - [COLOR red]ADDON BXL [COLOR red](1973) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7a47192374abeb467f9f24c1c47c8ddb23c7809</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7a47192374abeb467f9f24c1c47c8ddb23c7809$nome=[COLOR lime] Exorcista Versão Do Diretor (1973) Dublado 720p[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c3a2a6ca693b3c10a12aab8a94e32ea05dade94$nome=[COLOR lime] EXORCISTA-VERSAO-PRESERVADA-DE-CINEMA..1080P.MKV[/COLOR]</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/u1SxEnX1qlJpUyCXL7zNEQ1yKnp.jpg</fanart>
@@ -1272,7 +1273,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] O Exorcista: O Início - [COLOR red]ADDON BXL [COLOR red](2004) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4befc5058d5e021de76636417a62192bd5ce4f09&dn=O+Exorcista+-+O+In%26iacute%3Bcio+%282004%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4befc5058d5e021de76636417a62192bd5ce4f09</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqPIcqZ16iIsrF3fItVe4n3JCMJ.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/hz4Tzv4jac2usrCpMUGJp4akkoK.jpg</fanart>
