@@ -1,6 +1,25 @@
 
 
 
+
+
+
+
+channels>
+<channel>
+<name>[COLOR blue] My Name [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l3Bn2jgYndSFvcPpddqMxQXiiCe.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/My%20Name</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/4LZuFMhLivOSO7zuWAQ3RffMnnr.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Sobre uma mulher que se junta a uma quadrilha do crime organizado e se infiltra na polícia como uma agente disfarçada para descobrir a verdade sobre a morte de seu pai. Emissora: Netflix Episódios: 8 Duração: 50 min[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 channels>
 <channel>
 <name>[COLOR blue] Profecia do Inferno [/COLOR]</name>
