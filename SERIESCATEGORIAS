@@ -2,6 +2,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Star Trek - Picard [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Star%20Trek%20-%20Picard</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Jornada nas Estrelas: Picard apresenta o Sir Patrick Stewart revivendo seu icônico papel como Jean-Luc Picard, que ele interpretou durante sete temporadas em Jornada nas Estrelas: A Nova Geração. A nova série acompanhará este personagem icônico no capítulo seguinte de sua vida.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -1430,21 +1444,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-channels>
-<channel>
-<name>[COLOR blue] Star Trek - Picard [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Star%20Trek%20-%20Picard</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Jornada nas Estrelas: Picard apresenta o Sir Patrick Stewart revivendo seu icônico papel como Jean-Luc Picard, que ele interpretou durante sete temporadas em Jornada nas Estrelas: A Nova Geração. A nova série acompanhará este personagem icônico no capítulo seguinte de sua vida.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
