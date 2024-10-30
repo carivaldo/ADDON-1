@@ -4,6 +4,21 @@
 
 channels>
 <channel>
+<name>[COLOR blue]Coroner[/COLOR]</name> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Coroner</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/i46T9MnizqIYuRHINZfr8enXsot.jpg</fanart>
+<info>[B][COLOR red] SINOPSE:Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.[COLOR red][/COLOR][/B]</info> 
+</item>
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+channels>
+<channel>
 <name>[COLOR blue] Percy Jackson e os Olimpianos [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Percy%20Jackson%20e%20os%20Olimpianos</externallink> 
@@ -6621,22 +6636,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-
-channels>
-<channel>
-<name>[COLOR blue]Coroner[/COLOR]</name> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Coroner</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/i46T9MnizqIYuRHINZfr8enXsot.jpg</fanart>
-<info>[B][COLOR red] SINOPSE:Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.[COLOR red][/COLOR][/B]</info> 
-</item>
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 channels>
 <channel>
