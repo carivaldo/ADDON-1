@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Avenue 5 [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/inSe4HBqnwIoeqoChGlagVs0avG.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Avenue%205</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/hYP0yCCwW8q9ApOqgCt26J1cGlg.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Em um futuro onde o sistema solar se tornou destino de férias, Ryan Clark é responsável pelo exclusivo cruzeiro espacial Avenue 5 onde absolutamente tudo parece dar errado desde o início.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
