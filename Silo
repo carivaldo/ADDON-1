@@ -8,7 +8,7 @@
 "<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
 <info>[B][COLOR red] SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.[COLOR red][/COLOR][/B]</info>		
 
-1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Silo - [COLOR blue] [COLOR red](2024) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Silo - [COLOR blue] [COLOR red](2023) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:632adfc2084726e80d816367636bb740b1cecf41$nome=[COLOR lime] Silo.S01E01-02.1080p.WEB-DL.DUBLADO[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df15ef0c2f65cb3cd22532fe03cff2a662c51ba9$nome=[COLOR lime] Silo.S01E03.1080p.WEB-DL.DUAL.5.1[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62d471545e39dacbefe7686878ef8e5da0298d9b$nome=[COLOR lime] Silo.S01E04.1080p.WEB-DL.DUAL[/COLOR]</link>
@@ -24,4 +24,30 @@
 1	<fanart>https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
 1	<info>[B][COLOR red] SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.[COLOR red][/COLOR][/B]</info>	
 </item>
+
+****************************************************************************************************************************
+<item>
+<title>[B][COLOR red]• [COLOR blue] Silo [COLOR red] - [COLOR red][2ªTEMPORADA][/COLOR][/B]</title>
+1	<fanart>https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdXhVZvUegRqgMFFw6j2T76lLRl.jpg</thumbnail>
+"<genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação. [/COLOR][/B]</genre>
+<info>[B][COLOR red] SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los. Baseado no livro Silo (Wool) de Hugh Howey[COLOR red][/COLOR][/B]</info>		
+
+1	<title>[B][COLOR red]• [COLOR red]1 [COLOR blue] Silo - [COLOR blue] [COLOR red](2024) [COLOR firebrick] SERIES !!![/B][/COLOR]</title>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80b9cb71922979ca1d11cce653da8163b76d3865$nome=[COLOR lime] Silo S02E01 WEB-DL 1080p x264 DUAL 5.1[/COLOR]</link>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81aa08a5f5f0bf8990c2da77f34a078e4c0de6f8$nome=[COLOR lime] Silo S02E02 WEB-DL 1080p x264 DUAL 5.1[/COLOR]</link>
+1	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdXhVZvUegRqgMFFw6j2T76lLRl.jpg</thumbnail>
+1	"<genre>[B][COLOR firebrick] CRIME DRAMA MISTÉRIO AÇÃO & ADVENTURA[/COLOR][/B]</genre>"
+1	<fanart>https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+1	<info>[B][COLOR red] SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los. Baseado no livro Silo (Wool) de Hugh Howey[COLOR red][/COLOR][/B]</info>	
+</item>
+
+
+
+
+
+
+
+
+
 
