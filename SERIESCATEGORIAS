@@ -4,6 +4,21 @@
 
 
 
+channels> 
+<channel>
+<name>[COLOR blue]O SILO [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Silo</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 channels>
 <channel>
 <name>[COLOR blue] Operação: Lioness [/COLOR]</name>
@@ -132,22 +147,6 @@ channels>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Gigol%C3%B4%20Americano</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/2qr7smlDfzAIIJ12anzceFhi830.jpg</fanart>
 <info>[B][COLOR red]SINOPSE:A pós 18 anos na prisão, por assassinato, Julian Kaye (Jon Bernthal) vai em busca da verdadeira história sobre o esquema que o levou à prisão todos esses anos atrás. • Série original Showtime. Adaptação do filme Gigolô Americano (1980).[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-channels> 
-<channel>
-<name>[COLOR blue]O SILO [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Silo</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.[COLOR red][/COLOR][/B]</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
