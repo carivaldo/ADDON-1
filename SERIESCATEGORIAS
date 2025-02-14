@@ -7,6 +7,21 @@
 
 channels>
 <channel>
+<name>[COLOR blue] Origem [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Origem</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/pQvqGK6KQDILL7SJrhMQsRvJfLB.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Desvende o mistério de uma cidade no centro dos Estados Unidos que aprisiona todos que entram. Enquanto os moradores lutam para manter um senso de normalidade e buscar uma saída, eles também devem sobreviver às ameaças da floresta ao redor.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
 <name>[COLOR blue] O Agente Noturno [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/vLN520GJvHJJQOFqqV7RjZNBwi7.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/O%20Agente%20Noturno</externallink> 
@@ -224,22 +239,6 @@ channels>
 <externallink>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/qbHY3ZhRgjWdZD5hZUq8Nbs7sCm.jpg</fanart>
 <info>[B][COLOR red]SINOPSE:A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-channels>
-<channel>
-<name>[COLOR blue] Origem [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>  
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Origem</externallink> 
-<fanart>https://image.tmdb.org/t/p/original/pQvqGK6KQDILL7SJrhMQsRvJfLB.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Desvende o mistério de uma cidade no centro dos Estados Unidos que aprisiona todos que entram. Enquanto os moradores lutam para manter um senso de normalidade e buscar uma saída, eles também devem sobreviver às ameaças da floresta ao redor.[COLOR red][/COLOR][/B]</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
