@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Ladrões de Drogas [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/jWMEFxOVInfyroFYMx32QLknlp9.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Ladr%C3%B5es%20de%20Drogas</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/bqsyj3tpkWwaYglHkAWvQiZijh5.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Dois amigos de longa data da Filadélfia se disfarçam de policiais para roubar traficantes. Um esquema perfeito até que abordam o lugar errado e se tornam alvos de uma organização do narcotráfico.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
