@@ -3,7 +3,20 @@
 
 
 
- 
+ channels>
+<channel>
+<name>[COLOR blue] A Faxineira [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/9pmZnTKKF5B9kiaTFUrCITQ4BnM.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/A%20Faxineira</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/8It24QPVH5X1pGBBr0SNAEYlAj.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Uma médica se muda para os Estados Unidos buscando um tratamento para seu filho doente. Porém, o sistema norte-americano falha com ela, obrigando-a a se esconder. Se recusando a perder e ser marginalizada, ela se torna faxineira para a máfia, jogando com suas próprias regras.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
