@@ -7,7 +7,20 @@
 
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+channels>
+<channel>
+<name>[COLOR blue] Breaking Bad [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/BREAKING%20BAD</externallink>  
+<fanart>https://image.tmdb.org/t/p/original/v8KMtA8MqTGdJVPa3CCFsLhJtvL.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Quando Walter White, professor de química do Novo México, é diagnosticado com câncer em estágio III e recebe um prognóstico de apenas dois anos restantes. Ele fica cheio de uma sensação de destemor e um desejo incansável de garantir o futuro financeiro de sua família a qualquer custo, ao entrar no perigoso mundo das drogas e do crime.[COLOR red][/COLOR][/B]</info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 channels>
 <channel>
 <name>[COLOR blue] Banshee [/COLOR]</name>
@@ -5592,21 +5605,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue]Breaking Bad [/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BREAKING%20BAD</externallink>  
-<fanart>https://image.tmdb.org/t/p/original/3u5cElKDUxJQpK8tZRSqgt4vUEk.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Quando Walter White, professor de química do Novo México, é diagnosticado com câncer em estágio III e recebe um prognóstico de apenas dois anos restantes. Ele fica cheio de uma sensação de destemor e um desejo incansável de garantir o futuro financeiro de sua família a qualquer custo, ao entrar no perigoso mundo das drogas e do crime.[COLOR red][/COLOR][/B]</info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 channels>
 <channel>
