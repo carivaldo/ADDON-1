@@ -15,9 +15,7 @@
 
     <item>
 1   <title>[B][COLOR blue] Os Infiltrado - [COLOR red]ADDON BXL [COLOR red](2022) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f9f75cd51d67bbca5371913678571fddad1872b$nome=[COLOR lime] Os.Infiltrados.2006.1080p.x264.BluRay.DUAL.5.1[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd375ecb11607aee731ae800c3a8619c4797829$nome=[COLOR lime] Os.Infiltrados.2006.1080p.x264.BluRay.DUAL.5.1[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550827ce4d317875bd109909df9d6f38a02d34be$nome=[COLOR lime] Os.Infiltrados.2006. 720p.x264.BluRay.DUAL.5.1[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550827ce4d317875bd109909df9d6f38a02d34be</link>
 1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Yesp1pUKqtm3Ygg1vOnXNxcCr2.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/iifT5Cx17J6tgJEv0HfUJXftRoI.jpg</fanart>
@@ -48,8 +46,7 @@
 <item> 
 1   <title>[B][COLOR blue] PLATOON - [COLOR red]ADDON BXL [COLOR red](1986) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b97724ea6a535f658655a03266d0afbac2f41ef7$nome=[COLOR lime] Platoon.1986.2160p.4K.BluRay.x265.DUAL[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ae634194c515ea191b3c45307d1a74b3ceee897$nome=[COLOR lime] Platoon (1986) Blu Ray 1080p Dublado[/COLOR]</link>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1696ed65809efebd0a67a13618649de2015d071a$nome=[COLOR lime] Platoon (1986) Blu Ray 720p Dublado[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a499d4f44179b8dcf39e1e6c8e29c78bd0476d2e$nome=[COLOR lime] Platoon (1986) Blu Ray 1080p Dublado[/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SBGK0YgxnY8D1xIVPwpBID0KOq.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick]GUERRA, ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/2WZLSN9cdHCkJFbkj0oMfOfVHn8.jpg</fanart>
