@@ -1223,7 +1223,8 @@
 
 <item> 
 1   <title>[B][COLOR blue] A Entrevista - [COLOR red]ADDON BXL [COLOR red](2014) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58532542F17CC8C0ED1BB9EDD53E3BF668911150</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58532542F17CC8C0ED1BB9EDD53E3BF668911150$nome=[COLOR lime] A Entrevista (2015) - 5.1 CH Dublado 1080p (By-LuanHarper)[/COLOR]</link>
+1    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E31611C47ECA8F4EF60294AF49E3295DB2BBD550$nome=[COLOR lime] A Entrevista (2015) - 5.1 CH Dublado 720p (By-LuanHarper)[/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0nxW8jJ4CsXTTxZJAA68AQE5Sv.jpg</thumbnail>
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/f0ZmE7ULavRBpWkWQV4iAYkhAdp.jpg</fanart>
