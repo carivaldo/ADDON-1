@@ -1,6 +1,24 @@
 
 
 
+
+
+
+channels>
+<channel>
+<name>[COLOR blue] Cortina de Fumaça [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dkxMAOiRz1zjlgFAMc3P72xSB3u.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Cortina%20de%20Fuma%C3%A7a</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/gaSpiLOQ9JSakWWR1gRMy3lehq.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Quando um investigador de incêndios se une, contra a vontade, com uma detetive, a corrida para deter dois incendiários dá início a um jogo perverso de segredos e suspeitas.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 channels>
 <channel>
 <name>[COLOR blue] Contagem Regressiva [/COLOR]</name>
