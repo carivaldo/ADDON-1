@@ -4,6 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] The Chosen: Os Escolhidos [/COLOR]</name> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ycV0AQul4pxe31cnchWFK69mVi7.jpg</thumbnail>    
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/The%20Chosen</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/tLckdy5I2yamUJHNsXB1v5eezTJ.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
@@ -1227,22 +1241,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-
-channels>
-<channel>
-<name>[COLOR blue] The Chosen: Os Escolhidos [/COLOR]</name> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ycV0AQul4pxe31cnchWFK69mVi7.jpg</thumbnail>    
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/The%20Chosen</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/tLckdy5I2yamUJHNsXB1v5eezTJ.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 channels>
 <channel>
 <name>[COLOR blue] Sequestro no Ar [/COLOR]</name>
