@@ -2279,16 +2279,6 @@
   </item>  
 
    <item> 
-1   <title>[B][COLOR blue] A Última Ameaça - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCD34288B8A3C660E11C19253262EEFAC94258D7</link>
-1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/my473I2ISU4xCOv2WUxOemPVFXk.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Um piloto (John Travolta) da Força Aérea ejeta seu companheiro (Christian Slater) e rouba duas armas nucleares com o intuito de "devolvê-la" ao governo dos Estados Unidos mediante um resgate de 250 milhões de dólares. Mas seu co-piloto e uma guarda florestal (Samantha Mathis) fazem de tudo para frustrar os planos dele e dos seus cúmplices.[/COLOR][/B]</info>	
-  </item>  
-  
-
-   <item> 
 1   <title>[B][COLOR blue] O Pacificador - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30210d5b1105eb1fb3fc03fec7c7aaaad80d9243</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFVnHoop9hLUtdqUeXfdc2bNVsS.jpg</thumbnail>
@@ -2981,7 +2971,8 @@
 
   <item> 
 1   <title>[B][COLOR blue] A Última Ameaça - [COLOR red]ADDON BXL [COLOR red](1996) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCD34288B8A3C660E11C19253262EEFAC94258D7</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c057a948563ce1cee58ac4cb152e451c50396a0$nome=[COLOR lime]  1080p.x264.WEB-DL.DUAL.5.1[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCD34288B8A3C660E11C19253262EEFAC94258D7$nome=[COLOR lime]   720p.WEB-DL.DUAL.5.1[/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wmFsLBQDDTMxEbaZlCqgfEx9PK.jpg</thumbnail> 
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://image.tmdb.org/t/p/original/m2maHbK0bZhBb9y86Yw39Zm0IFe.jpg</fanart>
@@ -3224,6 +3215,7 @@
 
 <item> 
 1   <title>[B][COLOR blue] Con Air: A Rota da Fuga - [COLOR red]ADDON BXL [COLOR red](1997) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8abb7f18c199cd784a23cf0a02433725eab16116$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080p.WEB-DL.DUAL.5.1[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b5def6db792c9becb0514467077565451736da$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d9eb02bf644223726cf531641477daeb8323ac0$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    720P [/COLOR]</link>
 1   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZkSkcXTZhTIfZOSXMkYcnIKne.jpg</thumbnail>
