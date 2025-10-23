@@ -1,5 +1,41 @@
 
 
+
+
+
+
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22CACDB1EC2F67A87A22538B9CB593609177BA16$nome=[COLOR lime] Trilogia A Hora do Rush 1080p.x264.WEB-DL.DUAL.5.1[/COLOR]</link>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb29b95b342b449f0f22abf122798a58e278f35$nome=[COLOR lime]   720p.WEB-DL.DUAL.5.1[/COLOR]</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/r4yFYBEcV247B9VXi1307fIhVqN.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando a filha de um diplomata chinês é sequestrada em Los Angeles, o cônsul chama o inspector Lee em Hong Kong para ajudar o FBI com o caso. O FBI não se importa com Lee e o deixa de lado no Departamento de Polícia de Los Angeles, pedindo ao detetive James Carter que o vigie. Apesar de Lee e Carter não se suportarem, eles resolvem trabalhar juntos para resolver o caso por conta própria ao descobrirem que foram abandonados tanto pelo FBI quanto pela polícia.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush 2  - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e71015830aa1e5266fd21867864796f04dd13ec8</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Edv9ROuDKByN08R0JsbQ63p068.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/1Ly6qbbmRDTfv2hkbK7M9QnKztg.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois que um atentado a bomba na Embaixada dos Estados Unidos em Hong Kong mata dois agentes que investigavam contrabando de dinheiro, os inspetores Lee e James Carter caçam o autor intelectual do ataque. Mas o criminoso Ricky Tan quer assegurar que os dois não resolvam o caso.[/COLOR][/B]</info>	
+</item>
+
+
+<item> 
+1   <title>[B][COLOR blue] A Hora do Rush 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
+1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
+1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d101cc91b2653eb4f6495f74a83dfe5f550bac2</link>
+1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg</thumbnail>
+1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
+1   <fanart>https://www.themoviedb.org/t/p/original/rnWSM7qWWdAc2LvNh3lrvsERz7c.jpg</fanart>
+1   <info>[B][COLOR red] SINOPSE:[COLOR red]O embaixador Han (Tzi Ma) está em Paris, prestes a revelar evidências sobre o trabalho da Tríade, o mais poderoso e conhecido sindicato do crime do planeta. Ele descobriu a identidade de Shy Shen, o responsável pela organização, e está disposto a revelá-la para o Tribunal Mundial do Crime. Entretanto a Tríade deseja manter esta informação em segredo e para tanto decide usar todas as possibilidades que dispõe. Para ajudar Soo Yung (Jingchu Zhang), a filha do embaixador, o inspetor-chefe Lee (Jackie Chan) e o detetive James Carter (Chris Tucker) viajam até a França. Em Paris, sem conhecer a cidade nem o idioma, eles precisam evitar que uma conspiração mundial aconteça.[/COLOR][/B]</info>	
+</item>
+
     <item>
 1   <title>[B][COLOR blue] Ninja Assassino - [COLOR red]ADDON BXL [COLOR red](2009) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
 1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cedea663149d4a169ade90796658e49638d5b1a$nome=[COLOR lime] DUBLADA DUAL ÁUDIO 5.1 MKV    1080P[/COLOR]</link>
@@ -2046,38 +2082,6 @@
 1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
 1   <fanart>https://www.themoviedb.org/t/p/original/4840rkbpsiuow5ew155oVKcqJwj.jpg</fanart>
 1   <info>[B][COLOR red] SINOPSE:[COLOR red]As últimas 12 horas da vida de Jesus Cristo num retrato rigoroso e a que não escapa nenhum requinte de crueldade e sofrimento. Da Última Ceia à crucificação, um relato realista do sofrimento de Jesus e de Sua Mãe.[/COLOR][/B]</info>	
-</item>
-
-<item> 
-1   <title>[B][COLOR blue] A Hora do Rush  - [COLOR red]ADDON BXL [COLOR red](1998) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb29b95b342b449f0f22abf122798a58e278f35</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/r4yFYBEcV247B9VXi1307fIhVqN.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Quando a filha de um diplomata chinês é sequestrada em Los Angeles, o cônsul chama o inspector Lee em Hong Kong para ajudar o FBI com o caso. O FBI não se importa com Lee e o deixa de lado no Departamento de Polícia de Los Angeles, pedindo ao detetive James Carter que o vigie. Apesar de Lee e Carter não se suportarem, eles resolvem trabalhar juntos para resolver o caso por conta própria ao descobrirem que foram abandonados tanto pelo FBI quanto pela polícia.[/COLOR][/B]</info>	
-</item>
-
-
-<item> 
-1   <title>[B][COLOR blue] A Hora do Rush 2  - [COLOR red]ADDON BXL [COLOR red](2001) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e71015830aa1e5266fd21867864796f04dd13ec8</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Edv9ROuDKByN08R0JsbQ63p068.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/1Ly6qbbmRDTfv2hkbK7M9QnKztg.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]Depois que um atentado a bomba na Embaixada dos Estados Unidos em Hong Kong mata dois agentes que investigavam contrabando de dinheiro, os inspetores Lee e James Carter caçam o autor intelectual do ataque. Mas o criminoso Ricky Tan quer assegurar que os dois não resolvam o caso.[/COLOR][/B]</info>	
-</item>
-
-
-<item> 
-1   <title>[B][COLOR blue] A Hora do Rush 3  - [COLOR red]ADDON BXL [COLOR red](2007) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-1   <title>$doregex[ADDON BXL]CPTMRVL.mp4$doregex[ADDON BXL]</link><regex><name>ADDON BXL</name><expres>$pyFunction:base64.b32decode("$doregex[ADDON BXL]")</expres><page></page></regex><regex><name>ADDON BXL3</name><expres>(.*?).rcs</expres><page></page></regex><regex><name>ADDON BXL</name><expres>(.*?).rcd</expres><page></page></regex><regex><name>ADDON BXL1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[ADDON BXL]</page></regex>&dn\$nome=[COLOR lime](4K)[/COLOR] - DUBLADO RC</title>
-1   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d101cc91b2653eb4f6495f74a83dfe5f550bac2</link>
-1   <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg</thumbnail>
-1   <genre>[B][COLOR firebrick] ADDON BXL O profissional dessa área atua no desenvolvimento de softwares e no manejo de estruturas e sistemas informatizados. Tecnologia da Informação.[/COLOR][/B]</genre>
-1   <fanart>https://www.themoviedb.org/t/p/original/rnWSM7qWWdAc2LvNh3lrvsERz7c.jpg</fanart>
-1   <info>[B][COLOR red] SINOPSE:[COLOR red]O embaixador Han (Tzi Ma) está em Paris, prestes a revelar evidências sobre o trabalho da Tríade, o mais poderoso e conhecido sindicato do crime do planeta. Ele descobriu a identidade de Shy Shen, o responsável pela organização, e está disposto a revelá-la para o Tribunal Mundial do Crime. Entretanto a Tríade deseja manter esta informação em segredo e para tanto decide usar todas as possibilidades que dispõe. Para ajudar Soo Yung (Jingchu Zhang), a filha do embaixador, o inspetor-chefe Lee (Jackie Chan) e o detetive James Carter (Chris Tucker) viajam até a França. Em Paris, sem conhecer a cidade nem o idioma, eles precisam evitar que uma conspiração mundial aconteça.[/COLOR][/B]</info>	
 </item>
 
 
