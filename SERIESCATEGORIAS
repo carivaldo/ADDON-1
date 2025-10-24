@@ -5,7 +5,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] A Última Fronteira [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/yJT1gwam4tjeIWeXYWbElMY6DGM.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/A%20%C3%9Altima%20Fronteira</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/hv8MaKmT9LtQr1EiYAI72OcQM1n.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -45,21 +58,6 @@ channels>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Dexter%20-%20Ressurrei%C3%A7%C3%A3o</externallink>  
 <fanart>https://image.tmdb.org/t/p/original/rUYJFYJrDpPI9fW5npP8D5SqnC4.jpg</fanart>
 <info>[B][COLOR red]SINOPSE:Dexter Morgan acorda do coma e vai para Nova Iorque, determinado a encontrar Harrison e consertar as coisas, mas quando Angel Batista da Miami Metro chega com perguntas, Dexter percebe que seu passado está mais próximo do que nunca.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] A Última Fronteira [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/yJT1gwam4tjeIWeXYWbElMY6DGM.jpg</thumbnail>  
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/A%20%C3%9Altima%20Fronteira</externallink> 
-<fanart>https://image.tmdb.org/t/p/original/hv8MaKmT9LtQr1EiYAI72OcQM1n.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.[COLOR red][/COLOR][/B]</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
