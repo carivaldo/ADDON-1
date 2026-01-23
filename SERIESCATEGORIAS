@@ -1,6 +1,23 @@
 
 
 
+
+channels>
+<channel>
+<name>[COLOR blue] Teerã [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Teer%C3%A3</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/2hpvEPS5ckA00g0H55gsxLWynNt.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Tamar é uma agente e hacker infiltrada em Teerã tentando destruir um reator nuclear. Quando a missão falha e ela fica presa em sua nova vida, Tamar deve planejar uma operação que colocará seus entes queridos em perigo.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 channels>
 <channel>
 <name>[COLOR blue] O Gerente da Noite [/COLOR]</name>
