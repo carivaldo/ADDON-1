@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Fallout [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Fallout</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/4d0tMAk49gqbVwgvtQjCriBwyb8.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Baseada em um dos maiores jogos de video game de todos os tempos, Fallout é uma história que demonstra os abastados e os desprivilegiados em um mundo em que praticamente não sobrou mais nada. 200 anos após o apocalipse, os nobres residentes de abrigos de luxo são forçados a retornar ao universo incrivelmente complexo, alegremente estranho e altamente violento que os aguarda na superfície.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -1830,21 +1843,6 @@ channels>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/%C3%9Altimo%20Ato</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/xR4kzocsgzw42tlE35at6XKnZbU.jpg</fanart>
 <info>[B][COLOR red]SINOPSE:Um thriller de conspiração sobre um dos crimes mais conhecidos, mas menos compreendidos da história. Esta é a surpreendente história da caçada a John Wilkes Booth após o assassinato de Abraham Lincoln— enquanto o destino do país está em jogo.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] Fallout [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Fallout</externallink> 
-<fanart>https://image.tmdb.org/t/p/original/4d0tMAk49gqbVwgvtQjCriBwyb8.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Baseada em um dos maiores jogos de video game de todos os tempos, Fallout é uma história que demonstra os abastados e os desprivilegiados em um mundo em que praticamente não sobrou mais nada. 200 anos após o apocalipse, os nobres residentes de abrigos de luxo são forçados a retornar ao universo incrivelmente complexo, alegremente estranho e altamente violento que os aguarda na superfície.[COLOR red][/COLOR][/B]</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
