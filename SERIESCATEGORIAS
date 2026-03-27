@@ -2,7 +2,19 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] For All Mankind [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/nn8idsaeIXX1Nr7b8ui6ltz03OD.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/For%20All%20Mankind</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/twA0XYggQKwNaDQlTZvvdPec3p8.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Imagine um mundo em que a corrida espacial global nunca chegou ao fim. Essa série dramática de Ronald D. Moore é contada através das vidas dos astronautas da NASA e de suas famílias.[COLOR red][/COLOR][/B]</info> 
 
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -4717,20 +4729,6 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-channels>
-<channel>
-<name>[COLOR blue] For All Mankind [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5rainvopfynere2EdEzknM4sUJq.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/For%20All%20Mankind</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/qn4dpqohLnEMwjkPRNPEsBvYk3F.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Imagine um mundo em que a corrida espacial global nunca chegou ao fim. Essa série dramática de Ronald D. Moore é contada através das vidas dos astronautas da NASA e de suas famílias.[COLOR red][/COLOR][/B]</info> 
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
