@@ -1,7 +1,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] The Pitt [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_face/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/The%20Pitt</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
