@@ -3,7 +3,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Citadel [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcrDB32TqpAGwvQFbICALGxSzn3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Citadel</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/3gcUTqhS6F5bltcSfD1aG6Ax8vV.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Há oito anos, a Citadel, uma agência de espionagem global independente, foi destruída por um novo grupo, a Mantícora. Com as memórias apagadas, os agentes de elite Mason Kane e Nadia Singh escaparam com vida. Oito anos depois, o ex-colega de Mason, Bernard Orlick, pede ajuda para impedir que a Mantícora estabeleça uma nova ordem mundial[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -2567,21 +2580,6 @@ channels>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Agentes%20do%20FBI</externallink> 
 <fanart>https://www.themoviedb.org/t/p/original/zhUA4iMufUZFaQmqGWXiwRUnld5.jpg</fanart>
 <info>[B][COLOR red]SINOPSE: “Agentes do FBI” é uma minissérie de suspense que acompanha uma turma de agentes do FBI que deve lidar com grandes mudanças à medida que o sistema de justiça criminal dos EUA é alterado por inteligência artificial. Abrangendo várias décadas e contada em linhas do tempo entrelaçadas, a série examina a natureza da justiça, da humanidade e das escolhas que fazemos que, em última análise, definem nossa vida e legado. A série é estrelada por Tayo, um dos agentes mais heterodoxos que já se juntou ao FBI, e Poet, uma das agentes secretas mais bem-sucedidas de todos os tempos.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] Citadel [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcrDB32TqpAGwvQFbICALGxSzn3.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Citadel</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/3gcUTqhS6F5bltcSfD1aG6Ax8vV.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Há oito anos, a Citadel, uma agência de espionagem global independente, foi destruída por um novo grupo, a Mantícora. Com as memórias apagadas, os agentes de elite Mason Kane e Nadia Singh escaparam com vida. Oito anos depois, o ex-colega de Mason, Bernard Orlick, pede ajuda para impedir que a Mantícora estabeleça uma nova ordem mundial[COLOR red][/COLOR][/B]</info> 
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
