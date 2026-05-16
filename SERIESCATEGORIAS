@@ -1,6 +1,29 @@
 
 
 
+
+
+
+
+
+
+
+
+channels>
+<channel>
+<name>[COLOR blue] CIA [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/8XbgWv137Umc8resTDeWh9ff7Y0.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/CIA</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:A série segue uma parceria entre um agente do FBI e um agente da CIA que trabalham juntos em uma força-tarefa clandestina para prevenir o terrorismo doméstico em Nova York.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 channels>
 <channel>
 <name>[COLOR blue] Rancho Dutton [/COLOR]</name>
