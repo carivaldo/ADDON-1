@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Rancho Dutton [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/mnrAbxyqFrG7r9RdGi31UtBnEXH.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Rancho%20Dutton</externallink>  
+<fanart>https://image.tmdb.org/t/p/original/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Rip Wheeler e Beth Dutton apostam tudo em uma nova vida no sul do Texas, mas a promessa de construir um futuro longe dos fantasmas de Yellowstone rapidamente se choca com novas e brutais realidades e com um rancho rival que não medirá esforços para proteger seu império.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
@@ -120,21 +133,6 @@ channels>
 
 
 [COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>  
-</channel> 
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-channels>
-<channel>
-<name>[COLOR blue] Rancho Dutton [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/mnrAbxyqFrG7r9RdGi31UtBnEXH.jpg</thumbnail>  
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Rancho%20Dutton</externallink>  
-<fanart>https://image.tmdb.org/t/p/original/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Rip Wheeler e Beth Dutton apostam tudo em uma nova vida no sul do Texas, mas a promessa de construir um futuro longe dos fantasmas de Yellowstone rapidamente se choca com novas e brutais realidades e com um rancho rival que não medirá esforços para proteger seu império.[COLOR red][/COLOR][/B]</info> 
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
 </channel> 
 </channels>
 
