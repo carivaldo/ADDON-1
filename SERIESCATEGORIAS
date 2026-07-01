@@ -6,7 +6,7 @@
 
 channels>
 <channel>
-<name>[COLOR blue] Resident Alien [/COLOR]</name>
+<name>[COLOR blue] Resident Alien [/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w1280/5van3ktOTqWr5lcixh5aR8NlqqW.jpg</thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Resident%20Alien</externallink> 
 <fanart>https://image.tmdb.org/t/p/original/lgt9GoWrNwGd4UKnI37xq1pg8pz.jpg</fanart>
