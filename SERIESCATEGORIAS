@@ -2,7 +2,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Sugar [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Sugar</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/hL8GNwTjFlvB3nyMuIYldLWWYb5.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:John Sugar é um charmoso detetive particular que percorre cantos sombrios da ensolarada LA. Embora enxergue apenas o lado bom da humanidade, Sugar é assombrado por um segredo perigoso demais para revelar.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
