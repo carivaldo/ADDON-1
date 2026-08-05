@@ -4,7 +4,20 @@
 
 
 
+channels>
+<channel>
+<name>[COLOR blue] Lucky [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg</thumbnail>  
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Lucky</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/z9hymevRZ8Yls4ycGrM437T5KHN.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Quando um roubo dá errado, a vigarista Lucky é forçada a cair na estrada. Perseguida pelo FBI e por uma mafiosa implacável, Lucky deve lutar pela sua vida. E por uma saída.[COLOR red][/COLOR][/B]</info> 
 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 channels>
 <channel>
