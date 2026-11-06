@@ -1,6 +1,23 @@
 
 
 
+
+
+channels>
+<channel>
+<name>[COLOR blue] Noturno [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_face/uYvG6Y4F4fz6AsFdfY125ObTh8O.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/refs/heads/master/Noturno</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Quando uma vítima do notório serial killer Jurek Walter reaparece viva inesperadamente, o detetive Jonah Lynn corre contra o tempo para encontrar a única pessoa que ainda está desaparecida, enquanto sua protegida, Saga Bauer, infiltra-se em segredo para obter respostas do próprio assassino.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 channels>
 <channel>
 <name>[COLOR blue] Dexter: Ressurreição [/COLOR]</name>
